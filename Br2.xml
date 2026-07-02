@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles - Br2</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+      <p>Working Versioning Machine display file.</p>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+ <sourceDesc>
+      <listWit>
+          <witness xml:id="Br2">Bruxelles, KBR 10437-40 (Br2) </witness>
+      </listWit>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <variantEncoding method="parallel-segmentation" location="internal"/>
+  </encodingDesc>
+</teiHeader>
+<text>
+  <body>
+    <div1 type="transcription" n="Br2">
+      <p>
+        <app n="full-text">
+          <rdg wit="#Br2">
+<pb n="f. 95r">
+    <lb/><hi rend="dropcap3 red">E</hi>t puis audepartir de celle Cittet de <placeName type="city">coronaa</placeName> en le<placeName type="region">tierre <persName>Job</persName></placeName>
+<lb/>v Il y̑a moult biel pay̑s ⁊ grant abondanche de tous biens ⁊ap
+<lb/>piellon le tie︢re <placeName type="region">ſiqueſſe</placeName> En celle tie︢re eſt li Citt de <placeName type="city">Camain</placeName> Job
+<lb/>fu paijens ⁊ fu fieulz aſſede<persName>gofra</persName> et tenoit celle tiere com͡e princez
+<lb/>dou pay̑s ⁊ eſtoit ſi Riches q͞·Il ne ſauoit le Centiſme p̲tie dechou
+<lb/>q͞· Il auoit - Et combien q͞· Il fuſt paijens Il ßuoit bien <persName>noſt ſeigu͞r͞ </persName>· 
+<lb/>et prendoit bien engret ſon ßuiche · Et qñt il key̑ em pouretet Il auoit
+<lb/>deage <num>lxxviij</num> · anz · Et ap͡s qñt <persName>noſt Sirez</persName> euſt veut ſa paſſien ſce quil
+<lb/>prendoit v͞n engret chou q̅ <persName>noſt̑ Snf</persName> li faiſoit Il le Remiſt aſa poiſſa͞ce
+<lb/>et en ſa Riquece ⁊ en ſa hauteche de Reſief Et puiz Il fu Rois de <placeName type="region">y̑drenea</placeName>
+<lb/>apz͞ · le Roy̑ <persName>eham</persName> · Et qn̄t <persName>Job</persName> fu Roy͑s Il fu appiellez <persName>Joab</persName> ⁊ en ce Roy̑alme
+    <lb/>Il veſqu͡i <num>c· ⁊ lxx</num>· anz ⁊ euſſi auoit Il deage qñt Il morut ·<num>ij·<sup place="above previous">c</sup>⁊ xlviij</num>·
+<lb/>anz  Item en celle tiere <persName>Job</persName> na deffaubte de nulle coſe necceſſaire a
+<lb/>ho͞m͞e · Et la y̑|a montaignez leur on troeue gñt fuiſſon de manne pluz
+<lb/>aſſez ⁊ milleur q͞ on ne face ault˺p̲t manne eſt appiellee pain danglez
+<lb/>et eſt vne coſe blancque ⁊ moult douche ⁊ deliſcieuſſe ⁊eſt aſſez pluz (
+<lb/>douche de miel ne q͞· cucrez ⁊ vient de le Rouſſee dou chiel ⁊ chiet ſur
+<lb/>les hierbez de celuy̑ pay̑s ⁊ ſe Cange ⁊ de vient blanz ⁊ doulz ⁊ lemet
+<lb/>on ens ez medechin̑ez pour lez Riches ho͞m͞e͞z et põ Rafreſhir leur ventif
+<lb/>et põ eſpurgier mauuaiz ſanch Car Il cange le ſanch mauuaiz et oſte
+<lb/>merancolie · Item ceſte<placeName>tiȇre Job</placeName> marciſt au Roy̑aulme de <placeName type="region">Caldee</placeName> ⁊ eſt
+<lb/>moult granz ⁊ ceſt li langaig qui pluz eſt granz q͞· nulz aultz p̲deſa
+<lb/>le mer  On paſſe a aller p̲ le tour de <placeName type="region">babillonne</placeName> de quoy̑ <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay̑
+<lb/>ault foiz p̲let v li langaige fuit p͡mierement cangi͡et ⁊eſt a ·<num>iij</num>·
+<lb/>Journ͞ · de la <placeName type="region">caldee</placeName> Item on Roy̑aulme de <placeName type="region">Caldee</placeName> ſont li hom͡e m͞l͞t
+<lb/>biel ⁊ vont moult noblement paret de kueuresi͡ez dorez ⁊ leur drap
+<lb/>ſont aournet dorfrois ⁊ de pieiſ pſſieuſſez moult noblement fait ⁊lez
+<lb/>fem͞e͞s ſont treſlaidez ⁊ mal vieſtis ⁊ vont toutſ anulz piez ⁊ portent
+<lb/>vnz Caitilz garnemens larghe ⁊ court Juſques agenoulz ⁊ ſont lez
+<lb/>manches largſ en guiſſe dun froch de moiſne ⁊ vont lez mancez Juſqs
+<lb/>az piez pendanz tout entour lez eſpaullez ⁊ ſont les fem͞e͞z bien noirſ
+<lb/>non paz brunez ⁊ treſ laidez et treſ malgratieuſſez ⁊treſ hideuſſez a
+    <lb/>veoir ellez <persPronouns value="P1 object">me</persPronouns> deueroient donner bom vin põ ellez  ſi bin priſier Itſ</pb>
+<pb n="f. 95v">
+<lb/>Encore y̑a tant dordure en y̑celles q͞ · <persPronouns value="P1">Je</persPronouns> ne lo ſeroie dire maiz en che
+<lb/>Roy̑aulme de <placeName type="region">Caldee</placeName> eſt vne Citt qui a anon <placeName type="city">hur</placeName>  Et la demoroit <tag type="religious affiliation">tar
+<lb/>tairez</tag> li perez <persName>abreham</persName> le patriache ⁊ la naſqui <persName>abrehamz</persName> ·Et ce fu
+<lb/>on tamps q͞ · <persName><unclear reason="illegibility">niniue</unclear></persName> fu Roy̑s de <placeName type="region">babillonne</placeName> d<placeName type="region">arabble</placeName> ⁊ de<placeName type="region">egipte</placeName> Chuis
+<lb/><persName><unclear reason="illegibility">niniue</unclear></persName> p̲ fiſt le Citt de <placeName type="region"><unclear reason="illegibility">numie</unclear></placeName> la quelle <del rend="strikethrough"><unclear reason="illegibility">minus</unclear></del> noelz auoit cȏmencie
+<lb/>Et põ chou q͞ · chieus <persName><unclear reason="illegibility"> numie</unclear></persName> le p̲fiſt Il lappiella p̲ ſon non <placeName type="city"><unclear reason="illegibility">minie</unclear></placeName> · ⁊
+    <lb/>lagiſt <persName>tobiez</persName> li prophett<sup>ᴐ</sup> de qui ſainte eſtᵔpture p̲olle ·Item de celle
+<lb/>Citt de <placeName type="city">hur</placeName> p̲ le co︡mandement de dieu ſemp̲t <persName>abrehamz</persName> aps lemort
+<lb/>ſon pere ⁊ en mena <persName>ſarem</persName> ſe fem͞e ⁊<persName>loth</persName> lefil ſon frere avoecq luy põ
+<lb/>chou q͞ · Il nauoit nul enſff ⁊ la demora en le <placeName type="region">tie︢re de Cain</placeName> en·<num>I</num>·lieu
+<lb/>qui a anon <placeName type="region">ſichem</placeName> ⁊ che fu Chieus <persName>loth</persName> qui fu ſauuez qñt <placeName type="city">ſadom̑e</placeName> ⁊
+<lb/><placeName type="city">gomore</placeName> ⁊ lez ault︡z Citt<sup>ᴐ</sup> fuif arſſez ⁊ fonduez en abiſme· Item la 
+<lb/>v li <geogName type="body of water">mers morte</geogName> eſt ſi co͞m͞e <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> ay ault<sup>ᴐ</sup> foiſ dit ⁊ en celle tȓe de
+    <lb/><placeName type="region">Caldee</placeName> Il ont leur proppre langaige ⁊ leur propprez lett<sup>ᴐ</sup> tellez q͞ ·
+<lb/>chi ſont eſƈptez ~
+<lb/>·a·b·c·d·e·f·g·h·i·k·l·m·n·o·p·q·r·ſ·t·v·x·
+<lb/><figure><figDesc>foreign alphabet, 4 lines</figDesc></figure> 
+<lb/><handNote medium="red-ink"><hi rend="dropcap 3">E</hi>t puis oultre</handNote> · <placeName type="region">Caldee</placeName> eſt <placeName type="region">amaſſoune</placeName> · <handNote medium="red-ink">Ceſt li<placeName type="region">tiere de fe͞m͞eme</placeName> ·</handNote>
+<lb/>Et chou eſt vns Roy̑aulmez v Il na q͞ · fem͞e͞s non paz ſicom͞e
+<lb/>aucun dient q̅ ̅ li ho͞me ny̑ poroient viure en cel pay̑s maiz ellez
+<lb/>ne voellent mie q͞ · li hom͞e aient le ſignourie dellez · Car on tapz͞
+<lb/>Jadis Il yauoit <num>I</num>· Roy̑ en celuy pays · ⁊ y̑demoroient li hom͞e mariet.
+<lb/>ſi q͞ · ault<sup>ᴐ</sup> p̲t ſi avint q͞ · li Roy̑s auoit guere a chiauls de <placeName type="region">ſiches</placeName> ⁊
+<lb/>auoit anon celo paijens li quelz fu occiz em bataille avoecq tout le
+<lb/>bom ſanch de ſon Roy̑aulme ⁊ qnt̅ li Roy̑ne ⁊ lez aultz noblez dam͞e͞z
+<lb/>Regarderent q͞ · ellez eſtoient toutez veuez ⁊q͞ · li noblez ſanz eſtoit
+<lb/>pierduz ellez ſarmerent com͞e deſeſpereez ⁊ tuerent touz lez noblez
+<lb/>hom͞e͞z ⁊ touz lez aultz hom͞ez don pays qui Reuenut eſtoient Car
+<lb/>ellez voloient q͞ · toutez lez fem͞ez don pay̑s fuiſſent venez ſi que
+<lb/>
+<lb/>
+    <lb/>                                 ·I·</pb>
+<pb n="f. 96r">
+    <lb/>ellez eſtoient ⁊ de puis en avant ne venrent q͞ · nulz ho͞ms y̑demoraſt ent<sup>ᴐ</sup> 
+<lb/>ellez plus hault de vne nuit ne q͞·  enffez mallez fuſt nouriz ent’ elles mez
+<lb/>qñt elles voellent auoir compaignie des hom͞e͞z ellez ſetraient viers lez
+<lb/>Tierez marchiſſanz ⁊ ont leurz amiz qui lez viſetent ⁊ demeurent dallez
+<lb/>y̑aulz ·<num>x</num>·Jourz v plus ⁊ puiz ſe Retourn͞ · a Riere · Et ſe Il ont enffanz
+<lb/>et Il ſoient mallez ellez les enuoijent au pere / qñt Il ſet aller ⁊ men
+<lb/>gier p̲ luy̑ ſeul v ſe cou non ellez les occient ⁊ ſe chou eſt fumielle Il
+    <lb/>oſtent les mamiellez ⁊ ſechou eſt gentieulz fem͞e le ſenieſt<sup>ᴐ</sup> Il oſtent põ
+    <lb/>mieulz porter leſcut ·⁊ ſechou eſt fem͞e de piet le dieſt<sup>ᴐ</sup> q͞ ·Il ne lempece
+<lb/>atraire del arck turkois Car ellez traient moult bien ·Item en ceſtetre
+<lb/>avne Roy̑ne qui gouu<sup place="above previous">ᴐ</sup>ne le pays tout · ⁊ ſont toutſ obbeiſſanz aly ⁊tou
+<lb/>dis font Roy̑ne p̲ellection decelle qui eſt le plus vaillans en armez ellez
+<lb/>ſont moult boniez werireſſez ⁊ prenz ⁊ ſagez et vaillanz ⁊ ſe vont ſouue͞t
+<lb/>en ſandeez aaidier lez aultz Roys pour argent gaignier ⁊ ſemanitiene͞t
+<lb/>moult vigreuſſement Item en ceſte tre d<placeName type="region">amaſſonne</placeName> · Ceſt vne Iſle
+    <lb/>Toute enuironnee dy̑auwe fors q͞ · en ·<num>ij</num>· lieus v Il ya·<num>ij</num>· entreez ⁊ ent<sup>ᴐ</sup>
+<lb/>cely̑ſle demeuif li hom͞e qui ſont leur  amit v ellez vont ſolachant qñt
+<lb/>ellez voellent ·Item dallez <placeName type="region">amaſſonne</placeName> eſt li tre de<placeName type="region">tramegipte</placeName> qui eſt
+<lb/>vnz pay̑s moult boniz ⁊ moult delitabublez · Et põ le bom pay̑s fiſt ly
+<lb/>Roys <persName>alixandrez</persName> faire le p͡miere <placeName type="region">alixandre</placeName> dont Il en fiſt vn Citt<sup>ᴐ</sup>
+<lb/>q͞·Il appiellent <placeName type="city">alixandre</placeName> ·Et celle Citt<sup>ᴐ</sup> eſt maintenant appielle <placeName type="city">colſite</placeName>
+<lb/>Et del ault<sup>ᴐ</sup> coſtet de <placeName type="region">caldee</placeName> eſt <placeName type="region">etioppe</placeName> vns grans pay̑s qui ſeſtent Jusq͞
+<lb/>en le fin d<placeName type="region">egipte</placeName> ·Item <placeName type="region">etioppe</placeName> eſt deviſee en· <num>ij</num>· p̲tiez principaulz ceſt
+<lb/>en le p̲tie meredionaulle le quelle p̲tie meredionaulle eſt appiellee <placeName type="region">enſſi</placeName>
+<lb/>Ite͞  lez genz y̑ſont plus noir q͞ · ault<sup>ᴐ</sup> p̲t  en celle p̲tie ya vne fontaine
+<lb/>dont de Jour elle eſt ſi froide q͞ · nulz hom͞z ne le poroit boire ⁊ de nuit
+<lb/>elle eſt ſi caude q͞ · nulz hom͞z ne poroit ſouffrir q͞· ſe<add place="below">∧</add><add place="above">main</add>fuſt ſ de dens Itf
+<lb/>eult celle p̲tie de viers le grant mer occeanne y̑a vne ault<sup>ᴐ</sup> tre ⁊ grant
+<lb/>pay̑s maiz on ny poroit habitter po˺le grant calleur dou <tag type="celestial body">ſolleil</tag> qui eſt
+<lb/>ſi caulz ſour celle tre · Itf en<placeName type="region">etioppe</placeName> toutſ lez Riuieiſ ſont tourblez et ſo͞t
+<lb/><num>I</num> · pau ſalleez po˺ le grande calleur dou <tag type="celestial body">ſolleil</tag> · ⁊ toutf les gens ſont legie
+<lb/>rement y̍vre ⁊ nont mie grant apetich demengier ⁊ ont co͞munement 
+<lb/>flun de ventre ⁊ ne ſont mie de longhe vie · Itfen <placeName type="region">etioppe</placeName> a moult de</pb>
+<pb n="f. 96v">
+<lb/>diuierſſez gens ⁊ eſt <placeName type="region">etioppe</placeName> appielle <placeName type="region">cuſſie</placeName> Il ya de telle gent qui
+<lb/>nont q͞ · <num>I</num>· piet ⁊ ſi vont ſi toſt q͞ · ceſt mieruellez ·⁊ eſt chieus piez ſi
+<lb/>larghez q͞ · Il enfait ombre atout le corps encont le <tag type="celestial body">ſolleil</tag> qñt Il ſe
+<lb/>couchent dou trauierz ·Item en ce pays qñt li effant ſont petit Il ſo͞t
+<lb/>tout Remit ·Et qñt Il de vienent grant Il ont touz lez Cheuiaulz
+<lb/>noirz En <placeName type="region">etioppe</placeName> eſt li Citt de <placeName type="city">ſalla</placeName> ⁊ li tre dont li vns dez ·<num>iij</num>· Roy̑s
+<lb/>fu ſirez qui vint Bequere <persName>noſt ſeigu͞r</persName> en<placeName type="city">bethleem</placeName> Item de<placeName type="region">etiope</placeName>
+<lb/>va on en <placeName type="region">Inde</placeName> p̲ moult de diuierz pays ⁊appiellon le <placeName type="region">haulte Inde</placeName>
+<lb/>En lach et eſt <placeName type="region">Inde</placeName> princrpaulment en· <num>iij</num> ·p̲tiez en <placeName type="region">Inde lemaiour</placeName>
+<lb/>qui eſt a temprez pays qui tient aletiere de<placeName type="region">mede</placeName> ⁊ aletieiche p̲tie
+<lb/>de vierz ſeptentrion qui eſt treſ frois pay̑s ſi q͞ · fine froidure eſt
+<lb/>couuiertie giellee Item li aiwe de vint criſtaul · Et ſour cez Rocez
+<lb/>de criſtaul croiſſent li boin dy̑amant qui ſont de coulleur tourble
+<lb/>Criſtaul gauue atreſhaulte coulleur dolle ⁊ chil ſont ſi dur q͞ on
+<lb/>ne lez puet pollir ⁊ dez aultz dy̑amanz troeue on en <placeName type="region?">arbiſ</placeName> qui ne
+<lb/>ſont mie ſi boin ⁊ ſont plus brun ⁊ plus tenre ⁊ en le tre de <placeName type="region">ma
+<lb/>cedonie</placeName> entroeue on auſſi · mais li milleur ⁊li plus p︡ſſieulz ſont
+<lb/>en <placeName type="region">Inde</placeName> ·Et ſi troeue on maintez foiz dez diamanz moult durs
+<lb/>en le maſſe qui eſt leur on a fine or de le mine qñt on le debriſe
+<lb/>p̲ menuez piechez ·Et aucun ſont aucques auſſi dur com͞e chieus de
+<lb/><placeName type="region">Inde</placeName> ⁊ taillent achier  ⁊ voire legierement Combien q̅ on troeue
+<lb/>dez dy̑amanz en <placeName type="region">Inde</placeName> ſour cellez Roches de criſtaul· Item nient 
+<lb/>maniz on lez troeue plus legierement ⁊ plus co͡munement ſour lez
+<lb/>Rochez day̑ement en lemer ⁊ ſour vne montaigne v Il y̑a minierſ
+<lb/>dor ⁊ croiſſent pluiſſeur enſamble lun petit ⁊ laut grant ⁊ en
+<lb/>y̑a de le groſſeche dune feue ⁊ li plus groſſe qui y̑puiſt Ieſt<sup>ᴐ</sup> ſelonch
+<lb/>nature auſſi groſſe com͞e vne noiz galle ⁊ toutſ ſont apointez qua
+<lb/>reez de leur proppcez naturez ſanz nul afaitement dom͞e ⁊ lez appiele˺
+<lb/>en <placeName type="region">Inde</placeName> <foreign>hameſet</foreign> Il croiſſent auſſi ez montaigf ⁊ ez Rochez v Il y̑a
+<lb/>minierf dor ⁊ croiſſent enſamble mallez ⁊ fumiellez ⁊ ſe nouriſſent
+<lb/>de le Rouſee dou chiel ⁊ concoient ⁊ engenrent dez petiz dallez ⁊ 
+<lb/>Mouteplient touz lez aunz <persPronouns value="P1">Je</persPronouns> lay maintes fois aſſaiiet q̅ ſe on lez
+<lb/>garde avoecq <num>I</num>· pau de celle Roche ⁊ qui tiengne ale pointe deso͞b͞z
+<lb/>
+<lb/>
+<lb/>                     ·ij·</pb>
+<pb n="f. 97r">
+<lb/>·I· pau de le Roche ⁊on le moulle ſouuent de le Rouſee de may Il croi
+<lb/>ſent touz lez anz ⁊ devienent li petit plus grant ⁊groz ſelonch nature
+<lb/>Car enſſi q͞· li pierlez finz ſe congre fait ⁊engroiſſe de le Rouſſee
+<lb/>dou chiel enſſi fait li vrais dy̑amans ⁊ ſi com͞e li pierlez finz deſena
+<lb/>ture prent Rondeure enſſi li dy̑amanz p̲ diuine viertut prent quareure
+<lb/>et doit on tous dy̑amanz porter au ſenieſt<sup>ᴐ</sup> coſtet ſi eſt de plus grant
+<lb/>viertut q͞ · au dieſt<sup>ᴐ</sup> Car li force de le naiſſanche vient de vierz ſepten
+<lb/>trion -Ceſt li ſenieſt<sup>ᴐ</sup> p̲tie dou monde ⁊ la ſenieſt<sup>ᴐ</sup> p̲tie del hom̅e qn͞t͞
+<lb/>Il tourne ſa fache cont<sup>ᴐ</sup> orient · ⁊ ſil <persPronouns value="P5 object">vous</persPronouns> pleſt aſſauoir combien q͞ 
+<lb/><persPronouns value="P5">vouz</persPronouns> lez aijez en voz lappidairez nient mainz <persPronouns value="P1">Je</persPronouns> le meteray ychi ſe
+<lb/>lonch chou q͞ · chil dout<sup>ᴐ</sup>mer le dient ⁊ le ſoeuent bien deſquelz toute
+<lb/>ſcience ⁊ toute philoſophie eſt venue li dy̑amanz donne a celuy̑ qui 
+<lb/>le porte hardieche ⁊ proueche ⁊ garde lez membrez dou corps entie͞rz
+<lb/>et donne victore de ſez anemiz emplait ⁊ enguere ſeli cauſe eſt Juſte
+<lb/>et le porte en ſon bom ſenz ⁊ le garde de tenchouz ⁊ de Rihottf ⁊ de mau
+<lb/>uais ſonge ⁊ de buſionz ⁊ de mauuais eſ̲pit ⁊ ſe aucunz mauuais voloit
+<lb/>le portant en ſorcerer  v encanter p̲ le viertut de le piere li ſorcerie v li
+<lb/>encantemerz Retourneroit ſour celuy̑ qui le voroit greuer · Et oſſi nulle
+<lb/>bieſte ſauuage noſeroit aſſaillir le p̲ſonne qui porte le dy̑am ant ⁊ 
+<lb/>li dy̑amanz doit ieſt<sup>ᴐ</sup> donnez ſanz couuoitier ⁊ a dont Il eſt de plus gnt<sup>ᴐ</sup>
+<lb/>viertut ⁊ fait lo͞m͞e plus fort ⁊ plus ferme cont<sup>ᴐ</sup> ſez anemiz ⁊ gariſt
+<lb/>les lunatiquez ⁊ chiaulz q͞ · li dy̑auble po̚ſuiwent ⁊ trauelle ⁊ ſe veninz
+<lb/>v puiſſonz eſt portez en le p ︢ſenche dou dy̑amant tantoſt de vient moiſtez
+<lb/>⁊ co︡menche a ſuer Il ya bien dez dy̑amanz en <placeName type="region">Inde</placeName> qui ne ſont mie vio
+<lb/>laſtre ſont bien dur ⁊ bien p︡ſſieulz maiz aucunez genz ne lez aiment
+<lb/>paz tant co͞m͞e lez au ltrez maiz endroit demy̑ <persPronouns value="P1">Je</persPronouns> lez ameroie bien otant
+<lb/>Car <persPronouns value="P1">Je</persPronouns> lez au veuz eſprouuer Il ya auſſi daultz manierez qui ſont auſſi
+<lb/>blanch com̅e criſtaul maiz Il ſont plus double ⁊ ſont bom ⁊ de grant
+<lb/>viertut ⁊ ſont tout quaret ⁊ ont aucun pointf de leur naturf ⁊ aucun
+<lb/>ſont a· <num>vj</num>·coſtez aucun a· <num>iij</num>· ⁊ aucun a· <num>iiij</num> ·  ſi q͞ · nature le fourme
+<lb/>et po̚ chou q͞ · li grant ſeigu͞r ⁊ li baceller qui querent honneur darm͞
+<lb/>lez portf volentierz en leur doiz <persPronouns value="P1">Je</persPronouns> p̲leray·<num>I</num>· pau plus dez dyamanz
+<lb/>combien q͞ · <persPronouns value="P1">Jou</persPronouns> alonghe ma matere ale f in q͞· Il ne ſoient de cheut p̲</pb>
+<pb n="f. 97v">
+<lb/>barteurs qui vont p̲ le pays ⁊ les vendent Car qui voelt dyamans acatt<sup>ᴐ</sup>
+<lb/>Il eſt meſtiers q͞· Il lez ſace congnoiſt<sup>ᴐ</sup> pour chou q͞  on lez cont<sup>ᴐ</sup>fait de
+<lb/>Criſtaul gaune ⁊ de ſaphir de loppe ⁊ de vne piere q͞ on appielle y̑ris
+<lb/>te de petitez pierf q͞ on troeue en nis de ſoȗz qui ſont moult durez mez
+<lb/>touceſfois cil cont<sup>ᴐ</sup> fait neſt mie ſi dur ⁊ li pointe briſelegierement
+<lb/>ſi lez puet on bien pollir maiz aucunz ouuriers p̲ maliſce ne lez polient
+<lb/>point affin q͞ · lez gens cuident q̅ on ne lez puiſt conpolir maison lez
+<lb/>aſſaie acaillier a ſaphir ⁊ en ault<sup>ᴐ</sup>z pierſ p͡ſſieuſſez ⁊ ſour criſtaul ⁊
+<lb/>ſour achier a priez on prent vne piere da emant - Ceſt li piere des
+<lb/>Marounierz qui trait aluy̑ laguille ⁊ met on le diamant ſour cel /
+<lb/>aimant ⁊ li preſton laguille tant com͞e li dy̑amans ſoit p͡ſens ſe
+<lb/>li dy̑amans neſt trop groz ⁊ ceſt li proueche q͞ · chil dout<sup>ᴐ</sup>mer font
+<lb/>Mais Il avient aucunez fois q͞· pierf daiemant prendent leur 
+<lb/>viertut po̚ leur continenche de chiaulz qui les portent ⁊ a dont
+<lb/>Il conuient faire Recouurer ſa viertut v aultrement Il ßoit mai͡nz
+<lb/>vaillanz ⁊ de menre viertut ·Item en <placeName type="region">Inde</placeName> ya maint diuierz pays
+<lb/>et maintez diuierſſez contreez et lappiellon <placeName type="region">Inde</placeName> po̚ le flun qui
+<lb/>keurt p̲my le pay̑s qui a anon <geogName type="river">Inde</geogName> ⁊ en ce flun on troeue aguillez
+<lb/>de plus de <num>xxx</num>· piez de lonch lez gens qui habittf entour celle
+<lb/>Riuiere ſont de verde coulleur ⁊ degaune ſi quil euwiſſent le gau
+<lb/>niſſe· Item en <placeName type="region">Inde</placeName> ⁊ environ <placeName type="region">Inde</placeName> y̑a pliuſß Iſlez et plus de <num>v<sup>M</sup></num>
+<lb/>Iſlez habitan llez boinez ⁊ grandez ſanz cellez qui ſont Inhabi
+<lb/>caullez ⁊ ſanz ault<sup>ᴐ</sup>z petitez· Item en caſtun y̑ſle ya grant fuiſſon
+<lb/>de citt<sup>ᴐ</sup> ⁊ de villez ⁊ de genz ſans nombre Car <persName type="adjective of nationality">Indois</persName> ſont de telle
+<lb/>Nature q͞· Il niſſent point hors de leur pays ⁊ po̚ chou ya t<sup>ᴐ</sup>ſgrant mul
+<lb/>titude degent Car il ne ſont point mouuauble po̚ chou q̑ Il ſont  ou
+<lb/>p͡mier climach qui eſt de ſaturne et ſaturz eſt tardiz ⁊ pau mouuau
+<lb/>blez Car il demeure a faire ſon tour p͟ lez <num>xij</num>· ſingnez par leſpaſſe
+<lb/>de <num>xxx</num> · anz ⁊ li <tag type="celestial body">lune</tag> paſſe touz les <num>xij</num>· ſingnez en·<num>I</num>· mois ·Et po̚
+<lb/>chou q͞· <tag type="celestial body">ſaturz</tag> eſt de ſi tardiz mouuement po̚ chou ont lez gens deſoubz
+<lb/>nature ⁊ volente q͞ · Il ne quierent point amouuoir· Item en noſt<sup>ᴐ</sup>
+<lb/><hi rend="underline black">pays eſt tout au contraire Car <persPronouns value="P4">noꝰ</persPronouns> ſomez en·<num>I</num>·Climach qui eſt dela</hi>
+<lb/>
+<lb/>
+<lb/>             iij·</pb>
+<pb n="f. 98r">
+    <lb/><tag type="celestial body">lune</tag> ⁊ li <tag type="celestial body">lune</tag> eſt de legier mouuement ⁊ ſi eſt planette de voie ⁊ po ̃
+    <lb/>chou <persPronouns value="P3">elle</persPronouns> <persPronouns value="P4 object">noꝯ</persPronouns>donne nature ⁊ volente de mouuoir legierement ⁊ de
+<lb/>cheminer p͟ diuierſſez voiez ⁊ de chierkier coſez eſtraniguez ⁊ lez
+<lb/>diuier ſetez dou monde Car elle enuironne le tiere plus haſtiue
+<lb/>ment q͞· nulle ault<sup>ᴐ</sup> planette Itf on va en <placeName type="region">Inde</placeName> p̲͟ pluiſß contreez
+<lb/>Juſquez ale mer occeanne ·⁊ puiz troeue on vne Iſle qui aanon <placeName type="region">oriez</placeName>
+<lb/>v li marchant de <placeName type="city">veniſſe</placeName> ⁊ de <placeName type="city">Jeneuez</placeName> ⁊ dault<sup>ᴐ</sup>z marchez y̑vont
+<lb/>ſouuent po̚ accater marchandiſſez maiz Il yfait ſi grant Caut
+<lb/>en celle y̑ſle q͞· po̚ le grant deſteche de le calleur li pendule del
+<lb/>h͞o͞me li y̑ſſent hors dou corps pendanz Juſquez en my̑ le Jambe po̚
+<lb/>le grande diſſolution maiz les gens dou pays ⁊ chil qui ſerent le 
+<lb/>Maniere ſe font bien loijer ⁊ Remettf ⁊ ſe font bien oindre de
+<lb/>onglement Reſtrictif ⁊ Regrigatif po̚ lez Retenir ou corps v
+<lb/>ault<sup>ᴐ</sup>ment Il ne poroient viure · Ite̅ en ce pay̑s ⁊ en <placeName type="region">etioppe</placeName> les
+<lb/>genz giſent tout nut enz ez Riuagez des y̑auwez hom͞ez ⁊ fem͞e͞z
+<lb/>tout enſamble le tierch dou Jour Jusq̑z abaſſe noene ⁊ giſent 
+<lb/>tout de denz liauwe forz q͞· la fache po̚ le gnt calleur dou <tag type="celestial body">ſolleil</tag>
+<lb/>Il y̑fait ſi Caut q̅ apaniez nulz ne le puet endurer ⁊ ſi nont lez
+<lb/>fem͞ez point de honte dez hom͞ez mais giſent tout priueement avoec
+<lb/>tant q͞· li calleur eſt abaiſſie · Et puet on la veoir maintez laidez
+<lb/>figurez aſſambleez eſpetiaulment priez des boniez villez.⁊ ſaciez 
+    <lb/>q̅ a<placeName type="city">ornez</placeName> ſont lez nefs toutſ de boz ſanz Rienz defier pour lez
+<lb/>Rochez day̑emant dont Il atant en le mer la entourz q͞· ceſt mier
+<lb/>uellez ⁊ ſe vne nef paſſoit p̲ cez marchez v Il euwiſt clauz v bendez
+<lb/>defier tantoſt ſaroient periez Car li aimanz de ſe nature trait
+<lb/>ali le fier  ſi trairoit la nef po̚ le cauſe dou fier q͞· Jamaiz ne ſe
+<lb/>poroit de p̲tir Itȇ de celle Iſle on va p̲ mer en vne ault<sup>ᴐ</sup> iſle qui a
+<lb/>anon <placeName type="region">can͞a</placeName> v Il agrant plentet de blet ⁊ de vin ⁊ ſoloit auoir
+<lb/>vne grande Iſle ⁊ y̑auoit grant port maiz li merz la maintena͞t
+<lb/>forment gaſtee ⁊ a peticie · Itf li Roy̑z de celle Iſle ſoloit ieſtre
+<lb/>ſi poiſſanz q͞· Il gueroijoit au Roy <persName>alixandre</persName>·Item les gens de 
+    <lb/>Celletiere ont diuierſſez loy̑s Car aucun aeurſ le <tag type="celestial body">ſolleil</tag> ⁊</pb>
+<pb n="f. 98v">
+<lb/>aucun le feu ⁊ aucun arbrſ ⁊ aucun ßpens v le p͡miere coſe q͞·Il
+<lb/>treouent le matinee ⁊ aucun aeurſ ſimulacrez ⁊ aucun aeurent
+<lb/>ydollez Il ya differenſce ent<sup>ᴐ</sup> y̑dollez ⁊ ſimulacrez Car ſimulacrez
+<lb/>ſont ymaiguez faitt<sup>ᴐ</sup> en ſanblanche daucunez coſez naturelles
+<lb/>com͞e de ſamblanche dom͞e v de fem͞e v de <tag type="celestial body">ſolleil</tag> v dault<sup>ᴐ</sup>z bieſt<sup>ᴐ</sup>
+<lb/>v daultz coſez naturellez ⁊ y̑dolle eſt aucune y̑maigue faitte
+<lb/>de folle volente dom͞e q̅ on ne poroit trouuer ent<sup>ᴐ</sup> lez naturellez
+<lb/>ſi q͞· vne y̑maigue a· <num>iiij</num>· v ho͞m͞e atieſte de cheuaul v de buef
+<lb/>v dault<sup>ᴐ</sup>z bieſtſ q̅ nulz ne vit oncq͞z͞ ſelonch nature ne diſpoſition
+<lb/>Et ſaciez qui aeure ſimulacrez Il le aheure po̚ aucun vaillant ho͞e
+<lb/>qui Jadis ont eſtet ſi com͞e͞  <persName>hierculez</persName> ⁊pliuſſeurz faiſoient m͞l͞t
+<lb/>de mieruellez en leur tamps Car Il diſoient q͞·  Il ſauoient b͞n
+<lb/>q͞· Il ne ſont mie dieu Car il eſt dieux de nature qui fiſt toutſ
+<lb/>coſez ⁊ eſt es chieuz · maiz Il ſeuent bien q̅ chil ne puellent fe̚
+<lb/>lez mieruellez q͞· Il faiſoient ſecene fuſt del eſpetiaul g̃ſce
+<lb/>de dieu ·Et po̚ chou q̅ Il eſtoient bien de dieu Il lez aeurſ enſi
+<lb/>Et dient euſſi dou <tag type="celestial body">ſolleil</tag> po̚ chou q̅ Il cauge le tamps  ⁊
+<lb/>donne Calleur ⁊ nouriſt toutſ coſez ſour t<sup>ᴐ</sup>re z po̚ chou Il eſt de ſi
+<lb/>grant viertut Il penſſent q͞ ceue puet yeſt<sup>ᴐ</sup> q͞· dieux ne lez aime
+<lb/>plus q͞· Il ne fache lez ault<sup>ᴐ</sup>z coſez ·⁊ po̚ chou li aIl donnet p͞l͞s
+<lb/>de viertut au monde ſi eſt ͞bn Raiſons ſi com͞e Il dient q̅ on
+<lb/>le honneure ⁊ fache Reuerenſce ⁊ euſſi le dient Il en leur langaige
+<lb/>Et dez ault<sup>ᴐ</sup>z planett<sup>ᴐ</sup> defeuoſſi po̚ chou q͞  Il eſt plus prouffitau͞b͞l
+<lb/>et dez y̑dollez Il dient q͞· li buefs eſt li plus Sainte bieſte qui
+<lb/>ſoit entiere ⁊ li plus prouffiauble q͞· nulle ault<sup>ᴐ</sup> Car Il font
+<lb/>dez biens aſſez ⁊ ſi ne font nul mal ⁊ ſeueuent bien q͞· ce ne puet
+<lb/>Jeſt<sup>ᴐ</sup> ͗ſanz eſpetiaul graſce de dieu · Et po̚ chou font Il leur dieu
+<lb/>le moitiet de hom̅e laut<sup>ᴐ</sup> moitt<sup>ᴐ</sup> de ·<num>I</num>· buef -Et ſe dient oſſi
+<lb/>q͞· li ho͞m͞z eſt li plus noble creature qui ſoit entiere ⁊ po̚ chou a
+<lb/>Il ſignourie entiere ſour toutf bieſtf · ⁊ po̚ chou font Il le moit<sup>ᴐ</sup>
+<lb/>de fourme deui͞e ⁊ lau<sup>ᴐ</sup> ͗moit<sup>ᴐ</sup> de I· buef ⁊ dez ßpens ⁊ dez
+<lb/>
+<lb/>
+<lb/>
+<lb/>                                   · iiij·</pb> 
+<pb n="f. 99r">
+<lb/>aultz bieſt<sup>ᴐ</sup> Il aeurent p͡mierement Chou q͞· Il troeuent lematin
+<lb/>eſpetiaulment cont<sup>ᴐ</sup> lez coſez qui ont bom encont<sup>ᴐ</sup> ⁊q͞· bien leur vie͞t
+<lb/>le Journ͞ · ll lez encontrent ſi q͞·Il ſont aſſaijet p̲ experienſce (
+<lb/>longhement · ⁊ po̚ chou dient Il q̅ boinz encont<sup>ᴐ</sup> ne puet venir ſe
+<lb/>ce neſt p̲ le graſce de dieu · Et po̚ chou font Il faire lez y̑maignez
+<lb/>ſamiaublez po̚ Regarder ⁊aourer p͡mierement le matin auiz q͞
+<lb/>Il encontrent coſez eſtrainguez ⁊ contrairez Il ya bien dez <tag type="religious affiliation">creſtij̅e̅z̅</tag> ̅ ̅
+<lb/>qui dient q͞· aucunez bieſt<sup>ᴐ</sup> ont boin encont<sup>ᴐ</sup> ⁊ aucunez mauuaiſez
+<lb/>encont<sup>ᴐ</sup> ſi com͞e on diſt q̑ on a eſprouuet maintſ fois q͞· li lieures(
+<lb/>amauuais encont<sup>ᴐ</sup> ⁊ pourciaulz ⁊ pluiſß ault<sup>ᴐ</sup>z bieſtſ ⁊ oſſi dun
+<lb/>eſpriuier v dun ault<sup>ᴐ</sup> oiſſiel qñt Il volle aps<sup>ᴐ</sup> ſe proie deuant genz
+<lb/>darmez ⁊ ſil prent proie ceſt boins ſingnez ⁊ ſil fault ceſt mau
+<lb/>uaiz ſignez ⁊ oſſi ſont celle gent qui dient q͞· ceſt mauuais encont<sup>ᴐ</sup>
+<lb/>dun corbaut ⁊ oſſi en cellez ⁊ en ault<sup>ᴐ</sup>z ya moult de gent qui y̑croie͞t͞
+<lb/>po̚ chou q͞·Il eſt ſouuent a venut mais aſſez degent ne le croient
+<lb/>miez ⁊ puiz q͞·li creſtijen ont telle creanche ⁊ ſourmontet toutte
+<lb/>doctrine Ce neſt miez mieruellez ſe li paijen qui nont point de boine 
+<lb/>doctrine fors de leur nature ycroient plus legierement ⁊ plus
+<lb/>larghement ⁊ p̲ leur ſimpleche ⁊ vraiement <persPronouns value="P1">J</persPronouns>ay veut dez paijens
+    <lb/>et dez <tag type="religious affiliation">ſarazinz</tag> q͞· on appielle <tag type="religious affiliation">vingintijens</tag> q͞· quant <persPronouns value="P4">nous</persPronouns> cheuau
+<lb/>chiemez en armez en aucunez p̲tiez viers noz anemiz p̲ leur volente
+<lb/>Il <persPronouns value="P4 object">no9</persPronouns> proumetoient tout chou q͞· <persPronouns value="P4">no9</persPronouns>trouuieſmez ⁊ chou faiſoie͞t͞
+<lb/>Il pluſiſſeurz fois empluiſſeurz lieus ⁊ mettey̑ent leur tieſtes en
+<lb/>gangſ q͞· Il ßoit enſſi mais po̚ chou ne doit on mattre ſacreancheen
+<lb/>tellez coſez mais auoir toudis ferme creanche en <persName>noſt<sup>ᴐ</sup> ſeigneur</persName>
+<lb/>qui puet faire ⁊ deffaire qn̅t il lui pleſt Ceſte Iſle de <placeName type="region">Canaa</placeName>
+<lb/>li <tag type="religious affiliation">ſarazin</tag> lont gaigniet ⁊ le tienent Il y̑a en celle moult delionz
+<lb/>et de bieſt<sup>ᴐ</sup> ſauuagf ⁊ ſi ſont li Rat de celle Iſle oſſi grant com͞e͞
+<lb/>chien y̑chi ⁊ lez prent on agranz maſtinz Car li Cat ne les poroie͞t͞
+<lb/>prendre Item en celle Iſle ne empluiſß ault<sup>ᴐ</sup>z on ne troeue nul (
+<lb/>hom͞e mort Car li Calleur eſt trop grande q͞· en·<num>I</num>· pau de (</pb>
+<pb n="f. 99v">
+<lb/>tamps li Cars eſt toute conſumee Juſquez az os ⁊ de la va on en <placeName type="region">Inde
+<lb/>la maiour</placeName> avne Citt<sup>ᴐ</sup> qui a anon <placeName type="city">zarbe</placeName> qui eſt moult bielle ⁊ moult
+<lb/>boine et y̑demeurſ moult de <tag type="religious affiliation">creſtijens</tag> de boine foy ⁊ ya moult de
+    <lb/>Regionz Eſpetiaulment de <tag type="religious affiliation">mendianz</tag> ·Item puis va on p̲ mer en le
+<lb/>tiere de <placeName type="region">lombe</placeName> ⁊ en celle tiere croiſt li poiurez en vne forieſt qui
+<lb/>a anon <geogName type="forest">combar</geogName>  ⁊ ne croiſt nulle p̲t ailleurz fors q͞· la entout le 
+<lb/>monde fors q͞ en celle forieſt qui dure bien·<num>xviij</num>· Journ͞ · de lonc
+<lb/>Et en celle <del rend="strikethrough">Citt</del><add place="above previous word"> forieſt</add> a · <num>ij</num>· boinez Citt<sup>ᴐ</sup> lune a anon <placeName type="city">flandrigne</placeName> ⁊ laut<sup>ᴐ</sup>
+<lb/><placeName type="city">ſinglans</placeName> ⁊ ya pluiſſeurs villez en caſtune Il y̑a pluiſſeurs gens 
+<lb/>Et y demeurf <tag type="religious affiliation">Creſtijen</tag> ⁊ <tag type="religious affiliation">Juys</tag> enſamble Car Il ya bom pays
+<lb/>et moult yfait caut Et poez ſauoir q͞· li poiurſ croiſt en maniere
+<lb/>dune vingne ſauuage qui ſoit planette prez dez arbif dou bos(
+<lb/>po̚ le ſouſtenir enſſi com͞e le vingne ⁊ y̑pent li fruiz en maniere
+<lb/>de Roiſin ⁊ ſi eſt ſi kierkiez li arbrſ q͞· Il ſamble q͞· Il doiue briſier
+<lb/>Et qñt li fruis eſt meurs  Il eſt tous vers ſi co͞m͞e baies de
+<lb/>y̑dree ⁊ a dont on lez vendenge enſſi q͞ on fait lez vingnez ⁊
+<lb/>puiz le ſecque on au <tag type="celestial body">ſolleil</tag> tant q͞·Il ſoit touz noirs ⁊ tous creſpez
+<lb/>et ſi y̑a ·<num>iij</num>· manierez de ᴖpoiure en· <num>I</num> arbre poiure lonch poiure
+<lb/>noir ⁊ poiure blanch le poiurſ lons eſt appiellez <foreign>ſabot</foreign> ⁊ li noirz
+<lb/><foreign>ſuifuch</foreign> ⁊ li blans <foreign>banoz</foreign> ·Ite͞ · li poiurſ lons vient p͡mierement
+<lb/>qn̆t li fuelle co︡menche avenir ⁊ ſamble aucquez le fleur de lefaco<sup>ᴐ</sup>
+<lb/>de coudre qui vient avant en manierſ de Crappez de Roiſin 
+<lb/>bien vert ~ Et qñt on acelui quelliet ſi vient li blanz qui eſt aſſez
+<lb/>miedrez dou noir de celuy̑ napportent Il point en ce pays Car il
+<lb/>le Retienent po̚ Iaulz po̚ chou q͞ ceſt li miedrez ⁊ de plusatem
+<lb/>pree nature q͞· li noirz ⁊ ſi na miez grant abondanche de blanch
+<lb/>q͞· de noir En ce pays ya moult de manierſ de ßpens ⁊ dault<sup>ᴐ</sup>z
+<lb/>venimeuſſez bieſtſ ⁊ de viermine po̚ le gn͡t calleur dou pay̑s ⁊ 
+<lb/>dient aucunez genz q͞· qñt Il voellent quellir le poiure q͞· Il
+<lb/>font feu au piet del arbre po̚ faire fuyr les ßpens ⁊lez ve
+<lb/>nimenſſez bieſtez mais ſauue le graſce dez diſanz Car qui
+<lb/>arderoit entourz lez arbrſ qui portent le poiure Il arderoie͞t</pb>
+<pb n="f. 100r">
+<lb/>et ſecqueroient enſſi q͞  ault<sup>ᴐ</sup> coſe mais il le feroient moult en vis
+<lb/>ne Jamaiz ne y̑meteroient feu · maiz Il ſoindent lez mainz ⁊lez(
+<lb/>piez de Juz de limonz v Il portent Ierbes avoecq yaulz dont li ßpe͞t͞
+<lb/>doubtent loudeur ſi enfuient li ßpent deuant y̑aulz po̚ le cauſſedel
+<lb/>oudeur · Et vont vendengier tout ſeurement Car Il nont garde
+<lb/>de nulle viermine aprocier viers yaulz ·Itf viers lechief de celle
+<lb/>forieſt eſt li Citt<sup>ᴐ</sup> de <placeName type="city">falombe</placeName> -Et p̲ deſeure le Citt<sup>ᴐ</sup> ya vne grande
+<lb/>Montaigne qui aanon <geogName type="mountain">pelombe</geogName> ·Et po̚ chou q̅ celle montaigne aeuſi
+<lb/>anon en prent li Citt<sup>ᴐ</sup> ſon non ·Et aupiet decelle montaigne ya
+<lb/>vne fontaine qui aoudeur ⁊ ſaueur de toutſ lez manierſ deſpiſtez
+<lb/>et acaſcune heure elle cange oudeur ⁊ ſaueur ·⁊ qui boit ·<num>iij</num>· fois
+<lb/>en Juy de celle fontaine Il eſt curez de toutſ malladiez q͞· il aiſt
+<lb/>Et chil qui ydemeurſ enboiuent ſouuent ⁊ nont oncquez malladie
+<lb/>et ſamblent ieſt<sup>ᴐ</sup> toudis Jouene ·<persPronouns value="P1">Jou</persPronouns> en buch · <num>iij</num> · fois v· <num>iiij</num>· ⁊e̅core
+<lb/>me ſamble q͞ s <persPronouns value="P1">Jou</persPronouns> en vaille mieulz ⁊ diſt on q̅ celle fontaine viet͞
+<lb/>de p̲adis · ⁊ põ chou elle eſt ſi viertueuſſe aucun l’appiellent le fon
+<lb/>taine de Jounent po̚ chou q͞  chil qui en boiuent ſouuent ſamble͞t
+<lb/>toudis Jouene Item p̲tout ce pays croiſt treſ boinz gengembrſ
+<lb/>et la vont pluiſß marchant po̚ acatter marchandiſez ⁊ eſpiſtez
+<lb/>En ce pay̑s la aeuif Il <num>I</num>· buef po̚ ſe ſimpleche ⁊ po̚ ſe de boinai
+<lb/>rettet ⁊ dient q͞· ceſt li plus Sainte bieſte qui ſoit entiere Car
+<lb/>Il leur ſamble Ieſt<sup>ᴐ</sup> ſimplez ⁊ boinairez ⁊ paſſienz ⁊ pourfitaub͞
+<lb/>Il eſt ſaintetijez Car il leur ſamble q͞·Il atoutſ viertſ ⁊ font
+<lb/>leurz buefs labourer <num>vj</num>· ans v <num>ſiept</num> ⁊ puiz lez mengulvent 
+<lb/>agnt<sup>ᴐ</sup> ſolempnittſ Itf li Roys de ce pay̑s atoudis·<num>I</num>· buef avoecq
+<lb/>luy ⁊ chieus qui le garde Rechoit/ tous lez Jourz le fiens ⁊lorine
+<lb/>en· <num>ij</num>· vailliaulz dor ⁊ puis le baille aleur p<sup>ᴐ</sup>lat q͞· Il appiellent
+<lb/><foreign>procopater</foreign> ⁊ Chieus prelas le porte deuant le Roy p̲ grant
+<lb/>deuotion ⁊ li Roy̑s moulle ſes mains de lorine q͞· Il appiellet͞
+<lb/><foreign>gaul</foreign> ⁊ ſe poitrine avoecq p͞ grant deuotion ⁊ p̲͞ grant Reuerenſce
+<lb/>et p̲ Intention q͞· Il ſoit Raemplis dez viertus deſſus ditteeſ</pb>
+<pb n="f. 100v">
+<lb/>q̅ li buefs a /et q̅ Il ſoit ſacrefijes p̲ le viertut de celle coſe qui Rienz
+<lb/>ne vault -Et ap͞s le Roy̑ le font li grant ſeigu͞r͞ ·Et ap͞s les grans
+<lb/>ſeign͞r͞s le font li ault<sup>ᴐ</sup> maiſt<sup>ᴐ</sup> qñt Il en puellent auoir aucun Reman͞
+<lb/>Item en ce pais ⁊ en letiere de <placeName type="region">lombe</placeName> ́deſſus doc̑ · les gens y̑ font y̑doles
+<lb/>moitt<sup>ᴐ</sup> hom͞e moitt<sup>ᴐ</sup> buef ·Et en cellez y̑dollez li mauuais es͟pis p̲olle
+<lb/>ay̑aulz ⁊ leur  Reſpond de quanquez Il voellent demander -Et deua͞t
+<lb/>cellez y̑dollez occient Il mainttſ fois leurz enffſ ⁊ eſpergent lez y
+<lb/>dollez dou ſanch ⁊ enſſi font Il leur ſacrefiſce · Et qñt aucunz h͞o͞z
+<lb/>muert on pays · Il ardent le corps en non de penitanche affin q͞· Il
+<lb/>ne ſueffre painez entiere · Et dient q͞· li vier lez mengeroient ⁊ ſe
+<lb/>li morz na nul enffanz de ſe fem͞e Il ardent le feme avoecq luy ⁊ die͡t
+<lb/>q͞ ceſt Raiſonz q̑ elle li face compaignie en laut<sup>ᴐ</sup> ſiecle ſi co͞me elle
+<lb/>afait aceſt maiz ſe elle aenffſ de luy on le laiſſe viure po̚ lez euſfſ 
+<lb/>nourir ſe elle voelt · ⁊ ſe elle aime mieulz aviure avoecq ſez enffſ
+<lb/>q͞ auoir eſtet arſſe ⁊ morir avoecq ſon marit On le tient a fauſſe
+<lb/>⁊ amauuaiſſe ⁊ Jamais ne ſera Riens priſie ne nulz ne ſe fiera
+<lb/>Jamais en ly ⁊ ſe li fe͞m͞e muert deuant ſon marit li homz ſe fait
+<lb/>ardoir avoecq ſe Il voet · ⁊ ſe Il ne voelt on ne le conſtraint miez
+<lb/>Mais ſe pora marier ault<sup>ᴐ</sup> fois ⁊ ſans blaſme·En ce pay̑s croiſſent
+<lb/>fort vin ⁊ lez fem͞e͞z boiuent dou vin ⁊ li ho͞m͞e nen boiuent point
+<lb/>Item de ce pay̑s on va en paſſant p̲ pluiſß marchez viers ·<num>I</num>· pays
+<lb/>v Il ya · <num>ix</num>· Journ͞ <sup>s</sup> lonch q̅ on appielle <placeName type="region">maborem</placeName> ·Et eſt vns m͞lt
+<lb/>boinz Roy̑aulmez ⁊ granz ⁊ y̑a moult de biellez Citt<sup>ᴐ</sup> ⁊ de biellez
+<lb/>villez En ce Roy̑aulme giſt le corps <persName>Saint thumaz</persName> l’appoſtle en
+<lb/>char  ⁊ en oz en vne bielle Tombe En la Citt<sup>ᴐ</sup> de <placeName type="city">lamie</placeName> Car la 
+<lb/>fu Il martrijez ⁊ enſeneliz -mais li <tag type="religious affiliation">ſarazin</tag> fiſent Jadis porter le
+<lb/>corps de luy en <placeName type="region">meſopotanie</placeName> en la Citt<sup>ᴐ</sup> de <placeName type="city">ediſſe</placeName> · Et puis fu Il
+<lb/>la Rapportez a Riere ⁊ le brach ⁊ le main q͞· Il bouta ez plaiez
+<lb/><persName>noſt<sup>ᴐ</sup> Seignr<sup>ᴐ</sup></persName> qn͞t <persName>noſt<sup>ᴐ</sup> Snf</persName> li ap̲p̲ut Ap͞s ſe Reſurexion ⁊ li diſt
+<lb/><foreign language="Latin">Noli eſſe in credullus ſed fidelis</foreign> · ⁊ giſt encore audehors dou vaiſſiel
+<lb/>Et p̲ celle main Il font leur Jugement ou pays aſſauoir qui atort</pb>
+<pb n="f. 101r">
+<lb/>v droit · Car quant Il ya diſſention ent<sup>ᴐ</sup> · <num>ij</num>· p̲tiez ⁊q͞· caſtf tient
+<lb/>q͞· Il a droit Il mettent le cauſe de caſef en eſc<sup>ᴐ</sup>pt ⁊ le mettent en le
+<lb/>Main de <persName>Saint thumaz</persName> ·Et tantoſt li mainz de Jette le tort v lefauz
+<lb/>au lonth et Retient li mainz le droit ⁊le veritt<sup>ᴐ</sup>·⁊ enſſi vient on
+<lb/>e bien lonch po̚ auoir Jugement de Cauſez doubtaublez · Item li
+<lb/>egliſe v <persName>ſainz thumaz</persName> giſt eſt vne moult grande egliſe ⁊ bielle
+<lb/>et eſt toute plaine de grans emulacrez - Che ſont grandez ymaiguez
+<lb/>q͞· Il appiellent leurz dieux · deſquelz li mendre eſt oſſi grande /
+<lb/>com͞e · <num>ij</num>· hom͞e͞z ⁊ ent<sup>ᴐ</sup> lez ault<sup>ᴐ</sup>z Il ya vne t<sup>ᴐ</sup>ſgrande ymaigne p͞l͞s
+<lb/>aſſez q͞· nulle dez ault<sup>ᴐ</sup>z qui eſt toute couuierte dor ⁊ de pierſ p̑ſſieuſez
+<lb/>Et chou eſt li doubte dez euſff <tag type="religious affiliation">creſtijens</tag>  Reuoijez ⁊ ſiet en vne (
+<lb/>kaijere moult noblement ⁊ a entour ſon col dez larghez chainturſ
+<lb/>Cuureez dor ⁊de pierlez ⁊de pierſ p̑ſſieuſſez ⁊ eſt li egliſe toute
+<lb/>doree de denz ⁊ en celle egliſe vient on empelerinage oſſi co͞mu
+<lb/>naulment ⁊p̲ auſſi grant deuotion q͞· li <tag type="religious affiliation">creſtijen</tag> vont a <persName>ſaint Jaq͞uie</persName>
+<lb/>en<placeName type="region">galiſce</placeName> ⁊ pliuß gent qui vont viers celle ydolle de lontainezt<sup>ᴐ</sup>rez
+<lb/>et po̚ le gn̚t deuotion q̑ Il ont Il Regardent toudis en tiere ⁊ nose͞t
+<lb/>leuer leur tieſt<sup>ᴐ</sup> po̚ Regarder entour yaulz po̚ le paour quil ne voie͞t
+<lb/>aucune coſe qui leur oſte deleur deuotion ⁊ ya dez ault<sup>ᴐ</sup>z qui vont em
+<lb/>pellerinage qui portent dez coutiaulz en leur mainz ⁊ ſe fierent ⁊
+<lb/>plaient embraz ⁊ engambez ⁊ ez cuiſſez ⁊eſpandent leur ſanch
+<lb/>po̚ lamour decelle y̑dolle ·Itf dient Il q͞·Il eſt bien en wireuz qui
+<lb/>Muert po̚ lamour de ſon dieu ·⁊ dez ault<sup>ᴐ</sup>z ya qui mainent leuz enſff
+<lb/>pour occire ⁊ po̚ ſacrefijer deuant celle y̑dolle ⁊ puiz eſpergent le y̑dolle
+<lb/>dou ſanch des enſff ⁊ dez ault<sup>ᴐ</sup>z ya qui vont del heure q͞· Il ſep̲tent
+<lb/>de leur maiſonz acaſonn · <num>iij</num>· paz ſagenoullent tant q͞· Il ßont acelle
+<lb/>ydolle ·Et qñt Il ſont la venut Il ont encens ⁊ ault<sup>ᴐ</sup>z coſez b͞n oudouif
+<lb/>de quoy Il encenſſent ſi q͞· ce fuſt le corps <persName>noſt<sup>ᴐ</sup> Seigu͞r</persName> ⁊ enſſi vient
+<lb/>on aourer celle ydolle de plus de <num>c</num>· liuwez de lonch ⁊ ſi adeuent
+<lb/>le mouſtier de celle y̑dolle enſſi q͞· <num>I</num>· viuier v· <num>I</num>· lach tout plain
+<lb/>dyaulbe ⁊ en ce viuier Jettent/ li pellerin or ⁊ argent ⁊ pierez</pb>
+<pb n="f. 101v">
+<lb/>preſſieuſſez ſanz nombre · En lieu doffrandez · Et li meniſtre dez
+<lb/>y̑dollez ont meſtier daucunez coſez Refaire Enlegliſe tantoſt Il
+<lb/>vont au viuier ⁊ prendent chou q͞· meſtiers leur eſt po̚ le Refection
+<lb/>deſ egliſe ſi q̅ Rienz ne fault en legliſe q͞· Il ne ſoit ap̲p̲liet tancoſt
+<lb/>Item qñt lez granz fieſtez y̑ſont de celle y̑dolle ſi com͞e de dedictato͞nz
+<lb/>del egliſe v Intranzation del egliſe v del ydolle tous li pais ſaſſa<sup>ᴐ</sup>ble
+<lb/>et vient acelle y̑dolle engrant Reuerenſce ⁊ le mament enſſi aournee
+<lb/>⁊ ſur <num>I</num>· car vieſtie de drapz dor ⁊de tartanirf entour le Citt<sup>ᴐ</sup> ⁊ deuant
+<lb/>le kar vont p ̑mierement a po̚ceſſion toutſ le puciellez dou pays
+<lb/>et moult ordeneement · <num>ij</num>· a· <num>ij</num>· enſamble -Et apsɔ lez puciellez vont
+<lb/>li pellerin qui ſont de lontainez marchez ·Itf deſquelz pellerinz ly
+<lb/>aucun ſe laiſſent keir deſoubz les Ruez dou kar ⁊ laiſſent le kar paſſer
+<lb/>p̲ deſeure yaulz ſi q͞· li aucun y̑muerſ tantoſt ⁊ aucun ont braz ⁊ Jambez
+<lb/>briſiez ⁊ aucun lez coſtez ⁊ tout chou Il font po̚ lamour de leur dieu
+<lb/>En grant deuotion ⁊ penſſent q͞·tant co͞me Il ſueffrent plus de paine
+<lb/>⁊ plus de tribullationz po̚ lamour de celle ydolle tant ßont Il plus
+<lb/>priez de dieu ⁊ en plus grant Joie en laut<sup>ᴐ</sup> ſiecle   ̴Et briefment adire
+<lb/>Il font dez ſi granz penanchez q̲ apainez nulz <tag type="religious affiliation">creſtijens</tag> noſeroient
+<lb/>emprendre po̚ lamour de <persName>Jhu̚criſt</persName> le <num>xv</num>· p̲tie afaire -Et puis deua͞t
+<lb/>le kar au plus priez vont li meneſtreul dou pays enſſi q̅ ſanz nombre
+<lb/>avoecq diuerz Inſtrumenz ⁊ font entre yaulz des grandez melodies(
+<lb/>Et qñt Il ont toute le Citt<sup>ᴐ</sup> enuironnee Il Retournent al egliſe ⁊ 
+<lb/>Remettent le y̑dolle en ſen lieu ⁊adont po̚ lamour de celle y̑dolle ⁊ 
+<lb/>po̚ le Reuerenſce de le fieſte ſe ochient <num>ij<sup>c</sup></num>· v <num>iij<sup>c</sup></num> · p̲ſonn͞ · deſ quelz on
+<lb/>prent lez corps ⁊ lez met on deuant le y̑dolle ⁊dient q͞· Il ſont ſaint
+<lb/>po̚ chou q̅ Il ſont occit de leur boine volente ⁊ po̚ lamour de leur dieu
+<lb/>Enſi q̅ vne granz liguagf ſetenroit ahonneret dun ſaint ho͞me v de
+<lb/>deuz ſe Il eſoient dou lingȗage et q̅ on metteroit en eſt<sup>ᴐ</sup>pt lez v͞n͞s
+<lb/>q͞·Il aroient faiz ⁊lez miraclez po̚ le faire cononiſſier ⁊ enſſi le tiene͞t
+<lb/>Il p̲dela po̚ honneret chiaulz qui ſetuent po̚ lamour de leur dieu
+<lb/>Et lez mettent en eſt<sup>ᴐ</sup>pt en leur leptaniez ⁊ ſe vantent ⁊ dient lun
+<lb/>a laut<sup>ᴐ</sup> <persPronouns value="P1">J</persPronouns>ay̑ plus de ſainz en moy̑ linguages q̅ vouz naijez on voſtre(
+<lb/>Et eſt li couſtume telle qñt Il ont Incention dy̑ aulz occire ⁊ pour</pb>
+<pb n="f. 102r">
+<lb/>leur dieu Il font mander touz lez amiz ⁊ ont grant fiuſſon demeneſtrelz
+<lb/>et vont deuant le y̑dolle grant fieſte menant ·Et chieus qui ſe doit ocire
+<lb/>a·<num>I</num>· coutiel en ſe main ⁊ coppe vne pieche de ſe char ⁊ le Jette en leface
+<lb/>del y̑dolle endiſant dez oriſonz en lui Reco̅mandant aſon dieu ⁊ puiz
+<lb/>ſe fierent  ⁊ plaient ⁊ deca ⁊ dela tant q͞· Il kiet morz ·Et adont li
+<lb/>amit p̅ſentent le corps al y̑dolle ⁊ dient encantant Regardez dieux
+<lb/>q̅ voſt<sup>ᴐ</sup> amiz loyaulz afait po̚ <persPronouns value="P5 tonic">vous</persPronouns> Il a Relerquit fem͞e ⁊ enſff ⁊ touz
+<lb/>lez bienz de ce monde ⁊ ſe proppre vie / po̚ lamour de <persPronouns value="P5 tonic">voꝰ</persPronouns> et <persPronouns value="P5 object">vous</persPronouns> afait
+<lb/>ſacrefiſce de ſon char  ⁊ de ſon ſanch ſi q̅ voelliez lui poſer dallez <persPronouns value="P5 object">vouz</persPronouns>
+<lb/>ent<sup>ᴐ</sup> vos plus amez en le glore de p̲adiz Car Il la bien de ßuit Et -
+<lb/>puiz Il font <num>I</num>· grant feu ardant ⁊ ardent lecorps en non depenita︡ce
+<lb/>et prent caſcf de le cendre ⁊ le gardent en lieu de Relicquez ⁊ dient q͞
+<lb/>ceſt moult ſainte coſe ⁊ q͞· Il nont garde de nul peril tant com͞e Il en
+<lb/>ay̑ent ſour y̑aulz  Et de ce pays on va p̲ mer occeanne p̲ maintez diuier
+<lb/>ſez y̑ſlez ⁊ p̲ maint diuierz pays qui ßoient moult long an͞omer ⁊
+<lb/>a· <num>lij</num> · Jour͞n de celle Iſle dont <persPronouns value="P1">J</persPronouns>ay̑ p̲let ya vne ault<sup>ᴐ</sup> t<sup>ᴐ</sup>re qui eſt m͞lt
+<lb/>grande qui aanon <placeName type="region">lamory</placeName> En celle tiere Il fait moult caut ⁊ encelle
+<lb/>Tiere eſt li couſtume telle q͞·lez fem͞e͞z ⁊ li hom͞e y̑vont tout nut
+<lb/>et ſe mocquent qñt Il voient <num>I</num> · eſtraingne qui eſt vieſtis · Et dient
+<lb/>q̅ dieux qui fiſt adan fu nulz · ⁊ q̅ hom͞s ne doit point auoir honte
+<lb/>de li monſtrer celz q͞· dieux la fait Car Riens neſt lait qui eſt fait 
+<lb/>de nature ⁊ ſe dient q͞· cil qui ſont vieſtit ſont gent dault<sup>ᴐ</sup> ſiecle v Il
+<lb/>ſont gent qui necroient point en dieu qui crea le monde ⁊ fiſt <persName>adan</persName>
+<lb/>⁊ <persName>eue</persName> ⁊ toutf ault<sup>ᴐ</sup>z coſez ⁊ ſe yſont lez fem͞ez dou pays co͞munez ⁊ 
+<lb/>ne Refuſſent nulluy̑ ⁊ dient q̅ ellez pecheroient ſe ellez Refuſoient
+<lb/>dez hom͞e͞z ⁊ q͞ dieux le co︡manda enſſi a<persName>adan</persName> ⁊ achiaulz qui deſcenduf︢
+<lb/>deluy̑ la v Il diſt · <hi rend="underline black"><foreign language="Latin">Creſcite ⁊ multiplicaminy ⁊ repleta terram</foreign></hi> En
+<lb/>Che pay̑s nulz ne puet dire ceſte eſt me fem͞e ne nulle fem͞e ne puet
+<lb/>dire chieus eſt mez maris · ⁊ qñt ellez enfancent ellez donnent (
+<lb/>lenffant a qui q̅ ellez voellent qui aeubt compaignie aellez·⁊ euſi
+<lb/><hi rend="underline black">eſt li tiere toute cȏmune · Car li vns tient vne fem͞e vne heure</hi></pb>
+<pb n="f. 102v">
+<lb/>et vns ault<sup>ᴐ</sup>s le tient vne ault<sup>ᴐ</sup> ·Et prent caſtſ dequel p̲t q͞ Il voelt
+<lb/>Et oſſi tout li bien dou pay̑s ſont c͞omun blet ⁊ ault<sup>ᴐ</sup>z coſez Car Riens
+<lb/>neſt encloz ne Riens neſt enfremet auſcois prent caſtf chou q̅ ·Il
+<lb/>lui pleſt ſanz cont<sup>ᴐ</sup>dit ⁊ eſt auſſi Richez li vnz com͞e li ault<sup>ᴐ</sup>z maiz Il
+<lb/>ont vne mauuaiſe couſtume Car Il mengulvent plus volentiers
+<lb/>Char dom͞e q̅ nulle ault<sup>ᴐ</sup>-Et ſi eſt li pays habondans de blet de char
+<lb/>et de poiſſonz ⁊ dor ⁊ dargent ⁊ dault<sup>ᴐ</sup>z coſez ⁊ la vont li marchant
+<lb/>et ſi mainent enſff po̚ vendre achiaulz dou pays ⁊Il lez acattent 
+<lb/>⁊ ſe il ſont craz Il lez mengulvent tantoſt ⁊ ſe Il ſont magre Il lez
+<lb/>font encraiſſier ⁊ ſe dient q͞· ceſt li miedre charz ⁊ li plus douche dou
+<lb/>monde Itf en ce pay̑s ⁊ empluſß ault<sup>ᴐ</sup>z On ne voit nient leſtoille t<sup>ᴐ</sup>ſ
+<lb/>montanie ·Ceſt li eſtoille de mer qui ne ſe muet point ⁊ qui eſt vrs̑
+<lb/>biſe · Mais lonch voit on· vne ault<sup>ᴐ</sup> eſtoille qui eſt au contraire de 
+<lb/>celle viers midi q̅ on appielle antartique  ·Et euſſi la marȏnier prende͡t
+<lb/>aduiz y̑chi ⁊ ſe gouu<sup>ᴐ</sup>uent p̲ celle eſtoille viers biſe ⁊ euſſi font ly
+<lb/>maronnier de la p̲celle ce viers midi · li quelle nappert point anous
+<lb/>Et ceſte deviers biſe nappert point a yaulz po̚coy on ne puet apierce
+<lb/>uoir q͞· li t<sup>ᴐ</sup>re ⁊ li mers ſont de Ronde fourme Car li p̲tie dou firmam͞t
+<lb/>ap̲p̲t en·I· pays qui nappert point en·I· ault<sup>ᴐ</sup> ·⁊ cou puet on p<sup>ᴐ</sup>uer
+<lb/>p̲ experienſce ⁊ p̲ ſoubtieu Intrangato͞n͞ · q̅ ſe on trouuoit paſſage
+<lb/>de nef ⁊gens qui volſiſſent aller chierkier lemonde ⁊ deſoubz ⁊
+<lb/>deſeure anauie aller le quel coſe Je proeue enſſi ſelonche chou q͞·
+<lb/>Jay̑ aſſaijet Car Jay eſtet viers lez p̲tiez de braibant ⁊ ay̑ Regardet
+    <lb/>laſtrelabbe q͞· li traſmontaine eſt · <num>liiij</num>·degrez de hault  ⁊ en a le
+    <lb/>maigne viers boeſme elle a· <num>liiij</num> · degrez ⁊plus avant vierz lez p̲tiez
+    <lb/>de ſeptentrion elle a ·<num>lxx</num>· degrez de hault ⁊ aucunz menuz avoecq
+<lb/>Car Jou meyſmez lay̑ meſuret al aſtrelabbe ⁊ deuez ſauoir q̅ ent<sup>ᴐ</sup>
+<lb/>cele eſtoille tranſmontaine eſt laut<sup>ᴐ</sup> qui eſt appiellee antartique ⁊ 
+    <lb/>les · <num>ij</num>· eſtoillez ſont non mouuaublez ⁊p̲elle tourne touz li firmamenz
+    <lb/>auſſi c͞o͞me vne Ruez tourne p̲ ſon mois ſi q̅ cez· <num>ij</num>· eſtoillez p̲tent lefir
+<lb/>mament emp̲tie ſi q͞· otant a̲p̲deſoubz com͞e p̲deſeure · Apriez Je
+<lb/>ſuyallez viers lez p̲tiez meredionaullez -Ceſt aſſauoir viers midi
+<lb/>Et ſay̑ trouuet q͞· vierz le haulte libbie on͞  voit p̑mierement leſtoille
+<lb/>an tartique tant com͞e Jou aloie plus avant en cellez p̲tiez tant
+<lb/><valItem ident="other" remarks="simple rectangular border around catchwords"><catchwords>trouuay̑ celle eſtoille
+<lb/>aplus haulte ſi q͞·</catchwords></valItem></pb>                      
+<pb n="f. 103r">
+<lb/>Trouuay̑ celle eſtoille a plus haulte ſi q͞· plus avant viers le <placeName type="region">haulte
+<lb/>libbie</placeName> viers <placeName type="region">etioppe</placeName> elle a· <num>xviij</num> ·degrez de hault ⁊ aucunz menus avoecq
+<lb/>dont li <num>lx</num> · menut font ·<num>I</num>· degret ·Item de puis en allant viers ce pay̑s
+<lb/>dont <persPronouns value="P1">Je</persPronouns> p̲olle en ault<sup>ᴐ</sup>z iſlez ⁊ pay̑s en oult<sup>ᴐ</sup> ·<persPronouns value="P1">Je</persPronouns>trouuay̑ laſtrelabbe a
+<lb/><num>xxij</num> · degrez de hault ⁊ de <num>xvi</num> · menuz – Et ſaciez q͞· ſe <persPronouns value="P1">Jou</persPronouns> euwiſſetreuut
+<lb/>nauie ⁊ compaignie ⁊ po̚ plus avant aller <persPronouns value="P1">Je</persPronouns> cuide ieſt<sup>ᴐ</sup> Chiertains 
+<lb/>q͞· <persPronouns value="P4 object">nous</persPronouns> euwiſſiemez veut toute le Rondeche dou firmament ⁊ tout en
+<lb/>tourz Car ſi q͞· <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> aẏ dit deuant li moit<sup>ᴐ</sup> dou firmament eſt ent<sup>ᴐ</sup>
+<lb/>ces· <num>ij</num>· eſtoillez le quelle moitt<sup>ᴐ</sup> <persPronouns value="P1">J</persPronouns>ay̍ tout veue ⁊ de laut<sup>ᴐ</sup> moit<sup>ᴐ</sup> ayge
+<lb/>veut viers biſe deſoubz letranſmontaine · <num>lxij</num>· degrez et·<num>x</num>· menus ⁊
+<lb/>de viers lez p̲ties meredionaullez aige veut deſoubz lantartique <num>xxxiij</num>·
+<lb/>degrez ⁊ <num>xvj</num>· menuz ⁊ laut<sup>ᴐ</sup> moitt<sup>ᴐ</sup> dou firmament ne tient q͞· <num>ix<sup place="above previous">x</sup><sup>x</sup></num>·de
+<lb/>grez -Et ſaciez q͞· decez · <num>ix<sup place="above previous">x</sup><sup>x</sup></num> <persPronouns value="P1">Jou</persPronouns> ay̍ vent · <num>lxij</num>· dune p̲t  ⁊ <num>xxiij</num>· de
+<lb/>laut<sup>ᴐ</sup> · Ce ſont · <num>iij<sup place="above previous">x</sup>i<sup place="above previous">x</sup> ⁊ xv</num>· degrez et priez de le moitt<sup>ᴐ</sup> dun de gret
+<lb/>et enſſi Il ne <persPronouns value="P1 object">me</persPronouns> fault q͞· <num>ij<sup place="above previous">x</sup>i<sup place="above previous">x</sup>i· ⁊ iiij</num> · degrez · ⁊ ce neſt mie li q̃te
+<lb/>p̲tie dou firmament qui tient <num>iij<sup place="above previous">x</sup>i<sup place="above previous">x</sup>· ⁊ x</num>· degres ·ſe enfault ·<num>v</num>·
+<lb/>de grez ⁊ demy· pries po̚coy̍ <persPronouns value="P1">Je</persPronouns> dy̑ c<sup>ᴐ</sup>tainement q͞· on poroit bn͞
+<lb/>avironner letiere ⁊ toute le Rondeche dou monde auſſi bien p̲ de
+<lb/>ſoubz com͞e p̲deſeure et Retourner a Riere en ſon pays qui aroit
+<lb/>compaignie ⁊ conduit de nauie et toudis trouueroit on tierez ⁊
+<lb/>y̑ſlez auſſi bien q͞· on feroit en ce pay̑s · Car vous deuez ſauoir q͞
+<lb/>chil qui ſont endroit del aſtrelabbe ſont droitement piet cont<sup>ᴐ</sup>
+<lb/>piet · ⁊ chiaulz qui demeurent deſoubz le tranſmontaine auſſi co͞e͞
+<lb/>nous ſont piet cont<sup>ᴐ</sup> piet Car toutf lez p̲tiez de mer ⁊ de tiere
+<lb/>ont leur oppoſittez ⁊ decha ⁊ dela · Et ſaciez q͞·ſelonch chou q͞ ·
+<lb/><persPronouns value="P1">Je</persPronouns> puiz apiercheuoir ⁊ conprendre la t<sup>ᴐ</sup>re p̑ſtre <persName>Jehan</persName> emp̲eurd<placeName type="country">inde</placeName>
+<lb/>eſt deſoubz <persPronouns value="P4 tonic">nous</persPronouns> Car en allant d<placeName type="region">eſcoche</placeName> v d<placeName type="region">engletiere</placeName> viers
+<lb/><placeName type="city">Jh͞rl͞m</placeName> on monte toudis Car noſt<sup>ᴐ</sup> tiere eſt en la baſſe p̲tie viers
+<lb/>orient -Et ſaciez q͞ · Il ont la le Jour q͞nt <persPronouns value="P4">nous</persPronouns> auons la nuit
+<lb/>et auſſi aucontraire Il ont la le <del rend="strikethrough">Jo</del>  nuit quant <persPronouns value="P4">noꝰ</persPronouns> auons le Jour</pb>
+<pb n="f. 103v">
+<lb/>Car li tiere ⁊ li mers ſont de Ronde fourme ſi q͞· <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">voꝰ</persPronouns> ay deuant dit
+<lb/>Et chou q͞· on monte a lun dez lez on avalle alaut<sup>ᴐ</sup> coſtet · Item ore auez
+<lb/>oy̍t dire avant q͞· <placeName type="city">Jh͞rl͞m</placeName> eſt ou millieu dou monde - Et chou appert
+<lb/>p̲ vne lanche fichie entiere ſour leure demidi qui ne fait point dom
+<lb/>bre a nul coſtet ⁊ chou ſoit on millieu de la tiere · <persName>dauid</persName> le tieſ
+<lb/>moingne v Il diſt - <foreign language="Latin">Et operatuz eſt ſalutem in medio terre</foreign> · dont
+<lb/>cil qui ſe dep̲tent decez p̲tiez po̚ aller viers <placeName type="city">Jh͞rl͞m͞ </placeName> autant de Journ͞
+<lb/>com͞e · Il mettent au monter po̚ aller Juſquez ala enautant de
+<lb/>Journ͞ · puet on aller de <placeName type="city">Jh͞rl͞m</placeName> Juſquez a ault<sup>ᴐ</sup>z confuinez dela ſu
+<lb/>p̲flitte de la t<sup>ᴐ</sup>re p̲ dela · Et qñt en va oult<sup>ᴐ</sup> cez·Journ͞ · viers <placeName type="region">Inde</placeName>
+<lb/>et ez Iſlez foramez oult<sup>ᴐ</sup> Chou eſt en avironnant la Rondeche de
+<lb/>le t<sup>ᴐ</sup>re ⁊ de lemer p̲ deſoubz non paz p̲ decha - Et po̚ chou ma Il
+<lb/>ſouuenut mainttez fois de vne coſe q͞ · <persPronouns value="P1">Jou</persPronouns> oy̑ch compter qñt <persPronouns value="P1">Jou</persPronouns>
+<lb/>eſtoie petiz Co͞ment vns vaillanz hom͞s de no pays ſe p̲t Jadis
+<lb/>po̚ aller chier kier le monde ſe paſſa <placeName type="region">Inde</placeName> ⁊ lez ault<sup>ᴐ</sup>z Iſlez v ll a
+    <lb/>plus de ·<num>v<sup>m</sup></num> Iſlez Et tant aviro͞na le monde p̲ maintez ſaiſonz
+<lb/>q͞ · Il trouua vne Iſle v Il oy p̲ler ſon langaige ⁊ cachier lez buefs
+<lb/>Endiſant tellez p̲ollez q͞ ·on faiſoit en ſon pay̑s dont Il ſeſmier
+<lb/>uella moult Car Il ne ſauoit cȏment ce pooit ieſt<sup>ᴐ</sup> mais <persPronouns value="P1">Je</persPronouns> dich
+<lb/>q͞ · Il auoit tant eſret ⁊ p̲ mer ⁊ p̲ tr<sup>ᴐ</sup>e q͞·Il a uoit avironnee toute
+<lb/>le tiere et q͞· Il eſtoit Reuenuzn Juſquez en ſon pays ⁊q͞·Il ne fauſiſt
+<lb/>q͞· auoir paſſet avant q͞· Il euw<sup>ᴐ</sup>iſt trouuet ſon pays ⁊ ſa congnoi
+<lb/>ſcance mais Il Retourna a Riere p̲ Illoecq leur Il eſtoit venus ſi
+<lb/>pierdi aſſez de ſez voiez et de ſez paniez ſi com͞e Il mey̍ſmez lediſt
+<lb/>·<num>i</num>· grant tamps ap͞s͞ · Car Il avuit vne fois q͞· Il aloit viers <placeName type="region">no
+<lb/>reweghe</placeName> ⁊ Il li priſt tempieſte en mer ⁊ fu portez en vne grant
+<lb/>Iſle v Il Recongnut q͞ · ceſtoit li y̑ſlez v Il auoit oy̑t p̲ler ſon
+<lb/>langaige ⁊ meneu lez buefs ale kieruwe · ⁊ eſt bien poſibble coſe
+<lb/>combien q͞ · Il ſamble aſimplez genz q͞ · on ne poroit aller deſoubz
+<lb/>le tiere ⁊ q͞ ·on deueroit key̑r viers le chiel deſoubz mais chou
+<lb/>
+<lb/>
+<lb/>·I·</pb>
+<pb n="f. 104r">
+    <lb/>ne poroit ieſt<sup>ᴐ</sup> nient plus q͞· <persPronouns value="P4">nous</persPronouns> ne poriens kaiir viers le chiel
+    <lb/>de le tiere leur <persPronouns value="P4">noꝰ</persPronouns> ſom͞e͞z Car euſſi q͞ ·Il <persPronouns value="P4 object">noꝰ</persPronouns> ſamble q͞ · Il ſont de 
+    <lb/>ſoubz <persPronouns value="P4 tonic">nous</persPronouns> euſſi leur ſamble Il q͞· <persPronouns value="P4">nous</persPronouns> ſom͞ez deſoubz yaulz ⁊ ſe
+<lb/>on pooit kaiir de le tiere Juſquez au chiel parplus grande Raiſo͡ 
+<lb/>li tiere ⁊ li mers qui ſont ſi grandez ⁊ ſi eſpeſſez deueroient kair
+<lb/>Juſquez ou firmament mais ce ne poroit ieſt<sup>ᴐ</sup> Car ce ne ßoit mie
+    <lb/>kaijrs mais monters ⁊ po̚ chou diſt <persName>noſt<sup>ᴐ</sup> Snf</persName> <hi rend="underline black"><foreign language="Latin">netimeaz me que
+    <lb/>ſuſpendi terram In y̑cillis</foreign></hi> Et combien q͞ · ce ſoit poſible coſe q͞ ·
+    <lb/>on poroit avironner tout le monde nient mainz de <num>mil</num> vn ne
+<lb/>Radreceroie͡nt mie ſi droit po̚ Retourner viers ſon pays Car p̲ le 
+    <lb/>grandeur de letiere ⁊ delemer on poroit aller <num>mil</num> ⁊ <num>mil</num> ault<sup>ᴐ</sup>s
+<lb/>voiez qui nullez ne Radrecheroient p̲ faitement viers lez p̲tiez 
+<lb/>dont on mouueroit po̚coy ce ſoit poſible coſe de le tiere aviro͡ner
+    <lb/>enſſi q͞ · <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay̑ dit · Nient mainz nulz ne poroit adrechier
+<lb/>adroite voie ſe ce neſtoit aduenture v de droite graſce de dieu (
+<lb/>Car li t<sup>ᴐ</sup>re eſt moult grande ⁊ moult larghe ⁊ tient de Rondeche
+    <lb/>et de tour enuiron p̲ deſeure ⁊ p̲ deſoubz ⁊ ſanz le mer · <num>xx<sup place="above previous">M</sup></num>· <num>iij<sup place="above previous">C</sup></num>·
+    <lb/>et · <num>xxv·<sup place="above previous">M</sup></num> ſelonch loppinion dez ancienz ſagf leſquelz <persPronouns value="P1">Je</persPronouns> ne Reproe
+    <lb/>ue mie mais ſelonch le petiteche demen ſenz Il <persPronouns value="P1 object">me</persPronouns> ſamble ſauue
+    <lb/>leur graſce q͞· Il ya plus · Et po̚ mieulz entendre chou q͞ ·<persPronouns value="P1">Je</persPronouns> voel
+    <lb/>dire ſoit y̑magine vne figure v Il y̑ait <num>I</num> · grant compaz ⁊ encourſ
+<lb/>le poing de cecompaz qui eſt appiellez le centre ſoit faiz vns ault<sup>ᴐ</sup>z
+<lb/>petit_ compaz - Et puis ſoit li granz compaz de viſez p̲ lingnez entourſ
+<lb/>ſez p̲tiez ⁊ q͞ · toutf lez lingnez ſaſſamblent au Centre ⁊ poez ſa
+    <lb/>uoir q͞ · en · <num>iiij</num> · p̲tiez ſera de p̲tis li granz compaz en autant de
+<lb/>p̲tiez ſera de p̲tis li petis compaz qui eſt li centrez combien q̅ lez
+<lb/>eſpaſſez ſoient meurez Or ſoit li granz compaz Repreſentez po̚
+<lb/>le firmament ⁊ li petiz compaz qui eſt entourz le Centre Rep̑ſen
+    <lb/>te le <tag type="celestial body">tiere</tag> ⁊ ce ſenent tout aſtronomien q͞· li firmamens eſt de
+    <lb/>viſez en· <num>xij</num> · p̲tiez  Ce ſont li <num>xij</num> · ſingne· Et caſtf ſingnez eſt</pb>
+<pb n="f. 104v">
+    <lb/>deviſez en · <num>xxx</num> degrez -Ce ſont · <num>iij<sup place="above previous">c</sup></num>degret ens ez quelz li fir
+    <lb/>mamenz eſt faiz  ⁊ deviſez Or ſoit enſſi la <tag type="celestial body">tiere</tag> deviſee en autant
+    <lb/>de p̲tiez ⁊ Reſpondera caſcune p̲tie a· <num>I</num>· degret dou firmament
+    <lb/>et ſelonch lez ſagez anchiens aſtronomienz· <num>vij·<sup place="above previous">c</sup></num>ſtaudiez de tiere
+    <lb/>Reſpondent a· <num>I</num>· degret dou firmament · Ce ſont· <num>iiij<sup place="above previous">c</sup></num> · ⁊ <num>vij<sup place="above previous">m</sup></num>. Or
+    <lb/>ſoit chou la monteplijet p̲ · <num>iij<sup>C</sup></num>· ⁊ <num>lx</num>·fois Ce ßoient <num>xxx<sup place="above previous">M</sup>j</num>· ⁊ <num>v<sup>C</sup></num>·
+    <lb/>mil Caſcune dez <num>viij</num>· ſtaudiez tant ali tiere de Rondeche ⁊ de
+    <lb/>tour  v enuiron  ſelonch chou q͞· <persPronouns value="P1">Je</persPronouns> puiz appiercheuoir p̲ ledit dez
+    <lb/>aſtronomienz ſi q͞· <persPronouns value="P1">J</persPronouns>ay̑ dit ⁊ ne deſplaiſe mie az liſanz chou q̅ <persPronouns value="P1">J</persPronouns>ay
+    <lb/>dit q͞  vne p̲tie d<placeName type="region">inde</placeName> eſt deſoubz <persPronouns value="P4 object">nous</persPronouns> ⁊auſſi q͞· noz pays eſt de
+    <lb/>ſoubz <placeName type="region">Inde</placeName> aloppoſittet enſſi li droiz orienz eſt oppoſittez au
+    <lb/>droit occident enſſi com͞e eſt li ptie demidi deſquelz p̲tiez <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">voꝰ</persPronouns>
+    <lb/>ay chi deuant p̲let ⁊ voirz eſt Car <persPronouns value="P1">Je</persPronouns> lay̑ meſuret alaſtrelabbe
+<lb/>q͞· chil qui demeurf en le p̲tie de biſe ſont piet cont<sup>ᴐ</sup> piet as ault<sup>ᴐ</sup>z
+    <lb/>de laut<sup>ᴐ</sup> deviers midi ⁊enſſi ſom͞ez <persPronouns value="P4">nous</persPronouns> avne ault<sup>ᴐ</sup> p̲tie dez y̑ſlez
+    <lb/>de <placeName type="region">Inde</placeName> ⁊ ſe Il y̑paroit ſingnez v eſtoillez eſtaublez viers orient  -
+<lb/>et viers occident p̲ leſquelz on poroit lez p̲tiez meſurer ſi que
+    <lb/>on fait lez p̲tiez de biſe et de midi p̲ leſ· <num>ij</num>· eſtoillez non mouua
+    <lb/>blez <tag type="celestial body">lantartique</tag> ⁊<tag type="celestial body">le tranſmontaine</tag>  Et ce t<sup>ᴐ</sup>ram on trouueroit 
+    <lb/>lez y̑ſlez ⁊ le t<sup>ᴐ</sup>re p<sup>ᴐ</sup>ſtre <persName>Jehan</persName> bien lonch hors duranz ⁊plus en
+<lb/>avironnant le tiere de deſoubz le p̲tie de biſe ⁊demidi ne ſoient
+    <lb/>dont <persPronouns value="P1">J</persPronouns>ay̑ plet ⁊ fait mention y̑chi deuant ·⁊ ſay̑ bien q͞· <persPronouns value="P1">J</persPronouns>ay
+<lb/>miſſe mainte Jour͞n͞ · plus a aller viers le droite biſe q͞· viers le
+<lb/>droit midi Et puis q͞· li t<sup>ᴐ</sup>re eſt Ronde au tant a Il demidi com͞e
+    <lb/>de droit occident po̚coy <persPronouns value="P1">Je</persPronouns> dy q͞· chou q͞· on paſſe oult<sup>ᴐ</sup> celle me
+<lb/>ſure eſt deſoubz nous en avironnant let<sup>ᴐ</sup>re</pb>
+    </div>
+    </body>
+    </text>
+</TEI>

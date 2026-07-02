@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles - P4</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+      <p>Working Versioning Machine display file.</p>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+ <sourceDesc>
+      <listWit>
+          <witness xml:id="P4">BnF Fr. 5586 (P4) </witness>
+      </listWit>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <variantEncoding method="parallel-segmentation" location="internal"/>
+  </encodingDesc>
+</teiHeader>
+<text>
+  <body>
+    <div1 type="transcription" n="P4">
+      <p>
+        <app n="full-text">
+          <rdg wit="#P4">
+<pb n="f. 47v">
+    <lb/>          <hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head justification="centre">De la terre de Job ·-</head></div>
+    <lb/><hi rend="raisedinitial2">E</hi></hi>T puis·</hi>au departir de ceſte cite de <placeName type="city">corranaa</placeName> on entre
+    <lb/>en <placeName type="region">la terre de Job</placeName> ou Il a beau pay̸s ⁊ grat̑ habundance de touz</pb>
+<pb n="f. 48r">
+    <lb/>biens Et appelle on la terre <placeName type="region">ſiqueſſe</placeName> En ceſte tͨre eſt la cite de<placeName type="city">teſ
+    <lb/>man</placeName>/<persName>Job</persName> fut payens ⁊fut filz marie de <persName>Joſfra</persName> Et tint ceſte terre c͡ome
+<lb/>p̍nce du pays Et fut cy riche qui ne ſauoit le centiſme partie de ſon
+    <lb/>auoir Et c͡obien quil fuſt payen ſiuoit il <persName>nr͞eß·<sup place="above previous">2</sup></persName>celon ſa foy Quant
+    <lb/><persName>Job</persName> chayt en pouurete il auoit deage <num>Cent ⁊ lxxviii</num> ans Et apres
+    <lb/>quat̑ <persName>n͞r͞eß·<sup place="above previous">2</sup></persName> ot veu ſa paſcience qui eſtoit ſigrant Il le remiſt de Re/
+    <lb/>chief aſa Richeſce Et puis fut il roy de <placeName type="region">ydoene</placeName> Apres le roy <persName>eſau</persName>
+    <lb/>Et en ceſtui Royaulme il veſquit <num>lxx</num>· ans/ainſi auoit il qu͞a͞t il
+    <lb/>morut <num>ii·<sup place="above previous">c</sup> ⁊ xlviii</num>· ans/En ceſte <placeName type="region">t͡re de <persName>Job</persName></placeName> hȏme na deſfault de bi/
+    <lb/>ens po<sup>2</sup>viure/La·a m͞o͞taignes la ou en treuue gr͡at foiſon de manne
+<lb/>Manne eſt appellee pain dange Et eſt chouſe blanche moult
+<lb/>doulce q̑ miel ne q̑ſuccre Et vient dela Rouſee du ciel quichiet
+<lb/>ſus les arbres du pays/ Et ce change ⁊ devient blanc ⁊ doulz
+<lb/>⁊ le met on es medecines po<sup>2</sup>les Riches hȏmes po·<sup place="above previous">2</sup> refrechir le
+<lb/>ventre po<sup>2</sup>eſpurgez mauuaisſang ⁊ ouſte male̅colie Ceſte <placeName type="region">t͡re de
+<lb/><persName>Job</persName></placeName> marche ala <placeName type="region">t̑re de caldee</placeName> :– <add place="right margin"><hi rend="different colour">leroyaulme de<placeName type="region">caldee</placeName></hi></add> 
+<lb/><hi rend="larger text size"><div type="rubric"><head justification="centre"><hi rend="different colour">le Royaulme de caldee:·</hi></head></div>
+    <lb/><hi rend="raisedinitial2">C</hi>E Royaulme·</hi>de <placeName type="region">caldee</placeName> eſt m͞l͞t gr͞a͞t Et eſt le langaige
+<lb/>plus grant q̅ nulz des aultͨs dep̲dela lamer/On paſſe ala aler
+    <lb/>la par la tour de <placeName type="region">babilone</placeName> oules langaiges furet̑ ch͡agez dot̑
+    <lb/><persPronouns value="P1">Je</persPronouns> p̲le deſſus Et eſt ceſte tourpar deſſa <placeName type="region">caldee</placeName> <num>iiij</num>·Journes/Ou
+    <lb/>Royaulme de <placeName type="region">caldee</placeName> ſont les h͡omes m͞l͞t beaulx ⁊ m͞l͞t noblemt̑
+<lb/>parez de queuurechiefs dorez/ Et ſont lezdraps dorez dorfroys
+<lb/>⁊ de pierres pͨcieuſes m͞l͞t noblemet̑ Et les f͡emes yſont treſ
+<lb/>laides ⁊ mal veſtues ⁊ vont toutes nuz piez ⁊ portent cheti/
+    <lb/>ues robes qui ne paſſent point les genoulx Et ſont le<sup>z</sup>m͞aches</pb>
+<pb n="f. 48v">
+<lb/>longue ⁊ larges en guiſe dun froc amoyne ⁊ vont leurs m͞aches
+<lb/>Juſques aulx piez p͞edans/Et ont leurs cheueulx noirs ⁊ pandas͡
+<lb/>tout en tour des eſpaules/Et ſont f͡emes m͞l͞t noyres n͡o mie bru
+<lb/>nes/mais treſlaides ⁊ malgracieuſes ⁊ hydeuſes a voir/Et en elles
+<lb/>a tant dordure q̑ie ne louſeroye deſc̑pre/En celle t̑re avnecite
+    <lb/>qui a non <placeName type="city">hur</placeName>/la demoroit <persName>thar</persName> le pere d<persName>abraham</persName> le p͞riarche
+    <lb/>Et la naſquit <persName>habraham</persName> ou temps q̑ <persName>niniue</persName> fut roy de <placeName type="region">babilone</placeName>
+    <lb/>d<placeName type="region">arabe</placeName> ⁊ d<placeName type="region">egypte</placeName> Celui <persName>niniue</persName> fonda la cite de <placeName type="city">Niniue</placeName> la q̅lle
+    <lb/><persName>noe</persName> ꝯmenſa afaire/Et en celle cite giſt <persName>thobie</persName> lecpphȇ/de ceſte
+    <lb/>cite de<placeName>hur</placeName> ſe partit <persName>habraham</persName> par le c͡om͞edemet̑ de dieu a
+    <lb/>pres la mort de ſon peͨ ⁊ ȇmena <persName>ſarra</persName> ſa f͞eme ⁊ <persName>loth</persName> ſon nepueu
+    <lb/>po<sup>2</sup>ce quil nauoit point denfant Etdemoura en lat̑re de <placeName type="region">cana
+    <lb/>am</placeName> en vng lieu q̑ on appelle <placeName type="region">citon</placeName> Et fut cetu <persName>loth</persName> qui fut
+    <lb/>ſaulue quat̑ les cites furet̑ fondues la ou eſt <geogName type="body of water">la mer morte</geogName>
+    <lb/>En celle t̑re de <placeName type="region">caldee</placeName> y ont leurs <sub>c</sub>ppres langaiges ⁊ leurs lr͞e͞s
+<lb/>telles ſelon leurs couſtumes C͞ome cy apres le pouez voir :·
+<lb/>    
+<lb/>A·b·c·d·e·f·g·h·i·k·l·m·n·o·p·q·rſ·t·u·x·y·Ʒ·z·ꝯ·
+    <lb/><figure><figDesc>foreign alphabet, two lines</figDesc></figure>
+<lb/><hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head justification="centre"> la terre de femenie :</head></div>
+    <lb/><hi rend="raisedinitial2">P</hi></hi>uis oultre·</hi><placeName type="region">caldee</placeName> eſt <placeName type="region">amaſonne</placeName>·Ceſt la t̑re defememie
+<lb/>qui eſt vng Royaulme ou il na q̅ fe̅mes/Non pas ainſiꝯme
+<lb/>aulchu͞s dient q͞ les hȏmes ni peuſſet̑ bien viure/mais elles
+<lb/>ne voulet̑ mie q̑ les h͡ome ayent la ſeignorie delles Car ou tp͞s
+<lb/>Jadis Il auoit vng roy en ce pays Et y eſtoient hȏmes c͞ome
+    <lb/>ailleurs Siadvint q͞ celui Roy ot guerre aceulx de ſiches</pb>
+<pb n="f. 49r">
+    <lb/>Et auoit non <persName>calnuipieulx</persName> le quel fut occis a la bataille auec tout
+<lb/>le bon ſang de ſon royaulme/ Et qua͞t la Roygne ⁊ les nobles dames
+<lb/>vire͡t quelles eſtoi͞e͞t toutes veufues ellesſarmerat̑ ⁊c͡ome toutes deſ/
+<lb/>eſperes elles tuer͞e͞t touz les hȏmes du payz qui Reuenuz eſtoiet̑ Car
+<lb/>elles vouloiet̑ que toutes les f͞e͞mes du pays fuſſent veufues c͡ome 
+<lb/>elles eſtoient/Et depuis la en aua͡t ne vouldre͡t que nulz h͡omes 
+    <lb/>demoraſſent auec elles plus hault de <num>viii</num> Jours ne q̑ enfant maſcle
+<lb/>fuſt norriz entre elles/Mais qu͞a͞t elles voulet̑ c͡opaignie dȏme
+    <lb/>Elles ce tire͡t vers les aults<sup place="above previous">c</sup> t<sup place="above previous">c</sup>res <sub>c</sub>pcha͡ines Et ont leurs amys ⁊
+    <lb/>demeure͡t auec͞q͞s eulx · <num>x</num>·ou <num>xii</num>· Et puis ſenretorne͞t Et ce elles
+<lb/>ont enfans maſcles elles les͡ euoya͡t au pe<sup place="above previous">c</sup> quat̑ il ſcet aler ou m͡e
+<lb/>ger ou ſe n͡o elles loccient Et ce ceſt famelle ⁊ elle ſoit noble
+    <lb/>on li ouſte la ſeneſtre mamelle po<sup>2</sup>ce͞qlle puiſſe mieulx portez leſcu
+    <lb/>Et ce elle eſt n͡o noble elles lui couppet̑ la dexſtre mamelle po<sup>2</sup>/
+<lb/>ce ͡qlles puiſſant mieulx trayre/En celle t̑re avne Roygne par
+<lb/>election de celle qui eſt la plus vaillant en fait darmes Carel/
+<lb/>les ſont ml͞t͞ vaillans en armes ⁊ preulz ⁊̄ ſaiges Et vont
+<lb/>souuat̑ en ſouldees en aydes daults<sup place="above previous">c</sup> Royz leurs voyſins Ceſte
+<lb/>t<sup place="above previous">c</sup>re eſt toute͡ euir͡onee deeaus fors deulx lieux ou il a deulx
+<lb/>entres/Oultre ceſtes eaues demor͞e͞t les h͡omes qui ſot̑ le·<sup>zs</sup>
+<lb/>amis/auec͞q͞s les queulx elles <strike>v</strike>ce vont ſolaciez/ La pres eſt la
+<lb/>t<sup place="above previous">c</sup>red<placeName type="region">egipte</placeName> qui eſt beau pays ⁊ m͞l͞t delitable Et po·<sup place="above previous">2</sup>ſa bo͡te
+<lb/>yfiſt le <persName>Roy alex͞adre</persName> la p̆miere <persName>alex͞adrie</persName> q̅on appelle ſelciere
+<lb/>Alaultre couſte de <placeName type="region">caldee</placeName> vers mydi eſt <placeName type="region">eſtioppe</placeName> :–      <add place="right margin">la t̀re dethioppe</add>
+    <lb/>           <hi rend="larger text size"><div type="rubric"><head justification="centre"><hi rend="different colour">la terre de <placeName type="region">ethioppe</placeName></hi></head></div>
+<lb/><placeName type="region"><hi rend="raisedinitial2">E</hi>Thioppe</placeName></hi>· eſt vng grant pays qui ſeſtant Juſq͡s ala fin</pb>
+<pb n="f. 49v">
+<lb/>d<placeName type="region">egipte</placeName> <placeName type="region">Eſtioppe</placeName> eſt diuiſee en deux parties lune vers orient ⁊
+<lb/>laultre vers mydi/Ceſte de vers mydi eſt appellee <placeName type="region">mortaigne</placeName> po<sup>2</sup>ce que
+    <lb/>les gens y ſont aſſez plus noirs q͡ ault·<sup place="above previous">c</sup>part /Il ya vne m͞otaigne
+<lb/>qui eſt par Jour ſi froide ⁊ par nuit ſichaulde q̑ ceſt grat̑ merueille
+<lb/>En paſſant ce pays ya vng aultre pays ouq̑l on ne peult habi
+    <lb/>tez po·<sup place="above previous">2</sup>la gra͡t chaleur du ſouleil En <placeName type="region">eſtioppe</placeName> ſont toutes les ea
+<lb/>ues troubles ⁊ vng peu ſallees po·<sup place="above previous">2</sup>la grat̑ chale·<sup place="above previous">2</sup>dou ſouleil
+<lb/>Et yſont les gens de legiers a en yures ⁊ n͡o mie grat̑ appetit de
+<lb/>menger ⁊ ont c͡omunemet̑ fleuue de ventre ⁊ ne viuent mie̅ lo̅gue
+    <lb/>met̑ Et ya m͞l͞t de diuerſes gens <placeName type="region">Eſtioppe</placeName> est appellee <placeName type="region">cuſie</placeName> Et
+    <lb/>ya m͞l͞t degens qui nont q̑ vng pie<del rend="striken">x</del> qui vont ſi touſt q̑ ceſt mer
+<lb/>ueilles Et eſt leurs pie ſi large quile·<sup place="above previous">2s</sup> fait hombre atout le corps
+<lb/>ꝯtre le ſouleil quat̑ il ce chouchet̑ atrauers En cepays les petiz
+<lb/>enfans ſont tous chanuz Et qu͞a͞t il ſont vieulx Il on les cheue
+    <lb/>ulx tous noirs En <placeName type="region">eſtioppe</placeName> eſt la cite de <placeName type="city">ſabba</placeName> ⁊ la t̑re dont ̑ lung
+    <lb/>des troys Royz fut ß·<sup place="above previous">2</sup> qui vit̑ Req͡rre nr͞eß·<sup place="above previous">2</sup>en <placeName type="city">bethleem</placeName>:–
+<lb/>           <hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head justification="centre">le pays dynde</head></div>
+    <lb/><hi rend="raisedinitial2">D</hi></hi>E <placeName type="region">eſtioppe</placeName>·</hi> va on en <placeName type="region">ynde</placeName> par m͞l͞t de diuers pays ⁊ appel
+    <lb/>le on <placeName type="region">la haulte ynde</placeName> <foreign>milliach</foreign>/ <placeName type="region">Inde</placeName> eſt diuiſee p̍ncipallemet̑ en
+    <lb/><num>quatre</num> parties/En <placeName type="region">ynde lamaiour</placeName> qui eſt treſhault pays En <placeName type="region">ynde
+    <lb/>la mineur</placeName> qui eſt atrempee qui tient ala t̑re de <placeName type="region">mede</placeName> Et en la tierce
+<lb/>partie qui devers ſepte͡ntrion qui eſt ml͞t froid Si que par fine froi
+<lb/>deur y eſt c͞otinuellemet̑ gelee Et ydeuient leaue c̑ſtal Jaunaſtre
+<lb/>acoule·<sup place="above previous">2</sup>doylle ⁊ ſi ſont ſi durs q̑ on ne les peult polir Et des
+    <lb/>aultres dyamens q̅ on treuue en <placeName type="region">arrabe</placeName> qui ne ſont mie ſi bons
+    <lb/>Ains ſont <strike>b</strike> plus bruns ⁊ plus tendres Et en la t̑re de <placeName type="region">macedonie</placeName></pb>
+<pb n="f. 50r">
+<lb/>on truue auſſi/Mais les meilleurs ⁊ les plus p<sup place="above previous">c</sup>cieux qui ſont
+    <lb/>⁊ les plus dignes ſont en <placeName type="region">ynde</placeName> Et ſi treuue on mainteſfoiz des
+<lb/>dyamans en la maſſe on en affine lor de la miniere quat̑ on debri
+<lb/>ſe ceſte maſſe par menues pieſſes on en treuue dauſſi grous c͡ome
+<lb/>poys/Et taillent aſſier ⁊ voierre bie legieremet̑ Et c͡obien q̅ on
+    <lb/>treuue en <placeName type="region">yndes</placeName> des dyamans ſus les roches de c̑ſtal Neantmo͞i͞s
+<lb/>on les treuue plus c͡omunem͞e͞t ſus les Roches de limȇt en la
+<lb/>mer ⁊ ſus vne m͡otaigne ouilyaminieredor/Et croiſſent plußs
+<lb/>enſemble lung petit ⁊ laultre gra͞t/ Ilenya bien dauſſi grous c͞o͞e͞
+<lb/>feuues/Et le plus quiyſoit ſelon nature eſt auſſi gros c͡ome vne
+<lb/>noiz Et ſont tous carrez ⁊ pointuz ſans aulchuns affaictemet̑ Et
+<lb/>croiſſent auſſi es montaignes ⁊ es roches ou ila miniere dor Et
+<lb/>croiſſent͡ emſemble maſcles ⁊ femelles ⁊ ſe noroiſſent de la Roſee
+    <lb/>du ciel/<persPronouns value="P1">Je</persPronouns> maintefoiz eſſaye q̑ qua͡t on les garde auec vng petit/
+<lb/>dela Roche qui t͡iegne ala pointe deſſoubz ⁊ on les moille ſouu͞a͞t de
+<lb/>la Rouſe de may il croiſſa͡t toꝯ les ans ⁊ de vi͡ene͡t gra͞s ⁊ grous
+<lb/>ſelon leurs nature En ainſi͞c͞ome laperle fine pre͞t de ſa nature
+<lb/>Reondeur Ainſi fait le dyamat͡ quarreure par vertuz diuine Et
+<lb/>doibt on portez tous dyam͞e͞t au ſeneſtre couſte Sie͞ deplus grat̑
+<lb/>vertuz q̑adexſtre Car la force de leurs vertuz vient de vers ſept͡e
+<lb/>trion Ceſt la ſeneſtre p̲tie du m͡ode Et la ſeneſtre partie de lo͡
+<lb/>me auſſi qua͡t il cetorne ſa face ꝯtre oriant Et ſil voꝯ plaiſt
+    <lb/>ſauoir la vertuz de dyame͞t po<sup>2</sup>ce q̑ chm̅ ne le ſtet mie <persPronouns value="P1">Je</persPronouns>le <persPronouns value="P5 object">voꝯ</persPronouns>
+<lb/>diray ſelon ceq̑ ceulx deoultremer le ſceue͡t ⁊ le diant/deſqulx
+<lb/>toute ſcience ⁊ toute philozophie eſt venue:–<add place="right margin">lav<sup place="above previous">c</sup>tu du dyame͡t</add>
+<lb/><div type="rubric"><head justification="centre"><hi rend="larger text size"><hi rend="different colour">la vertus du dyament</hi></hi></head></div></pb>
+<pb n="f. 50v">
+<lb/><hi rend="larger text size"><hi rend="dropcap2">L</hi>e dyamēt</hi> dȏne acelui quile porte hardieſſe ⁊ proeſſe ⁊
+<lb/>garde entieres les menbres du corps/⁊ dȏne victoire de ces
+<lb/>e͞nemis en plait en guerre ſe la cauſe eſt Juſte ⁊ tient celui qui le
+<lb/>porte enſon bon ſens Et le garde de traiſon/de Riothes de mauuaiʃ
+<lb/>ſonges/dabuſions ⁊ de mauuais eſ̲pis/deſtre enſortillez ⁊ encha̅
+<lb/>tez/nulles beſtes ſauuaiges nouſent celui aſſaillir qui le porte
+<lb/>/Le dyame͞t doit eſtre dȏne ſans conuoitiſe ⁊ ſans achatez Et a
+<lb/>donc il eſt deplus grant vertuz/Il gueriſt les lunatiques ⁊
+<lb/>ceulx qui le dyable po·<sup place="above previous">2</sup>ſuiſt ⁊ trauaille Et ce venin ou poiſȏ
+<lb/>eſt porte en la p<sup place="above previous">c</sup>ſence du dyame͞t t͡atouſt de vient moiſte ⁊ c͡o
+<lb/>m͡ece aſuez/Il en ya en <placeName type="region">ynde</placeName> quiſont volaſtres ⁊ ſont m͞l͞t durs
+<lb/>⁊ m͞l͞t p︣︢cieulx les q̅ulx auchunes g͞e͞s nayme͞t mie tant  ͞q les
+<lb/>autres/Mais il ſont bien auſſi bons/Et auſſi ſot̑ bons les
+<lb/>blans/Il y a bien maniere acognoiſtre le dyame͞t͞ Car on en
+<lb/>c͞otrefait aſſez qui ne ſont pas de Juſte matie<sup place="above previous">c</sup>/Mais on les doit
+    <lb/>eſſaiez ataillez ſaphirs en aultrs<sup place="above previous">ʃ</sup> pier<strike>p</strike>res p<sup place="above previous">c</sup>cieuſes ſus le cri
+<lb/>ſtal ⁊ ſus le actiez Et avient bien q̑ le dyamet̑ pert partie
+    <lb/>deſa vertuz po<sup>2</sup>cause delinc͞otinence de celui qui le porte :– 
+    <lb/><add place="left margin"><hi rend="different colour">du fleuue dynde ⁊ des āguilles</hi></add><hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head justification="centre">des fleuue dynde et des anguilles</head></div>
+    <hi rend="raisedinitial2">E</hi></hi>N ynde·</hi> A maintes diuerſes c͞otrees Et lappelle on <placeName type="region">ynde</placeName>
+    <lb/>po<sup>2</sup>ce q̑ vng fleuue qui court parmy an͞o͞<geogName type="river">ynde</geogName> En cefleuue trou
+    <lb/>ue on anguilles qui ont plus de <num>trente</num> piez delong/Les gens q̑
+<lb/>habite͡t entour ceſte Riuiere ſont tous de verde couleur ⁊ de
+<lb/>Jaune c͡ome ſil auoiet̑ le Jauniſte/En ynde ⁊ ou pays en viron
+    <lb/>ya plus de <num>v·<sup place="above previous">m</sup></num>yſles habitables bonnes ⁊ grans ſans celles
+<lb/>qui ne ſont point habitables ⁊ ſans aultres petites/En c͞h͞m
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+    <lb/>				                   <catchwords>yſleaaſoyſon</catchwords></pb>
+<pb n="f. 51r">
+    <lb/>yſle a·afoiſon de citez ⁊ de gens ſans n͞obre Car <tag type="adjective of nationality">yndois</tag> ẛont de tel
+    <lb/>le manierie quil ne yſſent point de leurs pays/Et po<sup>2</sup>ce ya gr͞a͞t m͞lt͞i͞tu
+    <lb/>de dege͡s/Car ilz ne ſont point muables po<sup>2</sup>ce quil ſont ou p<sup place="above previous">c</sup>mier ely
+    <lb/>mant de <tag type="celestial body">ſaturne</tag> Et <tag type="celestial body">ſaturne</tag> eſt tardiz ⁊ peu muables car il de
+    <lb/>meure afaire ſon tour par les <num>xv</num>·ſignes <num>xxx</num>· ans Et la <tag type="celestial body">lune</tag>
+    <lb/>paſſe les <num>xii</num> ſignes en vng moys Et po<sup>2</sup>ce q̑ <tag type="celestial body">ſaturne</tag> eſt deſi tar
+    <lb/>dif mouemet̑ po<sup>2</sup>ce ont les gens deſſoubz celui mouemet̑ climat̑
+<lb/>nature ⁊ n͡o volunte de n͞o mouoir Et n͞r͞e pays eſt au͞c͞o͞traire
+    <lb/>Car/<persPronouns value="P4">noꝯ</persPronouns> ſomes ou <num>vii·<sup place="above previous">e</sup></num> climat̑ qui e̅ dela <tag type="celestial body">lune</tag>/Et la <tag type="celestial body">lune</tag> eſt
+    <lb/>de legier mouemet̑ ⁊ po<num>2</num>ce <persPronouns value="P4 object">noꝯ</persPronouns> dȏne elle plus gr͞a͞t volente
+    <lb/>de cheminer par le m͞ode On va p̲my <placeName type="region">ynde</placeName> par <del rend="striken:">diu<sup place="above previous">c</sup>ſes</del> c͡otrees
+    <lb/>Juſques ala <placeName type="region">merocceane</placeName> Et puis trouueon vne yſle qui a nom
+    <lb/><placeName type="region">ories</placeName> ou les marchans de<placeName type="city">veniſe</placeName> ⁊ de <placeName type="city">gennes</placeName> ⁊ dault<sup>s</sup>s pays
+<lb/>vont ſouue͡t marcha̅der/Mais il yfait ſigra͞t chault q̑ pour
+<lb/>la grant chaleuȓs les pendicles de l͡ome lui yſſent fors du
+<lb/>corps pandans Juſq͞s au millieu de la chambe po·<sup place="above previous">2</sup> la grant
+<lb/>diſſollucion du corps/Mais les gens du pays ⁊ ceulx qui
+<lb/>ſauent la nature ce font liez bien ſarreme͞t ⁊ oindre deoig
+    <lb/>neme͡s bien Reſtraintifs po·<sup place="above previous">2</sup> Retenir le corps ou aultrem͞e͞t il
+    <lb/>ne pourroi͞e͞t viure/ En celui pays ⁊ en <placeName type="region">eſtioppe</placeName> les gens
+<lb/>giſent tous nuz es Riuages des eaues hȏmes ⁊ f͞emes tous
+<lb/>emſemble letiers du Jours Juſques abasse n͞one Et giſent
+<lb/>tous dedens leaue fors la face po·<sup place="above previous">2</sup> le grant chault qui y fait tat̑
+<lb/>q̅ apaine le peult on endurez/Les nefs ſont toutes de boys
+<lb/>po·<sup place="above previous">2</sup> les Roches des ymans ſans nulz clous defer Car yl ya
+<lb/>tant de celles Roches q̅ ceſt merueilles Et yſeroit perie vne</pb>
+<pb n="f. 51v">
+<lb/>nef la ou il auroit de fer/de ceſte yſle vaon en vne autreyſle
+    <lb/>qui a non <placeName type="region">tama</placeName> la ou il a grant plante de blez ⁊ de vins Et y
+    <lb/>ſouloit auoir grant yſle ⁊ grant port mais la mer en a<strike>x</strike> <num>ix</num> ille
+<lb/>grat̑ partie Le Roy de ceſte yſle ſoloit eſtre cy puiſſat̑ quil gu
+    <lb/>errea au Roy <persName>alexandre</persName>/les gens de ceſte terre ont diuerſes
+<lb/>loys/Car aulcuns adoret̑ le ſouleil/aulchu͞s le feu/aulchu͞s
+<lb/>les arbres ou ßpens ou la p<sup place="above previous">c</sup>i͞me chouſe quil trouue͞t au matin
+<lb/>Et aulchu͞s adorent les ſimulacres ⁊ les ydoles Et a grant
+<lb/>differance de lung alaultre
+<lb/>
+<lb/><add place="left margin">des ſimulacres</add><hi rend="larger text size"><div type="rubric"><head justification="centre"><hi rend="different colour">des ſimulacres</hi></head></div>
+    <lb/><hi rend="raisedinitial2">S</hi>Imulacres</hi> ſont ydolles faites ala ſemblance daulch͞u͞e͞
+<lb/>chouſe naturelle Et ydole eſt aulchu͞e͞ ymage fecte p̲ folle volȏ
+<lb/>te dȏme q̑ on ne pourroit trouuez entre les chouſes naturelles
+<lb/>Si c͡ome vne ymaige atroys teſtes dȏme decheual ou de beuf/
+<lb/>ou daultre beſte q̑ nul ho͡me ne vit onc͞q͞s ſelon la diſpoſicion
+<lb/>de nature /Et ſaichez q̑ ceulx qui adorent ſimulacres les adoret̑
+    <lb/>pour aulchu͡s vailla͡s hȏmes qui Jadis fure͡t Si c͡ome <persName>hercules</persName>
+    <lb/>⁊ plußs ault<sup place="above previous">c</sup>s qui en leurs temps faiſoie͡t trop de merueilles
+<lb/>Et dient qui ne ſont mye dieu Car il eſt vng dieu de nature qui
+<lb/>fiſt toutes chouſes ⁊ qui eſt es cieulx Et ſeuent bi͡e q̑ celui ne
+    <lb/>peult fe<sup>s</sup> les miracles ne les m<sup place="above previous">c</sup>ueilles Se ce neſt de leſpici
+<lb/>al grace de dieu Et ainſi dient il du ſouleil pource quil chȃ
+    <lb/>ge le temps ⁊ noroiſt toutes chouſes ſus t̑re Et po<sup>2</sup>ce q̑l eſt
+<lb/>de cygra͡t vertus ne peult eſtre q̑ dieu ne layme mieulx q̑ les
+    <lb/>aultres chouſes Si c͡ome il dient Et po<sup>2</sup>ce lonor͞e͞t il ⁊ les
+<lb/>aultres planetes /Et des ydolles dient q̑ le beuf eſt le plꝯ
+<lb/>
+<lb/>
+<lb/>                                            
+<lb/>	<catchwords><hi rend="underlined">ſainte beſte</hi></catchwords></pb>
+<pb n="f. 52r">
+    <lb/>ſaintebeſte qui ſoit en terre ⁊ la plus <sub>c</sub>pfitable/Car Il fait des biens
+<lb/>aſſez ⁊ ſi ne fait nul mal Et ſceue͡t bien q̑ ceſt par la grace de dieu Et
+    <lb/>po<sup>2</sup>ce font ils leurs dieu de la moiſtie dung beuf ⁊ laultre moiſtie do͡
+    <lb/>me po<sup>2</sup>ce q̑ hȏme eſt la plus noble chouſe de terre/Et pourceq̑l
+<lb/>a ſeignorieſus toutes beſtes font il la moiſtie de leurs ydole dȏme
+    <lb/>Et adorent p<sup place="above previous">c</sup>mi<sup place="above previous">c</sup>emet̑ au matin ce quil en c͡otrent ſoit ßpent ouault<sup>e</sup>
+<lb/>beſte Et dient qui naront fois q̑ bien le Jour qui les enc͞o͞trerot̑
+<lb/>Si c͡ome il ont eſſaye/Et dient q̑ bon enc͞o͞tre ne peult venir q͡
+<lb/>de la g͠ce de dieu Et pource ſont il fec les ymaiges ſemblables
+    <lb/>po·<sup place="above previous">2</sup>les gardez ⁊ adorez au matin/Aulchu͡s <tag type="religious affiliation">xp͞iens</tag> meſmes diet̑
+<lb/>q̑ aulchu͞e͞s beſtes ont bȏne en͞c͞otre ⁊ aulchu͞e͞s mauuais/ Si co͡
+<lb/>me on dit q̑ on la eſprouue mainteſfoyz q̑ le lieure le porte Et
+<lb/>plußs aultres beſtes ont bon en͞c͞otre/Si c͡ome dung eſp̲uiez
+<lb/>quat̑ il vole apres ſa proye deuat̑ gens darmes ⁊ il prent ſa
+<lb/>proye Ceſt bon ſygne/Et dient auſſi aulch͞u͞es gens q̑ lenc͡otre
+    <lb/>dung corbac eſt mauuais .Et puis q̑ <tag type="religious affiliation">xp͞i͞e͞ns</tag> ont telle creance
+<lb/>⁊ oppinion ⁊ ſont abreuez de ce tyriacle Et toute voyes ſurm͞o͞
+<lb/>tent iltoute ſainte doct̑ne Ce neſt pas merueille ce les payens q̑
+<lb/>nont point de doct̑ne fors de leurs nature y croyent plus large
+    <lb/>ment pour leurs ſimpleſſe Et vrayemet̑ <persPronouns value="P1">Je</persPronouns> veu des payens ⁊
+    <lb/>des <tag type="religious affiliation">ſarrazins</tag> q̑ on appelle <tag type="religious affiliation">vergonciens</tag> q̅ quat̑ <persPronouns value="P4">noꝯ</persPronouns> cheuauchi
+<lb/>ons en armes aulchu͡e part/vers noz ͞enemis par leurs volȇte
+    <lb/>Il <persPronouns value="P4 object">noꝯ</persPronouns> <sub>c</sub>pmectent tout ce q̅ <persPronouns value="P4">noꝯ</persPronouns> trouuaſmes apres Et ce faiſoiet̑
+<lb/>Il bien ſouuat̑ ⁊ mectoient leurs teſtes en ouſtaiges q̑ ainſi ßoit
+    <lb/>Il/Mais po<sup>2</sup>ce ne doit on pas meiſtre ſa creance en telle chouſe
+    <lb/>mais auoir ferme foy en n͞r͞eß·<sup place="above previous">2</sup> qui peult fe<sup place="above previous">c</sup>⁊ deſfaire ceq̑</pb>
+<pb n="f. 52v">
+    <lb/>lui plaieſt Ceſte yſle de <placeName type="region">tame</placeName> ti͡ene͡t les <tag type="religious affiliation">ſarrazins</tag> ⁊ lont gai
+<lb/>gnie En ceſte yſle aml͞t͞ de lyȯns ⁊ de beſtes ſauuaiges Et yſont
+<lb/>les Ratz auſſi gra͡s ꝯme ſont ycy les chiens/Et les prent ona
+<lb/>grans maſtins car les chaz ne les pourroie͞t pr͞edre En ceſte
+    <lb/>⁊ en plußs aultres ne treuue on nul ho̅me mort Car la chale<sup>z</sup>
+<lb/>y eſt tant grant q̑ en peu de temps eſt la char toutes c͞oſumie
+    <lb/>Juſqus̑ aulx ous/De la va on vers <placeName type="region">ynde la maior</placeName> avne cite q̑a
+    <lb/>no͡ <placeName type="city">ſarabe</placeName> qui eſt ml͞t belle ⁊ bȏne ⁊ y demeuret̑ ml͞t de <tag type="religious affiliation">x͞pi͞e͞s</tag>
+    <lb/>de bȏne vie ⁊ yam͞l͞t de Religieux Eſpicialleme͞t de <tag type="religious affiliation">m͞adie͞s͞</tag>
+    <lb/>⁊ va on par mer en laterrede<placeName type="region">lombe</placeName> ɂ-
+<lb/>
+<lb/><add place="left margin">de la t͡re d lombe</add><hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head justification="centre">la terre de lombe :</head></div>
+    <lb/><hi rend="raisedinitial2">E</hi></hi>n celle·</hi>terre de <placeName type="region">lombe</placeName> croiſt lepoyure en vne foreſt 
+    <lb/>qui a n͞o͞ <geogName type="forest">tombar</geogName> Et ne croiſt nulle part ailleurs ou m͞ode fors
+    <lb/>que en celle forreſt qui dure bien <num>xviij</num> Journees de long En
+    <lb/>ceſte foreſt adeulx bȏnes citez/lune anon <placeName type="city">flandrine</placeName>/⁊ laultre
+    <lb/><placeName type="city">Singlas</placeName> Et ya des villes plußs enſemble Car Il ya bon pays
+<lb/>mais il y fait m͞l͞t chault/Et croiſt le poiure en maniere de
+<lb/>vne vigne ſauuaige qui eſt plantee pres des arbres de boys
+    <lb/>po·<sup place="above previous">2</sup>leſouſtenir c͡ome font aulchu͞e͞s vignes pardeſſa Et en
+<lb/>ſont les arbres ſi chargees q̑ ceſt merueille Et quat̑ le fruit
+<lb/>e̅ mur il eſt m͞l͞t noirs Et lors on le vende̅ge c͞ome en fait cy
+<lb/>les vignes puis leſeichet̑ au ſouloil tant quil ȇ tout noirs
+<lb/>⁊ tout creſpe Et ſien ya en vne arbre de troys manieres poi
+<lb/>ure long/poiure noirs ⁊ poiure blanc//Le poiure long eſt
+    <lb/>appelle <foreign>ſanori</foreign>/ le poiure noir <foreign>fulſuch</foreign>/⁊ le blanc <foreign>banot</foreign>/ Le
+    <lb/>poiure long vient p<sup place="above previous">c</sup>mi<sup place="above previous">c</sup>e̅met̑ quat̑ la fueille c͞om͞e͞ a venir
+<lb/><catchwords justification="right">⁊ reſemble</catchwords></pb>
+<pb n="f. 53r">
+<lb/>Et Reſemble de la faczon defleur de couldre qui auant la feille vient
+    <lb/>en mani<sup place="above previous">c</sup>e de crappe de Rayſin bien vert Et quat̑ celui eſt cuilly ſiviet̑
+<lb/>leblanc/qui eſt meilleur q̑ lenoir/de ceſtui blanc napporte ont point
+    <lb/>pardeſſa car il le Reti͡enent po<sup>2</sup>eulx En ce pays am͞l͞t de manieres de
+    <lb/>ſerpens ⁊ daultres vermines po<sup>2</sup>lagra͡t chaleurs du pays ⁊ du poiure
+<lb/>Et dient aulchu͞s gens qui cuille͡t le poiure ⁊font le feu au pie de
+    <lb/>larbre <del rend="striken">po<sup>2</sup>en</del> fe<sup>s</sup>fouir les ßpens ⁊ les couleuures Mais ſauue leurs
+<lb/>grace il nen font Riens Carſil ardoi͞e͞t entour lesarbres Il ſeroient
+<lb/>ars ⁊ ſecs/Mais il ce oingnȇt les mains ⁊ les piez/de Jus delymons
+<lb/>ou Il porte͡t herbes auecq͡s eulx dont les ßpens doubte͞t lodeur Si
+<lb/>ſen fuie͡t deua͡t eulx Et lors vons les gens vend͡egez tout ſeure
+    <lb/>ment po<sup>2</sup>ce quil no͡t garde de vermine/ vers le chief de ceſte foreſt
+    <lb/>eſt la cite de<placeName type="city">faillombe</placeName> Et par deſſoubz la cite ya vne m͞otaigne
+    <lb/>qui a n͡o <geogName type="mountain">polombe</geogName>/de ceſte m͡otaigneprent la cite ſon nom :-
+    <lb/><add place="right margin">dune m̄veilleuſe fonta·</add>           <hi rend="larger text size"><div type="rubric"><head justification="centre"><hi rend="different colour">Dune merueilleuſe fontanie</hi></head></div>
+    <lb/><hi rend="raisedinitial2">A</hi>u pie·</hi>de ceſte m͡otaigne de <placeName type="region">lombe</placeName> avnefontaine qui a odeur
+    <lb/>⁊ ſaue<sup>2</sup> de toutes eſpices ⁊ achaſcune heure elle change odeur ⁊ ſaue·<sup place="above previous">2</sup>
+    <lb/>Et quide ceſte fontaine boit par <num>troys</num> foiz aJeung il eſt gueriz de
+<lb/>toutes maladies Et ceulx qui ydemure͡t ⁊ qui en boiu͞e͞t ſemblant
+<lb/>torJours eſtre Jeunes/ par tout ce pays croyſt de bon gingebre
+    <lb/>Et po<sup>2</sup>ce y vont plußs marchans querer deſpices/En ce pays
+    <lb/>les gens adourent vng beuf po·<sup place="above previous">2</sup>ſa ſimpleſſe⁊ de bo͡neirete Ilz
+    <lb/>le font labourez <num>vj</num> ou <num>vij</num>·ans·⁊ puis le mengent agr͞a͞t ſollem
+<lb/>pnite Et a touriours le Roy du pays auec lui vng tel beuf Et
+<lb/>celui qui le garde Recoipt la fiance lorine en deulx vaiſſe
+<lb/>aulx dor Et le Roy par gra͡t deuocion moille ſes mains en lorine</pb>
+<pb n="f. 53v">
+    <lb/>quil appellant <foreign>gaul</foreign>/⁊ en laue ſon fronc ⁊ ſa poictrine par grant
+    <lb/>Reuerence ⁊ entencion quil ſoit rempliz deſ vertus deſſus dictes Et ap<sup place="above previous">c</sup>s
+    <lb/>le font ainſi les grans ſeigne<sup>2s</sup> ⁊ apres les aultres quat il en pouet̑
+    <lb/>auoir/Et aulchu͡s Remane͡t en ce pays c͡ome <peresPronouns value="P1">Je</peresPronouns> dit daua͡t Il font
+<lb/>ydolles moiſtie hȏme ⁊ moiſtie beuf Es q̑lles ydolles le mauuais
+<lb/>eſp̲it parle ⁊ leur reſpont detout ceq̑ on lui demande/deua͡t celles
+<lb/>ydoles occient il mainteſfoiz leurs enfans ⁊ eſpanchant le ſang par
+<lb/>my les ydolles Et ainſi font il leurs ſa͡cfice/Qua͡t aulch͞u h͡ome
+    <lb/>meurt ou pays <strike>ou</strike> il arde͡t auec͞q͞s ſa f͡eme Et dient q̑ ceſt Raiſon
+<lb/>q̑lle lui tiengne c͞opaignie en laultre ſiecle ainſi q̑lle a fait en ceſtui
+    <lb/>Mais ce ellea enfans delui on la leiſſe viure po·<sup place="above previous">2</sup> nouriz ſes enfa͡s
+<lb/>ce elle veult viure auec eulx Et ce elle ayme mieulx viureaue͞c͞q͞s
+<lb/>ſes enfans q̑ morir auecq͞s ſon mari on la tient amauuaiſe Ne
+<lb/>elle ne ſera Jamais priſee Et ſi naura on Jamais cure delle Lȏme
+<lb/>ce fait auſſi ardre auec͞q͞s ſa f͡eme mais on ne lui ꝯtraint mie fors
+<lb/>deſa pure volente Et ſe il ne veult moris auec͞q͞s elle Ilce̍p̍eult
+    <lb/>aultre foiz ſans aulchȗ blaſme Remariez//De la fontaine do͡t <persPronouns value="P1">Je</persPronouns>
+    <lb/>parle deſſus en ceſt chappitre ai<persPronouns value="P1">ge</persPronouns> beu <num>troys</num> ou <num>quatre</num> foiz dont <persPronouns value="P1">Je</persPronouns>
+<lb/>vaulx encore mieulx Si c͡ome moy ſemble Et dit on q̑lle vient
+    <lb/>de p̲adis et po<sup>2</sup>ce eſt elle cy treſ virtueuſe/Auc͞h͞u͞s lappellent la
+    <lb/>fontaine de Jouent po<sup>2</sup>ce que ceulx qui en boiuet̑ ſemblent eſtre
+<lb/>torJours Jones En ce pays croiſſent moult fors vins do͞t les
+<lb/>hȏmes n͡e boiuent point/mais les f͡emesle boiuent ɂ
+<lb/><add place="left margin">delat̑re de mabaron</add>          <hi rend="larger font size"><hi rend="different colour"><div type="rubric"><head justification="centre">De la terre de mabaron :</head></div>
+    <lb/><hi rend="raisedinitial2">D</hi></hi>E ce pays·</hi> va on en paſſant par plußs marches vers
+    <lb/>vng pays a <num>ix</num> Journees loing q̑ on appelle <placeName type="region">mabaron</placeName> ⁊ eſt
+<lb/><catchwords>vng grat̑</catchwords></pb>
+<pb n="f. 54r">
+<lb/>vng grant Royaulme La ou il a m͞l͞t belles rues ⁊ m͞l͞t belles
+    <lb/>villes En ce Royaulme giſt <persName>ſa͞i͞t thomas</persName> lapouſtre en char ⁊ en os
+    <lb/>en vne ml͞t belle tombe en lacite de <placeName type="city">calamie</placeName> Car illec fut Il mar
+<lb/>tirizes/Mais les auffriqu͞a͞s firent Jadis portez ſon corprs en <placeName type="region">meſo
+    <lb/>potamie</placeName> en la cite de <placeName type="city">adiſſe</placeName> Et puis fut il raportez la de Rechief/
+<lb/>Qua͡t il adiſcencion entre deulx parties ⁊ q̑ chaſtune partie tient
+<lb/>q̑lle adroit.⁊q̑ lesJuges ne aultres ne ſceuat̑ lequel a droit ou tort
+<lb/>Remectent la cauſe de chm͡ en eſc̑pt/Et les esc̑ptures mectet̑ en
+    <lb/>la main de <persName>ßt thomas</persName> dont il touchan͞r͞eß·<sup place="above previous">2</sup> au couſte la q̑lle neſt
+    <lb/>point <unclear>pourrie</unclear> Et tantouſt la main de<persName>ß<sup>t</sup> thomas</persName> Jecte.le faulx
+<lb/>ou le tort laual loing Et le droit⁊la verite retient enſamain
+    <lb/>Et po·<sup place="above previous">2</sup>auoir Jugemet̑ y vi͡enet̑ de m͞l͞t loing po<sup>2</sup> les cauſes doub
+<lb/>tables dont on neſcet ou peult on entendre laverite/Leſgliſe
+    <lb/>ou <persName>ß<sup>t</sup>thomas</persName> giſt ⁊ m͞l͞t belle ⁊ grant eſgliſe ⁊ plaine de moult
+<lb/>grans ſimulacres quilz appellent leur dieulx do͡t le maindre eſt
+<lb/>auſſi grox q̑ deulx hȏmes Et entre les aultres y en ya vng plus
+<lb/>grant q̑ les aultrescouuert dor⁊ de pierres pͨcieuſes Et ceſt le
+    <lb/><unclear>idole les</unclear> faulx <tag type="religious affiliation">x͞p͞i͞ens</tag> Renoyez qui ceſiet en vne chierre ml͞t
+<lb/>noblemet̑ Et entour ſon col larges ſaintures ouures dor ⁊ de pi
+<lb/>erres pcieuſes ⁊ de perles ⁊ e̅leſgliſe toute douree par dedens
+<lb/>En celle eſgliſe va on en pelerinaige auſſi c͡om͡onunemet̑ ⁊ de/
+    <lb/>uoteme͡t c͡ome les <tag type="religious affiliation">xp̅iens</tag> von a<persName>ß<sup>t</sup> Jaques</persName> lapouſtre Et plu/
+<lb/>ßs gens qui de ml͞t longaines parties vont en pelerinaige vers
+    <lb/>ces ydoles po<sup>2</sup>la grat̑ deuocion quil ont Il le regardet̑ torJours
+    <lb/>enterre ⁊ noſent leurs <strike>le</strike> teſtes leuer pour Regardez entour
+<lb/>eulx qui ne voyent aulchu͞e chouſe q̑ les oſtes de leurs deuocio͡</pb>
+<pb n="f. 54v">
+<lb/>Et aulch͞u͞s qui y vont couſteaulx Et qu͞a͞t il vi͡ene͞t daua͡t ſen
+    <lb/>fierent es braz es teſtes ⁊ es cuiſſes ⁊ eſpande͡t leurs ſang po<sup>2</sup>
+<lb/>lamour de leurs ydoles Et dient quileſt bien eureux q̑ meurt
+    <lb/>po<sup>2</sup>la mour deſon dieu Et des aults̾ qui y menet̑ leurs enfans les
+    <lb/>q̑ulx ſac̑fient ⁊ tue͞t daua͡t ceſte ydole/Et aults<sup place="above previous">ʃ</sup> ya qui y vont
+<lb/>mais depuis quil ſont p̲tiz a chaſtun troys pas quilz font vont
+<lb/>Il ſa genoillent Juſq͡s ilz ſoient aceſte ydole Et quat̑ ilſont ve
+<lb/>nuz Il ont encens ⁊ aults<sup place="above previous">ʃ</sup> chouſes m͞l͞t odorans dont ilz en͞c͞e͞ſet̑
+    <lb/>cȏme ce ceſtoit le corps <persName>n͞r͞eßs</persName> Et va on bien de plus de <num>Cent</num>
+    <lb/>lieues loing po<sup>2̣</sup> adourez celle ydole/Deu͞a͞t ledit mouſtre ya
+<lb/>c͡ome vng viuier tont plain deaue Et en ce viuier les peleri͡s
+    <lb/>gectent or ⁊ argent · perles ⁊ pierres p<sup place="above previous">c</sup>cieuſes ſans n͡obre en
+<lb/>lieu de offrendre Et puis quat̑ les meniſtres des ydoles ont
+<lb/>aulchȗ meſtier daulch͞u͞e chouſe reffaire en leſglise Il vont
+    <lb/>tantouſt ou viuier pr͞edre ceq̑ meſtier le·<sup place="above previous">r</sup> eſt/Qu͞a͞t les gr͞a͞s
+<lb/>feſte de ceſte ydole yſont Si c͡ome de ladedicac͞i͞o delegliſe ou
+<lb/>de linſtauracion delydole Tout le pays ſaſemble ⁊ mectet̑
+<lb/>ceſte ydole engrat̑ Reuerence en vng charriot orne de drapsdor
+<lb/>⁊ de tartaires ⁊ lemene͞t au tour de la cite/Et deuat̑ le char
+    <lb/>vont p<sup place="above previous">c</sup>mi<sup place="above previous">c</sup>emet̑ en <sub>c</sub>pceſſion toutes les pucelles du pays ml͞t
+<lb/>ordȏneme͡t deulx ⁊ deulx emſemble Et apres vont les pele
+<lb/>rins/dont aulchu͞s celaiſſent choirs deſſoubz les Roes du
+<lb/>char/⁊ le laiſſent paſſez par deſſus eulz/Si q̑ aulchu͞s y
+<lb/>meuret̑ tantouſt/⁊ aulchu͡s ont les braz briſez/⁊ les
+    <lb/>chambes ⁊ les couſtez Et tout cefont il po<sup>2</sup> lamour de
+<lb/>leurs dieu en gra͞t deuocion Et dient q̑ de tant quil ſeuffret̑
+<lb/><catchwords><hi rend="double underline">plus po<sup>2</sup>lamo<sup>2</sup></hi></catchwords></pb>
+<pb n="f. 55r">
+<lb/>plus pour la mour de leurs dieu de tant aur͞o͞t il plus grat̑
+    <lb/>gloire en laultre ſiecle/En verite <tag type="religious affiliation">x͞p͞i͞en</tag> nouſetoit ent<sup>e</sup>prȇ
+    <lb/>dre ne ſouffrir lax·<sup place="above previous">c</sup>p̲tie du torme͡t po·<sup place="above previous">2</sup>lamo·<sup place="above previous">2</sup> den͞r͞eß<sup>2</sup> c͡ome Ilz
+<lb/>font po·<sup place="above previous">2</sup>lamour de leurs ydole/Deua͡t le char ⁊ apres vont les
+<lb/>meneſtriers du pays enJoua͞t ml͞t͞ melodieuſeme͞t Et qu͞a͞t on
+<lb/>a ainſi ale tour entour de la cite Il Rem͡ene͡t en legliſe Et Remecte͡t
+<lb/>Ceſte ydole enſon lieu etlors po·<sup place="above previous">2</sup>lamo·<sup place="above previous">2</sup> ⁊ Reue͞r͞e͞ce de ceſte
+    <lb/>ydole ſe occient·<num>iij·<sup place="above previous">c</sup></num>·ou <num>iii·<sup place="above previous">c</sup>j</num>·p̲ſ͞ones/⁊ prent onles corps ⁊ les met
+    <lb/>on deua͡t lidole Et dit on quilz ſont ſains po<sup>2</sup>ce quil ceſont occiʃ
+<lb/>de leurs volente pour lamour de leurs dieu/Et ainſi q̑ p̲deſſa
+<lb/>vng lignaige ſe tiendroit po·<sup place="above previous">2</sup>honore dung ſaint prodȏme ou
+<lb/>de deulx qui auroit eſte de leur ſang/Ainſi ſont Ilp̲ dela ⁊ les
+<lb/>mectent en eſc̑pt en leurs leictres Et ce venta͡t lung alault·<sup place="above previous">e</sup>
+    <lb/>en diſant <persPronouns value="P1">J</persPronouns>ay plus de ſains en mon lignaige q̑ <persPronouns value="P5">voꝯ</persPronouns>nauez ou <persPronouns value="P5 possessive">vouſtre</persPronouns>
+<lb/>Et eſt leurs couſtume q̑ quat̑ ilont ent͞e͞cion deulx occire po·<sup place="above previous">2</sup>lamo·<sup place="above previous">2</sup>
+<lb/>deleurs dieuIlz m͞adent tous leurs amis ⁊ ont grant foiſon deme
+<lb/>neſtriers qui vont deuat̑ ceſte ydole faiſant grat̑ feſte Et celui q̂
+<lb/>ce doibt occire tient vng couſtel en ſa main ⁊ couppe vne piſſe
+<lb/>de ſa char/Puis la Jecte ala face de celle ydole en diſant ces orei
+<lb/>ſons en lui rec͞ome͞dant aſondieu/Et puis ce fiert ſa ⁊ la tant
+<lb/>quil chiet tout mort/Et adonc les amis p̄ſente͞t le corps aly
+<lb/>dole⁊dient en chantat̑/Dieu Regardez c͡omet̑ vouſtre loyal
+    <lb/>amis ⁊ ßget̑ afait po·<sup place="above previous">2</sup><persPronouns value="p5 tonic">vous</persPronouns>/Ila Relinqui f͡emes enfans Richeſſes
+    <lb/>⁊ tous les bien du m͞ode ⁊ ſa <sub>c</sub>ppre vie po·<sup place="above previous">2</sup>lamour de vous
+    <lb/>⁊ vous afait ſa͡cfice de ſa <sub>c</sub>ppre char ⁊ deſon ſang Si le vueil/
+    <lb/>lez pouſer pres de <persPronouns value="P5 tonic">vous</persPronouns> entre voz plus aymez en la gloire</pb>
+<pb n="f. 55v">
+<lb/>de paradis/Car il la vie deſeruy Et puis font vng grant feu
+<lb/>⁊ ardent lecorps Et en prent ch͞n de la cendre Et la gardent
+<lb/>en lieu de Reliques ⁊ dient q̑ ceſt m͞l͞t ſainte chouſe Et quilz not̑
+    <lb/>garde de nulz pril quil ayent ſus eulx celle cendre<sub>2</sub>–
+ <lb/><add place="left margin">t̑re de la moury</add>        <hi rend="larger font size"><div type="rubric"><head justification="centre"><hi rend="different colour">la terre de lamoury</hi></head></div>
+    <lb/><hi rend="raisedinitial2">D</hi>E cepays·</hi>va on par maintes diuerſes yſles par la mer
+<lb/>occeane ⁊ par m͞l͞t de pays qui m͞l͞t lonc/ſeroit an͡omer ⁊ diuiſer Et
+    <lb/>a <num>lxij</num> Journes decelle yle dont <persPronouns value="P1">Je</persPronouns> parle Juſqs̄ avne aultre qui eſt
+    <lb/>m͞l͞t grat̑ q̑on appelle <placeName type="region">lamoury</placeName> En ceſt t̑re fait il m͞l͞t grat̑ chault
+<lb/>Et eſt la couſtume telle q̑ les hȏmes ⁊ les f͞emes y vont tous nuz
+<lb/>Et ce mocqu͡et qua͡t il voyent aulchu͡s eſtranges qui ſont veſtuz/
+    <lb/>Et dient q̑ dieu fiſt <persName>adam</persName> nu ⁊ auſſi fiſt il <persName>eue</persName> ⁊ q̑ hȏme ⁊ fȇme
+<lb/>ne doibue͡t auoir honte deulx monſtrez teulx q̑ dieu les a faiz
+<lb/>Car Riens neſt lait qui ſoit de nature Et dient q̑ gens qui ſont
+<lb/>veſtuz ſont dung aultre ſiecle ou il ne croient point en dieu
+    <lb/>qui crea le ciel ⁊ la tȓe⁊ qui fiſt <persName>adam</persName> ⁊ <persName>eue</persName>/⁊ toutes chouſes
+<lb/>Toutes les f͡emes du pays ſont c͞omunes ⁊ ne Refuſent nul Et
+<lb/>dient q̑lles pecheroiet̑ ce elle reffuſoiet̑ hȏme ⁊ q̑ dieu le c͞o͞
+    <lb/>manda ainſi a·<persName>adam</persName> ⁊ aceulx qui deſ͞tcedi͞r͞e͞t de lui Quat̑ ildiſt
+    <lb/><hi rend="underline"><foreign language="Latin">Creſcite ⁊ m͞lt͞iplicamini ⁊ Replete t<sup place="above previous">c</sup>ram</foreign></hi> En ceſtui pays nul
+<lb/>ne peult dire ceſt ma fēme ne nulle f͡eme dire ceſt mon marj
+<lb/>Et qu͞a͞t qu͞a͞t elles enfantat̑ dȏne͞t lenfant acelui quj
+<lb/>leursplaiſt qui a eu c͡opaignie a elles Et ainſi eſt la t̑re toute
+<lb/>c͡omune Car lung latient vneannee ⁊ laultre autat̑ Et
+    <lb/>prent ch͡m deq̑lle <unclear>part</unclear> qui veult Et ny ſot̑ point les blez ne
+<lb/>les aultres biens enfermez/Mais prent ch͞n ce͡q lui pleſt ſans
+<lb/><catchwords>cꝯtr<unclear reason="page crease">a</unclear></catchwords></pb>
+<pb n="f. 56r">
+<lb/>contredit Et auſſi Riche y eſt lung c͡ome laultre/Mais˙il ont ma
+<lb/>uuaiſe couſtume de ce quilz mengent plus volentiers char dȏme 
+<lb/>q̑daultre/Et ſi eſt le pays moult habunda͡t de chars/de blez de
+<lb/>vins ⁊de poyſſons\dor dargent ⁊daultres chouſes/La vont les
+<lb/>marchans qui men͞e͞t les enfants po·<sup place="above previous">2</sup> vendre ⁊ les achetent/Et
+<lb/>ſilsont g͡ras ilsles meng͞e͞t tantouſt Et ſil ſont maigres Il les fot̑
+<lb/>engreſſez ⁊ puis les mengent.Et dient q̑ ceſt la meilleur ⁊ la plꝯ
+<lb/>doulce viande du monde <add place="left margin">.de leſtoille t͡nſm͡oti 
+    <lb/>demer</add> <hi rend="larger text size"><hi rend="different colour"><div type="rubric"><head>de l<tag type="celestial body">eſtoille tranſmo̅taigne</tag> demer</head></div>
+    <lb/><hi rend="raiseinitial2">E</hi></hi>N celui</hi> pays ne voit on point <tag type="celestial body">leſtoille tranſm͞otaigne</tag> ceſt
+    <lb/><tag type="celestial body">leſtoille de mer</tag> q̑ aulchu͞s mar͞o͞niers appellent <tag type="celestial body">leſtoille de nort</tag> qui
+<lb/>eſt devers biſe Mais on envoit vne aultre qui eſt auc͡otraire de
+    <lb/>ceſte vers mydi q̑ on appelle <tag type="celestial body">artatique</tag>/Et ainſi c͞ome les marini
+    <lb/>ers p<sup place="above previous">c</sup>ne͡t ycy advis ⁊ ce gouuerne͡t par ceſte <tag type="celestial body">etoille</tag> vers biſe
+    <lb/>ainſi font lesmariniers par dela laq̑llenapert point a<persPronouns value="P4 tonic">nous</persPronouns> //
+    <lb/>Et ceſte devers biſe napert point aeulx/po<sup>2</sup>quoy on ne peult
+    <lb/>ap̲ceuoir q̑ cet<sup place="above previous">c</sup>re ⁊ la mer neſoient de Ronde forme Car vne
+<lb/>partie du firmamet̑ appert en vng pays qui nappert point
+<lb/>enlaultre/Et ce peult on prouuer par experi͞e͞ce ⁊ ſubtilite ſci͡e
+<lb/>ce ⁊ intencion q̑ ſe on trouuoit paſſaige de mer nefs ⁊ degens q’
+<lb/>voulſiſſent aller ßhez le m͡ode deſſus ⁊ deſſoubz laq̑lle chou
+    <lb/>ſe <persPronouns value="P1">Je</persPronouns> preuue ainſi ſelon ceq̑ <persPronouns value="P1">J</persPronouns>ay eſſay/Car <persPronouns value="P1">J</persPronouns>ay eſte vers les p̲ties
+    <lb/>de<placeName type="region">brebant</placeName> ⁊ ay Regarde aleſtralabe q̑la tranſm͞otaigne eſt·<num>liiij</num>·
+<lb/>degres hault/Et plus au͞a͞t vers les parties de ſep͞t͞etrion elle
+    <lb/>a <num>lxii</num>·degrez de hault aueic͞q͞s aulchu͞e͞s MinutesCar <persPronouns value="P1">Je</persPronouns> meſ
+    <lb/>mes lay meſure aueic͞q͞s leſtralabe/ Or deuez <persPronouns value="P5">vous</persPronouns>ſauez q̅ c͞otre</pb>
+<pb n="f. 56v">
+    <lb/>Ceſte <tag type="celestial body">eſtoille tranſmo̅tains</tag> eſt laultre qui eſt appellee <tag type="celestial body">artatique</tag>
+    <lb/>⁊ ſont ces deus <tag type="celestial body">eſtoilles</tag> n͞o mouables Car par elles <num>deulx</num> tour le 
+    <lb/>firmamet̑ c͡ome vne Roe Si q̑ par ces <num>deulx</num> <tag type="celestial body">eſtoilles</tag> eſt party le
+    <lb/>firmamet̑ en <num>deulx</num> parties/Et ya autant deſſoubz c͡ome deſſus/Ap̅s
+    <lb/><persPronouns value="P1">Je</persPronouns>ſuis allez vers les parties meridionales ceſt vers mydi ⁊ ay trouue
+    <lb/>q̑ vers la <placeName type="region">haulte libie</placeName> on voit ap̑mes <tag type="celestial body">eſtoilles artatiq͞s</tag> Et t͞a͞t c͡o
+<lb/>me plus alle en ces parties tant trouuege plus haulte celle <tag type="celestial body">eſtoi
+    <lb/>lle</tag> Si queplus aua͞t en la <placeName type="region">haulte libie</placeName> vers <placeName type="region">ethiope</placeName> <unclear>ellea</unclear> <num>xviii</num>
+    <lb/>degrez dehault/auec aulc͞h͞ues minutes/dont les <num>lx</num> minutes font
+    <lb/>vng<strike>re</strike> degre Et puis en alant vers ces parties dont <persPronouns value="P1">Je</persPronouns> parle ⁊
+    <lb/>es aultres pays ⁊yſles oultre <persPronouns value="P1">Je</persPronouns> trouuay <tag type="celestial body">lartati͡q</tag> de<num>xxiij</num> degrez
+    <lb/>⁊ <num>xvi</num>·Minutes/Et ce <persPronouns value="P1">J</persPronouns>euſſe trouue naue ⁊ c͞opaignie po·<sup place="above previous">2</sup> alez plꝯ
+    <lb/>auat͡ <persPronouns value="P1">Je</persPronouns> cuide eſtre c<sup place="above previous">c</sup>tain q̑ <persPronouns value="P1">J</persPronouns>euſſe toute la Rondeſſe du firmame͡t
+    <lb/>entre ces <num>deulx</num> eſtoilles la q̑lle moiſtie <persPronouns value="P1">Je</persPronouns> toute veue Et de laultre
+    <lb/>ay<persPronouns value="P1">ge</persPronouns> veu vers biſe de <tag type="celestial body">la tranſm͡otaigne</tag> <num>lxii</num>·degrez ⁊ <num>x</num>· Minutes
+    <lb/>Et la moiſtie du firmamet̑ ne tient q̑ <num>ix<sup>x</sup>·<sup place="above previous">x</sup></num> degrez Et <persPronouns value="P1">J</persPronouns>en ay veu
+    <lb/><num>lxij</num> dune part ⁊ <num>xxxiii </num>dault part Ce ſont <num>iiij·<sup place="above previous">xx</sup> ⁊ xv</num>·degrez
+    <lb/>⁊ pres de lamoiſtie dung degre Et ainſi Il ne fault q̑ <persPronouns value="P1">Je</persPronouns> naye
+    <lb/>veu le firmame͡t q̑ <num>iij<sup place="above previous">x</sup>j<sup place="above previous">x</sup> ⁊ iiij</num>·degrez ⁊ lamoiſtie dung degre Et
+<lb/>ce neſt mie laquarte partie du firmamet̑ Car la quarte partie
+    <lb/>du firmamet̑ tient <num>iiii<sup place="above previous">xx</sup> ⁊ x</num>·degrez Cy en fault ſinc degrez⁊demy
+    <lb/>de laquarte partie Et ainsi ai<persPronouns value="P1">ge</persPronouns> veu vne partie de la Rondeſſe du
+<lb/>firmamet̑ ⁊ puis encores ſinc degrez ⁊ demy ou aſſez pres/Pour
+    <lb/>quoy <persPronouns value="P1">Je</persPronouns>dy certeinemet̑ q̑ vng hȏme po<sup>2</sup>roit enui͞r͞onez tou la <strike>cȇ</strike> t<sup place="above previous">c</sup>re
+<lb/>du monde auſſi bien par deſſoubz c͡ome par deſſus Et Retournez
+    <lb/>arriere en ſon pays qui auroit c͡opaignie ⁊ c͡oduit de naue Et/</pb>
+<pb n="f. 57r">
+    <lb/>Et touſjours trouueroit on terres ⁊yſles auſſi bien c͞o͞me <unclear>en</unclear> ce
+    <lb/>pays Car <persPronouns value="P5">vous</persPronouns> ſauez q̑ ceulx qui ſont endroit de <tag type="celestial body">lartatique</tag> ſont
+    <lb/><strike>de</strike>droitemet̑ pie c͡otre pie Car toutes les parties demer ⁊ de t̑re ont
+<lb/>leurs c͡opoſites habitables ou treſpaſſables deſſa ⁊ dela Et ſaichez
+    <lb/>q̑ſelon ce q̑ <persPronouns value="P1">Je</persPronouns>puis ap̲ceuoir ⁊ c͡opr͞edre la <placeName type="region">t̑re du <persName>p<sup place="above previous">c</sup>ſtre Johan</persName></placeName> emp̲e<sup>2</sup>
+    <lb/>d<placeName type="region">ynde</placeName> eſt deſſoubz <persPronouns value="P4 tonic">nous</persPronouns> Car en alant d<placeName type="region">eſcoce</placeName> en <placeName type="region">englet̑re</placeName> vers
+    <lb/><placeName type="city">Jhr͞l͞m͞</placeName> on mo͞te touſdis Car n͞r͞et̑re eſt en la baſſe partie vrs
+    <lb/>orient ⁊ ont la le Jour quat̑ <persPronouns value="P4">noꝯ</persPronouns> auons la nuit Et auſſi auco͡
+    <lb/>traire Il ont la nuit quȃ <persPronouns value="P4">noꝯ</persPronouns> auo͡s le Jour Car la t̑re ⁊ la mer
+    <lb/>sont de Ronde forme Si cȏme <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay deuat̑ dit Et ceq̑
+<lb/>on m͡ote avng couſte on aualle en laultre coſte/ Orauez ouy di
+    <lb/>re par auat̑ q̑ <placeName type="city">Jhrl͡m</placeName> eſt ou millieu du m͡ode Et ce y ap̲p̲ert par
+<lb/>vne lance fichee en t̑re ſus leure de mydi qui ne fait pointd͡obre
+    <lb/>a vng couſte ne a aultre de nulle part/Et <persName>dauid</persName> diſt ⁊ ſi le teſmoi/
+    <lb/>gne en diſat̑ ·/<foreign language="Latin">Et operatus eſt ſalut͞e in medio t̑re</foreign>/Doncq͞s ceulx
+    <lb/>qui ce partent deces pays pour aler vers <placeName type="city">ihrl͞m</placeName> mectet̑ autant
+<lb/>de Jornes ꝯme il mectet̑ au mo͡ter Juſques la Et en autat̑ deJor/
+<lb/>nes pouet̑ il aler es aultres c͞ofines dela ſup̲flaute de la terre
+    <lb/>par dela/Et quat̑ onva oultres celles Jornes vers <placeName type="region">ynde</placeName> ⁊ les
+<lb/>yſles foraines en oultre Ceſt enenuir͡onet̑ la Rondeſſe de lamer
+    <lb/>⁊ dela terre par deſſoubz nous C͡otre noz piez par deſſa Et po·<sup place="above previous">2</sup>
+    <lb/>ce ſouuat̑ mail ſouuenuzDune chouſe q̑ <persPronouns value="P1">ie</persPronouns> ouy compter quat̑
+    <lb/><persPronouns value="P1">J</persPronouns>eſtoie petit enfant C͡ome͞t vng villains homs de n͞r͞e pays
+    <lb/>dȇglet<sup place="above">c</sup>re ce partit Jadis pour aller ßchiez le m͞o͞de· Si paſſa
+    <lb/><placeName type="region">ynde</placeName> ⁊ les yſles oultre<placeName type="region">ynde</placeName> ou Il en ya plus de v·<sup place="above previous">m</sup> Et to<sup>t</sup>
+<lb/>e͞uir͡ona le mo͞de par maintes ſaiſons tat̑ quil trouua vne yſle</pb>
+<pb n="f. 57v">
+<lb/>ouIl parler ſon langaige dont il ſemerueilla m͞l͞t Si ſen retor
+<lb/>na arrieres ou Il perdit aſſez deſes paines Car il avint vne foiz
+    <lb/>quil aloit vers <placeName type="region">noruuee</placeName> Si le print t͞e͞peſte en la mer ⁊ fut portez
+<lb/>en vne yſle ou il ouyt parlez ſon langaige amenez les beufs a la
+<lb/>charoue Et ceſt bien poſſible chouſe Cȏbien quil ſemble aulx
+<lb/>ſimples gens que on ne poueroit aler par deſſoubz terre ⁊ que
+    <lb/>on deueroit choir deſſoubz la t<sup place="above previous">c</sup>re ou <persPronouns value="P4">noꝯ</persPronouns> ſȏmes Car ainſi quil <persPronouns value="P4 object">noꝯ</persPronouns>
+    <lb/>ſemble quil ſont ſoubz <persPronouns value="P4 tonic">nous</persPronouns> ainſi leurs ſemble il de<persPronouns value="P4 tonic">nous</persPronouns> Et ce
+<lb/>on pouoit cheoir de lat̑re Juſques au ciel par plus forte Rayſon
+<lb/>la tr̅e ⁊ la mer qui ſont ſigrans deueroiet̑ cheoirJuſq͡s au firma
+<lb/>ment/Mais ce ne pourroit eſtre car ce ne ßoit mie cheoir mais m͡o
+    <lb/>ter/Et po<sup>2</sup>ce diſt <persName>n͞r͞eß<sup>2</sup></persName>/ <foreign language="Latin">Ne timeas me quiſuſp͡ediſce t̑ram ȋ nichilo</foreign>
+<lb/>Et c͞obien q̅ ceſoit chouſe poſſible q̑ on peuſt͡ euironez tout le
+<lb/>mo͡de/Neantmoins de nul vng neRedreceroit ſi droit aRetour
+    <lb/>nez en ſon pays Et po·<sup place="above previous">2</sup>cauſe dela gr͞adeur de la t̑re ⁊ de la mer
+    <lb/>on pourroit <num>mille</num> ⁊ <num>mille</num> aultres voyes q̑nulle ne Radreceroit
+<lb/>mie p̲faitement vers les parties dont on moueroit /Pour
+<lb/>quoy c͡obien quilſoit chouſe poſſible denuir͡onez lat̑re ainſi q̑̑
+    <lb/><persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay dit Neantmoins nul ne pourroit adreciez adroicte
+    <lb/>voye ſi ce neſtoit alaventure ou de la g͡ce de dieu <strike>E</strike>Car lat̑re
+<lb/>eſt m͞l͞t grant ⁊ m͞lt͞ large/Et tient de Rondeur ⁊ detour en
+    <lb/>uiron par deſſus ⁊ par deſſoubz ſans lamer <num>xx·mille ⁊iij<sup place="above previous">c</sup>
+    <lb/>⁊ xxxv·<sup place="above previous">m</sup></num> ſelon les oppinions des anciens ſaiges les q̑ulx <persPronouns value="P1">Je</persPronouns>ne
+    <lb/>Recpue mie ſelon la petiteſſe de mon petit ſens Il <persPronouns value="P1 object">me</persPronouns> ſemble
+<lb/>ſaulue leur grace quil ya plus Et pour mieulx entendre ce q̑
+    <lb/><persPronouns value="P1">Je</persPronouns> vueil dire Soit ymagine vne figure ou Ilyait vng grat</pb>
+<pb n="f. 58r">
+<lb/>compas qui eſt appellez le centre Et ſoit fait vng aultre petit
+<lb/>compas/Et puis ſoit legr͞a͞t compas diuiſe par lignes en toutes
+<lb/>ſes partiesq̑ les lignes ſaſemblant ou centre Et pouez ſauoir
+<lb/>en qu͞ates parties ſera parti le petit c͞o͞pas qui eſt dedens le cen
+<lb/>tre Cȏbien que les eſpaces ſoient maindres Or ſoit le grant co͞
+    <lb/>pas Repreſentez po·<sup place="about previous">2</sup>le firmamet̑ Et le petit c͞opas qui eſt de
+<lb/>dans le centre ſoit Repreſentez po·<sup place="about previous">2</sup>la terre Et ceſceu͞e͞t tous
+    <lb/>aſt<unclear>rono</unclear>miens q̑ le firmamet̑ eſt diuiſe en <num>xij</num>· ſignes ⁊ chaſc͡uſi/
+    <lb/>gne diuiſe en <num>xxx</num> degrez Ceſont <num>iii<sup place="above previous">c</sup>·lx</num>·degrez/dedans leſ͞q͞ulx
+    <lb/>lefirmamet̑ eſt d<unclear>iui</unclear>ſez Et ſoit ainſi laterre diuiſee en autant de
+    <lb/>p̲ties Et Reſpondra chu͞e partie a <num>vne</num> degre dufirmamet̑ Et ſe
+    <lb/>lon les Aſtronomiens <num>vij<sup place="above previous">c</sup></num> ſ<unclear>tau</unclear>dres de t̑re Reſ͞p͞odent a<num>vng</num> degre
+    <lb/>dufirmame͡t <unclear>A</unclear> <num><unclear>ung</unclear> mille ⁊ demie</num> Or ſoit cela m͞l͞t͞iplie par <num>iij<sup place="above previous">c</sup> ⁊
+    <lb/>lx</num> foiz Ce ßoit <num>xxxi mille</num> ⁊ <num>v·<sup place="above previous">c</sup>mille</num> chaſtunede <num>viij</num>ſtandres tat̑
+    <lb/>ala terredeRondeſſe ⁊ detour environ Selon ce q̑ <persPronouns value="P1">ie</persPronouns> puis a͟pceuoir
+    <lb/>parledit des aſronomiens Si c͡ome <persPronouns value="P1">J</persPronouns>aydit Et ne deſplaiſe aulx liſas̑
+    <lb/>ce q̑ <persPronouns value="P1">Je</persPronouns> dy q̑ vne partie d<placeName type="region">ynde</placeName> eſt deſſoubz n͞r͞e piez pays d<placeName type="region">anglet̑re</placeName>
+    <lb/>Car auſſi n͞r͞e pays n͞r͞epay eſt deſſoubz <placeName type="region">ynde</placeName> aloppoſite Ainſi q̑
+    <lb/><gap reason="illegible" quantity="3" unit="char"/> orient eſt oppoſite audroit occident ainſi c͡ome e<sup>ɔ</sup> la partie
+    <lb/>demydi deſquelles p̲ties <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> ay deuat̑ parle Et voyr͞ e͞ car <persPronouns value="P1">Je</persPronouns>
+<lb/>la cy deua͡t meſſure aleſtralabe q̑ ceulx qui de meuret̑ en la partie
+<lb/>de lartati͡q ſont <strike>po</strike>piez ꝯtre piez aux aultres de la partie vers
+    <lb/>mydi Et ainſi ſ͡omes <persPronouns value="P4">noꝯ</persPronouns> avne partie d<placeName type="region">ynde</placeName> Et ſil auoit ſig<sup place="above previous">c</sup>s 
+    <lb/>d<tag type="celestial body">eſtoilles</tag> eſtables vers orient ⁊ vers occident par les q̑lles on
+    <lb/>peuſt meſurez les parties debiſe ⁊ de mydi par les deulx <tag type="celestial body">eſtoilles</tag>
+    <lb/>n͡o mouables Ceſt aſſauoir <tag type="celestial body">lartati͞q</tag> ⁊ la <tag type="celestial body">tranſm͡otaigne</tag> de t̑ram</pb>
+<pb n="f. 58v">
+    <lb/>on trouueroitles iſles et <placeName type="region">lat̑re preſtre Johan</placeName> m͞l͞t loing</pb>
+    </div>
+    </body>
+    </text>
+</TEI>

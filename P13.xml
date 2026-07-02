@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles - P13</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+      <p>Working Versioning Machine display file.</p>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+ <sourceDesc>
+      <listWit>
+          <witness xml:id="P13">Paris, BnF, naf 4515 (P13) </witness>
+      </listWit>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <variantEncoding method="parallel-segmentation" location="internal"/>
+  </encodingDesc>
+</teiHeader>
+<text>
+  <body>
+    <div1 type="transcription" n="P13">
+      <p>
+        <app n="full-text">
+          <rdg wit="#P13">
+<pb n="f. 47r">
+<lb/><hi rend="dropcap3 blue">E</hi>t puis au departir de celle cite de <placeName type="city">cornaa</placeName> on treuue
+<lb/>la terre de <persName>Job</persName> ou il a bel paẏs et grande habondāce
+<lb/>de tous biens·et appelle on la terre <placeName type="region">ſiqueſe</placeName> en celle
+<lb/>terre eſt la cite de <placeName type="city">chemā</placeName>. <hi rend="red">ℾ</hi>En celle terre na deffaute nulle
+<lb/>qui ſoit necceſſaire ahōme· la ẏ a montaignes ou on treu
+<lb/>ue grant foiſon de manne plus aſſez et meilleu q̄ on face
+<lb/>autre part. <hi rend="blue">ℾ</hi>Celle manne eſt appelee pain de lange·et eſt
+<lb/>une choſe blanche mlṫ douce et mlṫ dilicieuſe · et eſt aſſez pl⋅
+<lb/>doulce que miel et ſucre ne ſoient· et vient de la rouſee du
+<lb/>ciel· et chiet ſur les herbes de celuẏ paẏs·ſideuient blanc et
+<lb/>douls· puis le met on en medicine pour les riches hōmes po҃
+<lb/>laſchier le ventre et eſpurgier mauuais ſanc· car il eſpurge
+<lb/>le ſanc mauuais·et oſte melancolie· <hi rend="red">ℾ</hi>Ceſte terre de iob mar
+<lb/>chiſt au roẏaume de caldee et eſt mlṫ grant paẏs·et eſt le
+<lb/>langaige qui eſt plus que en nul autre paẏs entour la mer·
+<lb/> <hi rend="blue">ℾ</hi>Qui veult la aler on paſſe par la tour de <placeName type="city">babilone</placeName> dont ie
+<lb/>vous aẏ autreſfois parle·ou les langaiges furent premier'
+<lb/>changiez ·et eſt a·<num>iiij</num>·iournees du roẏaume de caldee p̱deca·
+<lb/> <hi rend="red">ℾ</hi>Ou roẏaume de caldee ſont les hōmes beaux et vont mlṫ
+<lb/>noblement parez de chiefs dores couuers de leurs draps et
+<lb/>ſont aournes dorfrois et de pelles et de pierres precieuſes mlṫ
+<lb/>noblement. <hi rend="blue">ℾ</hi>Et les fēmes ſont tres laides et mal veſtues
+<lb/>et vont a tous nus piez·et portent chaitis garnemenz lar
+<lb/>ges et cours iuſques au genoil·et ſont les manches lōgues
+<lb/>et larges en guiſe dun froc de moine et vont les manches
+<lb/>iuſques aus piez pendanz·et ont les cheueux noirs pēdans
+<lb/>au tour des eſpaules·et ſont fēmes bien noires non pas
+<lb/>brunes et tres laides et malgracieuſes et tres hideuſes a
+<lb/>veoir·  Elles me deuvoient donner bon loẏer pour elles
+<lb/>priſier·car encore ẏ a en elles tant dordures que ie ne le ſa
+<lb/>uroie deſcripre  <hi rend="red">ℾ</hi>En cel roẏaume de <placeName type="region">caldee</placeName> eſt une cite qui a</pb>
+<pb n="f. 47v">
+<lb/>a nom <placeName type="city">hur</placeName>. la demoura <persName>chares</persName> le pere <persName>abraham</persName> le patriarche
+<lb/>et la naſquit <persName>abraham</persName>·et ce fut ou temps que le pere <persName>ninus</persName>
+<lb/>fut roẏ de <placeName type="region">babilonie</placeName> d<placeName type="region">arrabe</placeName> et d<placeName type="region">egẏpte</placeName>>·Cil <persName>ninus</persName>persName> fiſt la cite
+<lb/>de <placeName type="city">niniue</placeName>.la quelle <persName>noe</persName> auoit cōmanciee afaire· <hi rend="blue">ℾ</hi>Et po ҃ce
+<lb/>que <persName>ninus</persName> lauoit parfaite il lappella par ſon nom <placeName type="city">niniue</placeName>.
+<lb/> <hi rend="red">ℾ</hi>La giſt <persName>thobie</persName> de qui la ſainte eſcripture parle· De ceſte
+<lb/>cite ſe parti <persName>abraham</persName> par le cōmandemet̅ de dieu apres la
+<lb/>mort de ſon pere·et en mena <persName>darrā</persName> ſa fēme et <persName>loth</persName> le filz
+<lb/>de ſon frere auec luẏ pour ce quil nauoient poīt denfant.
+<lb/>Et demoura en la terre de <placeName type="region">chanaam</placeName> en vn lieu qui a a nō
+<lb/><placeName type="region">sẏchem</placeName>.  <hi rend="blue">ℾ</hi>Et ce fut <persName>loth</persName> qui fut ſauuez qñt <placeName type="region">ſodome</placeName> et
+<lb/><placeName type="region">gomorre</placeName> et les autres furent arſes et fondues en labiſ
+    <lb/>me la ou <geogName type="body of water">la mer morte</geogName> eſt·ſi cōme <persPronouns value="P1">ie</persPronouns> <persPronouns value="P5 object">voꝰ</persPronouns> aẏ autreſfois dit.
+<lb/><hi rend="dropcap4 red">P</hi>uis oultre <placeName type="region">caldee</placeName> eſt <placeName type="region">amazonie</placeName>·ceſt la <placeName type="region">terre de fēmenie</placeName>
+<lb/>Ceſt vn roẏaume ou il na que fēmes·car les hōmes
+<lb/>nẏ pourroient viure en ce paẏs ſi c̅o̅me aucuns dient.mais
+<lb/>pour ce neſt il mie ainſi·car elles ne veulent que les hōmes
+<lb/>aient nul͞le ſeigneurie ſur elles· Car ou temps iadis il
+<lb/>auoit vn roẏ en ce paẏs et ẏdemouroient les hōmes ainſi
+<lb/>que autre part. ſi aduint que cil roẏ eut guerre aceulz de
+<lb/><placeName type="region">ſithie</placeName>· et auoit a nom <persName>colopiens</persName>·  Le quel roẏ fut occis en
+<lb/>la bataille auec tout le bon ſanc de ſon roẏaume· Et qñt
+<lb/>la Roẏne et les autres dames nobles du paẏs regarderent
+<lb/>quelles eſtoient toutes veuues · et que tous les nobles
+<lb/>ſans eſtoient perdus·elles ſe armerent cōme deſeſperees ⁊
+<lb/>tuerent tous les autres hōmes du paẏs qui ẏ eſtoient de
+<lb/>moures·car elles vouloient auſſi que toutes les fēmes fus
+<lb/>ſent veues ſi quelles eſtoient· Et de puis en auant ne voul
+<lb/>drent que nulz demouraſt entre elles· Mais qñt elles veu
+<lb/>lent compaignie dōme elle ſe traient vers les terres mar
+<lb/>chiſſans·et ont leurs amis qui les viſitent et demeuret̄ delez
+<lb/>eulz·<num>x</num> iours·et puis ſe retraient arrieres· Et ſelles ont
+<lb/>enfans et ilz ſoient maſles elles lenuoient au pere qñt
+<lb/>il ſcet aler et mangier par lui ſeul·ou elles loccient· Et
+<lb/>ſe ceſt femelle elles li oſtent les mamelles a vn fer chaut</pb>
+<pb n="f. 48r">
+<lb/>ſe elle eſt gracieuſe fēme on li oſte la ſeneſtre pour mieux
+<lb/>porter leſcu· Et ſe ceſt fēme de pie on li oſte la deſtre afin q̄lle
+<lb/>ne li empeſche a traire de larc turquois · car elles traient
+<lb/>mlt̄ bien de larc a main ·
+<lb/><hi rend="dropcap2 blue">E</hi>n ceſte terre a vne Roẏne qui gouuerne tout le paẏs
+<lb/>et toutes ſont obeiſſans a luẏ· Et touſiours font roẏ
+<lb/>ne par eleccion de celle qui eſt plus vaillant en armes·elles
+<lb/>ſont bonnes guerroierreſſes et preus et ſages et vaillans.
+<lb/>Et vont bien en ſoudees et aidier les autres roẏs pour ar
+gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
+<lb/><hi rend="red">ℾ</hi>Celle terre de <placeName type="region">amazone</placeName> eſt vne ẏlle toute auirōnee deaue
+<lb/>fors que en deux lieux ou il a deux entrees· Et oultre celle
+<lb/>eaue demeurent les hōmes qui ſont leur amis ou elles ſe
+<lb/>vont ſoulacier quant elles veulent·<hi rend="blue">ℾ</hi> Delez <placeName type="region">amazone</placeName>
+<lb/>en la terre de <placeName type="region">termigicte</placeName> qui eſt vn paẏs mlṫ bel mlṫ bon et
+<lb/>mlṫ delitables et pour le bon paẏs quil ẏ a fiſt le roẏ <persName>alixā
+<lb/>dre</persName> faire ſa premiere <persName>alixandre</persName> dont il fiſt·<num>xij</num>·citez que il
+<lb/>appella <placeName type="city">alixandre</placeName> · et celle cite appelle on maintenant <placeName type="city">cohite</placeName> ·
+<lb/><hi rend="red">ℾ</hi>De lautre coſte de <placeName type="region">caldee</placeName> eſt vn grant paẏs qui ſeſtent ius
+<lb/>ques en la fin d<placeName type="region">egẏpte</placeName> – <head type="rubrique"><hi rend="red"> Du paẏs d<placeName type="region">ethiope</placeName></hi></head> ·
+<lb/><placeName type="region"><hi rend="dropcap2 red">E</hi>Thiope</placeName> eſt deuiſee en deux parties principaux ·
+<lb/>Ceſt en la partie orientale et la partie occidentale·la
+<lb/>quelle parte occidentale eſt appelee <placeName type="region">morianne</placeName>·et ẏſont les
+<lb/>gens plus noirs que en nul autre paẏs·<hi rend="blue">ℾ</hi> En celle partie
+<lb/>ẏ a vne fontaine·dont de iours leaue eſt ſi froide que nulz
+<lb/>homs ne la pourroit boire· Et denuit elle eſt ſi chaude que
+<lb/>on ne pourroit ſouffrire ſa main dedenz· <hi rend="red">ℾ</hi>Et oultre celle
+<lb/>partie deuers midẏ au paſſer par la grant mer occeane ẏ
+<lb/>a vne grant terre et deux grans paẏs·mais on nẏ põroit
+<lb/>habiter pour la grant chaleur du ſoleil qui eſt ſi chaude
+<lb/>ſur celle terre· <hi rend="blue">ℾ</hi>En <placeName type="region">ethiope</placeName> toutes les riuieres ſont trou
+<lb/>bles·et les gens de ce paẏs ſont toſt legierement ẏures ⁊
+<lb/>nont mie grant apetit de mangier et ont ꝯ̲munement
+<lb/>flun de ventre·et ne ſont mie de longue vie· <hi rend="red">ℾ</hi> En <placeName type="region">ethiope</placeName>
+<lb/>a mlt̀ de diuerſes genz·et eſt <placeName type="region">ethiope</placeName> appellee <placeName type="region">cauſſie</placeName>·et ẏ a</pb>
+<pb n="f. 48v">
+<lb/>de celle gent qui nont que vn pie·et ſi vont ſi toſt que ceſt
+<lb/>merueilles·et ſi eſt ce pie ſi large que il en font vmbre a
+<lb/>tout le corps deuls encontre le ſoleil qñt il ſe couche du
+<lb/>trauers· <hi rend="red">ℾ</hi>En ce paẏs qñt les enfans ſont petis il ſont
+<lb/>tous chanus·et quant il deuiennent grans il ont les che
+<lb/>ueux tous noirs· <hi rend="blue">ℾ</hi>En <placeName type="region">ethiope</placeName> eſt la cite ſabba·et la tr̀e
+<lb/>dont lun des trois roẏs fut ſires qui vint requerre <persName>nr̄eſ</persName>
+<lb/>en <placeName type="city">bethleem</placeName>. <hi rend="red">ℾ</hi>De <placeName type="region">ethiope</placeName> va on en <placeName type="region">Inde</placeName>placeName> par mlṫ de diūs
+<lb/>paẏs·et appelle on la <placeName type="region">haute inde</placeName> <placeName type="region">fuiblach</placeName>. Et eſt <placeName type="region">inde</placeName> deui
+<lb/>ſee principalment en ·<num>iij</num>·parties· Ceſt aſſauoir <placeName type="region">inde la
+<lb/>meneur</placeName> qui eſt treſhaut paẏs·et <placeName type="region">Inde mediane</placeName> qui eſt
+<lb/>atempres paẏs·et tiennent ala terre de <placeName type="region">meddee</placeName>· Et la
+<lb/>tierce partie qui eſt vers ſeptentrion eſt <placeName type="region">Inde la maiour</placeName>.la
+<lb/>quelle partie eſt tres froide·que par fine froidure et conti
+<lb/>nuelle gelee lẏaue ẏ deuient criſtaus· Et ſur les roches de
+<lb/>ce coſte croiſſent les bons dẏamans qui ſemblent de cou
+<lb/>leur trouble criſtal· <hi rend="blue">ℾ</hi>Dẏamans ont tres haute couleur
+<lb/>ſi ꝯme doille· et cil ſont ſi durs que on ne les peut polir.
+<lb/>Et ſi ẏ a autres dẏamans que on treuue en <placeName type="region">arrabe</placeName> qui ne
+<lb/>ſont mie bōnes et ſont plus brun·et plus tenre · Et autres
+<lb/>que on treuue en lille de <placeName type="region">copce</placeName> qui ſont encore plus tenres.
+<lb/>On en treuue auſſi en la terre de <placeName type="region">machidone</placeName>· Mais les meil
+<lb/>leurs et les plus vertueus ſont en <placeName type="region">Inde</placeName>· Et auſſi en treu
+<lb/>ue on mlt̄ de frois et mlt̄ de durs en la maſſe qui eſt la
+<lb/>ou on affine lor · car qñt on depiece de celle maſſe en
+<lb/>menues pieces on treuue en la mine qui en iſt des auſſi
+<lb/>gros cōme·<num>I</num>·pois et aucunes fois mendres·et ſōt auques
+<lb/>auſſi dures ꝯme celles d<placeName type="region">ẏnde</placeName>·et taillent achier ⁊ voirres
+<lb/>legierement· <hi rend="red">ℾ</hi>Et combien que on treuue des bons dẏa
+<lb/>mens en <placeName type="region">ẏnde</placeName> ſur les roches de criſtal·neent moins on
+<lb/>les treuue plus cōmunement ſur les roches de dẏamans
+<lb/>en la mer·et ſur montaignes ou il a minieres dor· Et
+<lb/>croiſſent pluſeurs enſemble·lun petit lautre grant·et
+<lb/>en ẏ a bien de la groſſeur dune feue · Et la plus groſſe qᴤ
+<lb/>ẏ peut eſtre ſelon nature eſt auſſi groſſe ꝯme vne nois
+<lb/><catchwords>·   gaille ·</catchwords></pb>
+<pb n="f. 49r">
+<lb/>gaille·et toutes ſont aquariies et apointies de leur nature
+<lb/>ſenz nul affaitement de main dōme·et les appelle on en <placeName type="region">ẏnde</placeName>
+<lb/><foreign>hamezet</foreign>· Il croiſſent auſſi es montaignes et es roches·Il ẏ a
+<lb/>voies et roches de minieres dor ou il croiſſent enſemble mas
+<lb/>les et femelles· et ſe nourriſſent de la rouſee du ciel et conti
+<lb/>uent et engendrent·et font des petis delez eulz qui montephet̅
+<lb/>et croiſſent tous les ans·Je laẏ maintes foiz eſſaie · car ſe
+<lb/>on les garde auec vn pou de la mine de la roche ou il croiſſent
+<lb/>qui tiengne a la pointe deſſeure·et on les moullie ſouuent
+<lb/>de la rouſee de maẏ·Il croiſſent tous les ans·et deuiennent
+<lb/>les petis bien grans et bien gros ſelon leur nature·car auſſi
+<lb/>cōme la perle ſe fait ⁊ engroſſe de la rouſee du ciel· auſſi le
+<lb/>fait le vraẏ dẏamant· Et auſſi ꝯme la perle de ſa nature
+<lb/>prent rondeſce· ainſi le dẏamant par dẏamane vertu pret̅
+<lb/>quarreure· Et doit on tous dẏamant porter au ſeneſtre coſte
+<lb/>ſi eſt de plus grans uertus que ala deſtre partie·car la force
+<lb/>de leur naiſſance vient deuers ſeptentrion · ceſt la ſeneſtre
+<lb/>partie du monde et eſt ala ſeneſtre de lōme quant il treuue
+<lb/>ſa face vers orient· <hi rend="red">ℾ</hi>Et ſe vous voulez ſauoir la uertu du
+<lb/>dẏamant combien que aucuns le ſachent par le lapidaire
+<lb/>de ces parties· Neentmoins pour ce que chaſcun ne le ſcet
+<lb/>mie ie le deuiſeraẏ icẏ ſelon ce que ceulz doultre mer le diet̅ .
+<lb/>et laffient·des quelles toutes ſcience et toute philoſophie eſt
+<lb/>venue·<hi rend="blue">ℾ</hi>Le dẏamant donne a celui qui le porte hardieſce
+<lb/>et proece·et garde les membres du corps entiers·et donne
+<lb/>victoire ſus ſes ennemis en guerre·et en plait ſe la cauſe
+<lb/>eſt iuſte·et tient le portant en ſon bon ſenz · et le garde de
+<lb/>tencons et de riotes de mauuais ſignes · de viſions · et de
+<lb/>mauuais eſperit· Et ſe aucuns homs mauuais ou fēme
+<lb/>vouloit le portant encerchier ou enchanter.par la uertu de
+<lb/>la pierre·la ſorcerie ou enchantemenz retourneroiet̄ ſus
+<lb/>celui qui le vouldroit greuer· Et auſſi nulle beſte ſauuage
+<lb/>noſeroit aſſaillir la perſonne qui porteroit le dẏamant·<hi rend="red">ℾ</hi>Le
+<lb/>dẏamant doit eſtre donne ſenz conuortier et ſenz acheter
+<lb/>etadont eſt de plus grant uertu·et fait lōme plus fort et</pb>
+<pb n="f. 49v">
+<lb/>plus ferme contre ſes ennemis· Et gariſt  toutes lunatiqs̅·
+<lb/>et des cauſes dont dẏable pourſuit et trauaille·<hi rend="blue">ℾ</hi> Et ſe ve
+<lb/>nin ou male poiſon eſt portes en preſenſe de dẏamant tā
+<lb/>toſt deuient moiſte et ꝯmence a ſuer·<hi rend="red">ℾ</hi>Il ẏ abien en <placeName type="region">ẏnde</placeName>
+<lb/>des dẏamans qui ſont violaſtres et plus bruns q̄ violetes
+<lb/>ne ſoient·et ſont bien durs et bien precieus·Mais aucunes
+<lb/>gens ne les aīment pas tant cōme les autres · Mais en
+<lb/>droit moẏ ie les ameroie bien autant· Car ie les aẏ veueˁ
+<lb/>eſprouuer·  <hi rend="blue">ℾ</hi>Il en ẏ a auſſi dautre maniere qui ſont
+<lb/>auſſi blans ꝯme criſtal·mais il ſont vn pou plꝰ troubles
+<lb/>et ſont bons et degrant uertu·et tous ſont quarrez ⁊ ont
+<lb/>pointes de leur nature· aucuns ſont a·<num>vj</num>·coſtez·aucuns
+<lb/>a·<num>iij</num>·et aucuns a·<num>iiij</num>·ſi co̅me nature les fourme· <hi rend="red">ℾ</hi>Et
+<lb/>pour ce que les grans ſeigneurs et les bacheliers qui quie
+<lb/>rent honneur darmes les portent uolentiers en leurs dois·
+<lb/>Je parleraẏ vn pou plus des dẏamans combien que ie es
+<lb/>longe ma matere a la fin que il ne ſoient decheus par les
+<lb/>portans qui vont par le paẏs pour les dẏamans vendre.
+<lb/>Car qui veult achater dẏamans·il eſt meſtier que il les
+<lb/>ſache cognoiſtre pour ce que on les contrefait de criſtal
+<lb/>gaune·et ſaphir chitorin et de ſaphir bouriſſe·et dune
+<lb/>pierre que on appelle ẏris · et de petites pierre que on
+<lb/>treuue en nit de ſouris qui ſont dignes· Mais toutes
+<lb/>voies les contrefais ne ſont ſi durs·car la pointe briſe
+<lb/>mlṫ legierement·et ſi la peut on bien pollir· Mais aucū
+<lb/>ouurier par malice ne les polliſſent point affin que les
+<lb/>genz cuident que on ne les puiſt pollir· Mais on les eſ
+<lb/>ſaie en ceſte maniere· premierement on les eſſaie an
+<lb/>taillier en ſaphirs et en autres pierres precieuſes ſur cris
+<lb/>tal et ſur acier· Apres en prent vne partie daẏmant· ceſt
+<lb/>la pierre des maronniers qui trait alui laguille· Et ſe
+<lb/>le dẏamant eſt vraẏ et uertueus· le aẏmant ne traira
+<lb/>point laguille a lui tant que le dẏamant ſoit preſent
+<lb/>ſe le aẏmant neſtoit trop gros·  <hi rend="blue">ℾ</hi>Et ceſt leſpreuue
+    <lb/>que ceulz doultre mer font. Mais il auient aucunes</pb>
+<pb n="f. 50r">
+<lb/>fois que bien bons dẏamans perdent leur uertu pour la
+<lb/>contenance de ceuls qui les portent·et a dont conuient la
+<lb/>pierre faire recouurer leur uertu. <head type="rubrique 1/2"><hi rend="red">De la nature des gens</hi></head>
+    <lb/><hi rend="dropcap7 blue">I</hi>tem en <placeName type="region">ẏnde</placeName> ẏ a mains diuers paẏs <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">de celle terre</hi></head></join>
+<lb/>et maintes diuerſes entrees· et lappelle on <placeName type="region">ẏnde</placeName> pour .<num>I</num>.
+    <lb/>flueue qui queurt par mẏ le paẏs qui a anom <geogName type="body of water">ẏnde</geogName>·En
+<lb/>ce flueue ſont anguilles de·<num>xxx</num>·pies delonc et de plus·           <add place="right margin">.  nõ  .</add>
+<lb/>Les gens qui habitent entour celle riuiere ſont tous de ꝟde
+<lb/>couleur et iaune ſico̅me il euſſent la iauniſſe·<hi rend="red">ℾ</hi> En <placeName type="region">ẏnde</placeName>
+<lb/>et enuiron ẏnde ẏ a plus de·<num>v</num>·mile ẏlles bonnes et grandes
+<lb/>ſenz celle qui ſont inhabitables·et ſenz autres petites pluſ̷s
+<lb/>dont on ne puet faire mention· <hi rend="blue">ℾ</hi>Enchaſcun ẏlle ẏ a gñt
+    <lb/>foiſon de cites et de villes et de genz ſenz nombre·car <tag type="nationality">ẏndois</tag>
+<lb/>ſont de telle maniere quil nẏſſent point de leur paẏs et põ ce
+<lb/>ẏ a grant multitude de gens·car il ne ſont point mouua
+<lb/>bles pour ce quil ſont au premier climat qui eſt de <tag type="celestial body">ſaturne</tag>
+<lb/>et <tag type="celestial body">ſaturne</tag> eſt tardif et pou mouuable·car il demeure afai
+<lb/>re ſon tour par les ·<num>xij</num>· ſignes leſpace de·<num>xxx</num>·ans·  Et la
+<lb/><tag type="celestial body">lune</tag> paſſe les·<num>xij</num>·ſignes en·<num>I</num>·mois·<hi rend="red">ℾ</hi> Et pour ce que <tag type="celestial body">ſa
+<lb/>turnes</tag> eſt deſi tardif mouuement·pour ce ont les gens de
+<lb/>ſon climat nature et uolente que il ne quierent point de
+<lb/>mouuoir de paẏs en autre· Et en nr̅e paẏs eſt tout au con
+<lb/>traire· car nous ſōmes en·<num>I</num>·climat qui eſt de la <tag type="celestial body">lune</tag>·et la
+<lb/><tag type="celestial body">lune</tag> eſt de legier mouuement· et ſi eſt planete de voie·⁊ po2 ce
+<lb/>elle nous donne matere et uolente de mouuoir legieremet̅
+<lb/>et de cheminer par diuerſes voies et de cerchier choſes eſtran
+<lb/>ges et les diuerſes choſes du monde·car elle enuironne la tṙe
+<lb/>plus haſtivement que nulle autre planette.
+<lb/><hi rend="dropcap7 red">I</hi>tem on a parmẏ ẏnde par maintes diuerſes parties et
+<lb/>contrees iuſques a la mere occeane·et puis treuue on vn
+<lb/>ẏlle qui a anom <placeName type="region">ariguez</placeName> ou les marchans de <placeName type="city">veniſſe</placeName> de <placeName type="city">Je
+<lb/>neues</placeName> et dautres contrees vont ſouuent pour achater mar
+<lb/>chandiſes de pluſeurs manieres· Mais il fait ſi gñt chaut
+<lb/>en celle ẏlle que pour la grant deſtrece de lachaleur la p͟pen
+    <lb/>delle de lōme et treſtout ce la que vous ſauez bien iſt hors</pb>
+<pb n="f. 50v">
+<lb/>du corps pendant iuſques enuiron la iambe pour la grant diſ
+<lb/>ſolucion du corps· Mais les gens du paẏs et ceuls qui en ſce
+<lb/>uent la nature ſe font lẏer bien et fermement et ſe fot̅ oīdre
+<lb/>dun oingnement reſeruatif et refrigeratif pour les retenir
+<lb/>ou corps ou autrement il ne pourroiet̅ durer ne viure<hi rend="blue">ℾ</hi>En
+<lb/>ce paẏs et en <placeName type="region">ethiope</placeName> et en maint autre paẏs les gens giſent
+<lb/>toute iour ens es riuage des eaues hōmes ⁊ fēmes tous en
+<lb/>ſemble de leure de tierce iuſques a baſſe nōne et giſent tous
+<lb/>dedenz leaue fors que la face pour le grant chaut quil ẏ fait.
+<lb/>ſi que a peine le peut nulz endurer. Et ſi nont les fēmes poīt
+<lb/>de honte des hōmes mais giſent tous priueement tant q̄ la
+<lb/>chaleur eſt abeſſiee. ſi peut on veoir maintes laides figures
+    <lb/>aſſemblees eſpecialment pres des bonnes villes ·<hi rend="red">ℾ</hi>Et ſi ont
+<lb/>toutes leurs nefs faites de boẏs et de fuſt ſenz fer ne clou po2
+<lb/>les roches des aẏmans dont il a en la mer la entour tant
+<lb/>que ceſt merueille · Car ſe vne nef paſſoit par mẏ ces marches
+<lb/>ou il euſt clous ou bendes de fer tantoſt ſeroit perie· Car le
+<lb/>aẏmanẏ de ſa nature trait le fer aluẏ·ſitrairoit la nef a lẏ
+<lb/>pour la cauſe du fer· ſique iamais ne pourroit departir·<hi rend="blue">ℾ</hi>De
+<lb/>celle ẏlle va on avne autre ẏlle qui a anom <placeName type="region">chana</placeName> ou il a gñt
+<lb/>plante de ble et vin et dautres viures· et ẏ ſouloit auoir gñt
+<lb/>ẏlle et ẏ auoit mlṫ bon port· mais la mer la maintena︠t bien
+<lb/>gaſtee· et bien apeticiee· <hi rend="red">ℾ</hi>Le Roẏ de celle ylle ſouloit eſtre ſi
+<lb/>poiſſant quil guerreoit au Roẏ <persName>alixandre</persName>·et les gens de
+<lb/>ceſte terre ont mlṫ diuerſe loẏ · car les aucuns aourent le ſo
+<lb/>leil · les aucuns le feu · les aucuns arbres·les aucuns ſerpens
+<lb/>ou la premiere choſe quil encontrent au matin. <hi rend="blue">ℾ</hi> Les aucūs
+<lb/>aourent ſimulacres·et les aucuns ẏdoles.Mais entre ſi
+<lb/>mulacres et ẏdoles ẏ a difference· car ſimulacres ſont ẏma
+<lb/>ges faictes a ſemblance de aucunes choſes natureles co̅me de
+<lb/>ſemblance dōmes et de fēmes ou de ſoleil ou daucune beſte
+<lb/>ou dautres choſes natureles. <hi rend="red">ℾ</hi> Et ẏdole eſt ẏmage faite par
+<lb/>folle uolente dōme que on ne pourroit trouuer entre les cho
+<lb/>ſes naturelles ainſi que vne ẏmage a·<num>iiij</num>·teſtes·ou·<num>I</num>·hōme
+       <lb/>a teſte de cheual ou de buef ou dautre beſte q̄ nulz hōs ne vit</pb>
+<pb n="f. 51r">
+<lb/>onques ſelon nature ne diſpoſicion certane· <hi rend="red">ℾ</hi>Et ſachiez q̄
+<lb/>ceuls quie aourent ſimulacres les aourent pour aucūs vailla̅s̅
+<lb/>hōmes qui iadis furent·ſi cōme le fors <persName>hercules</persName> ⁊ pluſeurs
+<lb/>autres qui faiſoient mlṫ de merueilles en leur temps co̅met̄
+<lb/>que bien ſceuent quil ne ſont mie dieu · car il dient quil eſt
+<lb/>le dieu de nature qui fiſt toutes choſes·et eſt es cieulx·mais
+<lb/>il ſceuent bien que ceuls ne peuſſent auoir fait les merueil
+<lb/>les q̄ ilz faiſoient ſe ce ne fuſt de eſpeciale grace de dieu·et po2
+<lb/>ce ilz les aourent· Auſſi dient il du ſoleil pour ce quil change
+<lb/>le temps et donne couleur et nourriſſement a toutes choſes
+<lb/>ſus terre· Et pour ce que il eſt de ſigrant uertueuſete il ſceuet̄
+<lb/>bien que ce ne peut eſtre que dieu ne laime plus quil ne fait
+<lb/>les autres choſes· Et pour ce li a il donne a ce quil dient ſi
+<lb/>grant uertu pour quoẏ il eſt bien raiſon que on lonneure
+<lb/>et face reuerence·<hi rend="blue">ℾ</hi> Et auſſi dient il en leurs raiſons des
+<lb/>autres planetes· et du feu auſſi pour ce que il eſt ſi proffitable
+<lb/>Et dient q̄ le buef eſtoit la plus ſainte beſte qui ſoit en terre
+<lb/>et plus proffitable que nulle autre beſte · car il fait des biens
+<lb/>aſſez · et ne fait nul mal·et ſceuent bien ace quil dient q̄ ce
+<lb/>ne peut eſtre ſenz eſpeciale grace de dieu. Et pour ce font il leur
+<lb/>dieu de buef lamoitie· et lautre moitie de fourme de hōme poz
+<lb/>ce que lōme eſt la plus noble creature qui ſoit en terre. Et
+<lb/>pour ce quil a ſeigneurie ſur toutes beſtes. pour ce font il la
+<lb/>moitie de leurs ẏdoles dōme et lautre moitie de buef· <hi rend="red">ℾ</hi>Et
+<lb/>des ſerpens et autres choſes que ilz encontrent premieremet̄
+<lb/>au matin ilz aourent toutes choſes eſpecialement qui ait bon
+<lb/>encontre et que bien leur aduient la iournee quil les encō
+<lb/>trent·ſi que il ẏ ont eſſaẏe par pluſeurs fois par exp̲ience de
+<lb/>lonc temps· Et pour ce dient il que bon encontre ne peut
+<lb/>venir ſil ne vient de la grace de dieu· Et pour ce font il faire
+<lb/>les ẏmages ſemblables pour elles regarder et aourer p̀mier
+<lb/>le matin auant quil encontrent choſe contraire <hi rend="blue">·ℾ</hi>Il ẏ a bien
+<lb/>des <tag type="religious affiliation">creſtiens</tag> qui dient q̄ aucunes beſtes ont bonne encontre.et
+<lb/>aucunes mauuaiſe encontre ſi q̄ on diſt que on a eſprouue
+<lb/>maintes foiz que le lieure a mauuaiſe encontre ⁊ pourceaulx</pb>
+<pb n="f. 51v">
+<lb/>et pluſeurs autres beſtes auſſi·ou dun autre oiſel de proie
+<lb/>quant il volle de premier apres ſa proie deuat̄ genz darmes
+<lb/>Et ſe il prent la proie ceſt bon ſignes· et ſil faut ceſt mauuaiʕ
+<lb/>ſigne· <hi rend="red">ℾ</hi> Et auſſi ſont aucunes gens qui dient q̄ ceſt mauuaiʕ
+<lb/>encontre dun corbeau · en telles choſes ⁊ autres il ſont aſſes
+<lb/>de gens qui ẏ croient pour ce quil eſt ſouuent auenu· et
+<lb/>aſſes de gens qui ny croient mie ſi font treſbien· Et q̄ les
+<lb/><tag type="religious affiliation">creſtiens</tag> telz ẏ a ont celle creance qui en ſont abeures et ſce
+<lb/>uent toute ſainte doctrine·ce neſt mie merueilles ſe les paies̄
+<lb/>qui nont point de bonne doctrine fors q̄ de leur nature ſil croi
+<lb/>ent plus largement par leur ſimpleſce· <hi rend="blue">ℾ</hi>Et vraẏemet̄ iaẏ
+<lb/>veu des paiens ⁊ de <tag type="religious affiliation">ſarraſins</tag> mlṫ viguereus q̄ qñt nous
+<lb/>cheuauchiemes en armes aucune part vers nos ennemis
+<lb/>par le voller des oẏſeaulx il nous promectoient ce que noꝰ
+<lb/>trouueriemes mlṫ ſouuent apres. et ce faiſoient il par plu
+<lb/>ſeurs fois·et mectoient leurs teſtes en oſtaige quil ſeroit
+<lb/>ainſi· mais pour ce ne doit on point mectre ſa creance en
+<lb/>telles choſes·mais touſiours auoir ferme creance en <persName>nr̄e ʃ̴</persName>
+<lb/>qui peut faire ⁊ deffaire quan quil lẏ plaiſt· <hi rend="red">ℾ</hi>Ceſte ẏlle
+<lb/>de <placeName type="region">>chana</placeName> les <tag type="religious affliliation">ſarraſins</tag> lont gaigniee·et la tiennent treſgñt
+<lb/>temps a· <hi rend="blue">ℾ</hi>Il ẏ a en celle ẏlle mlṫ de lẏons et de beſtes ſauua
+<lb/><add place="left margin">.  nõ  .</add>ges·et ſi ſont la les ras auſſi grans ꝯ̲me un chien eſt en ce
+<lb/>paẏs·et les prent on aus grans maſtins·car les chas ne les
+<lb/>pourroient prendre·<hi rend="red">ℾ</hi> En celle ẏlle nenterre on nul hōme
+<lb/>mort· car la chaleur eſt ſigrande que en pou de temps eſt le
+<lb/>corps tout ꝯ̲ſūmez iuſques as os·<head type="rubrique 1/2"><hi rend="red">Du lieu ou le poivre croiſt</hi></head>
+    <lb/><hi rend="dropcap2 blue">D</hi>E la va on vers <placeName type="region">ẏnde la maiour</placeName> <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">et en quel maniere·</hi></head></join>
+<lb/>a vne cite qui a nom <placeName type="city">garbe</placeName> qui eſt mlṫ belle ⁊ mlṫ bonne⁊
+<lb/>ẏ demeurent mlṫ de bons <tag type="religious affiliation">creſtiens</tag>·et de bonne foẏ·et ſi a mlṫ de
+<lb/>religieux eſpecialment de <tag type="religious affiliation">mendians</tag>·<hi rend="red">ℾ</hi> Puis va on par mer
+<lb/>en la terre de <placeName type="region">lombe</placeName> · en celle terre croiſt le poiure en vne fo
+<lb/>reſt qui a a nȏ <geogName type="forest">combar</geogName>·et ne croiſt aillieurs nulle part en
+<lb/>tout le monde que ie ſache que en ceſte foreſt qui dure bien
+<lb/><num>xviij</num>·iournees de lōnc·<hi rend="blue">ℾ</hi> En celle foreſt a·<num>ij</num>·bonnes citez do͡t
+    <lb/>lune a nō flandrine et lautre ſinglans· et ẏ a des autres villeʕ</pb>
+<pb n="f. 52r">
+<lb/>pluſeurs·et en chaſcune de ces villes demeure͡t <tag type="religious affiliation">creſtie͡s</tag> et <tag type="religious affiliation">Juẏs</tag>
+<lb/>grant foiſon·car il ẏ a bon paẏs·mais mlṫ ẏ fait grant chaut
+<lb/>      Et pouez ſauoir que le poiure croiſt a maniere dune vigne
+<lb/>ſauuage qui ſoit plantee pres des arbres du bois pour le ſous
+<lb/>tenir ainſi c̅o̅me la vigne.et pent le fruit a maniere du roiſī
+<lb/>et ſi eſt ſi chargie larbre que il ſemble quil doie briſier· Et qñt
+<lb/>le fruit eſt meur il eſt tout vert c̅ome baẏens et adont on le
+<lb/>vendenge ainſi co̅me on fait les vignes·et puis le ſeche on
+<lb/>au ſoleil tant quil eſt tout noir et tout creſpis· <hi rend="blue">ℾ</hi>Et ſi a· <num>iij</num>·
+<lb/>manieres de poiure en·<num>I</num>·arbre ceſt aſſauoir·poiure lonc poiure
+<lb/>blanc ⁊ poiure noir· Le poiure lonc eſt appelle <foreign>ſorbetim</foreign>·le noir
+    <lb/><foreign>phuſul</foreign>·et le blanc <foreign>bauos</foreign>· Le poiure lonc vient premier qñt
+<lb/>la fueille ꝯ̲mence a venir·et ſemble auques de facon de la
+<lb/>fleur de corre qui vient auant que la fueille et pent ꝯ̲treual·
+<lb/>Et puis vient le noir auec la fueille en maniere de grappes
+<lb/>de roiſin bien vert· et qñt on a celui cueillẏ·ſi vient le blanc
+<lb/>qui eſt aſſes meilleur du noir· de celui naporte on point en
+<lb/>ce paẏs·car ilz le retiennent pour euls pour ce que ceſt le meil
+<lb/>leur et de plus atrempee nature que le noir ne ſoit·et ſi nc̄ ẏ a
+<lb/>une ſi grande habundance de blanc que de noir· <hi rend="red">ℾ</hi>En ce paẏs
+<lb/>ẏ  mlṫ de manieres de ſerpens et dautres venins pour la grāde
+<lb/>chaleur du paẏs et du poiure. <hi rend="blue">ℾ</hi> Et dient aucunes gens que
+<lb/>quant ilz veullent cueillir le poiure que il font feu au pie
+<lb/>de larbre pour faire fuir les ſerpens ⁊ les culueures· Mais
+<lb/>ſauue la grace des diſans·car ſe ilz ardoient entour les ar
+<lb/>bres qui portent le poiure·il les ardroient ⁊ ſecheroiet̅ ainſi
+<lb/>ꝯ̲me autres choſes· mais ilz le feroient mlṫ aenuis ne ia
+<lb/>mais nẏ mettroient feu. Mais ilz ſe oingnent les pies et
+<lb/>les mains de ius de limō ou ilz portent herbes auec eulz dot̅
+<lb/>les ſerpens doubtent lodeur·ſi ſen fuẏent deuant eulz pour
+<lb/>la cauſe de lodeur ·et puis vont il vendengier le poiure tout
+<lb/>ſeurement·car il nont garde que nul venin doie a̢ppch’ v̇s eulx.
+<lb/><hi rend="dropcap3 red">I</hi>tem vers <head type="rubrique"><hi rend="red">De la fontaine qui guariſt de toutes maladies ·</hi></head>
+<lb/>le chief de ceſte foreſt eſt la cite <placeName type="city">polumbus</placeName>·et par deſſeure
+    <lb/>celle cite ẏ a une grande montaigne qui a a nō <geogName type="mountain">polumbe</geogName></pb>
+<pb n="f. 52v">
+<lb/>et de celle montaigne prent la cite ce nom· Et aupie de celle mȏ
+<lb/>taigne ẏ a vne fontaine qui a oudeur ⁊ ſaueur detoutes ma
+<lb/>nieres deſpices·et a chaſcune heure elle change oudeur et ſa
+<lb/>ueur· Et quiconques boit trois fois a ieun de celle fōtaine
+    <lb/><add place="left margin">.  nõ  .</add>il eſt cure de quelconques maladie quil ait· Et ceuls qui la
+<lb/>demeurent et qui ſouuent en boiuent il noṅt onques nulle
+<lb/>maladie·Je en beu·<num>iij</num>·fois ou·<num>iiij</num>· et encore me ſemble q̄ ien
+<lb/>vaille mieulx.<hi rend="blue">ℾ</hi> Et diſt on q̄ celle fontaine vient deparadis
+<lb/>et pour ce eſt elle ſi vertueuſe· et auec ce ceuls qui ſouuent en
+<lb/>boiuent ſemblent eſtre touſiours ieunes · dont les aucuns
+<lb/>lappellent et dient que ceſt la fontaine de iouuent pour ce q̄le
+<lb/>fait reſſembler a eſtre les gens jouenes· <hi rend="red">ℾ</hi>Par tout ce paẏs
+<lb/>croiſt mlṫ bon gingembre · et la vont les marchans de pluſ̶s
+<lb/>paẏs pour querre des eſpices· ℾEn ce paẏs les gens aourent
+<lb/>un buef pour ſa ſimplece et pour ſa debonnairete·et dient
+<lb/>q̄ ceſt la plus ſainte beſte qui ſoit en terre·car il leur ſemble
+<lb/>quil ſoit ſimple et debonnaire piteus et proffitable et eſt mlṫ
+<lb/>ſouuent ſacrefies·car il leur ſemble quil eſt atoutes v̇tus
+<lb/>bon· Il font le buef labourer·<num>vj</num>·ans ou·<num>vij</num>·et puis le mā
+<lb/>guent aus grans ſollempnitez· Et a le Roẏ du paẏs tous
+<lb/>iours·<num>I</num>·tel buef auec li·et ceuls qui le gardent tous les
+<lb/>iours il recoiuent le fiens et lorine en deux vaiſſeaux dor et
+<lb/>puis le baille on aleur prelat que ilz appellent <persName>acthiprocho
+<lb/>papato</persName> · Et cil prelat le porte deuant le Roẏ·et le roẏ p̲ gñt
+<lb/><add place="left margin">.  nõ  .</add>deuocion moulle ſes dois de lorine que ilz appellent <foreign>ghaul</foreign>·
+<lb/>et moulle ſon front ⁊ la poitrine auecqs̅ grant reuerence p̲
+<lb/>entencion quil ſont remplis des uertus deſſus dites q̄ le buef
+<lb/>a en lẏ·et leur ſemble quil ſoient ſaintefies par la ̷vtu de celle
+<lb/>choſe qui riens ne vault·<hi rend="red">ℾ</hi>Et apres le Roẏ le font les grans
+<lb/>ſeigneurs·et apres les ſeigneurs le font les autres maiſtres
+<lb/>quant ilz en peuent auoir aucun remenant· <hi rend="blue">ℾ</hi>En ce paẏs il
+<lb/>font ẏdoles moitie hōme et moitie buef·Et en ces ẏdoles le mau
+<lb/>uais eſperit parle a eulx et leur reſpont de quanque ilz veulet̅
+<lb/>demander· <hi rend="red">ℾ</hi>Par deuant ces ẏdoles occient il maintes fois
+<lb/>leurs enfans·et esp̲gent les ẏdoles de leur ſanc·et ainſi font</pb>
+<pb n="f. 53r">
+<lb/>leurs ſacrefices·<hi rend="red">ℾ</hi>Et qñt aucun hōme meurt ou paẏs ilz ardet̄
+<lb/>le corps en nom de penance affin que il ne ſueffre plus dautre
+<lb/>peine en lautre ſiecle ne eſpeciaulment en terre· car ilz dient q̄
+<lb/>les vers le mangeroient· Et ſe ſa fēme na nuls enfans ilz lar<add place="left margin">.  nõ  .</add>
+<lb/>dent avec luẏ·et dient que ceſt raiſon quelle li face ꝯ̲paignie
+<lb/>en lautre ſiecle· Et ſe elle a enfans de luẏ on la laiſſe viure pour
+<lb/>nourrir les enfans ſe elle veult·Et ſe elle aime mieulx a viure
+<lb/>avec ſes enfans que a mourir ⁊ eſtre arſe auec ſon mari on
+<lb/>la tient a fauſſe et a mauuaiſe ne iamais ne ſera rie̅s priſiee
+<lb/>ne nuls homs ne ſe fiera iamais en lẏ· Et ſe la fēme meurt
+<lb/>deuant ſon mari lōme ſe fait ardoir auec elle ſe il veult.et ſe il
+<lb/>ne veult ce faire on ne le conſtraindra mie mais il ſe pourra ma
+<lb/>rier autre fois ſenz blaſme· <hi rend="blue">ℾ</hi>Item en ce paẏs croiſſent bons
+<lb/>vins dont les hōmes ne boiuent point.mais les fēmes boiuent
+<lb/>bien vin. <head type="rubrique 1/2"><hi rend="red">Du bras ſaint thomas et des ẏdoles qui ſont en ſō</hi></head>
+    <lb/><hi rend="dropcap2 blue">D</hi>E ce paẏs va on en paſſant par pluſieurs marches <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">eglẏſe</hi></head></join>·
+<lb/>vers vn paẏs a·<num>x</num>· iournees loing que on appelle <placeName type="region">Malbaron</placeName>
+<lb/>et ẏ a vn mlṫ grant roẏaume et mlṫ de belles cites ⁊ de belles villes·
+<lb/><hi rend="red">ℾ</hi> En ce roẏaume giſt le corps <persName>ſaint thomas</persName> lapoſtre en char et
+<lb/>en os deſſouz vne belle tombe en la cite de <placeName type="city">calamẏon</placeName>·car la fut il
+<lb/>martẏrie⁊ enſeueli· mais les <tag type="nationality">aſſyriens</tag> firent iadis porter le
+<lb/>corps deluẏ en <placeName type="region">meſopotame</placeName> en la cite de <placeName type="city">ediſſe</placeName>·et puis fut il la
+<lb/>raporte arriere·et les bras ⁊ les mains quil bouta es plaies <persName>nr̅e
+<lb/>ſeigneur</persName> qñt <persName>nr̅es</persName> ſapparut alẏ apres ſa reſurreccion et li diſt·
+    <lb/><foreign type="latin"><hi rend="underline red">Noli eſſe incredulus ſed fidelis</hi></foreign>· Et giſt encore la main de luẏ
+<lb/>au dehors du vaiſſel. et par celle main pour leur iugement ou
+<lb/>paẏs eſſaient qui a tort ou droit· Car quant il a diſcencion en
+<lb/>tre deux parties et chaſcun tient quil ait droit il mectent·la
+<lb/>cauſe de chaſcun en eſcript·et puis il mectent les eſcrips en la
+<lb/>main de <persName>ſaint thomas</persName> · et tantoſt la main degicte le tort ou
+<lb/>fauls en loing·et retient la main le droit et la verite·et ainſi
+<lb/>viennent de bien loing pour auoir iugement des cauſes doutables.
+<lb/><hi rend="dropcap3 red">I</hi>tem legliſe ou <persName>ſaint thomas</persName> giſt eſt une mlṫ gñt eglẏſe
+<lb/>et belle et eſt toute pleine degrans ſimulacres·ce ſont gñs
+    <lb/>ẏmages quil appellent leurs dieux.dequoẏ le mendre eſt</pb>
+<pb n="f. 53v">
+<lb/>auſſi grant co̅me ho̅mes ſont· et entre les autres ẏ a vne autre
+<lb/>grant ẏmage plus aſſez que nulle des autres qui eſt toute
+<lb/>couuerte dor ⁊ de pierres precieuſes·Et ceſt lẏmage des faulz
+<lb/><tag type="religious affiliation">creſtiens</tag> renoiez et ſiet en vne grande chaiere mlṫ noblemt̅
+<lb/>et a entour ſon col des larges ceintures ouurees dor et de
+<lb/>pierres precieuſes· et eſt legliſe toute doree par dedenz· Et a
+<lb/>celle egliſe vient on en pelerinage ainſi cōmunement et par
+<lb/>auſſi grant deuocion q̄ <tag type="religious affiliation">creſtiens</tag> font a <persName>ſaint Jaq̅s</persName> en <placeName type="region">gallice</placeName>
+<lb/>Et pluſeurs gens qui vont vers celle ẏdolle de lointaines tṙes
+<lb/>par la gñt deuocion quil ẏ ont il regardent touſiours en
+<lb/>terre·et noſent leuer leurs teſtes pour regarder entour euls
+<lb/>pour paour quil ne voient aucune choſe qui les oſte de leur
+<lb/>deuvocion. Et des autres ẏ vont en pelerinage qui portent des
+<lb/>coutiaux en leurs mains·et ſe fierent et plaient es bras ⁊es
+<lb/>iambes ⁊ es cuiſſes·et eſpandent leur ſanc pour lamour de
+<lb/>celle ẏdole. et dient que cilz eſt bons eureux qui meurt pour
+<lb/>lamour de ſon dieu. <hi rend="blue">ℾ</hi> Et des autres ẏ a qui maīnet̄ leurs
+<lb/>enfans pour occire ⁊ ſacrefier deuant celle ẏdole·et puis eſpar
+<lb/>gent lẏdole du ſanc des enfans· ℾEt des autres ẏ vont q̄ de
+<lb/>leure quil ſe partent de leurs maiſons a chaſcū·<num>iij</num>·pas ilz
+<lb/>ſagenoillent tant quil ſont venus a celle ẏdole · Et qñt il
+<lb/>ſont la venuz il ont encenz et autres choſes bien odorans
+<lb/>de quoẏ ilz encenſent lẏdole· ſi co̅me ſe ce fuſt le corps <persName>nr̅es</persName>.
+<lb/>et ainſi vient on pour aourer a celle ẏdole de plus de cent
+<lb/>lieues de loing·Et ſi a dedenz le mouſtier de celle ẏdole aīſi
+<lb/>cōme vn viuier ou lach plein dẏaue·Et en ce viuier gitent
+<lb/>les pelerins or et argent perles et pierres precieuſes ſenz nō
+<lb/>bre· Et de ce quant les maiſtres des ẏdoles ont meſtier dau
+<lb/>cune choſe faire en legliſe tantoſt il vont au viuier ⁊ pren
+<lb/>nent ce quemeſtier leur eſt pour la reedificacion de leglẏſe
+<lb/>ſi q̄ riens nẏ faut qui ne ſoit tantoſt rappareillie·
+<lb/><hi rend="dropcap4 blue">I</hi>Tem quant les grans feſtes de celle ẏdole viennent·ſi
+<lb/>cōme dedicacions de legliſe·Intronizacions de lẏdole tous
+<lb/>les paẏs la entour ſi aſſemblent et mectent celle ẏdole a
+    <lb/>grant reuerence ſur vn char aourne de draps dor et de tar</pb>
+<pb n="f. 54r">
+<lb/>taires·et le maīnent ainſi entour la cite·et pardeuant le char
+<lb/>vont premier aus proceſſions toutes les pucelles du paẏs mlṫ
+<lb/>ordeneement ·<num>ij</num>·a·<num>ij</num>·enſemble·Apres les pucelles vont les
+<lb/>pelerins qui ſont de lointaines marches·des quelz pelerins ſe
+<lb/>laiſſent cheoir deſſouz les roes du char et laiſſent paſſer le
+<lb/>char·deſſus euls·ſi que aucuns ẏ muerent·et les aucuns ẏbriſet̄
+<lb/>leurs bras leurs iambes et leurs coſtes·et ce font il pour lamour
+<lb/>de leur dieu en grant deuotion· Et penſent q̄ de tant ꝯ̲me il fot̄
+<lb/>et ſueffrent plus grans tribulacions pour lamour de celle ẏdole
+<lb/>de tant ſeront il plus pres de dieu et plus grant ioie auront en
+<lb/>lautre ſiecle. Et briefment adire ilz font de ſigrans penances ⁊<add place="right margin">.  nõ  .</add>
+<lb/>de ſi grans martẏres ſouffrir au corps pour lamour de dieu que
+<lb/>apaīnes nul <tag type="religious affiliation">creſtien</tag> noſeroit emprendre a faire la·<num>x<sup>c</sup></num>·ptie pour
+<lb/>lamour de <persName>ihūcriſt</persName>. <hi rend="red">ℾ</hi> Et vous dẏ q̄ deuant le char au plꝰ pres
+<lb/>vont les meneſterelx du paẏs auſſi ꝯ̲me ſenz nombre auec di
+<lb/>uers inſtrumens·et font entre euls des grandes melodies·Et
+<lb/>qñt ilz ont toute la cite auirōnee ilz retournent aleglẏſe et re
+<lb/>mectent lẏdole en ſon lieu· et adont pour lamour de celle ẏdole
+<lb/>et pour la reuerence de celle feſte·ſi occient bien·<num>cc</num>·ou·<num>ccc</num>·perſō
+<lb/>nes des quelz on prent les corps et les met on deuant lẏdole et
+<lb/>dient quil ſont ſains en lautre ſiecle pour ce que ilz ſe ſot̅ occis
+<lb/>de leur bonne uolente pour lamour deleur dieu. <hi rend="blue">ℾ</hi>Et auſſi
+<lb/>cōme vn lignage ſe tenroit honnore par deca dun ſaint hōme
+<lb/>ou de·<num>ii</num>·ſe ilz eſtoient du lignage et en metroient les biēs fais
+<lb/>et les miracles en eſcript quil auroit fais pour les faire canoni
+<lb/>ſier·ainſi ſe tiennent il par dela pour honnores de ceuls qui ſe
+<lb/>tuent pour lamour de leur dieu·et les mectent en eſcript en
+<lb/>leurs letanies·et ſe vantent ⁊ dient lun alautre·Jaẏ plus de
+<lb/>ſains en mon lignage que vous naẏes ou vre̅·<hi rend="red">ℾ</hi>Et eſt la cous
+<lb/>tume telle q̄ qñt ilz ont entencion deulz occirre pour leur dieu
+<lb/>ilz font mander tous leurs amis et ont grant foiſon de menes
+<lb/>tereux et vont deuat̄ lẏdole a grant feſte menant· Et cil qui ſe
+<lb/>doit occirre a vn coutel bien trenchant en ſa main et coppe vne
+<lb/>piece de ſa char  et la giete en la face de lẏdole en diſant ſes oroi
+    <lb/>ſons. et le reco̅mandent a ce dieu et puis ſe fiert ⁊ plaie tant</pb>
+<pb n="f. 54v">
+<lb/>par deca ⁊ par dela quil chiet mort  Et a dont les amis preſen
+<lb/>tent le corps alẏdole et dient en chantant· Regardes dieu que
+<lb/>vr̅e loial amẏ ⁊ ſergent afait pour vous·Il a relinque fēme
+<lb/>et enfans richeſces et tous les biens de ce monde p a vous
+<lb/>et ſa <sub>c</sub>ppre vie pour vous ⁊ pour lamour de vous et vous a
+<lb/>fait ſacrefice de ſa char et de ſon ſanc·ſile vueilliez poſer·delez
+<lb/>bons entre vos plus amis en la gloire de paradis·car illabiē
+<lb/>deſeruẏ·et puis il font vn grant feu ardant et ardent le corps
+<lb/>et prennent des cendres et les gardent en lieu de reliques et
+<lb/>dient q̄ ceſt mlṫ ſainte choſe et quil nont garde de nul peril tat̅
+<lb/>quil aient ſur eulx de celle cendre.<head type="rubrique 1/3"><hi rend="red">Ci parle de <placeName  type="region">la terre de femenie</placeName></hi></head>
+<lb/><hi rend="dropcap2 red">D</hi>E ce paẏs va on par <head type="rubrique 2/3"><hi rend="red">et apres des·<num>ij</num>·eſtoilles parta̅s le fir</hi></head>
+<lb/>mer occeane par maintes diuerſes ẏlles et par <head type="rubrique 3/3"><hi rend="red">mamet̅·</hi></head>
+<lb/>maint paẏs qui mlṫ ſeroient lons adeuiſer·<hi rend="blue">ℾ</hi>Et a·<num>lij</num>·iour
+<lb/>nees loing de celle terre dont iaẏ parle ẏ a vne autre terre qui
+<lb/>eſt mlṫ grande qui a anom <placeName type="region">lamorẏ</placeName>·en celle terre il fait mlṫ
+<lb/>chaut·et ſi eſt la couſtume telle q̄ les hōmes ⁊ les fēmes ẏ vot̅
+<lb/>tous nus·et ſe moquent qñt ilz voient aucun eſtrange qui
+<lb/>eſt veſtus·et dient que dieu qui fiſt <persName>adam</persName> fut nus et <persName>adam</persName>
+<lb/>et <persName>eue</persName> furent tous nus fais et que lōme ne doit point auoir
+<lb/>honte de luẏ monſtrer tel que dieux la fait. car riens neſt
+<lb/>lait qui ſoit de nature fourme et fait. <hi rend="red">ℾ</hi> Et dient que ceulz
+<lb/>qui ſont veſtus ſont gens dun autre ſiecle ou il ſont gens
+<lb/>qui ne croient point en dieu·  <hi rend="blue">ℾ</hi>Et dient que ilz croient bien
+<lb/>en dieu qui crea le monde · et fiſt <persName>adam</persName> ⁊ <persName>eue</persName> et toutes choſes
+<lb/>qui ſont en ciel ⁊ en terre·et ſi nont nulles fēmes eſpouſees
+<lb/>ains ſont toutes les fēmes du paẏs cōmunes et ne refuſent
+<lb/>nulluẏ. Et dient quelles pecheroient ſe elles refuſoient nul
+<lb/>hōme·et que dieu le ꝯ̲manda ainſi a <persName>adam</persName> et a ceuls qui de
+<lb/>lui deſcendroient la ou il diſt· <foreign type="latin"><hi rend="underline red">Creſcite et multiplicamini et
+    <lb/>replete terram</hi></foreign>. <hi rend="red">ℾ</hi>En ce paẏs nul ne peut dire ceſt ma fēme
+<lb/>ne nulle fēme ne peut dire cil eſt mon baron·<hi rend="blue">ℾ</hi> Et qñt elles
+<lb/>enfantent elles le donnent aqui quelle veulent qui ait eu
+<lb/>compaignie a elles· Et auſſi eſt la terre toute cōmune· Car
+    <lb/>lun la tient vne annee et lautre vne autre· Et pret̅ chaſcū</pb>
+<pb n="f. 55r">
+<lb/>de toutes choſes de quel part que il veult et ſont tous les biens du
+<lb/>paẏs cōmuns·bles vitailles et toutes autres choſes·car riens
+<lb/>nẏ eſt enclos ne enſerre·aincois prent chaſcun ce quil lui plaiſt
+<lb/>ſenz contredit·Et ainſi eſt auſſi riches lun cōme lautre· Mais
+<lb/>il ont vne mauuaiſe couſtume·car ilz manguent plus volētiers
+<lb/>char dōme que de nulle autre char · Et ſi eſt le paẏs  mlṫ habund̀
+<lb/>de tous biens ſi cōme de bles de char de poiſſon·dor et dargent et
+<lb/>de toutes autres choſes· <hi rend="blue">ℾ</hi>La vont des marchans ⁊ mainet̅ des
+<lb/>enfans pour vendre aceuls du paẏs· et ilz les achatent·et ſe ilz
+<lb/>ſont gras il les manguent tantoſt· Et ſe il ſont maigres ilz
+<lb/>les font engreſſier· et dient que ceſt la meilleur char etla plʔ
+<lb/>doulce du monde. <hi rend="blue">ℾ</hi> En celle terre ne en ce pays ne en pluſ̸ s
+<lb/>autres par dela on nẏ voit point deſtoille tremontaine· Ceſt
+<lb/>leſtoille de mer qui ne ſe muet point· qui eſt vers bize·Mais
+<lb/>on voit vne autre qui eſt au contraire de celuẏ vers mẏdi que
+<lb/>on appelle <tag type="celestial body">antartique</tag>·et tout auſſi q̄ les marōniers prennet̅
+<lb/>aduis ẏci ſe gouuernet̅ par ceſte eſtoille vers biſe·auſſi font
+<lb/>les marōniers de la par ceſte eſtoille deuers mydi· la quelle ne
+<lb/>appartient point a nous. <hi rend="red">ℾ</hi>Et ceſte deuers biſe ne ap̲p̲tient poit̅
+<lb/>a eulz·pour quoẏ on puet ap̲p̲ceuoir que la terre et la mer ſot̅
+<lb/>de ronde fourme·car la partie du firmamet̄ ap̲p̲tient a vn paẏs
+<lb/>qui ne appartient point a autre· Et ce peut on ap̲p̲ceuoir p̱ experi
+<lb/>ence et ſubtille indicacion·que ſe on trouuoit paſſage de nef
+<lb/>et gens qui vouſiſſent aler et cerchier le monde on pourroit
+<lb/>aler a nauie tout entour le monde· et deſſure ⁊ deſſoubz·la
+<lb/>quelle choſe ie preuue ſelon ce que ie aý eſſaie·car ie aẏ eſte par
+<lb/>les parties de <placeName type="region">braibant</placeName> et par la ſigne de laſtrolabe·ie treuue
+<lb/>que la <tag type="celestial body">treſmonta<unclear reason="correction">in</unclear>e eſtoille</tag> eſt·<num>liij</num>·degres de haut·Et en <placeName type="region">ale
+<lb/>maigne</placeName> vers <placeName type="city">rome</placeName> elle a·<num>lviij</num>·Et plus auant vers les p̱ties
+<lb/>de ſeptentrion elle a·<num>lxij</num>·degres de haut et aucuns minus auec·
+<lb/>Car ie meiſmes laẏ meſure a laſtrolabe· <hi rend="blue">ℾ</hi> Or deuez vous ſa
+<lb/>uoir q̄ contre celle eſtoille qui eſt appelee <tag type="celestial body">antartique</tag> et lautre
+<lb/>q̄ iaẏ par deuant dite que par ces·<num>ij</num>·eſtoilles qui ne ſont point
+<lb/>mouuables tout le firmament tourne ainſi cōme la roe ſe tour
+    <lb/>ne par ſon moẏeul. ſiq̄ ces·<num>ij</num>·eſtoilles partent le firmament</pb>
+<pb n="f. 55v">
+<lb/>en·<num>ij</num>·parties ſi que autant ẏ a par deſſouz co̅me p̲ deſſeure
+<lb/>Apres ie ſuẏ ale vers les parties meridionelles·ceſt  vers
+<lb/>mẏdi·et aẏ trouve vers la <placeName type="region">haute libie</placeName> que on voit premieȓ
+<lb/>leſtoille <tag type="celestial body">antartique</tag>·et tant cōme ie alaẏ plus auant en
+<lb/>celles parties tant trouuai ie celle eſtoille plus haute· ſi
+<lb/>que plus auant en la <placeName type="region">haute libie</placeName> vers <placeName type="region">ethiope</placeName> elle a·<num>xviij</num>·
+<lb/>degres de haut et aucuns minus auec·dont les·<num>lx</num>·minus
+<lb/>font un degre·ℾEt en alant vers ce paẏs dont ie parle·et en
+<lb/>es autres ẏlles et paẏs oultre·Ie trouuaẏ <tag type="celestial body">lantartique</tag> de·
+<lb/><num>xxxiij</num>·degres de haut et·<num>xvj</num>·minus·<hi rend="blue">ℾ</hi>Et ſe ie euſſe trouue
+<lb/>nauie et compaignie pour aler plus auant·ie cuide eſtre cer
+<lb/>tain que nous euſſions veu toute la rondeſſe du firmamet̅
+<lb/>tout entour·car ſi cōme ie vous aẏ dit deuant·lamoitie du
+<lb/>firmament eſt entre·<num>ij</num>· eſtoilles  laquelle moitie iaẏ toute
+<lb/>veue·et des autres moities aẏ ie veu vers biſe deſſouz la <tag type="celestial body">treſ
+<lb/>montaigne</tag>·<num>lxij</num>·degres et·<num>x</num>· minus· Et deuers les pties
+<lb/>meridionelles·iaẏ veu deſſouz <tag type="celestial body">lantartique</tag>·<num>xxxiij</num>·degrez
+<lb/>et·<num>xvj</num>·minus· Et lamoitie du firmament ne tient que
+<lb/>·<num>ix·vins</num> degres dont ien aẏ veu·<num>lxij</num>·dune part et·<num>xxxiij</num>·
+<lb/>dautre·ce ſont·<num>iiij·vins</num> et·<num>xv</num>/·degres et pres de lamoitie
+<lb/>dun degre· Et ainſi ne faut il que ie naẏe veu tout le fir
+<lb/>mament que·<num>iiij·vins</num> et·<num>iiij</num>·degres et bien lamoitie dū
+<lb/>degre·Et ce neſt mie la quarte partie du firmament·car
+<lb/>la quarte partie tient·<num>iiij·vins</num> et·<num>x</num>·degrez·ſi en faut·<num>v</num>·
+<lb/>degrez et demẏ de la quarte partie · ainſi ai ie veu de la rō
+<lb/>deſce du firmament les·<num>iij</num>·parties et plus encore·<num>v</num>·de
+<lb/><add place="left margin">.  nõ  .</add>grez et pres de demẏ·pour quoẏ ie di certainement q̄ on
+<lb/>pourroit enuironner toute la terre du monde auſſi bien
+<lb/>par deſſouz cōme par deſſeure et retourner arriere en ſon
+<lb/>paẏs qui auroit compaignie et conduit et nauie et toʔ
+<lb/>iours trouueroit on terres et paẏs et ẏlles tout auſſi
+<lb/>bien cōme en ce paẏs · car vous ſauez que ceuls qui ſont
+<lb/>endroit de <tag type="celestial body">lantartique</tag> ſont droitement pie contre pie
+<lb/>de ceulz qui demeurent deſſouz <tag type="celestial body">la treſmontaine</tag> auſſi biē
+    <lb/>ꝯ̲me nous· Et ceulz qui demeurent deſſouz nous ſōmes</pb>
+<pb n="f. 56r">
+<lb/>pie contre pie·car toutes les parties de mer et de terre ont leurs
+<lb/>oppoſites habitables et treſpaſſables et de ca et dela·
+<lb/><hi rend="dropcap2 blue">E</hi>T ſachies que ſelon ce que ie puis apparceuoir ne com
+<lb/>prendre· La terre de <persName>preſtre iehan empereur dinde</persName> eſt
+<lb/>deſſouz nous· car en alant d<placeName type="region">eſcoce</placeName> et d<placeName type="region">angleterre</placeName> vers <placeName type="city">ihrlm̀</placeName>
+<lb/>on monte touſiours· Car nr̅e terre eſt en baſſe parties de la
+    <lb/>terre vers occident·Et la terre <persName>preſtre iehan</persName> eſt en la baſſe ptie
+<lb/>vers orient·et ont la le iour quant nous auons la nuit·Et
+    <lb/>auſſi au contraire il ont la nuit qñt nous auons <hi rend="underline" type="dotted">la nuit·</hi> <add hand="other">le jour</add>
+<lb/>Car la terre et la mer ſont de ronde fourme· ſi cōme ie vouz
+<lb/>aẏ deuant dit· Et ce q̄ on monte a vn coſte on auale a
+<lb/>lautre· ℾ Or auez vous oẏ dire par deuant que <placeName type="city">iheruſalē</placeName>
+<lb/>eſt en milieu du monde·et ce ẏ pert par vne lance fichiee
+<lb/>en terre ſur leure de midẏ qui ne fait point dombre en nul
+<lb/>coſte· et que ce ſoit en mẏlieu de la terre·<persName>dauid</persName> le teſmoigne
+    <lb/>la ou il diſt· <foreign type="latin"><hi rend="underline red">Et operatus eſt ſalutem in medio terre ℸc̑·</hi></foreign>
+<lb/>Donques ceulz qui partent de ces parties pour aler vers <placeName type="city">ihe
+<lb/>reſalem</placeName>·autant de iournees q̄ il mectent de monter iuſqs̅
+<lb/>ala·en autant de iournees peut il aler de <placeName type="city">ihrlm̀</placeName> iuſques en
+<lb/>autres confines de la ſup̲fice de la terre dela· Et qñt on va
+<lb/>oultre celles iournees vers ẏnde et les ẏlles foraines en oul
+<lb/>tre·ce eſt en auironnant ladrece de la terre et de lamer par
+<lb/>deſſouz nr̅e paẏs par deca· Et pour ce meſt il ſouuent ſou
+<lb/>uenu dune choſe que iaẏ oẏ conter qñt ie eſtoie petit cōme
+<lb/>un vaillant hōme de nr̅e paẏs ſe parti iadis pour aler cerchier
+<lb/>le monde· ſi paſſa ẏnde et les ẏlles ou il en a plus de ·<num>v</num>·mile·
+<lb/>et tant enuironna le monde par maintes ſaiſons quil trou
+<lb/>ua vne ẏlle ou il oẏ parler ſon langaige et chacier les
+<lb/>buefz en diſant telle parolles ꝯ̲me en faiſoit en ſon paẏs
+<lb/>dont il ſe merueilla mlṫ·car il ne ſauoit cōment ce pouoit
+<lb/>eſtre·mais ie dẏ quil auoit tant erre par terre et par mer
+<lb/>quil auoit auironne toute la terre et quil eſtoit reuenus
+<lb/>en auironnant iuſques a ſon paẏs.et quil ne fauſiſt que
+<lb/>auoir paſſe auant quil ſe fuſt trouue en ſon droit paẏs·
+    <lb/>et a ſa cognoiſſance·mais il retourna arrier par illeuc </pb>
+<pb n="56v">
+    <lb/>dont il eſtoit uenuz·ſi perdẏ aſſez de ſes paīnes ſi cōme il meiſmes
+    <lb/>le diſoit·<num>I</num>·grant temps apres· car il auint quil aloit vne foiz
+    <lb/>vers <placeName type="region">Norwaide</placeName> et il li priſt tempeſte en mer et fut porte en vne
+    <lb/>ẏlle ou il ſe recognut que ceſtoit lẏlle ou il auoit oẏ parler ſon
+    <lb/>langaige a mener les buefs ala charrue. Et ce fut bien choſe
+    <lb/>poſſible ꝯ̲ment que il ſemble aus ſimples gens que on ne pour
+    <lb/>roit aler deſſouz la terre et que on deuroit cheoir vers le ciel qñt
+    <lb/>on ſeroit deſſouz la terre · Mais ce ne pourroit eſtre neent plus
+    <lb/>que nous pourrions cheoir vers le ciel de la terre ou noꝰ ſōmes·
+    <lb/>Car auſſi quil nous ſemble quil ſont deſſouz nous·auſſi leur
+    <lb/>ſemble il que nous ſōmes deſſouz euls · Et ſe on pouoit cheoir de
+    <lb/>la terre iuſques au ciel·par plus grande raiſon·la terre ⁊ lamer
+    <lb/>qui ſont ſi grandes et ſi peſans deuroient cheoir iuſques au fir
+    <lb/>mament·Mais ce ne pourroit eſtre·car ce ne ſeroit mie cheoir
+    <lb/>mais monter· Et pour ce diſt <persName>nr̅eſ</persName>· <foreign type="latin"><hi rend="underline red">Ne timeas me cui reſpōdi·
+    <lb/>terram in nichilo</hi></foreign>· <hi rend="red">ℾ</hi>Et combien que ce ſoit choſe poſſible que
+    <lb/>on pourroit auironner ainſi tout le monde·Neentmoins de
+    <lb/>mil fois lune on nadreceroit droite voie de retourner vers ſon
+    <lb/>paẏs· Car par lagrandeur de la terre ⁊ de lamer on pourroit
+    <lb/>aler·mil et mil autres voies que nulz nen adreceroient parfaite
+    <lb/>ment vers les parties dont on mouuroit· Pour quoẏ combien
+    <lb/>que ce ſont poſſible choſe de la terre enuironner ainſi que ie voꝰ dẏ·
+    <lb/>Neentmoins nul ne pourroit adrecier adroite voie ſe ce neſtoit
+    <lb/>dauenture ou de droite grace de dieu·car la terre eſt ſi grande q̄
+    <lb/>elle tient de rondeur entour ⁊ enurion par deſſure et par deſ
+    <lb/>ſoubz ſenz mer·<num>xx</num>·mile·<num>cccc</num>·et·<num>xxv</num>·milles ſelon loppinion
+    <lb/>des anciens ſages le dit des quelx ie ne repreuue mie· Mais
+    <lb/>ſelon la petitece de mon ſens il me ſemble ſauue leur grace quil
+    <lb/><add place="right margin">. nõ.aſt<sup>oam</sup> ·</add>ẏ a plus·  <hi rend="blue">ℾ</hi>Et pour mieulx entendre ce que ie vueil dire ſoit
+    <lb/>ẏmaginee vne figure ou il ẏ ait vn grant compas·et entour
+    <lb/>le point de ce compas qui eſt appelle centre ſoit fait vn autre
+    <lb/>compas·et puis ſoit le grand compas deuiſe par lignes en tou
+    <lb/>tes parties·et que toutes les lignes ſe aſſemblent au centre·
+    <lb/>et poues ſauoir en quantes parties ſera departi le gñt compas·
+    <lb/>en autant de parties ſera departi le petit compas qui eſt entour
+    <lb/><catchwords>le centre ..</catchwords></pb>
+    <pb n="f. 57r">
+        <lb/>Le centre combien que les eſpaſſes ſoient mendres· Or ſoit le gñt
+        <lb/>compas repreſente pour le firmament·et le petit compas qui
+        <lb/>eſt entour le centre repreſente la terre·<hi rend="red">ℾ</hi>Et ſe ſceuent touz aſtro
+        <lb/>nomiens que le firmament eſt deuiſe en·<num>xij</num>·parties·ce ſont les·
+        <lb/><num>xij</num>·ſignes·et chaſcun ſigne eſt deuiſe en·<num>xxx</num>·degres·ce ſot̅·<num>ccc</num>·
+            <lb/>et·<num>lx</num>·degres es quelx le firmament eſt deuiſe· Or ſoit la terre
+            <lb/>ainſi deuiſee en autant de parties·et chaſcune partie reſpondra
+            <lb/>a vn degre du firmamet̄ et ſelon tous aucteurs daſtronomie
+        <lb/>les·<num>vij</num>·cens ſtades reſpondent avn degre du firmamet̄·ce ſont·<num>iii<sup place="above previous">x</sup>j<sup place="above previous">x</sup></num>·
+            <lb/><num>vij·milles</num> ⁊ demie· Or ſoit ce monteplie par·<num>ccc</num>·et <num>lx</num>·fois.ce
+        <lb/>ſeroit·<num>xxi·mil·mill·̓et·v·<sup place="above previous">C</sup></num>·milles chaſcun tenant·<num>v</num>·<del type="erasure">e</del>ſtades
+        <lb/>tant a la terre de rondece·et detour enuiron ſelon ce q̄ <persPronouns value="P1">ie</persPronouns> puis cō
+        <lb/>ceuoir par dit des aſtronomiēns ſico̅me iaẏ dit pardeuant·<hi rend="blue">ℾ</hi>Et<add place="right margin">no ̈ de march<unclear></unclear></add>
+        <lb/>ne deſplaiſe aus liſans ce q̄ <persPronouns value="P1">i</persPronouns>aẏ dit que vne partie de <placeName type="region">Inde</placeName> eſt des
+            <lb/>ſouz nr̅e paẏs·et que auſſi nr̅e paẏs eſt deſſouz euls aloppoſite
+            <lb/>ainſi que le droit orient eſt oppoſite au droite occident·Et ainſi q̄
+            <lb/>eſt la partie debiſe a la partie de midy·des quelles parties ie voꝰ
+            <lb/>aẏ ci deuant parle et verite eſt·car ie laẏ meſure a laſtrolabe q̄
+            <lb/>ceuls qui demeurent en la partie de biſe ſont pie contre pie aus
+            <lb/>autres de lautre partie contre midẏ· Et auſſi ſōmes nous avne
+            <lb/>partie des ẏlles dẏnde·ℾ Et ſil auoit ſigne ou eſtoilles eſtables
+            <lb/>vers orient et vers occident par les quelles on peuſt les pties
+            <lb/>meſurer ſi co̅me on fait les parties de biſe et de midẏ p̠ les deux
+            <lb/>eſtoilles non mouuables on trouueroit de certain les ẏlles et
+            <lb/>la terre <persName>preſtre Iehan</persName> bien loing hors des climas· Et enauiron
+            <lb/>nant la terre deſſouz nous plus aſſez que lautre partie de biſe et
+            <lb/>de midẏ ne ſoient dont iaẏ fait mencion cẏ deuant. Et ſi ſcaẏ
+            <lb/>bien que iaẏ miſe mainte iournee pour aler vers les parties
+        <lb/>de <placeName type="region">ẏnde</placeName>·plus que ie ne feẏs a aler la droite voie de biſe vers le
+                <lb/>droit mẏdi· Et puis que la terre eſt ronde autant ẏ a de biſe
+                <lb/>a midẏ  cōme de droit orient au droit occident·pour quoẏ ie dẏ
+        <lb/>que on paſſe celle meſure et deſſouz noꝰ en vironnant la terre·</pb>
+      </div>
+     </body>
+    </text>
+</TEI>
