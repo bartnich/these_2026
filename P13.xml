@@ -19,7 +19,7 @@
 </publicationStmt>
  <sourceDesc>
       <listWit>
-          <witness xml:id="P13">Paris, BnF, naf 4515 (P13) </witness>
+          <witness xml:id="P13">Paris, BnF, naf 4515 (P13)</witness>
       </listWit>
     </sourceDesc>
   </fileDesc>
@@ -68,7 +68,7 @@
 <pb n="f. 47v">
 <lb/>a nom <placeName type="city">hur</placeName>. la demoura <persName>chares</persName> le pere <persName>abraham</persName> le patriarche
 <lb/>et la naſquit <persName>abraham</persName>·et ce fut ou temps que le pere <persName>ninus</persName>
-<lb/>fut roẏ de <placeName type="region">babilonie</placeName> d<placeName type="region">arrabe</placeName> et d<placeName type="region">egẏpte</placeName>>·Cil <persName>ninus</persName>persName> fiſt la cite
+<lb/>fut roẏ de <placeName type="region">babilonie</placeName> d<placeName type="region">arrabe</placeName> et d<placeName type="region">egẏpte</placeName>·Cil <persName>ninus</persName> fiſt la cite
 <lb/>de <placeName type="city">niniue</placeName>.la quelle <persName>noe</persName> auoit cōmanciee afaire· <hi rend="blue">ℾ</hi>Et po ҃ce
 <lb/>que <persName>ninus</persName> lauoit parfaite il lappella par ſon nom <placeName type="city">niniue</placeName>.
 <lb/> <hi rend="red">ℾ</hi>La giſt <persName>thobie</persName> de qui la ſainte eſcripture parle· De ceſte
@@ -145,7 +145,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>tous chanus·et quant il deuiennent grans il ont les che
 <lb/>ueux tous noirs· <hi rend="blue">ℾ</hi>En <placeName type="region">ethiope</placeName> eſt la cite ſabba·et la tr̀e
 <lb/>dont lun des trois roẏs fut ſires qui vint requerre <persName>nr̄eſ</persName>
-<lb/>en <placeName type="city">bethleem</placeName>. <hi rend="red">ℾ</hi>De <placeName type="region">ethiope</placeName> va on en <placeName type="region">Inde</placeName>placeName> par mlṫ de diūs
+<lb/>en <placeName type="city">bethleem</placeName>. <hi rend="red">ℾ</hi>De <placeName type="region">ethiope</placeName> va on en <placeName type="region">Inde</placeName> par mlṫ de diūs
 <lb/>paẏs·et appelle on la <placeName type="region">haute inde</placeName> <placeName type="region">fuiblach</placeName>. Et eſt <placeName type="region">inde</placeName> deui
 <lb/>ſee principalment en ·<num>iij</num>·parties· Ceſt aſſauoir <placeName type="region">inde la
 <lb/>meneur</placeName> qui eſt treſhaut paẏs·et <placeName type="region">Inde mediane</placeName> qui eſt
@@ -173,7 +173,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>croiſſent pluſeurs enſemble·lun petit lautre grant·et
 <lb/>en ẏ a bien de la groſſeur dune feue · Et la plus groſſe qᴤ
 <lb/>ẏ peut eſtre ſelon nature eſt auſſi groſſe ꝯme vne nois
-<lb/><catchwords>·   gaille ·</catchwords></pb>
+<lb/><fw type="catch">·   gaille ·</fw></pb>
 <pb n="f. 49r">
 <lb/>gaille·et toutes ſont aquariies et apointies de leur nature
 <lb/>ſenz nul affaitement de main dōme·et les appelle on en <placeName type="region">ẏnde</placeName>
@@ -259,18 +259,18 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>et enuiron ẏnde ẏ a plus de·<num>v</num>·mile ẏlles bonnes et grandes
 <lb/>ſenz celle qui ſont inhabitables·et ſenz autres petites pluſ̷s
 <lb/>dont on ne puet faire mention· <hi rend="blue">ℾ</hi>Enchaſcun ẏlle ẏ a gñt
-    <lb/>foiſon de cites et de villes et de genz ſenz nombre·car <tag type="nationality">ẏndois</tag>
+    <lb/>foiſon de cites et de villes et de genz ſenz nombre·car <rs type="nationality">ẏndois</rs>
 <lb/>ſont de telle maniere quil nẏſſent point de leur paẏs et põ ce
 <lb/>ẏ a grant multitude de gens·car il ne ſont point mouua
-<lb/>bles pour ce quil ſont au premier climat qui eſt de <tag type="celestial body">ſaturne</tag>
-<lb/>et <tag type="celestial body">ſaturne</tag> eſt tardif et pou mouuable·car il demeure afai
+<lb/>bles pour ce quil ſont au premier climat qui eſt de <rs type="celestial body">ſaturne</rs>
+<lb/>et <rs type="celestial body">ſaturne</rs> eſt tardif et pou mouuable·car il demeure afai
 <lb/>re ſon tour par les ·<num>xij</num>· ſignes leſpace de·<num>xxx</num>·ans·  Et la
-<lb/><tag type="celestial body">lune</tag> paſſe les·<num>xij</num>·ſignes en·<num>I</num>·mois·<hi rend="red">ℾ</hi> Et pour ce que <tag type="celestial body">ſa
-<lb/>turnes</tag> eſt deſi tardif mouuement·pour ce ont les gens de
+<lb/><rs type="celestial body">lune</rs> paſſe les·<num>xij</num>·ſignes en·<num>I</num>·mois·<hi rend="red">ℾ</hi> Et pour ce que <rs type="celestial body">ſa
+<lb/>turnes</rs> eſt deſi tardif mouuement·pour ce ont les gens de
 <lb/>ſon climat nature et uolente que il ne quierent point de
 <lb/>mouuoir de paẏs en autre· Et en nr̅e paẏs eſt tout au con
-<lb/>traire· car nous ſōmes en·<num>I</num>·climat qui eſt de la <tag type="celestial body">lune</tag>·et la
-<lb/><tag type="celestial body">lune</tag> eſt de legier mouuement· et ſi eſt planete de voie·⁊ po2 ce
+<lb/>traire· car nous ſōmes en·<num>I</num>·climat qui eſt de la <rs type="celestial body">lune</rs>·et la
+<lb/><rs type="celestial body">lune</rs> eſt de legier mouuement· et ſi eſt planete de voie·⁊ po2 ce
 <lb/>elle nous donne matere et uolente de mouuoir legieremet̅
 <lb/>et de cheminer par diuerſes voies et de cerchier choſes eſtran
 <lb/>ges et les diuerſes choſes du monde·car elle enuironne la tṙe
@@ -351,7 +351,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>venir ſil ne vient de la grace de dieu· Et pour ce font il faire
 <lb/>les ẏmages ſemblables pour elles regarder et aourer p̀mier
 <lb/>le matin auant quil encontrent choſe contraire <hi rend="blue">·ℾ</hi>Il ẏ a bien
-<lb/>des <tag type="religious affiliation">creſtiens</tag> qui dient q̄ aucunes beſtes ont bonne encontre.et
+<lb/>des <rs type="religious affiliation">creſtiens</rs> qui dient q̄ aucunes beſtes ont bonne encontre.et
 <lb/>aucunes mauuaiſe encontre ſi q̄ on diſt que on a eſprouue
 <lb/>maintes foiz que le lieure a mauuaiſe encontre ⁊ pourceaulx</pb>
 <pb n="f. 51v">
@@ -362,11 +362,11 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>encontre dun corbeau · en telles choſes ⁊ autres il ſont aſſes
 <lb/>de gens qui ẏ croient pour ce quil eſt ſouuent auenu· et
 <lb/>aſſes de gens qui ny croient mie ſi font treſbien· Et q̄ les
-<lb/><tag type="religious affiliation">creſtiens</tag> telz ẏ a ont celle creance qui en ſont abeures et ſce
+<lb/><rs type="religious affiliation">creſtiens</rs> telz ẏ a ont celle creance qui en ſont abeures et ſce
 <lb/>uent toute ſainte doctrine·ce neſt mie merueilles ſe les paies̄
 <lb/>qui nont point de bonne doctrine fors q̄ de leur nature ſil croi
 <lb/>ent plus largement par leur ſimpleſce· <hi rend="blue">ℾ</hi>Et vraẏemet̄ iaẏ
-<lb/>veu des paiens ⁊ de <tag type="religious affiliation">ſarraſins</tag> mlṫ viguereus q̄ qñt nous
+<lb/>veu des paiens ⁊ de <rs type="religious affiliation">ſarraſins</rs> mlṫ viguereus q̄ qñt nous
 <lb/>cheuauchiemes en armes aucune part vers nos ennemis
 <lb/>par le voller des oẏſeaulx il nous promectoient ce que noꝰ
 <lb/>trouueriemes mlṫ ſouuent apres. et ce faiſoient il par plu
@@ -374,7 +374,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>ainſi· mais pour ce ne doit on point mectre ſa creance en
 <lb/>telles choſes·mais touſiours auoir ferme creance en <persName>nr̄e ʃ̴</persName>
 <lb/>qui peut faire ⁊ deffaire quan quil lẏ plaiſt· <hi rend="red">ℾ</hi>Ceſte ẏlle
-<lb/>de <placeName type="region">>chana</placeName> les <tag type="religious affliliation">ſarraſins</tag> lont gaigniee·et la tiennent treſgñt
+<lb/>de <placeName type="region">chana</placeName> les <rs type="religious affiliation">ſarraſins</rs> lont gaigniee·et la tiennent treſgñt
 <lb/>temps a· <hi rend="blue">ℾ</hi>Il ẏ a en celle ẏlle mlṫ de lẏons et de beſtes ſauua
 <lb/><add place="left margin">.  nõ  .</add>ges·et ſi ſont la les ras auſſi grans ꝯ̲me un chien eſt en ce
 <lb/>paẏs·et les prent on aus grans maſtins·car les chas ne les
@@ -383,15 +383,15 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>corps tout ꝯ̲ſūmez iuſques as os·<head type="rubrique 1/2"><hi rend="red">Du lieu ou le poivre croiſt</hi></head>
     <lb/><hi rend="dropcap2 blue">D</hi>E la va on vers <placeName type="region">ẏnde la maiour</placeName> <join desc="belongs to previous line"><head type="rubrique 2/2"><hi rend="red">et en quel maniere·</hi></head></join>
 <lb/>a vne cite qui a nom <placeName type="city">garbe</placeName> qui eſt mlṫ belle ⁊ mlṫ bonne⁊
-<lb/>ẏ demeurent mlṫ de bons <tag type="religious affiliation">creſtiens</tag>·et de bonne foẏ·et ſi a mlṫ de
-<lb/>religieux eſpecialment de <tag type="religious affiliation">mendians</tag>·<hi rend="red">ℾ</hi> Puis va on par mer
+<lb/>ẏ demeurent mlṫ de bons <rs type="religious affiliation">creſtiens</rs>·et de bonne foẏ·et ſi a mlṫ de
+<lb/>religieux eſpecialment de <rs type="religious affiliation">mendians</rs>·<hi rend="red">ℾ</hi> Puis va on par mer
 <lb/>en la terre de <placeName type="region">lombe</placeName> · en celle terre croiſt le poiure en vne fo
 <lb/>reſt qui a a nȏ <geogName type="forest">combar</geogName>·et ne croiſt aillieurs nulle part en
 <lb/>tout le monde que ie ſache que en ceſte foreſt qui dure bien
 <lb/><num>xviij</num>·iournees de lōnc·<hi rend="blue">ℾ</hi> En celle foreſt a·<num>ij</num>·bonnes citez do͡t
     <lb/>lune a nō flandrine et lautre ſinglans· et ẏ a des autres villeʕ</pb>
 <pb n="f. 52r">
-<lb/>pluſeurs·et en chaſcune de ces villes demeure͡t <tag type="religious affiliation">creſtie͡s</tag> et <tag type="religious affiliation">Juẏs</tag>
+<lb/>pluſeurs·et en chaſcune de ces villes demeure͡t <rs type="religious affiliation">creſtie͡s</rs> et <rs type="religious affiliation">Juẏs</rs>
 <lb/>grant foiſon·car il ẏ a bon paẏs·mais mlṫ ẏ fait grant chaut
 <lb/>      Et pouez ſauoir que le poiure croiſt a maniere dune vigne
 <lb/>ſauuage qui ſoit plantee pres des arbres du bois pour le ſous
@@ -483,11 +483,11 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>et ẏ a vn mlṫ grant roẏaume et mlṫ de belles cites ⁊ de belles villes·
 <lb/><hi rend="red">ℾ</hi> En ce roẏaume giſt le corps <persName>ſaint thomas</persName> lapoſtre en char et
 <lb/>en os deſſouz vne belle tombe en la cite de <placeName type="city">calamẏon</placeName>·car la fut il
-<lb/>martẏrie⁊ enſeueli· mais les <tag type="nationality">aſſyriens</tag> firent iadis porter le
+<lb/>martẏrie⁊ enſeueli· mais les <rs type="nationality">aſſyriens</rs> firent iadis porter le
 <lb/>corps deluẏ en <placeName type="region">meſopotame</placeName> en la cite de <placeName type="city">ediſſe</placeName>·et puis fut il la
 <lb/>raporte arriere·et les bras ⁊ les mains quil bouta es plaies <persName>nr̅e
 <lb/>ſeigneur</persName> qñt <persName>nr̅es</persName> ſapparut alẏ apres ſa reſurreccion et li diſt·
-    <lb/><foreign type="latin"><hi rend="underline red">Noli eſſe incredulus ſed fidelis</hi></foreign>· Et giſt encore la main de luẏ
+    <lb/><foreign xml:lang="la"><hi rend="underline red">Noli eſſe incredulus ſed fidelis</hi></foreign>· Et giſt encore la main de luẏ
 <lb/>au dehors du vaiſſel. et par celle main pour leur iugement ou
 <lb/>paẏs eſſaient qui a tort ou droit· Car quant il a diſcencion en
 <lb/>tre deux parties et chaſcun tient quil ait droit il mectent·la
@@ -502,11 +502,11 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>auſſi grant co̅me ho̅mes ſont· et entre les autres ẏ a vne autre
 <lb/>grant ẏmage plus aſſez que nulle des autres qui eſt toute
 <lb/>couuerte dor ⁊ de pierres precieuſes·Et ceſt lẏmage des faulz
-<lb/><tag type="religious affiliation">creſtiens</tag> renoiez et ſiet en vne grande chaiere mlṫ noblemt̅
+<lb/><rs type="religious affiliation">creſtiens</rs> renoiez et ſiet en vne grande chaiere mlṫ noblemt̅
 <lb/>et a entour ſon col des larges ceintures ouurees dor et de
 <lb/>pierres precieuſes· et eſt legliſe toute doree par dedenz· Et a
 <lb/>celle egliſe vient on en pelerinage ainſi cōmunement et par
-<lb/>auſſi grant deuocion q̄ <tag type="religious affiliation">creſtiens</tag> font a <persName>ſaint Jaq̅s</persName> en <placeName type="region">gallice</placeName>
+<lb/>auſſi grant deuocion q̄ <rs type="religious affiliation">creſtiens</rs> font a <persName>ſaint Jaq̅s</persName> en <placeName type="region">gallice</placeName>
 <lb/>Et pluſeurs gens qui vont vers celle ẏdolle de lointaines tṙes
 <lb/>par la gñt deuocion quil ẏ ont il regardent touſiours en
 <lb/>terre·et noſent leuer leurs teſtes pour regarder entour euls
@@ -547,7 +547,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>de tant ſeront il plus pres de dieu et plus grant ioie auront en
 <lb/>lautre ſiecle. Et briefment adire ilz font de ſigrans penances ⁊<add place="right margin">.  nõ  .</add>
 <lb/>de ſi grans martẏres ſouffrir au corps pour lamour de dieu que
-<lb/>apaīnes nul <tag type="religious affiliation">creſtien</tag> noſeroit emprendre a faire la·<num>x<sup>c</sup></num>·ptie pour
+<lb/>apaīnes nul <rs type="religious affiliation">creſtien</rs> noſeroit emprendre a faire la·<num>x<hi rend="sup">c</hi></num>·ptie pour
 <lb/>lamour de <persName>ihūcriſt</persName>. <hi rend="red">ℾ</hi> Et vous dẏ q̄ deuant le char au plꝰ pres
 <lb/>vont les meneſterelx du paẏs auſſi ꝯ̲me ſenz nombre auec di
 <lb/>uers inſtrumens·et font entre euls des grandes melodies·Et
@@ -575,7 +575,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>tent le corps alẏdole et dient en chantant· Regardes dieu que
 <lb/>vr̅e loial amẏ ⁊ ſergent afait pour vous·Il a relinque fēme
 <lb/>et enfans richeſces et tous les biens de ce monde p a vous
-<lb/>et ſa <sub>c</sub>ppre vie pour vous ⁊ pour lamour de vous et vous a
+<lb/>et ſa <hi rend="sub">c</hi>ppre vie pour vous ⁊ pour lamour de vous et vous a
 <lb/>fait ſacrefice de ſa char et de ſon ſanc·ſile vueilliez poſer·delez
 <lb/>bons entre vos plus amis en la gloire de paradis·car illabiē
 <lb/>deſeruẏ·et puis il font vn grant feu ardant et ardent le corps
@@ -600,7 +600,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>ains ſont toutes les fēmes du paẏs cōmunes et ne refuſent
 <lb/>nulluẏ. Et dient quelles pecheroient ſe elles refuſoient nul
 <lb/>hōme·et que dieu le ꝯ̲manda ainſi a <persName>adam</persName> et a ceuls qui de
-<lb/>lui deſcendroient la ou il diſt· <foreign type="latin"><hi rend="underline red">Creſcite et multiplicamini et
+<lb/>lui deſcendroient la ou il diſt· <foreign xml:lang="la"><hi rend="underline red">Creſcite et multiplicamini et
     <lb/>replete terram</hi></foreign>. <hi rend="red">ℾ</hi>En ce paẏs nul ne peut dire ceſt ma fēme
 <lb/>ne nulle fēme ne peut dire cil eſt mon baron·<hi rend="blue">ℾ</hi> Et qñt elles
 <lb/>enfantent elles le donnent aqui quelle veulent qui ait eu
@@ -622,7 +622,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>autres par dela on nẏ voit point deſtoille tremontaine· Ceſt
 <lb/>leſtoille de mer qui ne ſe muet point· qui eſt vers bize·Mais
 <lb/>on voit vne autre qui eſt au contraire de celuẏ vers mẏdi que
-<lb/>on appelle <tag type="celestial body">antartique</tag>·et tout auſſi q̄ les marōniers prennet̅
+<lb/>on appelle <rs type="celestial body">antartique</rs>·et tout auſſi q̄ les marōniers prennet̅
 <lb/>aduis ẏci ſe gouuernet̅ par ceſte eſtoille vers biſe·auſſi font
 <lb/>les marōniers de la par ceſte eſtoille deuers mydi· la quelle ne
 <lb/>appartient point a nous. <hi rend="red">ℾ</hi>Et ceſte deuers biſe ne ap̲p̲tient poit̅
@@ -634,11 +634,11 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>aler a nauie tout entour le monde· et deſſure ⁊ deſſoubz·la
 <lb/>quelle choſe ie preuue ſelon ce que ie aý eſſaie·car ie aẏ eſte par
 <lb/>les parties de <placeName type="region">braibant</placeName> et par la ſigne de laſtrolabe·ie treuue
-<lb/>que la <tag type="celestial body">treſmonta<unclear reason="correction">in</unclear>e eſtoille</tag> eſt·<num>liij</num>·degres de haut·Et en <placeName type="region">ale
+<lb/>que la <rs type="celestial body">treſmonta<unclear reason="correction">in</unclear>e eſtoille</rs> eſt·<num>liij</num>·degres de haut·Et en <placeName type="region">ale
 <lb/>maigne</placeName> vers <placeName type="city">rome</placeName> elle a·<num>lviij</num>·Et plus auant vers les p̱ties
 <lb/>de ſeptentrion elle a·<num>lxij</num>·degres de haut et aucuns minus auec·
 <lb/>Car ie meiſmes laẏ meſure a laſtrolabe· <hi rend="blue">ℾ</hi> Or deuez vous ſa
-<lb/>uoir q̄ contre celle eſtoille qui eſt appelee <tag type="celestial body">antartique</tag> et lautre
+<lb/>uoir q̄ contre celle eſtoille qui eſt appelee <rs type="celestial body">antartique</rs> et lautre
 <lb/>q̄ iaẏ par deuant dite que par ces·<num>ij</num>·eſtoilles qui ne ſont point
 <lb/>mouuables tout le firmament tourne ainſi cōme la roe ſe tour
     <lb/>ne par ſon moẏeul. ſiq̄ ces·<num>ij</num>·eſtoilles partent le firmament</pb>
@@ -646,20 +646,20 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>en·<num>ij</num>·parties ſi que autant ẏ a par deſſouz co̅me p̲ deſſeure
 <lb/>Apres ie ſuẏ ale vers les parties meridionelles·ceſt  vers
 <lb/>mẏdi·et aẏ trouve vers la <placeName type="region">haute libie</placeName> que on voit premieȓ
-<lb/>leſtoille <tag type="celestial body">antartique</tag>·et tant cōme ie alaẏ plus auant en
+<lb/>leſtoille <rs type="celestial body">antartique</rs>·et tant cōme ie alaẏ plus auant en
 <lb/>celles parties tant trouuai ie celle eſtoille plus haute· ſi
 <lb/>que plus auant en la <placeName type="region">haute libie</placeName> vers <placeName type="region">ethiope</placeName> elle a·<num>xviij</num>·
 <lb/>degres de haut et aucuns minus auec·dont les·<num>lx</num>·minus
 <lb/>font un degre·ℾEt en alant vers ce paẏs dont ie parle·et en
-<lb/>es autres ẏlles et paẏs oultre·Ie trouuaẏ <tag type="celestial body">lantartique</tag> de·
+<lb/>es autres ẏlles et paẏs oultre·Ie trouuaẏ <rs type="celestial body">lantartique</rs> de·
 <lb/><num>xxxiij</num>·degres de haut et·<num>xvj</num>·minus·<hi rend="blue">ℾ</hi>Et ſe ie euſſe trouue
 <lb/>nauie et compaignie pour aler plus auant·ie cuide eſtre cer
 <lb/>tain que nous euſſions veu toute la rondeſſe du firmamet̅
 <lb/>tout entour·car ſi cōme ie vous aẏ dit deuant·lamoitie du
 <lb/>firmament eſt entre·<num>ij</num>· eſtoilles  laquelle moitie iaẏ toute
-<lb/>veue·et des autres moities aẏ ie veu vers biſe deſſouz la <tag type="celestial body">treſ
-<lb/>montaigne</tag>·<num>lxij</num>·degres et·<num>x</num>· minus· Et deuers les pties
-<lb/>meridionelles·iaẏ veu deſſouz <tag type="celestial body">lantartique</tag>·<num>xxxiij</num>·degrez
+<lb/>veue·et des autres moities aẏ ie veu vers biſe deſſouz la <rs type="celestial body">treſ
+<lb/>montaigne</rs>·<num>lxij</num>·degres et·<num>x</num>· minus· Et deuers les pties
+<lb/>meridionelles·iaẏ veu deſſouz <rs type="celestial body">lantartique</rs>·<num>xxxiij</num>·degrez
 <lb/>et·<num>xvj</num>·minus· Et lamoitie du firmament ne tient que
 <lb/>·<num>ix·vins</num> degres dont ien aẏ veu·<num>lxij</num>·dune part et·<num>xxxiij</num>·
 <lb/>dautre·ce ſont·<num>iiij·vins</num> et·<num>xv</num>/·degres et pres de lamoitie
@@ -675,8 +675,8 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>paẏs qui auroit compaignie et conduit et nauie et toʔ
 <lb/>iours trouueroit on terres et paẏs et ẏlles tout auſſi
 <lb/>bien cōme en ce paẏs · car vous ſauez que ceuls qui ſont
-<lb/>endroit de <tag type="celestial body">lantartique</tag> ſont droitement pie contre pie
-<lb/>de ceulz qui demeurent deſſouz <tag type="celestial body">la treſmontaine</tag> auſſi biē
+<lb/>endroit de <rs type="celestial body">lantartique</rs> ſont droitement pie contre pie
+<lb/>de ceulz qui demeurent deſſouz <rs type="celestial body">la treſmontaine</rs> auſſi biē
     <lb/>ꝯ̲me nous· Et ceulz qui demeurent deſſouz nous ſōmes</pb>
 <pb n="f. 56r">
 <lb/>pie contre pie·car toutes les parties de mer et de terre ont leurs
@@ -694,7 +694,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>eſt en milieu du monde·et ce ẏ pert par vne lance fichiee
 <lb/>en terre ſur leure de midẏ qui ne fait point dombre en nul
 <lb/>coſte· et que ce ſoit en mẏlieu de la terre·<persName>dauid</persName> le teſmoigne
-    <lb/>la ou il diſt· <foreign type="latin"><hi rend="underline red">Et operatus eſt ſalutem in medio terre ℸc̑·</hi></foreign>
+    <lb/>la ou il diſt· <foreign xml:lang="la"><hi rend="underline red">Et operatus eſt ſalutem in medio terre ℸc̑·</hi></foreign>
 <lb/>Donques ceulz qui partent de ces parties pour aler vers <placeName type="city">ihe
 <lb/>reſalem</placeName>·autant de iournees q̄ il mectent de monter iuſqs̅
 <lb/>ala·en autant de iournees peut il aler de <placeName type="city">ihrlm̀</placeName> iuſques en
@@ -714,7 +714,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
 <lb/>en auironnant iuſques a ſon paẏs.et quil ne fauſiſt que
 <lb/>auoir paſſe auant quil ſe fuſt trouue en ſon droit paẏs·
     <lb/>et a ſa cognoiſſance·mais il retourna arrier par illeuc </pb>
-<pb n="56v">
+<pb n="f. 56v">
     <lb/>dont il eſtoit uenuz·ſi perdẏ aſſez de ſes paīnes ſi cōme il meiſmes
     <lb/>le diſoit·<num>I</num>·grant temps apres· car il auint quil aloit vne foiz
     <lb/>vers <placeName type="region">Norwaide</placeName> et il li priſt tempeſte en mer et fut porte en vne
@@ -729,7 +729,7 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
     <lb/>la terre iuſques au ciel·par plus grande raiſon·la terre ⁊ lamer
     <lb/>qui ſont ſi grandes et ſi peſans deuroient cheoir iuſques au fir
     <lb/>mament·Mais ce ne pourroit eſtre·car ce ne ſeroit mie cheoir
-    <lb/>mais monter· Et pour ce diſt <persName>nr̅eſ</persName>· <foreign type="latin"><hi rend="underline red">Ne timeas me cui reſpōdi·
+    <lb/>mais monter· Et pour ce diſt <persName>nr̅eſ</persName>· <foreign xml:lang="la"><hi rend="underline red">Ne timeas me cui reſpōdi·
     <lb/>terram in nichilo</hi></foreign>· <hi rend="red">ℾ</hi>Et combien que ce ſoit choſe poſſible que
     <lb/>on pourroit auironner ainſi tout le monde·Neentmoins de
     <lb/>mil fois lune on nadreceroit droite voie de retourner vers ſon
@@ -743,14 +743,14 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
     <lb/>ſoubz ſenz mer·<num>xx</num>·mile·<num>cccc</num>·et·<num>xxv</num>·milles ſelon loppinion
     <lb/>des anciens ſages le dit des quelx ie ne repreuue mie· Mais
     <lb/>ſelon la petitece de mon ſens il me ſemble ſauue leur grace quil
-    <lb/><add place="right margin">. nõ.aſt<sup>oam</sup> ·</add>ẏ a plus·  <hi rend="blue">ℾ</hi>Et pour mieulx entendre ce que ie vueil dire ſoit
+    <lb/><add place="right margin">. nõ.aſt<hi rend="sup">oam</hi> ·</add>ẏ a plus·  <hi rend="blue">ℾ</hi>Et pour mieulx entendre ce que ie vueil dire ſoit
     <lb/>ẏmaginee vne figure ou il ẏ ait vn grant compas·et entour
     <lb/>le point de ce compas qui eſt appelle centre ſoit fait vn autre
     <lb/>compas·et puis ſoit le grand compas deuiſe par lignes en tou
     <lb/>tes parties·et que toutes les lignes ſe aſſemblent au centre·
     <lb/>et poues ſauoir en quantes parties ſera departi le gñt compas·
     <lb/>en autant de parties ſera departi le petit compas qui eſt entour
-    <lb/><catchwords>le centre ..</catchwords></pb>
+    <lb/><fw type="catch">le centre ..</fw></pb>
     <pb n="f. 57r">
         <lb/>Le centre combien que les eſpaſſes ſoient mendres· Or ſoit le gñt
         <lb/>compas repreſente pour le firmament·et le petit compas qui
@@ -760,9 +760,9 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
             <lb/>et·<num>lx</num>·degres es quelx le firmament eſt deuiſe· Or ſoit la terre
             <lb/>ainſi deuiſee en autant de parties·et chaſcune partie reſpondra
             <lb/>a vn degre du firmamet̄ et ſelon tous aucteurs daſtronomie
-        <lb/>les·<num>vij</num>·cens ſtades reſpondent avn degre du firmamet̄·ce ſont·<num>iii<sup place="above previous">x</sup>j<sup place="above previous">x</sup></num>·
+        <lb/>les·<num>vij</num>·cens ſtades reſpondent avn degre du firmamet̄·ce ſont·<num>iii<hi rend="sup" place="above previous">x</hi>j<hi rend="sup" place="above previous">x</hi></num>·
             <lb/><num>vij·milles</num> ⁊ demie· Or ſoit ce monteplie par·<num>ccc</num>·et <num>lx</num>·fois.ce
-        <lb/>ſeroit·<num>xxi·mil·mill·̓et·v·<sup place="above previous">C</sup></num>·milles chaſcun tenant·<num>v</num>·<del type="erasure">e</del>ſtades
+        <lb/>ſeroit·<num>xxi·mil·mill·̓et·v·<hi rend="sup" place="above previous">C</hi></num>·milles chaſcun tenant·<num>v</num>·<del type="erasure">e</del>ſtades
         <lb/>tant a la terre de rondece·et detour enuiron ſelon ce q̄ <persPronouns value="P1">ie</persPronouns> puis cō
         <lb/>ceuoir par dit des aſtronomiēns ſico̅me iaẏ dit pardeuant·<hi rend="blue">ℾ</hi>Et<add place="right margin">no ̈ de march<unclear></unclear></add>
         <lb/>ne deſplaiſe aus liſans ce q̄ <persPronouns value="P1">i</persPronouns>aẏ dit que vne partie de <placeName type="region">Inde</placeName> eſt des
@@ -784,7 +784,10 @@ gent gaaignier·et ſe maintiennet̄ mlt̄ viguereuſement.
                 <lb/>droit mẏdi· Et puis que la terre eſt ronde autant ẏ a de biſe
                 <lb/>a midẏ  cōme de droit orient au droit occident·pour quoẏ ie dẏ
         <lb/>que on paſſe celle meſure et deſſouz noꝰ en vironnant la terre·</pb>
-      </div>
+            </rdg>
+          </app>
+        </p>
+      </div1>
      </body>
     </text>
 </TEI>

@@ -19,7 +19,7 @@
 </publicationStmt>
  <sourceDesc>
       <listWit>
-          <witness xml:id="P">Paris, BnF Arsenal 3219 (P) </witness>
+          <witness xml:id="P">Paris, BnF Arsenal 3219 (P)</witness>
       </listWit>
     </sourceDesc>
   </fileDesc>
@@ -50,7 +50,7 @@
 <lb/>a ſe hauteche de rechief ·Et fu puis Roẏs de <placeName type="region">ẏdirmea</placeName>
 <lb/>apries le Roẏ <persName>eſau</persName> · Et qn̈͞t <persName>iob</persName> fu rois il fu apielles ·
 <lb/><persName>Jobab</persName>· Et en cel ro͡ẏaulme il veſqui · <num>c·lxx</num>· ans· En ſi a
-<lb/>uoit il qn̈͞t il morut · <num>ij·<sup place="above previous">c</sup> ⁊·xlviij</num>·ans· ℾEn celle t<sup place="above previous">s</sup>re
+<lb/>uoit il qn̈͞t il morut · <num>ij·<hi rend="sup" place="above previous">c</hi> ⁊·xlviij</num>·ans· ℾEn celle t<hi rend="sup" place="above previous">s</hi>re
 <lb/>de <persName>Job</persName> na deffaute de nulle choſe neceſſaire aho̅me·La
 <lb/>ẏa mo̅taīgnes v on troeue grant fuiſon de ma̅ne plꝯ
 <lb/>aſſes ⁊ milleur q̄ on ne fait autre part· ℾManne eſt
@@ -60,7 +60,7 @@
 <lb/>li pais.⁊ ſe coagule ⁊ deuient blans ⁊ doulz· On le met en
 <lb/>medechines p ̃les Riches ho̅mes pour laſkier le uentre ⁊
 <lb/>pour eſpurgier maluais ſanc car il purge la maluais
-<lb/>ſanc ⁊ oſte le melancolie·  ℾ Ceſte <placeName>t̾re <persName>iob</persName></placeName> · marchiſt au
+<lb/>ſanc ⁊ oſte le melancolie·  ℾ Ceſte <placeName type="region">t̾re <persName>iob</persName></placeName> · marchiſt au
 <lb/>roiaulme de <placeName type="region">caldee</placeName>· Li Roẏaulmez de <placeName type="region">caldee</placeName> eſt ml̕t grans
 <lb/>Et cheſt li langaiges q̍ plus eſt grans q̄ nulz autres· par
 <lb/>dela le mer·  ℾ On paſſe pour aler p̲ le tour de <placeName type="city">babilone</placeName>
@@ -77,7 +77,7 @@
 <lb/>en guiſe dun floc de mo̅ne·⁊ vont les manches longues
 <lb/>⁊ larges Juſqs̅ au pies pendant · ⁊ ont les cheuiaus noirs
 <lb/>pendans tout entours les eſpaules ·⁊ ſont fe̅mes bien
-<lb/>noires non pas brunes· et tres laides · ⁊ mau gracieuſe<sup>s</sup>
+<lb/>noires non pas brunes· et tres laides · ⁊ mau gracieuſe<hi rend="sup">s</hi>
 <lb/>⁊ tres hẏdeuſes a ueoir· Elles me deueroient douner
 <lb/>boin don pour elles ſi bien priſier· car en core ẏa tant
 <lb/>de ordure en elles q̄ ie ne ſaroie deſcrire·elles ne ſt ̄mies
@@ -88,27 +88,27 @@
 <lb/>ℾChis <persName>minus</persName> fiſt le citet de <placeName type="city">niuie</placeName>. le quelle <persName>noe</persName> auoit̅
 <lb/>cōmenchiē a faire · ⁊ pour chou que chis <persName>nimus</persName> lauoit
 <lb/>p̲faite il la pella de ſon no̅· <placeName type="city">nimie</placeName>·La giſt <persName>thobies</persName> li
-    <lb/><sub>c</sub>pphetes· de cui ſainte eſcripture en parolle·ℾDe celle 
+    <lb/><hi rend="sub">c</hi>pphetes· de cui ſainte eſcripture en parolle·ℾDe celle 
 <lb/>citet de <placeName type="city">hur</placeName> p̲ le co̅mandeme̅t de dieu · ſen p̲ti <persName>abrahā</persName>·
 <lb/>apries le mort ſon pere· Et en mena ſarraẏ ſe fēme·
 <lb/>⁊ loth le fil ſen frere auoec lui pour chou que il nauoit
     <lb/>point denfant · Et la demoura en le t̾re de <placeName type="region">canaam</placeName>·
     <lb/>en ·<num>I</num>· lieu quia anon ·<placeName type="region">ſichen</placeName>· Et che fu chis <persName>loth</persName> q̍ fu ſau
-    <lb/>ues qn̈t <placeName type="city">ſodome</placeName> ⁊ <placeName type="city">gomore</placeName>·⁊ les autres chites fure̅t arſe<sup>s</sup>
+    <lb/>ues qn̈t <placeName type="city">ſodome</placeName> ⁊ <placeName type="city">gomore</placeName>·⁊ les autres chites fure̅t arſe<hi rend="sup">s</hi>
 <lb/>⁊ fondues en abiſme lau ou <geogName type="body of water">li mers morte</geogName> eſt ſi co̅me
 <lb/><persPronouns value="P1">ie</persPronouns> <persPronouns value="P5 object">voꝯ</persPronouns> aẏ autre fois dit·ℾEn celle t̾re de <placeName type="region">caldee</placeName> il ont lor
-    <lb/><sub>c</sub>ppre langaige·⁊ lor <sub>c</sub>ppres lettres telles q̍ chi ap̍es ſē ſieve̅t
+    <lb/><hi rend="sub">c</hi>ppre langaige·⁊ lor <hi rend="sub">c</hi>ppres lettres telles q̍ chi ap̍es ſē ſieve̅t
 <lb/><figure><figDesc>foreign alphabet, six lines</figDesc></figure>
 <lb/><hi rend="dropcap2 red">P</hi>uis outre <placeName type="region">cal
 <lb/>				   	                              dee</placeName> eſt <placeName type="region">amazo
 <lb/>nie</placeName>·Ceſt li <placeName type="region">t̾re de femenie</placeName> . cheſt vns Roẏaumes ou
-    <lb/>il na que fēmes nō pas ſi ꝯme aucun dient q̄ li hōme<sup>s</sup></pb>
+    <lb/>il na que fēmes nō pas ſi ꝯme aucun dient q̄ li hōme<hi rend="sup">s</hi></pb>
 <pb n="f. 53r">
 <lb/>ne poroient viure en che pais la . Maiſ elles ne voelle͡t
 <lb/>mies q̄ li hōme aient le ſignourie de elles · Car ou tanp̄s
 <lb/>iadis il ẏ auoit ·<num>I</num>· Roẏ en cheli pais ⁊ idemoroient li hō
 <lb/>me mariet ſique autre part · ſi auint que chis Roẏs
-<lb/>auoit guerre a chiaus de <placeName type="region"><sic corr="ſichie">fichie</sic></placeName> · ⁊ auoit non <persName>colopijens</persName>
+<lb/>auoit guerre a chiaus de <placeName type="region"><choice><sic>fichie</sic><corr>ſichie</corr></choice></placeName> · ⁊ auoit non <persName>colopijens</persName>
 <lb/>li quelz fu ochis en le bataille a voec tout le boin ſanc de
 <lb/>ſon Roẏaulme· Et qn̈͞t li Roẏne ⁊ les autres nobles da
 <lb/>mes rewarderent q̄ elles eſtoient toutes veues ⁊ q̄ tous
@@ -126,7 +126,7 @@
 <lb/>ſeul ou ſe che non elles lociſent. Et ſe cheſt fumelle
 <lb/>gentis fēme elle li oſtent le ſenieſtre mamelle p̃ miex
 <lb/>porter leſcut· Et ſe cheſt fēme de piet elles li hoſtent le
-<lb/>dieſtre quelle ne leur empeſche au trere del arch turkoi·<sup place="above previous">s</sup>.
+<lb/>dieſtre quelle ne leur empeſche au trere del arch turkoi·<hi rend="sup" place="above previous">s</hi>.
 <lb/>car elles traient ml̕t bien· ℾ En ceſte t̾re a vne Roẏne
 <lb/>q̍ gouu̾ne tout le pais ⁊ toutes ſont obeiſſans ali · et
 <lb/>toudis font roẏnes p̲ election de cheli q̍ eſt plus vail
@@ -139,7 +139,7 @@
 <pb n="f. 53v">
 <lb/>tre celle ẏauve demeurēt li hōme qui ſont leur amit ou
 <lb/>elles vont ſoulachier quant elles voellent ·
-<lb/><hi rend="dropcap2 blue">D</hi>ele<sup>s</sup> <placeName type="region">amazonie</placeName> en le t̾re de <placeName type="region">t̾megitte</placeName> q̍ eſt ·<num>I</num>· pais ml̕t
+<lb/><hi rend="dropcap2 blue">D</hi>ele<hi rend="sup">s</hi> <placeName type="region">amazonie</placeName> en le t̾re de <placeName type="region">t̾megitte</placeName> q̍ eſt ·<num>I</num>· pais ml̕t
 <lb/>boins et ml̕t delitables· Et pour le boin̄ pais fiſt li
 <lb/>Roẏs <persName>alixandres</persName> la faire ſe p̾miere <persName>alixandre</persName> dont il fiſt
 <lb/>vne citet q̄ il apelloit <placeName type="city">alixandrie</placeName> · ⁊ celle eſt ma̅itenant
@@ -149,7 +149,7 @@
 <lb/>orientale · et en le partie meredionale·ℾLiquelle p̲tie 
 <lb/>meredionale ⁊ eſt appelle <placeName type="region">mortanigne</placeName> · Et ſe iſont les
 <lb/>gens aſſes plus noirs que̅ autre p̲tie· En celle p̲tie ẏa
-<lb/>vne fontaine·dont de Jours eſt ſi froide li ewe que nu<sup>s</sup>
+<lb/>vne fontaine·dont de Jours eſt ſi froide li ewe que nu<hi rend="sup">s</hi>
 <lb/>hons ne le porroit boire . Et de nuit elle eſt ſi chaude q̄
 <lb/>on ne poirroit ſouffrir ſe main de dens ·ℾEt outre celle
 <lb/>p̲tie deuers midi au paſſer p̲ le grande mer occeane ẏ a
@@ -190,11 +190,11 @@
 <lb/>q̄ on itrœue des boins dẏamans en <placeName type="region">Inde</placeName> ſour les roches de
 <lb/>criſtal ·nient mains on les trœue plus cōmuneme̅t ſur
 <lb/>les rocheſ en le mer· ⁊ ſour mo̅ta͞ignes ou il a meiſmes
-<lb/>del or·ℾEt croiſſent pluiſeurs en ſamble lun petit ⁊ laut<sup>e</sup>
+<lb/>del or·ℾEt croiſſent pluiſeurs en ſamble lun petit ⁊ laut<hi rend="sup">e</hi>
 <lb/>grant · Et en ẏa bien de le groſſeche dūne feue·Et le plus
 <lb/>groſſe q̾ ipuiſt ieſtre ſelonc nature eſt auſſi groſſe c͞ome vne
 <lb/>nois gaille· Et toutes ſont a quarrures ⁊ a pointes de leur
-<lb/><sub>c</sub>ppres natures ſans nul afaiteme̅t demain doume·⁊ les a
+<lb/><hi rend="sub">c</hi>ppres natures ſans nul afaiteme̅t demain doume·⁊ les a
 <lb/>pielon en <placeName type="region">Inde</placeName> <foreign>hameſet</foreign>·il croiſſent en ſi es mōta͡ignes ⁊
 <lb/>es roches ou il ẏa voie de miniere dor ⁊ croiſſent en ſȃ
 <lb/>ble malles ⁊ fumelles·⁊ ſe nourriſſent de le rouſee dou
@@ -212,11 +212,11 @@
 <lb/>coſtet · ſi eſt de plus grāt viertut q̄ a dieſtre · Car li forche de
 <lb/>lor naiſſanche vient de viers ſeptentrion · Cheſt li ſenieſtre par
 <lb/>tie del hōme qn̈͞t il tourne ſe fache vers orient · Et ſe il vous
-<lb/>plaiſt aſſauoir les viertus c͞obien q̄ <persPronouns value="P5">voꝯ</persPronouns> les aies en vos lapidere·<sup place="above previous">s</sup>·
+<lb/>plaiſt aſſauoir les viertus c͞obien q̄ <persPronouns value="P5">voꝯ</persPronouns> les aies en vos lapidere·<hi rend="sup" place="above previous">s</hi>·
 <lb/>nient mains p̃ chou q̄ chaſcu̅s ne le ſet mies <persPronouns value="P1">ie</persPronouns> les meterai
 <lb/>ichi ſelonc chou que chil dou tremer le dient ⁊ la fijent.
 <lb/>ℾDes quelz toute ſcienche ⁊ toute philoſophie eſt venue·
-    <lb/>ℾLi dẏamans doune a chelui q̾ le porte hardieche·⁊ <sub>c</sub>peche ⁊
+    <lb/>ℾLi dẏamans doune a chelui q̾ le porte hardieche·⁊ <hi rend="sub">c</hi>peche ⁊
 <lb/>garde les m͞ebres dou corps·entiers·⁊ doune victore des ane
 <lb/>mis · en plait·en guerre ſe li cauſe eſt iuſte·⁊ tient le porta͞t
 <lb/>en ſon boin ſens·⁊ le garde de tenchon ⁊ de rihotes ⁊ de maul
@@ -266,25 +266,25 @@
 <lb/>vaillans ⁊ de mendre vertut ·
 <lb/><hi rend="dropcap5 red">I</hi>tem en <placeName type="region">Indee</placeName> ia mains diuers pais·⁊ mainte diu̾ſes
 <lb/>contrees · Et lapielons <placeName type="region">Indee</placeName> pour·<num>I</num>·flun qui keurt p̱mi
-<lb/>le pais qui a anon <handnote scribe="different"><geogName type="body of water">Inde</geogName></handnote> ~ Et celle flueue on trœue an̤
+<lb/>le pais qui a anon <handNote scribe="different"><geogName type="body of water">Inde</geogName></handNote> ~ Et celle flueue on trœue an̤
 <lb/>guilles de plus de·<num>xxx</num>· piēs de lonc· les gens q̾ habitent</pb>
 <pb n="f. 55v">
 <lb/>entours celle riuiere ſont tout de verde couleur ⁊ de Jaune·
 <lb/>enſi q̄ il euiſſent le gauniſſe· ℾEn <placeName type="region">Inde</placeName> ⁊ en viron <placeName type="region">Inde</placeName>
-<lb/>ẏa plus de ·<num>v·<sup place="above previous">m</sup></num>· illes habitables boines ⁊ grandes ſans celles
+<lb/>ẏa plus de ·<num>v·<hi rend="sup" place="above previous">m</hi></num>· illes habitables boines ⁊ grandes ſans celles
 <lb/>qui ſont non habitables·⁊ ſans autres petites· En cheſcu
 <lb/>ne iſle ẏa grant fuiſon de cites ⁊ de villes ⁊ de gens ſans
-<lb/>nombre· Car <tag type="nationality">ẏndois</tag> ſont de telle maniere q̄ il niſſent
+<lb/>nombre· Car <rs type="nationality">ẏndois</rs> ſont de telle maniere q̄ il niſſent
 <lb/>point hors de leur pais· Et pour chou ẏa gnẗ mlt́itude
 <lb/>de gens car il ne ſont point muables  pour chou q̄ il ſont
-<lb/>ou p̃mier clẏmat qui eſt de <tag type="celestial body">ſaturne</tag>· ⁊ <tag type="celestial body">ſaturne</tag> eſt tardif
+<lb/>ou p̃mier clẏmat qui eſt de <rs type="celestial body">ſaturne</rs>· ⁊ <rs type="celestial body">ſaturne</rs> eſt tardif
 <lb/>⁊ pau muable · car il demeure a faire ſon tour p̲̲ les·<num>xij</num>·
 <lb/>ſingnes  ·<num>xxx</num> · ans·⁊ li lune paſſe tous les ·<num>xij</num>·ſignez en·<num>I</num>·
-<lb/>mois·Et pour chou q̄ <tag type="celestial body">ſaturne</tag> eſt ſi tardif de mouueme͞t
+<lb/>mois·Et pour chou q̄ <rs type="celestial body">ſaturne</rs> eſt ſi tardif de mouueme͞t
 <lb/>pour chou ont les gens deſous clẏmat nature ⁊ volente q̄
 <lb/>il ne quierent point mouuoir de leur lieu· ℾ En noſtra pa
-<lb/>is eſt tout aucontraire car <persPronouns value="P4">nous</persPronouns> ſōmes ou·<num>vij·<sup place="above previous">e</sup></num>· clẏmat
-<lb/>qui eſt de le <tag type="celestial body">lune</tag> · ⁊ li lune eſt de legier mouement·⁊ ſi
+<lb/>is eſt tout aucontraire car <persPronouns value="P4">nous</persPronouns> ſōmes ou·<num>vij·<hi rend="sup" place="above previous">e</hi></num>· clẏmat
+    <lb/>qui eſt de le <rs type="celestial body">lune</rs> · ⁊ li lune eſt de legier mouement·⁊ ſi
 <lb/>eſt planette de voie ⁊ de cheminer p̲diu̾ſes voies ⁊ de cier
 <lb/>chier coſes eſtranges·⁊ le diu̾ſite dou monde·Car elle
 <lb/>enuiroune le tr̾e plus haſtiuement q̄ nulle autre planete
@@ -292,7 +292,7 @@
 <lb/>a lemer occeane·⁊ puis trœue on vne iſle q̾a anon <placeName type="region">Orines</placeName>
 <lb/>ou li marchant de <placeName type="city">veniſſe</placeName> de <placeName type="city">Janeve</placeName> ⁊ dautres marches· ẏ
 <lb/>vont ſouue͞t pour marchandiſes akater · Mais il fait ſi gn̈͞t
-    <lb/>chaut en cele iſle·⁊ pour le grant deſtreche de chaleur li <sub>c</sub>ppē
+    <lb/>chaut en cele iſle·⁊ pour le grant deſtreche de chaleur li <hi rend="sub">c</hi>ppē
 <lb/>dicle del hōme ⁊ teſticuli iſſent hors dou corps pendans
 <lb/>iusq͞s en mi le Jambe p̃ le grande diſſolution cou corps·
 <lb/>Mais li gens dou pais ⁊ chil q̾ ſeuent le nature ſe font 
@@ -300,7 +300,7 @@
 <lb/>reſtraintif ⁊ refrigeratif pour les retenir ou corps·ou
 <lb/>autreme͞t il ne porroient viure en che pais ⁊ en <placeName type="region">ethio
 <lb/>pe</placeName> ⁊ en autre pais mais les gens giſent tout nut eus
-<lb/>es riuages des iawes hōmes ⁊ fēmes tout enſamble</pb>
+    <lb/>es riuages des iawes hōmes ⁊ fēmes tout enſamble</pb>
 <pb n="f. 56r">
 <lb/>de tierche de Jour Juſq͞s a baſſe n͞one· ⁊ giſent tout de dens
 <lb/>liewe fors que le fache pour le grant chaut que il fait ou
@@ -351,7 +351,7 @@
 <lb/>ℾEt en ſi dient il en lor raiſon des autres planetes ⁊ de
 <lb/>feu auſſi pour chou quil eſt pourfitables . Et des ẏdolles
 <lb/>il dient que li buef eſt li plus ſainte bieſte q̍ ſoit en t̾re<damage type="tear, stitched" place="right margin"></damage>
-    <lb/>⁊ plus <sub>c</sub>pfitable que neſt nulle autre· car il fait des biens
+    <lb/>⁊ plus <hi rend="sub">c</hi>pfitable que neſt nulle autre· car il fait des biens
 <lb/>aſſes.⁊ ſi ne fait nul mal ·⁊ ſeue͞t bien que che ne puet
 <lb/>ieſtre ſans eſpecial graſce de dieu . Et pour chou font il
 <lb/>leur dieu de buef le moitiet·⁊ lautre moitiet de hōme
@@ -367,24 +367,24 @@
 <lb/>graſce de dieu·Et pour chou font il faire les ẏdoles ſam
 <lb/>blabes pour les regarder ⁊ a ourer p̄mieremȇt le matin
 <lb/>auant que il en contrent coze contraire·ℾIl ẏa bien des 
-<lb/><tag type="religious affiliation">creſtijens</tag> qui dient que aucunes bieſtes ont boin ēcontre.
+<lb/><rs type="religious affiliation">creſtijens</rs> qui dient que aucunes bieſtes ont boin ēcontre.
     <damage type="tear, stitched" place="bottom center of page"></damage></pb>
 <pb n="f. 57r">
 <lb/>⁊ aucunes maluais en contre ſi ꝯme on diſt que on a eſ
 <lb/>puet maintes fois q̄ li lieures a maluais encontre·⁊.<num>I</num>·
 <lb/>pourchiel ·⁊ pluiſeurs autres bieſtes auſſi·⁊ de·<num>I</num>·eſpre
-    <lb/>uier ou ·<num>I</num>· autre oiſiel de <sub>c</sub>pre qn̈t il volle apries ſe pie
-    <lb/>deuant gens darmes · ⁊ il prent ſe <sub>c</sub>pie cheſt boinˤſignes·
+    <lb/>uier ou ·<num>I</num>· autre oiſiel de <hi rend="sub">c</hi>pre qn̈t il volle apries ſe pie
+    <lb/>deuant gens darmes · ⁊ il prent ſe <hi rend="sub">c</hi>pie cheſt boinˤſignes·
 <lb/>⁊ ſe il faut cheſt maluais ſignes · Et auſſint ſont telles
 <lb/>gens q̓ dient que cheſt maluais ſignes ⁊ maluais ēcontre
 <lb/>de ·<num>I</num> · corbaut· ℾEn telles choſes et en autres il ẏa ml̕t
 <lb/>de gens q̾ ẏcroient pour chou q̄ il eſt ſouuent auenut ·
-<lb/>mais aſſes de gent ne le croient mie· ℾEt puis q̄ li <tag type="religious affiliation">cres
-<lb/>tijen</tag> ont telle creanche ⁊ q̾ ſont abuuret de celle cre̅ache
+<lb/>mais aſſes de gent ne le croient mie· ℾEt puis q̄ li <rs type="religious affiliation">cres
+<lb/>tijen</rs> ont telle creanche ⁊ q̾ ſont abuuret de celle cre̅ache
 <lb/>⁊ ſi ſeuent toute ſainte doctrine che neſt mie m̾uellez ſe
 <lb/>li paijen qui nont point de boine doctrine fors q̄ de lor na
 <lb/>ture iavient plus largemēt pour lor ſimpleche·ℾEt vraie
-<lb/>ment <persPronouns value="P1">J</persPronouns>en aẏ veut des paijens ⁊ des <tag type="religious affiliation">ſarrſains</tag> que on apelle
+<lb/>ment <persPronouns value="P1">J</persPronouns>en aẏ veut des paijens ⁊ des <rs type="religious affiliation">ſarrſains</rs> que on apelle
 <lb/><foreign>vignurijen</foreign>· Que qn̈t noꝯcheuauchīemes en armes ou au
 <lb/>cune part vers nos anemis q̄ p̲ le voler des oiſiaus il noꝯ
 <lb/>pmetoient tout chou q̄ noꝯ trouiēmes a pries· ⁊ chou fai
@@ -392,7 +392,7 @@
 <lb/>que il ſeroit enſi· Mais pour chou ne doit on point metre
 <lb/>ſe creanche en tele choſez· Mais toudis auoir ferme cre̅ache
 <lb/>en nr̅eſigneur qui puet faire ⁊ deffaire qn̄t il li plaiſt ·
-<lb/><hi rend="dropcap2 red">C</hi>heſte iſle de <placeName type="region">chana</placeName> li <tag type="religious affiliation">ſarraſin</tag> lont gaaigniet ⁊ le tīe
+<lb/><hi rend="dropcap2 red">C</hi>heſte iſle de <placeName type="region">chana</placeName> li <rs type="religious affiliation">ſarraſin</rs> lont gaaigniet ⁊ le tīe
 <lb/>nent· Il ẏa en chelle ẏlle moult delẏons ⁊ de bieſtes
 <lb/>ſauuages·Et ſi ſont li rat de celle iſle au ſi grant c̅o̅me 
 <lb/>chien <gap reason="illegible" n="2" unit="character"/> chi · ⁊ les prent on a grans maſtins·car li kat
@@ -401,16 +401,16 @@
 <lb/>grande q̄ en ·<num>I</num>·pau de temps li chars eſt toute c̅o̅sūmee
 <lb/>Juſq̄s as os·ℾ De la va on p̲ mer vers <placeName type="region">Inde le maiour</placeName> ·
 <lb/>a vne chitet quia anon ·<placeName type="city">zarbe</placeName>·q̾ eſt ml̕t belle et ml̕t bōne·
-<lb/>Et ẏdemeurent ml̕t de <tag type="religious affiliation">creſtijens</tag> de boine foẏ·⁊ ſi ia ml̕t</pb>
+<lb/>Et ẏdemeurent ml̕t de <rs type="religious affiliation">creſtijens</rs> de boine foẏ·⁊ ſi ia ml̕t</pb>
 <pb n="f. 57v">
-<lb/>de religieus eſpeſſiaulmēt de <tag type="religious affiliation">mendians</tag>·     Puis va on
+<lb/>de religieus eſpeſſiaulmēt de <rs type="religious affiliation">mendians</rs>·     Puis va on
 <lb/>p̲ mer en le t̾re de <placeName type="region">lombe</placeName> · en celle t̾re croiſt li poiures en vne
 <lb/><unclear reason="scribal ambiguity" cert="100%">forieſt</unclear> quia a non · <geogName type="forest">combar</geogName> · ⁊ ne croiſt nulle p̲t allieurs
 <lb/>en tout le monde fors q̄ en celle forieſt qui dur bien ·<num>xviij</num>·
 <lb/>iournees de lonc · Et en celle forieſt ẏa· <num>ij</num> · boines chites·li
 <lb/>vne a anon · <placeName type="city">flandrine</placeName> · ⁊ lautre ·<placeName type="city">zinglans</placeName>· Et ẏa des iſles
-<lb/>pluiſeurs · ⁊ en cheſcune de ces iſles · demeure̅t <tag type="religious affiliation">creſtijens</tag> ·
-<lb/>⁊ <tag type="religious affiliation">Juis</tag> grant fuiſon · car il ẏa boin pais · mais ml̕t ẏfait
+<lb/>pluiſeurs · ⁊ en cheſcune de ces iſles · demeure̅t <rs type="religious affiliation">creſtijens</rs> ·
+<lb/>⁊ <rs type="religious affiliation">Juis</rs> grant fuiſon · car il ẏa boin pais · mais ml̕t ẏfait
 <lb/>grant chaut · Et pœs ſauoir q̄ li poiures croiſt a maniere
 <lb/>dune vingne ſauuage q̾ ſoit plantee pries des arbres dou
 <lb/>los pour les ſouſtenir enſi c̅ome li vingne · Et pent li
@@ -466,7 +466,7 @@
 <lb/>mengut a grant ſollempnitet · Et a toudis li Roẏs dou
 <lb/>pais ·<num>I</num>· tel buef a vœc li · Et chil q͛ le garde rechoit tous le ̑
 <lb/>iours le fiens et lourine en ·<num>ij</num>· vaiſſiaus dor · ⁊ puis le
-    <lb/>ballient a lor prelat q̄ il appellent <foreign>archi<sub>c</sub>pthopapaton</foreign> · Et
+    <lb/>ballient a lor prelat q̄ il appellent <foreign>archi<hi rend="sub">c</hi>pthopapaton</foreign> · Et
 <lb/>chis p̄las le porte deuant leur Roẏ·Et li Roẏs p̲ gn̈t de uo</pb>
 <pb n="f. 58v">
 <lb/>tion moulle ſes mains del ourine q̄ il apellent·<foreign>gau</foreign>·⁊ ſon
@@ -502,11 +502,11 @@
 <lb/>giſt li corps <persName>ſaint thomas</persName> lapoſtele en char ⁊ en os en
 <lb/>vne belle tombe· en le chitet de ·<placeName type="city">calamie</placeName>· car la fu il mar</pb>
 <pb n="f. 59r">
-<lb/>tẏrijes ⁊ enſeuelis · Mais li <tag type="nationality">aſſirijen</tag> fure͡t iadis portet
+<lb/>tẏrijes ⁊ enſeuelis · Mais li <rs type="nationality">aſſirijen</rs> fure͡t iadis portet
 <lb/>le corps de lui·en <placeName type="region">meſopotanie</placeName> en le chite de <placeName type="city">ediſſe</placeName>· et
 <lb/>puis fut il la ariere reportes · Et le brach ⁊ le main dont <damage type="tear, stitched" place="right margin"></damage>
 <lb/>il bouta ſes dois es plaies de nr̅e ſigneur qn̈͞t il ſa parut
-<lb/>alui apries ſe reſurrexion ⁊ li diſt ·ℾ<foreign language="Latin">Noli eſſe <del rend="erasure"> in  </del>cre
+<lb/>alui apries ſe reſurrexion ⁊ li diſt ·ℾ<foreign xml:lang="la">Noli eſſe <del rend="erasure"> in  </del>cre
 <lb/>dulus ſed fidelis</foreign>· Et giſt en core audehors dou vaiſſial·
 <lb/>Et p̲ celle main il font leur Jugemēns en ce pais ⁊ ſe
 <lb/>uent quia tort ou droit · Car quant il a diſcention entre
@@ -521,19 +521,19 @@
 <lb/>Des quelz li mendres eſt auſſi grans c͡ome· <num>ij</num>· hōmes ·
 <lb/>Et entre les autres ẏa vne tres grande ẏmage plus aſſes
 <lb/>q̄ nulle des autres·q̾ eſt toute couuierte dor ⁊ de pieres
-<lb/>preſſieuſes·⁊ ce eſt li · adebe· des faus <tag type="religious affiliation">creſtijens</tag> renoies·
+<lb/>preſſieuſes·⁊ ce eſt li · adebe· des faus <rs type="religious affiliation">creſtijens</rs> renoies·
 <lb/>Et ſiet en vne kaiere ml̕t noblement · ⁊ a en tour ſon
 <lb/>corps des larges ſaintures ouurees dor ⁊ de perles ⁊ de
 <lb/>pieres preſcieuſes· Et eſt li egliſe toute doree dedens · 
 <lb/>Et a celle egliſe vient on en pelerinage auſi ꝯmuneme͡t
-<lb/>⁊ p̲ auſi grant deuotion q̄ li <tag type="regligious affiliation">creſtijen</tag> font a <persName>ſaint Jakeme</persName>·
+<lb/>⁊ p̲ auſi grant deuotion q̄ li <rs type="religious affiliation">creſtijen</rs> font a <persName>ſaint Jakeme</persName>·
 <lb/>en <placeName type="region">galiſce</placeName> · ⁊ pluiſeurs gens qui vont vers celle ẏdolle
 <lb/>de lontaines tr͛es pour le grant deuotion q̄ il ont· il re
 <lb/>gardent tou dis en terre·⁊ noſent leuer lor tieſtes pour
 <lb/>regarder en tour ẏaus p̃ le paour q̄ il ne voient aucune
 <lb/>choſe qui les oſte de leur deuotion ·ℾEt des autres iuo͞t
 <lb/>en pelerinage q̾ portent des coutiaus en lor mains·⁊ ſe
-<lb/>fierent ⁊ plaient en bras et en Jambes ⁊ es cuiſſes ·</pb>
+    <lb/>fierent ⁊ plaient en bras et en Jambes ⁊ es cuiſſes ·</pb>
 <pb n="f. 59v">
 <lb/>Et eſpandent leur ſang pour lamour de celle ẏdolle
 <lb/>⁊ dient quil eſt boins eureus q̾ muert p̃ lamour de 
@@ -543,7 +543,7 @@
 <lb/>ẏa que de<del rend="erasure" cert="90%">s</del> heure q̄ il ſe p̲tiront de lor maiſon a chaſcū
 <lb/>·<num>iij</num>· pas ſagenoullent tant q̄ il ſeront a celle ẏdolle· Et 
 <lb/>quant il ſeront la venut il ont enchens ⁊ autres choſes
-<lb/>bien odourans de quoẏ il lenchenſent en ſi q̄ che fuſt li corp<sup>s</sup>
+<lb/>bien odourans de quoẏ il lenchenſent en ſi q̄ che fuſt li corp<hi rend="sup">s</hi>
 <lb/>nȓe ſigneur· Et enſi vient on pour a ourer celle ẏdolle de
 <lb/>plus de· <num>c</num> · lieuves lonc ·Et ſe ẏa deua͞t le mouſtier de cel
 <lb/>le ẏdolle en ſi q̄ ·<num>I</num>· viuierou ·<num>I</num>·lac tout plain de ẏalle
@@ -572,14 +572,14 @@
 <lb/>dieu ·⁊ en plus grant ioie en lautre ſiecle · Et briefme͞t
 <lb/>adire il font des ſi tres grandes penanches·⁊ de ſi grandes 
 <lb/>martẏres ſouffrir au corps pour la mour de lor dieu .
-<lb/>que apaines nus <tag type="religious affiliation">creſtijens</tag> ne oſeroit endurer le ·<num>x<sup place="above previous">c</sup></num>· af
+<lb/>que apaines nus <rs type="religious affiliation">creſtijens</rs> ne oſeroit endurer le ·<num>x<hi rend="sup" place="above previous">c</hi></num>· af
 <lb/>faire pour lamour de <persName>iheſu criſt</persName> · ℾ Et puis voꝰdi q̄ de
 <lb/>uant le kar au plus pries vont li meneſtrel dou pais
 <lb/>en ſi q̄ ſans nombre avœc dui̾s inſtrumens·Et font en
 <lb/>tre ẏaus des grandes melodies· Et quant il ont toute
 <lb/>le citet euirounee il retournēt a legliſe ⁊ remettent leur
 <lb/>ẏdolle en ſon lieu ·Et a dont pour le honneur del ẏdolle·⁊
-<lb/>pour le reuerenche de le fieſte·Si occient ·<num>ij<sup place="above previous">c</sup></num>·ou·<num>iij·<sup>c</sup></num> per
+<lb/>pour le reuerenche de le fieſte·Si occient ·<num>ij<hi rend="sup" place="above previous">c</hi></num>·ou·<num>iij·<hi rend="sup">c</hi></num> per
 <lb/>so͞nes des quelz on prent les corps ⁊ les metton deuant le
 <lb/>ẏdolle· ℾEt diſton la q̄ il ſont ſaint pourchou q̄ il ſe ſont
 <lb/>occis de lor boin e volente pour lamour de lor dieu·Et enſi
@@ -602,7 +602,7 @@
 <lb/>gardes diex que vr̄e loial amit ⁊ ſergans a fait p̃ vous</pb>
 <pb n="f. 60v">
 <lb/>il a relenq͛t fȇmes ⁊ enfans rikeches·⁊ a tous les biens
-<lb/>de che monde · ⁊ ſe <sub>c</sub>ppre vie pour lamour de voꝰ· Et vous
+<lb/>de che monde · ⁊ ſe <hi rend="sub">c</hi>ppre vie pour lamour de voꝰ· Et vous
 <lb/>a fait ſacrefiſſe de ſa char ⁊ de ſont ſang ·ſi que vœillies loi
 <lb/>poſer deles voꝰ entre vos plus ames · en le gloire de p̲adis 
 <lb/>car il la bien deſſieruit · Et puis il font ·<num>I</num>·grant feu et
@@ -626,7 +626,7 @@
 <lb/>eſpouſees ains ſont toutes les fēmes dou pais ꝯmunes
 <lb/>Et ne refuſent nullui ·⁊ dient q̄ elles pecheroient ſe elles
 <lb/>refuſoient les hȏmes · et q̄ diex le ꝯmanda enſi a <persName>adam</persName> ·
-<lb/>Et chiaus q͛ deſcenderoient delui lau ou il diſt  ·ℾ<hi rend="underline red"><foreign language="Latin">Creſci
+<lb/>Et chiaus q͛ deſcenderoient delui lau ou il diſt  ·ℾ<hi rend="underline red"><foreign xml:lang="la">Creſci
 <lb/>te et multiplicamini et replete terram</foreign></hi>· ℾ En che pais
 <lb/>la nus ne puet dire cheſte eſt me fēme· ne chius chi eſt
 <lb/>mes maris¨ Et qn̈͞t elles enfantent elles le dounēt a cui
@@ -647,9 +647,9 @@
 <lb/>ſier ·Et dient que cheſt millour chavs ⁊ li plus douche
 <lb/>dou monde · En celle terre ne ou pais ne en pluiſeurs au
 <lb/>tres t͛res p̱dela ou ne voit point leſtoille · tranſmo͞tane ·
-<lb/>Cheſt leſtoille de mer q ne ſe muet point q͛ eſt vers biſe ·Mai<sup>s</sup>
+<lb/>Cheſt leſtoille de mer q ne ſe muet point q͛ eſt vers biſe ·Mai<hi rend="sup">s</hi>
 <lb/>long voit on vne autre q͛ eſt au contraire de celle vers midi ·
-<lb/>que on apelle <tag type="celestial body">antartike</tag>· Et enſi prendent li marounier
+<lb/>que on apelle <rs type="celestial body">antartike</rs>· Et enſi prendent li marounier
 <lb/>auis ichi· Et ſe gouuernent p̲ cheſte eſtoille vers bize·En
 <lb/>ſi font li marounier de la p̲ celle eſtoille deuers midẏ·liq̄lle
 <lb/>na pert point a nous · ⁊ ceſte deuers bize napert point a ẏaꝰ·
@@ -659,7 +659,7 @@
 <lb/>p̲ experienche ⁊ par ſoutiue indagation · que ſe on trouuoit
 <lb/>paſſage de nef ⁊ de gens qui uoſiſſent aler chierkier le mō
 <lb/>de on porroit aler a nauie tout entours le monde ⁊ deſeure
-<lb/>⁊ deſous . le quelle coze <persPronouns value="P1">ie></persPronouns> prœue enſi ſelonc chou que
+<lb/>⁊ deſous . le quelle coze <persPronouns value="P1">ie</persPronouns> prœue enſi ſelonc chou que
 <lb/><persPronouns value="P1">i</persPronouns>ai eſſaijet · Car <persPronouns value="P1">i</persPronouns>ai eſtet vers les p̲tis de <placeName type="region">braban</placeName> · Et aẏ
 <lb/>regarde a laſtralabe · que la tranſmonta͞ine eſt ·<num>liij</num>·degres
 <lb/>dė haut · Et en <placeName type="region">alemaingne</placeName> vers <placeName type="city">beſme</placeName> elle eſt ·<num>lviij</num>· Et
@@ -680,8 +680,8 @@
 <lb/><placeName type="region">ethẏope</placeName> elle eſt ·<num>xviij</num>· degres de haut et aucuns oꝯimis
 <lb/>avœch dont li ·<num>lx</num>· minut font ·<num>I</num>· degret· Et puis en
 <lb/>alant vers che pais dont <persPronouns value="P1">ie</persPronouns> p̲olle · Et ens es autres iſ
-<lb/>les ⁊ pais eu contre · <persPronouns value="P1">Je</persPronouns> trouuaẏ <tag type="celestial body">lantartique</tag> de·<num>xiij</num> ·degres
-<lb/>de haut ⁊ ·<num>xvj</num>·minus· Et ſe <persPronouns type="P1">ie</persPronouns> euiſſe trouuet nauie ⁊ cō
+<lb/>les ⁊ pais eu contre · <persPronouns value="P1">Je</persPronouns> trouuaẏ <rs type="celestial body">lantartique</rs> de·<num>xiij</num> ·degres
+<lb/>de haut ⁊ ·<num>xvj</num>·minus· Et ſe <persPronouns value="P1">ie</persPronouns> euiſſe trouuet nauie ⁊ cō
 <lb/>paigne pour aler plus auant <persPronouns value="P1">Je</persPronouns> cuide ieſtre c̾tains q̄ 
 <lb/><persPronouns value="P4">nous</persPronouns> euiſſiens veut toute le rondeche dou firmamēt tout
 <lb/>en tours· Car enſi q̄ <persPronouns value="P1">ie</persPronouns> voꝰ ai dit p̲deuant li moitie dou
@@ -690,13 +690,13 @@
 <lb/>biſe deſous le tranſmōtāin̄e ·<num>lxij</num>· degres et ·<num>x</num>· minutes ·
 <lb/>Et deuers le p̲tie meredionelle ·<persPronouns value="P1">Je</persPronouns> ai veut deſous lan
 <lb/>tartique ·<num>xxxiij</num>· degres et ·<num>xvj</num>· minus ·ℾOres le moitiet
-<lb/>dou fiermament ne tient que ·<num>ix<sup><unclear>x</unclear>x</sup></num>· degres ⁊ de ces ·<num>ix<sup place="above previous">xx</sup></num>· de
+<lb/>dou fiermament ne tient que ·<num>ix<hi rend="sup"><unclear>x</unclear>x</hi></num>· degres ⁊ de ces ·<num>ix<hi rend="sup" place="above previous">xx</hi></num>· de
 <lb/>gres ie en ai veu · <num>lxxij</num>· de vne p̲t · ⁊ ·<num>xxxiij</num>· dautre che
 <lb/>ſont ·<num>lxxxxv</num>· degres · Et apries de le moitiet de ·<num>I</num>· degret
 <lb/>Et en ſi il nen faut que <persPronouns value="P1">Je</persPronouns> nai veut tout lefirmame̅t
-<lb/>que ·<num>iiij<sup>xx</sup>· ⁊ ·iiij</num>· degres ⁊ bien le moitiet de ·<num>I</num>· degret
+<lb/>que ·<num>iiij<hi rend="sup">xx</hi>· ⁊ ·iiij</num>· degres ⁊ bien le moitiet de ·<num>I</num>· degret
 <lb/>Et che neſt mie le quarte p̲tie dou firmam͞et · Car li q̑ṙte 
-<lb/>partie dou firmame͞t eſt ·<num>iiij<sup>xx</sup>· ⁊ ·x</num>· degres ·ſi enfaut ·<num>v</num>·
+<lb/>partie dou firmame͞t eſt ·<num>iiij<hi rend="sup">xx</hi>· ⁊ ·x</num>· degres ·ſi enfaut ·<num>v</num>·
 <lb/>degres ⁊ demi de le quarte p̲tie · Et enſi ai <persPronouns value="P1">ẏe</persPronouns> veues les ·<num>iij</num>·
 <lb/>p̲tijes de le rondeche dou firmament ⁊ plus encore ·<num>v</num>· de</pb>
 <pb n="f. 62r">
@@ -718,12 +718,12 @@
 <lb/>ſe p̲tie vers orient ·⁊ ont la le iour qn̈͞t nous auons 
 <lb/>le nuit ·Et auſſi au contraire il ont le nuit qn̈͞t nous
 <lb/>auons le Jour · Car li t̾re ⁊ li mers ſont de ronde four –
-<lb/>me·  Et chou que on monte a ·<num>I</num>· coſtet ou aualle alaut<sup>e</sup>
+<lb/>me·  Et chou que on monte a ·<num>I</num>· coſtet ou aualle alaut<hi rend="sup">e</hi>
 <lb/><hi rend="dropcap2 red">O</hi>R aues oẏ dire p̲deuant q̄ <placeName type="city">Jhrl̕m</placeName> eſt ov ℾ <join desc="belongs to previous line">coſtet</join>
 <lb/>mi lieu dou monde · Et ce rpert p̲ vne lanche fi –
 <lb/>chie en terre ſour leure de midẏ al equinox q͛ ne fait poīt
 <lb/>de ombre a nul coſtet ·Et que che ſoit ou un lieu de le t̾re·
-<lb/><persName>Dauid</persName> le teſmōigne leur v on diſt· ℾ <foreign language="Latin">Et op̲atus eſt ſa –
+<lb/><persName>Dauid</persName> le teſmōigne leur v on diſt· ℾ <foreign xml:lang="la">Et op̲atus eſt ſa –
 <lb/>lutem in medio terre</foreign>·ℾDont chil q̾ ſe p̲tent de ches p̲ –
 <lb/>ties p̃ aler vers <placeName type="city">ihrl̕m</placeName> autant de iournees cōme il met
 <lb/>tent pour monter iusq͡s la · en autant de iournees
@@ -736,7 +736,7 @@
 <lb/>ma il ſouuenut mainte fois de vne coſe q̄ <num>I</num> oi conter
 <lb/>qn̈t <persPronouns value="P1">Je</persPronouns> eſtoie petis · c̅omȇt ·<num>I</num>· vaillans hons de no pais
 <lb/>ſe p̲ti iadis pour aler chierchier le monde · ſi paſſa <placeName type="region">Inde</placeName>
-<lb/>⁊ les iſles outre · <placeName type="region">Inde</placeName> · ou il a plus de · <num>v<sup>m</sup></num> · lieues. Et ta̅t
+<lb/>⁊ les iſles outre · <placeName type="region">Inde</placeName> · ou il a plus de · <num>v<hi rend="sup">m</hi></num> · lieues. Et ta̅t
 <lb/>enuirouna le monde p̲ maintes ſaiſons q̄ il trouua vne
 <lb/>iſle ou il oi p̱ler ſon langaige · Et cachier les bueſ en
 <lb/>diſant telles p̱olles q̄ on faiſoit en ſon pais · dont ſes m̾
@@ -760,7 +760,7 @@
 <lb/>ſont ſi grandes ⁊ ſi peſans · deueroient cheir iuſq͡s aufir
 <lb/>mament· ℾ Mais che ne porroit ieſtre · car che ne ſeroit
 <lb/>mie kairs mais monter · Et pour chou diſt nr͡es ſires ·
-<lb/>ℾ<hi rend="underline red"><foreign language="Latin">Ne timeas me qui ſuſpendi terram in nichilo</foreign></hi> · ℾEt
+<lb/>ℾ<hi rend="underline red"><foreign xml:lang="la">Ne timeas me qui ſuſpendi terram in nichilo</foreign></hi> · ℾEt
 <lb/>combien que che ſeroit choſe poſſible q̄ on porroit auirou
 <lb/>ner tout le monde · nient mains ·de mille ·<num>I</num>· ne radre
 <lb/>cheroit mie ſi droit pour retourner vers ſon pais · Car
@@ -772,7 +772,7 @@
 <lb/>ne pourroit adrechie a droite voie ſe che neſtoit dauenture ou
 <lb/>de droite graſce de dieu · Car li tr̾e eſt ml̕t grande ⁊ ml̕t large
 <lb/>Et tient de rondure ⁊ de tour enuiron p̲ deſeure ⁊ p̲ deſous
-<lb/>ſans le mer ·<num>xx<sup>m</sup></num>· milles ⁊ ·<num>iiij<sup place="above previous">c</sup>· ⁊ ·xxv</num>· milles · Selonc lopi
+<lb/>ſans le mer ·<num>xx<hi rend="sup">m</hi></num>· milles ⁊ ·<num>iiij<hi rend="sup" place="above previous">c</hi>· ⁊ ·xxv</num>· milles · Selonc lopi
 <lb/>nion des anchiens ſages· Le dit des quelz ie ne repeue mie
 <lb/>ℾMais ſelonc le petiteche de meu ſens il me ſamble ſauue
 <lb/>lor graſce que il ẏa plus · Et pour miex entendre che que
@@ -781,7 +781,7 @@
 <lb/>Et puis ſoit li grans compas deuiſes p̲ lingnes en toutes
 <lb/>ſes p̲tijes· ⁊ que toutes les lingnes ſa ſamblent au · centre ·
 <lb/>Et pœs ſauoir que en quarantes p̲ties ſera de p̲tis li grans
-<lb/>compas ·⁊ en autant ſera dep̲tis li petis compas q̾ eſt entour<sup>s</sup>
+<lb/>compas ·⁊ en autant ſera dep̲tis li petis compas q̾ eſt entour<hi rend="sup">s</hi>
 <lb/>le centre · combien q̄ les eſpaſſes ſoient menres · ℾOrſoit li
 <lb/>grans compas repreſentes pour le firmamēt ·Et li petis cȏ
 <lb/>pas q͛ eſt en tours le centre repreſente le tr̾e· Et che ſeuēt
@@ -790,10 +790,10 @@
 <lb/>degres che ſont ·<num>ccc · ⁊ · lx</num> · degres· ens es quelz li firmamēs
 <lb/>eſt deuiſes·ℾOr ſoit auſſi li terre deuiſee en autant de p̲ties ·
 <lb/>⁊ reſpondera chaſcune p̲tie a·<num>I</num>·degret dou firmamēt ·Et ſe
-<lb/>lonc les aucteurs daſtronomie ·<num>vij<sup>c</sup></num>· ſtadies de tr̾e reſponde͞t
-    <lb/>a·<num>I</num>·degret dou firmamēt · che ſont ·<num>iiij<sup place="above previous">x</sup><sup>x</sup>· ⁊ ·vij·millez ⁊ demie</num>
-<lb/> ℾOr ſoit chou le monteplijet p̲·<num>iij<sup place="above previous">c</sup> · ⁊.lx</num>· fois che ſeront
-<lb/>·<num>xxxj</num>·mille millez et ·<num>v<sup>c</sup></num>· millez caſcūne de·<num>viij</num>· ſtadies tant
+<lb/>lonc les aucteurs daſtronomie ·<num>vij<hi rend="sup">c</hi></num>· ſtadies de tr̾e reſponde͞t
+    <lb/>a·<num>I</num>·degret dou firmamēt · che ſont ·<num>iiij<hi rend="sup" place="above previous">x</hi><hi rend="sup">x</hi>· ⁊ ·vij·millez ⁊ demie</num>
+<lb/> ℾOr ſoit chou le monteplijet p̲·<num>iij<hi rend="sup" place="above previous">c</hi> · ⁊.lx</num>· fois che ſeront
+<lb/>·<num>xxxj</num>·mille millez et ·<num>v<hi rend="sup">c</hi></num>· millez caſcūne de·<num>viij</num>· ſtadies tant
 <lb/>li tr̾e de reondeche ⁊ de tour en viron ſelonc chou q̄ <persPronouns value="P1">ie</persPronouns> puis
 <lb/>concheuoir p̲ le dit des aſtrenomijens ſi que <persPronouns value="P1">Je</persPronouns> aẏ dit · Et
 <lb/>ne deſplaiſe as liſans che q̄ ie di · que vne p̲tie de <placeName type="region">inde</placeName> eſt de
@@ -808,7 +808,7 @@
 <lb/>ſe il ẏauoit ſignes ou eſtoilles eſtables vers orient ⁊ vers
 <lb/>occident p̲ les quelles ou porroit les p̲tijes meſurer ſi que
 <lb/>on fait les p̲ties de biſe · ⁊ de midi · p̲ les ·<num>ij</num>· eſtoilles non
-<lb/>mouuables · <tag type="celestial body">lartique</tag> ⁊ <tag type="celestial body">lantartique</tag>·decertain on trouue
+<lb/>mouuables · <rs type="celestial body">lartique</rs> ⁊ <rs type="celestial body">lantartique</rs>·decertain on trouue
 <lb/>roit <placeName type="region">les iſles et le tr̾e preſtre Jehan</placeName> bien loing pres des
 <lb/>hors des climas ·⁊ plus en uirouna͡t le tr̾e deſſous que li par
 <lb/>tie debize ⁊ de midi ne ſoient · dont ia faite m͞etion chi deua͞t ·
@@ -816,8 +816,11 @@
 <lb/>bize tout droit vers le droit midi· ℾEt puis q̄ li tr̾e eſt re
 <lb/>onde autant ia de bize a midi c͞ome de droit orient au droit
 <lb/>occident· Pour quoi <persPronouns value="P1">ie</persPronouns>di q̄ chou q̄ on paſſe outre chelle me
-<lb/>ſure eſt deſous nous en auirounant le terre ·</pb>
-</div>
+    <lb/>ſure eſt deſous nous en auirounant le terre ·</pb>
+            </rdg>
+          </app>
+        </p>
+      </div1>
 </body>
 </text>
 </TEI>

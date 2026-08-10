@@ -1,1 +1,1 @@
-J'essaie de mon mieuxxxx
+Transcriptions diplomatiques des mss. du corpus + transcription interprétative du ms. P13

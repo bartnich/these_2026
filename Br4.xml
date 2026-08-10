@@ -19,7 +19,7 @@
 </publicationStmt>
  <sourceDesc>
       <listWit>
-          <witness xml:id="Br4">Bruxelles, KBR 14787 (Br4) </witness>
+          <witness xml:id="Br4">Bruxelles, KBR 14787 (Br4)</witness>
       </listWit>
     </sourceDesc>
   </fileDesc>
@@ -43,10 +43,10 @@
 <lb/>ſelon ſa loy͠  Et <persName>nr͡eß</persName> prenoit bien en gre ſon ſeruice Et quant il
 <lb/>chey en pourete il auoit daage ·<num>lxxviij</num>· ans· Et apres quant <persName>nr͡eß</persName>
 <lb/>ot veu ſa pacience qui eſtoit ſi grande Il le remiſt a ſa Richeſſe
-<lb/>⁊ a ſa haulteſſe de rechief Et fu puis Roy͠s de <placeName type="region">ydumea></placeName> apres
+<lb/>⁊ a ſa haulteſſe de rechief Et fu puis Roy͠s de <placeName type="region">ydumea</placeName> apres
 <lb/>le Roy <persName>eſau</persName>. Et quant <persName>Job</persName> fu Rois Il fu appellez <persName>Jobab</persName> / En ce Roiaume</pb>
 <pb n="f. 41v">
-<lb/>il veſqui·<num>clxx</num>·ans / ainſi auoit il quant il morut·<num>ij<sup>c</sup>·lxviij</num> ans
+<lb/>il veſqui·<num>clxx</num>·ans / ainſi auoit il quant il morut·<num>ij<hi rend="sup">c</hi>·lxviij</num> ans
 <lb/>En celle <placeName type="region">terre <persName>Job</persName></placeName> na nulle deſfaute de choſe qui ſoit necceſſaire
 <lb/>ahōme la y͠ a montaingnes ou on treuue grant foiſon de māne
 <lb/>plus aſſez ⁊ meilleur que on ne fait autre part / manne eſt
@@ -137,7 +137,7 @@
 <lb/>pourroit ſouffrir · ſa main dedens / Et oultre celle partie deuers
 <lb/>midi au paſſer par la grant mer occeane y͠ a vne grande terre
 <lb/>⁊ vn grant pais / Mais on ny͠ pourroit habiter pour la grande
-<lb/>chaleur du <tag type="celestial body">ſoleil</tag> qui eſt ſi chaux ſur celle terre/ En <placeName type="region">ethiope</placeName>
+<lb/>chaleur du <rs type="celestial body">ſoleil</rs> qui eſt ſi chaux ſur celle terre/ En <placeName type="region">ethiope</placeName>
 <lb/>toutes les Riuieres ſont troubles ⁊ ſont vn peu ſalees pour la
 <lb/>grant chaleur du ſoleil/ Et toutes les gens y ſont legierem͞t 
 <lb/>yure ⁊ nont mie grant appetit de mengier / Et ont c͡omunem̑t 
@@ -146,7 +146,7 @@
 <lb/>moult de diuerſes gens/ Et eſt <placeName type="region">ethiope</placeName> appellee <placeName type="region">cuſſie</placeName>/ Il y͠ a de celle
 <lb/>gent qui nont que vn piet Et ſi vont ſi toſt que ceſt merueilles
 <lb/>Et ſi eſt ce pie ſi large que il en font vmbre atout le corps encontre
-<lb/>le <tag type="celestial body">ſoleil</tag> quant Ilz ſe couchent de trauers . En ce pais quant li enfant
+<lb/>le <rs type="celestial body">ſoleil</rs> quant Ilz ſe couchent de trauers . En ce pais quant li enfant
 <lb/>ſont petit Ilz ſont tous chanus Et quant Ilz deuiennent grant
 <lb/>Ilz ont les cheueux tous noirs / En <placeName type="region">ethiope</placeName> eſt la cite de <placeName type="city">Sabba</placeName>
 <lb/>Ceſt la terre dont li vns des <num>iij</num>· Roy͠s fu ſires qui vint Requerir
@@ -248,23 +248,23 @@
 <lb/>Les gens qui habitent entour cele Riuiere ſont tous de verde
 <lb/>couleur ⁊de Jaune ſic͡ome Ilz euſſent la Jauniſſe /En <placeName type="region">Inde</placeName> ⁊</pb>
 <pb n="f. 44v">
-    <lb/>enuiron <placeName type="region">y͠nde</placeName> y͠ a plus de <num>v<sup place="above previous">m</sup></num>mille iſles habitables bonnes ⁊ grandes
+    <lb/>enuiron <placeName type="region">y͠nde</placeName> y͠ a plus de <num>v<hi rend="sup" place="above previous">m</hi></num>mille iſles habitables bonnes ⁊ grandes
 <lb/>ſans celles qui ſont inhabitables et ſans autres petites/ En chaſ
 <lb/>cune iſle y͠ a grant plante de citez ⁊ de villes ⁊ de gens ſans
-<lb/>nombre Car <tag type="adjective of nationality">Indois</tag> ſont de telle maniere que ilz ne yſſent /
+<lb/>nombre Car <rs type="adjective of nationality">Indois</rs> ſont de telle maniere que ilz ne yſſent /
 <lb/>point hors de leur pais/Et pour ce y͠ a grant multitude de gens
 <lb/>Car ilz ne ſont point muable pour ce que ilz ſont ou premier
-<lb/>climat qui eſt de <tag type="celestial body">ſaturne</tag> Et <tag type="celestial body">ſaturne</tag> eſt tardif ⁊ peu muable/Car
+<lb/>climat qui eſt de <rs type="celestial body">ſaturne</rs> Et <rs type="celestial body">ſaturne</rs> eſt tardif ⁊ peu muable/Car
 <lb/>il demeure afaire ſon tour par les <num>xij</num> ſignes·<num>xxx</num>·ans·Et la lune 
-<lb/>paſſe tous les <num>xij</num>· ſignes en vn mois Et pour ce que <tag type="celestial body">ſaturne</tag> eſt
+<lb/>paſſe tous les <num>xij</num>· ſignes en vn mois Et pour ce que <rs type="celestial body">ſaturne</rs> eſt
 <lb/>de ſi tardif mouuement pour ce ont les gens de ſon climat nature
 <lb/>⁊ voulente que ilz ne quierent point mouuoir En nr͡e pais eſt
-<lb/>tout au contraire. Car nous ſo͡mes ou <num type="ordinal">vii<sup place="above previous">e</sup></num> climat qui eſt de la 
-<lb/><tag type="celestial body">lune</tag>/ Et la <tag type="celestial body">lune</tag> eſt de legier mouuement /et ſi eſt planete de
+<lb/>tout au contraire. Car nous ſo͡mes ou <num type="ordinal">vii<hi rend="sup" place="above previous">e</hi></num> climat qui eſt de la 
+<lb/><rs type="celestial body">lune</rs>/ Et la <rs type="celestial body">lune</rs> eſt de legier mouuement /et ſi eſt planete de
 <lb/>voie Et pour ce elle <persPronouns value="P4 object">nous</persPronouns> donne nature ⁊ voulente de mouuoir
 <lb/>legierement ⁊ de cheminer par diuerſes voies/⁊ de ſarchier
 <lb/>choſes eſtranges ⁊ la diuerſite du monde·Car elle enuioronne
-<lb/>la <tag type="celestial body">terre</tag> plus haſtiuement que nulle autre planete·Item on 
+<lb/>la <rs type="celestial body">terre</rs> plus haſtiuement que nulle autre planete·Item on 
 <lb/>va parmi <placeName type="region">Inde</placeName> par maintes diuerſes contrees Juſques alamer
 <lb/>octeane /⁊ puis treuue on vne iſle qui a nom <placeName type="region">orines</placeName> ou li
 <lb/>marchans de <placeName type="city">veniſe</placeName> ⁊ de <placeName type="city">gennes</placeName> ⁊ dautres marches y͠ vont
@@ -295,7 +295,7 @@
 <lb/>⁊ y͠ auoit moult bon port/ mais lamer la forment gaſtee ⁊
 <lb/>apeticiee/ le Roy͠ de celle iſle ſouloit eſtre ſi poiſſans que il 
 <lb/>guerreoit au Roy͠ <persName>alixandre</persName> les gens de celle terre ont diuerſe
-<lb/>loy͠/Car aucun aeurent le <tag type="celestial body">ſoleil</tag> ⁊ aucun le feu ⁊ aucun arbres
+<lb/>loy͠/Car aucun aeurent le <rs type="celestial body">ſoleil</rs> ⁊ aucun le feu ⁊ aucun arbres
 <lb/>⁊ aucun ſerpens ou la premiere choſe que ilz encontrent la matinee
 <lb/>⁊ aucun aeurent ſimulacres ⁊ aucun aeurent y͠doles/ <hi rend="underline black">Mais entre
 <lb/>ſimulacres ⁊ y͠doles y͠ a differance/Car ſimulacres ſont y͠mages
@@ -313,7 +313,7 @@
 <lb/>Mais ilz ſceuent bien que ilz ne peuent faire les merueilles que
 <lb/>ilz faiſoient/ ſe ce neſtoit de leſpecial grace de dieu Et pour ce
 <lb/>que ilz eſtoient bien de dieu Ilz les aeurent Auſſi dient ilz
-<lb/>du <tag type="celestial body">ſoleil</tag> pour ce que il change le temps ⁊ donne chaleur et
+<lb/>du <rs type="celestial body">ſoleil</rs> pour ce que il change le temps ⁊ donne chaleur et
 <lb/>nourriſſement atoutes choſes ſur terre/ Et pour ce que il eſt 
 <lb/>de ſi grant vertu Ilz ſceuent bien quil ne puet eſtre que dieu ne
 <lb/>laime plus que il ne fait autres choſes Et pour ce lui a il donne</pb>
@@ -337,7 +337,7 @@
 <lb/>peut venir ſi non de la grace de dieu / Et pour ce font ilz
 <lb/>faire les y͠mages ſemblables pour les Regarder ⁊ aourer
 <lb/>premierement le matin auant que ilz encontrent choſe con
-    <lb/>traire/ Il y͠ a bien des <tag type="religious affiliation">xp͡ians</tag> qui dient que aucunes beſtes ont
+    <lb/>traire/ Il y͠ a bien des <rs type="religious affiliation">xp͡ians</rs> qui dient que aucunes beſtes ont
 <lb/>bon encontre ⁊ aucunes mauuais encontre ſic͡ome on dit que
 <lb/>on a eſprouue maintes foiz que li lieures a mauuais encontre
 <lb/>et pourceaux ⁊ pluſieurs autres beſtes auſſi Et devn eſpri
@@ -347,20 +347,20 @@
 <lb/>que ceſt mauuais ſignes ⁊ mauuaiſe encontre dun corbeau
 <lb/>En celles choſes ⁊en autres Il y͠ a moult de gens qui y croient
 <lb/>pour ce que il eſt ſouuant auenu/mais aſſez de gens ne le
-    <lb/>croient mie / Et puis que li <tag type="religious affiliation">xp͡ian</tag> ont telle creance qui ſont
+    <lb/>croient mie / Et puis que li <rs type="religious affiliation">xp͡ian</rs> ont telle creance qui ſont
 <lb/>abuurez de celle creance/et ſceuent toute ſainte doctrine /
 <lb/>Ce neſt mie merueilles ſe li paien qui nont point de bonne
 <lb/>doctrine fors que de leur nature y͠ croient plus largeme͞t
 <lb/>pour leur ſimplece/ Et vraiement <persPronouns value="P1">J</persPronouns>ay͠ veu des pay͠ens</pb>
 <pb n="f. 46r">
-    <lb/>des <tag type="religious affiliation">ſarraſins</tag> que on appelle vignurien / que quant <persPronouns value="P4">nous</persPronouns> che
+    <lb/>des <rs type="religious affiliation">ſarraſins</rs> que on appelle vignurien / que quant <persPronouns value="P4">nous</persPronouns> che
 <lb/>uachions en armes aucune part vers noz ennemis par levoler
     <lb/>des oyſiaus Ilz <persPronouns value="P4 object">nous</persPronouns> promectoient tout ce que <persPronouns value="P4">nous</persPronouns> trouue
 <lb/>rions apres Et ce faiſoient ilz par pluſieurs fois·Et mettoie͡t 
 <lb/>leur teſte en gaige que il ſeroit ainſi / Mais pour ce ne doit 
 <lb/>on point mettre ſa creance en tel chose / mais touſdiz auoir ferme
     <lb/>creance en <persName>n͡reß</persName> qui peut faire ⁊ deffaire quanques il lui plaiſt 
-    <lb/>Ceſte y͠ſle de <placeName type="region">chana</placeName> li <tag type="religious affiliation">ſarrazin</tag> lont gaingnie ⁊ la tiennent
+    <lb/>Ceſte y͠ſle de <placeName type="region">chana</placeName> li <rs type="religious affiliation">ſarrazin</rs> lont gaingnie ⁊ la tiennent
 <lb/>Il y a en celle iſle moult de lions ⁊ de beſtes ſauuages Et ſe
 <lb/>y ſont li Rat  en celle iſle auſſi grant c͡ome chien ya ·Et les
 <lb/>prent on aus grans maſtins / Car li chat ne les pourroient 
@@ -369,13 +369,13 @@
 <lb/>la char eſt toute conſumee Juſques aux os / De la va on par mer
     <lb/>vers <placeName type="region">Inde la maiour</placeName> avne cite qui a nom <placeName type="city">zarbe</placeName> qui eſt moult
 <lb/>belle ⁊ moult bonne ⁊ y͠ demeurent moult de xp̄ians de bonne
-    <lb/>foy͠ Et ſi y͠ a moult de religions par eſpecial de <tag type="religious affiliation">mendians</tag>/puis
+    <lb/>foy͠ Et ſi y͠ a moult de religions par eſpecial de <rs type="religious affiliation">mendians</rs>/puis
     <lb/>va on par mer en lacite de <placeName type="city">lombe</placeName>·En celle terre croiſt li poiures
     <lb/>en vne foreſt qui a nom <geogName type="forest">combar</geogName>/⁊ ne croiſt nulle autre part
 <lb/>ailleurs en tout le monde fors que en celle foreſt/qui dure bien
     <lb/><num>xviij</num> Journees de long/ En celle foreſt y a deux bonnes citez dont
     <lb/>lune a nom <placeName type="city">flandrine</placeName> / et lautre <placeName type="city">zinglans</placeName> · Et y͠ a des y͠ſles plu
-    <lb/>ſieurs ⁊ en chaſcune de ces y͠ſles demeurent <tag type="religious affiliation">xp͡ian</tag> ⁊ <tag type="religious affiliation">Juifs</tag>
+    <lb/>ſieurs ⁊ en chaſcune de ces y͠ſles demeurent <rs type="religious affiliation">xp͡ian</rs> ⁊ <rs type="religious affiliation">Juifs</rs>
 <lb/>grant foiſon. Car il y͠ a bon pais / mais moult y͠ fait grant
 <lb/>chaut. Et pouez ſauoir que li poiures croiſt en maniere de
 <lb/>vne vigne ſauuaige qui eſt plantee pres des arbres du bois
@@ -460,10 +460,10 @@
 <pb n="f. 47v">
     <lb/>li corps <persName>ſaint thomas</persName> lapoſtre/en char ⁊en or/en vne belle tumbe
     <lb/>en la cite de <placeName type="city">calamie</placeName>/car la fu il martirez ⁊ enſeueliz Mais li
-    <lb/><tag type="adjective of nationality">aſſirien</tag> furent Jadiz porter le corps de lui en <placeName type="region">meſopotame</placeName> ala cite
+    <lb/><rs type="adjective of nationality">aſſirien</rs> furent Jadiz porter le corps de lui en <placeName type="region">meſopotame</placeName> ala cite
     <lb/>de <placeName type="city">ediſſe</placeName> Et puis fu il la arriere Reportez , Et le bras ⁊ la main
     <lb/>que il bouta es plaies <persName>nr͡eß</persName> que <persName>nr͡eß</persName> li apparut apres le Reſu
-    <lb/>rection/et lui diſt <handNote medium="red-ink"><foreign language="Latin">Noli e͞e incredulus ſed fidelis</foreign></handNote>/ giſt encores au dehors
+    <lb/>rection/et lui diſt <handNote medium="red-ink"><foreign xml:lang="la">Noli e͞e incredulus ſed fidelis</foreign></handNote>/ giſt encores au dehors
 <lb/>du vaiſſel Et par celle main Il font leurs Jugemens ou pais a
     <lb/>ſauoir qui a tort ou droit. Car quant il a diſtencion entre·<num>ij</num>·
 <lb/>perſonnes ou parties ⁊ chaſcun tient quil a droit ilz mettent 
@@ -477,11 +477,11 @@
 <lb/>dieux / Deſquieulx li mendres eſt auſſi grans cōme deux h͞omes 
 <lb/>Entre les autres y͠ a vne treſgrande ymage plus aſſez que nulle
 <lb/>des autres ⁊ eſt toute couuerte dor ⁊ de pierres precieuſes et
-    <lb/>ce eſt li adebe des faulx <tag type="religious affiliation">x͞pians</tag> renoiez / et ſiet en vne chaiere
+    <lb/>ce eſt li adebe des faulx <rs type="religious affiliation">x͞pians</rs> renoiez / et ſiet en vne chaiere
 <lb/>moult noblement  Et a entour ſon corps des larges ſaintures
 <lb/>ouurees dor de pierres precieuſes ⁊ de perles Et eſt legliſe toute
 <lb/>doree dedens Et acelle egliſe vient on pelerinage auſſi c͞omu
-    <lb/>nement ⁊ par auſſi grant deuocion que li <tag type="religious affiliation">x͞pian</tag> font a<persName>ſaint
+    <lb/>nement ⁊ par auſſi grant deuocion que li <rs type="religious affiliation">x͞pian</rs> font a<persName>ſaint
     <lb/>Jaques de <placeName type="region">galiſce</placeName></persName>/ Et pluſieurs gens qui vont vers celle y͠dole
 <lb/>de longtaines terres pour la grant deuocion que ilz ont
 <lb/>Il Regardent tous Jours en terre / ⁊ noſent leuer leurs teſtes
@@ -522,21 +522,21 @@
 <lb/>lamour de celle y͠dole de tant ſeront il plus pres de dieu/ ⁊ en
 <lb/>plus grant Joie en lautre ſiecle· Et pour voir dire Ilz font de
 <lb/>ſi grans penitances  ⁊ de ſi grans martires ſouffrir au corps
-    <lb/>pour lamour de leur dieu que apain̑es nuls <tag type="religious affiliation">xp̅ians</tag> noſeroit
-    <lb/>emprendre le <num>x·<sup place="above previous">c</sup></num> afaire pour lamour de <persName>Ih͡ucriſt</persName> / Et puis
+    <lb/>pour lamour de leur dieu que apain̑es nuls <rs type="religious affiliation">xp̅ians</rs> noſeroit
+    <lb/>emprendre le <num>x·<hi rend="sup" place="above previous">c</hi></num> afaire pour lamour de <persName>Ih͡ucriſt</persName> / Et puis
     <lb/><persPronouns value="P5 object">vous</persPronouns> di que deuant le char au plus pres vont li meneſtrier
 <lb/>du pais ainſi c͡ome ſans nombre / auec diuers Inſtrumens 
 <lb/>⁊ font entre eulx de grandes melodies · Et quant Ilz ont</pb>
 <pb n="f. 48v">
 <lb/>toute la cite enuironnee Ilz Retournent alegliſe ⁊ Remettent lidole
 <lb/>en ſon lieu  Et adont pour honneur de lidole ⁊ pour la Reuerence
-    <lb/>de la feſte ſi occient ·<num>ij·<sup place="above previous">c</sup></num>· ou · <num>iij·<sup place="above previous">c</sup></num> perſonnes · Deſquieulx on prent le
+    <lb/>de la feſte ſi occient ·<num>ij·<hi rend="sup" place="above previous">c</hi></num>· ou · <num>iij·<hi rend="sup" place="above previous">c</hi></num> perſonnes · Deſquieulx on prent le
 <lb/>corps et le met on deuant lidole / Et diſt on que ilz ſont ſains 
 <lb/>pour ce que ilz ſe ſont occis de leur bonne voulente pour lamour
 <lb/>de leur dieu / Et ainſi que vn lignage par deca ſe tendroit ah͞onorez
     <lb/>de vn ſaint hōme / ou de <num>ij</num>· ſe ilz eſtoient ou linage ⁊ que on
 <lb/>mettroit en eſcript les biens fais ⁊ les miracles que ilz auroie͡t
-    <lb/>faiz pour les faire c͞anoniſier / ainſi ſe tiennent il par deſa po<sup>2</sup>
+    <lb/>faiz pour les faire c͞anoniſier / ainſi ſe tiennent il par deſa po<hi rend="sup">2</hi>
 <lb/>honorez de ceuls qui ſe tuent pour lamour de leur dieu · Et les
     <lb/>mettent en eſcript en leurs letanies  Et ſe ventent ⁊ dient <persPronouns value="P1">Je</persPronouns> ay͠
     <lb/>plus de ſains en mon linage que <persPronouns value="P5">vous</persPronouns> nauez ou voſtre dient
@@ -574,7 +574,7 @@
 <lb/>toutes les fe͞mes du pais c͡omunes ⁊ ne Refuſent nullui ⁊ dient
 <lb/>que elles pecheroient ſe elles Refuſoient les hōmes et que dieux le
     <lb/>c͞omanda a <persName>adam</persName> ⁊ aceuls qui deſcendroient de lui  la ou il diſoit   ̴
-    <lb/><handNote medium="red-ink"><foreign language="Latin">Creſcite ⁊ multiplicamini ⁊ Replete terram</foreign> ̴ </handNote>  En ce pais nuls ne
+    <lb/><handNote medium="red-ink"><foreign xml:lang="la">Creſcite ⁊ multiplicamini ⁊ Replete terram</foreign> ̴ </handNote>  En ce pais nuls ne
 <lb/>puet dire ceſte eſt ma fēme / ne cils eſt mes maris / Et quant elles
 <lb/>enfantent elles le donnent acui que elles veulent qui a eu com
 <lb/>paignie aelles Et auſſi la terre eſt toute c͞omune car li vns la
@@ -590,10 +590,10 @@
 <lb/>tent /et ſe ilz ſont gras ilz les menguent tantoſt / et ſe ilz ſont
 <lb/>maigres ilz les font engraiſſier / Et dient que ceſt la meilleur char
 <lb/>⁊ la plus doulce du monde / En celle terre ne en ce pais/ne en plußs
-    <lb/>terres par dela on ne voit point <tag type="celestial body">leſtoille tranſmontaine</tag> / Ceſt leſtoille
+    <lb/>terres par dela on ne voit point <rs type="celestial body">leſtoille tranſmontaine</rs> / Ceſt leſtoille
 <lb/>de mer qui ne ſe muet point qui eſt vers bize / mais loings
 <lb/>voit on vne autre qui eſt au contraire de celle vers midi que on appelle
-    <lb/><tag type="celestial body">antartike</tag>/ Et ainſi ſi li maronnier par celle eſtoille de la deuers midi
+    <lb/><rs type="celestial body">antartike</rs>/ Et ainſi ſi li maronnier par celle eſtoille de la deuers midi
     <lb/>la quelle nappert point a <persPronouns value="P4 tonic">nous</persPronouns> / Et ceſte deuers bize nappert point
 <lb/>a eulx par quoy͠ on puet bien apparceuoir que la terre ⁊ la mer
 <lb/>ſont de ronde fourme / Car la partie du firmament appert en</pb>
@@ -603,54 +603,54 @@
 <lb/>de nef ⁊ de gens qui vouſiſſent aler cerchier le monde on
 <lb/>pourroit aler a nauie tout entour le monde ⁊ deſeure ⁊ deſſoubz
     <lb/>la quelle choſe <persPronouns value ="P1">Je</persPronouns> preuue ainſi ſelon ce que <persPronouns value="P1">J</persPronouns>ay͠ eſſaie / Car <persPronouns value="P1">J</persPronouns>ay͠ eſte
-    <lb/>vers les  parties de <placeName type="region">braiban</placeName> Et ai Regarde alaſtralabe que <tag type="celestial body">la tranſ
-    <lb/>montaine</tag> eſt· <num>liij</num>· degrez de hault / Et en <placeName type="region">alemagne</placeName> vers <placeName type="region">boeſme</placeName>
+    <lb/>vers les  parties de <placeName type="region">braiban</placeName> Et ai Regarde alaſtralabe que <rs type="celestial body">la tranſ
+    <lb/>montaine</rs> eſt· <num>liij</num>· degrez de hault / Et en <placeName type="region">alemagne</placeName> vers <placeName type="region">boeſme</placeName>
     <lb/>elle a · <num>lviij</num>·  Et plus auant vers les parties Septentrion elle 
     <lb/>a ·  <num>lxij</num>· degrez de hault ⁊ aucuns menuz auecques/ Car <persPronouns value="P1">Je</persPronouns> meſm̅
-<lb/>lay͠ meſure alaſtralabe/ Or deuez ſauoir que encontre celle <tag type="celestial body">eſtoille
-    <lb/>tranſmontaine</tag> eſt lautre eſtoille qui eſt appelle <tag type="celestial body">antartique</tag>· Et
+<lb/>lay͠ meſure alaſtralabe/ Or deuez ſauoir que encontre celle <rs type="celestial body">eſtoille
+    <lb/>tranſmontaine</rs> eſt lautre eſtoille qui eſt appelle <rs type="celestial body">antartique</rs>· Et
     <lb/>ces <num>ij</num>/· eſtoilles ſont n͞o mouuables Et par elle tourne tous li
 <lb/>firmament/ ainſi c͞ome vne Reue tourne par ſon moy͠eul/ Si
     <lb/>que ces <num>ij</num>· eſtoilles partent le firmament en <num>ij</num>· parties · Si que
     <lb/>tant y͠ a par deſſoubz c͞ome deſeure/ Et apres ſuis <persPronouns value="P1">Je</persPronouns> alez vers
 <lb/>les parties meridionales/ ce eſt vers midi / Et ai trouue que vers
-    <lb/><placeName type="region">la haulte libie</placeName> on voit premierement <tag type="celestial body">leſtoille antartique</tag>  Et de 
+    <lb/><placeName type="region">la haulte libie</placeName> on voit premierement <rs type="celestial body">leſtoille antartique</rs>  Et de 
     <lb/>tant que <persPronouns value="P1">Je</persPronouns> aloie plus auant en ces parties / tant trouuay͠ celle 
     <lb/>eſtoille plus haute / Si que plus auant en <placeName type="region">la haulte libie</placeName> vers
     <lb/><placeName type="region">ethiope</placeName> / elle a <num>xviij</num> degrez de hault ⁊ aucuns menuz auec
     <lb/>dont li · <num>lx</num>· menuz font vn degre / Et puis en alant vers ce pais
     <lb/>dont <persPronouns value="P1">Je</persPronouns> parle/ et es autres villes ⁊ pais / en oultre <persPronouns value="P1">Je</persPronouns> trouuaẏ /
-    <lb/><tag type="celestial body">lantartique</tag> de <num>xxxiij</num> · degrez de hault ⁊ <num>xvj</num> · menuz Et ſe <persPronouns value="P1">Je</persPronouns>
+    <lb/><rs type="celestial body">lantartique</rs> de <num>xxxiij</num> · degrez de hault ⁊ <num>xvj</num> · menuz Et ſe <persPronouns value="P1">Je</persPronouns>
     <lb/>euſſe trouue nauie ⁊ compaignie pour aler plus auant <persPronouns value="P1">Je</persPronouns>
     <lb/>cuide eſtre certains que <persPronouns value="P4">nous</persPronouns> euſſions veu toute la Rondeur du
     <lb/>firmament tout entour / Car ſi͡come <persPronouns value="P1">Je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ai dit deuant
     <lb/>la moitie du firmament /eſt entre ces· <num>ij</num>· eſtoilles / la quelle
     <lb/>moitie <persPronouns value="P1">Je</persPronouns> ay͠ toute veue / Et de lautre moitie ay͠ <persPronouns value="P1">Je</persPronouns> veu vers bize
-    <lb/>deſſoubz <tag type="celestial body">la treſmontaine</tag> · <num>lxij</num>· degrez ⁊ <num>x</num>· menuz/ Et de la p̲tie
-    <lb/>meridionale / <persPronouns value="P1">Je</persPronouns> ay͠ veu deſſoubz <tag type="celestial body">lantartque</tag> · <num>xxxiij</num>· degrez ⁊
+    <lb/>deſſoubz <rs type="celestial body">la treſmontaine</rs> · <num>lxij</num>· degrez ⁊ <num>x</num>· menuz/ Et de la p̲tie
+    <lb/>meridionale / <persPronouns value="P1">Je</persPronouns> ay͠ veu deſſoubz <rs type="celestial body">lantartque</rs> · <num>xxxiij</num>· degrez ⁊
     <lb/><num>xvj</num>· menus Creez que la moitie du firmament ne tient 
-    <lb/>que <num>ix<sup place="above pervious">xx</sup></num>· degrez / De ces <num>ix<sup place="above previous">x</sup>·<sup place="above previous">x</sup></num> degrez <persPronouns value="P1">Je</persPronouns> en ay͠ veu · <num>lxij</num> · dune part
-    <lb/>⁊ <num>xxxiij</num>· dautres· <num>iii<sup place="above previous">x</sup>j<sup place="above previous">x</sup>xv</num>·degrez ⁊ pres de la moitie dun degre
+    <lb/>que <num>ix<hi rend="sup" place="above previous">xx</hi></num>· degrez / De ces <num>ix<hi rend="sup" place="above previous">x</hi>·<hi rend="sup" place="above previous">x</hi></num> degrez <persPronouns value="P1">Je</persPronouns> en ay͠ veu · <num>lxij</num> · dune part
+    <lb/>⁊ <num>xxxiij</num>· dautres· <num>iii<hi rend="sup" place="above previous">x</hi>j<hi rend="sup" place="above previous">x</hi>xv</num>·degrez ⁊ pres de la moitie dun degre
     <lb/>.Et auſſi il ne fault que <persPronouns value="P1">Je</persPronouns> nay͠ veu tout le firmament</pb>
 <pb n="f. 50r">
-    <lb/>que ·<num>iij<sup place="above previous">x</sup>i<sup place="above previous">x</sup>·iiij</num>·degrez ⁊ bien la moitie dune degre / Et ce neſt mie la
+    <lb/>que ·<num>iij<hi rend="sup" place="above previous">x</hi>i<hi rend="sup" place="above previous">x</hi>·iiij</num>·degrez ⁊ bien la moitie dune degre / Et ce neſt mie la
 <lb/>quarte partie du firmament / Car la quarte partie du firmam̅t
-    <lb/>tient ·<num>iiij<sup place="above previous">x</sup><sup>x</sup>⁊ x</num> degrez/ ſi en fault· <num>v</num> · degrez ⁊ demi de la quarte
+    <lb/>tient ·<num>iiij<hi rend="sup" place="above previous">x</hi><hi rend="sup">x</hi>⁊ x</num> degrez/ ſi en fault· <num>v</num> · degrez ⁊ demi de la quarte
     <lb/>partie / Et ainſi ay͠ veu les <num>iij</num>·parties de la rondeur du firmam̅t
     <lb/>et plus encores · <num>v</num> · degrez ⁊ pres de demi· Pour quoy͠ <persPronouns value="P1">Je</persPronouns> dit c̑taine
 <lb/>ment que hȏme pourroit enuironner toute la terre du monde
 <lb/>auſſi bien par deſſoubz c͡ome par deſeure / ⁊ Retourner arriȇ
 <lb/>en ſon pais qui auroit compaignie ⁊ conduit de nauie· Et
 <lb/>touſiours trouueroit on terres ⁊ iſles auſſi bien c͡ome en ce
-    <lb/>pais / Car vous ſauez que cilz qui ſont endroit de <tag type="celestial body">latartique</tag>
+    <lb/>pais / Car vous ſauez que cilz qui ſont endroit de <rs type="celestial body">latartique</rs>
 <lb/>ſont droitement pie contre pie de ceuls qui demeurent deſſoubz
-    <lb/><tag type="celestial body">la tranſmontaine</tag> auſſi bien c͡ome <persPronouns value="P4 tonic">nous</persPronouns> / Et cilz qui demourent
+    <lb/><rs type="celestial body">la tranſmontaine</rs> auſſi bien c͡ome <persPronouns value="P4 tonic">nous</persPronouns> / Et cilz qui demourent
     <lb/>deſſoubz <persPronouns value="P4 tonic">nous</persPronouns> ſōmes pie contre pie/ Car toutes les parties de mer
 <lb/>⁊ de terre ont leur oppoſites habitables ou treſpaſſables ⁊ deca
     <lb/>⁊ dela / Et ſachiez que ſelon ce que <persPronouns value="P1">Je</persPronouns> puis apparceuoir ⁊com
     <lb/>prendre/ <placeName type="region">la terre <persName>prebſtre Jehan</persName></placeName> empereur eſt deſſoubz <persPronouns value="P4 tonic">nous</persPronouns>/Car
     <lb/>en alant d<placeName type="region">eſcoſſe</placeName> ou de <placeName type="region">angleterre</placeName> vers <placeName type="city">Ih͞rhm</placeName>/ on monte touſ
-    <lb/>iours / Car n͞re terre eſt en labaſſe partie de <tag type="celestial body">la terre</tag> vers occident
+    <lb/>iours / Car n͞re terre eſt en labaſſe partie de <rs type="celestial body">la terre</rs> vers occident
     <lb/>Et <placeName type="region">la terre <persName>prebſtre Jehan</persName></placeName> eſt en la baſſe partie vers orient · Et
     <lb/>ont la le Jour quant <persPronouns value="P4">nous</persPronouns> auons la nuit/Et auſſi au contraire
     <lb/>Il ont la nuit quant <persPronouns value="P4">nous</persPronouns> auons le Jour / Car la terre ⁊lamer
@@ -659,7 +659,7 @@
 <lb/>du monde/Et ce il pert par vne lance fichiee en terre ſur leure
 <lb/>de midi alequinox qui ne fait point de vmbre a nul coſte/Et q̅
     <lb/>ce ſoit ou milieu de la tere/<persName>dauid</persName> le teſmoingne/la ou il dit
-    <lb/><handNote medium="red-ink"><foreign language="Latin">Et operatus eſt ſalut͡em medio tȓe</foreign></handNote>/ Dont cilz qui ſe p̲tent de ces
+    <lb/><handNote medium="red-ink"><foreign xml:lang="la">Et operatus eſt ſalut͡em medio tȓe</foreign></handNote>/ Dont cilz qui ſe p̲tent de ces
     <lb/>parties pour aler vers <placeName type="city">Ih͞rhm</placeName> autant de Journees c͡ome ilz mette͡t
 <lb/>pour monter Juſques la / en autant de Journees peuent ilz
     <lb/>aler de <placeName type="city">Ih͞rhm</placeName> Juſques aux terres confines de la ſup̲fluite
@@ -670,7 +670,7 @@
 <pb n="f. 50v">
     <lb/>vne choſe que <persPronouns value="P1">Je</persPronouns> oy̆ conter quant <persPronouns value="P1">Je</persPronouns> eſtoie petit c͡omant vn vaillant
 <lb/>h͞ome de nr︢e pais ſe parti Jadix pour aler cerchier le monde · Si paſſa
-    <lb/><placeName type="region">Inde</placeName> ⁊ les iſles oultre <placeName type="region">inde</placeName> · ou il y͠ a plus de <num>v·<sup place="above previous">m</sup></num>⁊ tant enuironna
+    <lb/><placeName type="region">Inde</placeName> ⁊ les iſles oultre <placeName type="region">inde</placeName> · ou il y͠ a plus de <num>v·<hi rend="sup" place="above previous">m</hi></num>⁊ tant enuironna
 <lb/>le monde par maintes ſaiſons que il trouua vne iſle ou Il oy͠
 <lb/>parler ſon langage ⁊ touchier les beufs en diſant celles parolles
 <lb/>que on faiſoit en ſon pais /dont il ſe eſmerueilla moult / Car il
@@ -693,7 +693,7 @@
 <lb/>pouoit cheoir de la terre Juſques au ciel / par plus grande raiſon
 <lb/>la terre ⁊ la mer qui ſont ſi grandes/ ⁊ ſi peſantes deuroient
 <lb/>cheoir/Mais ce ne pourroit eſtre / Car ce ne pourroit ſeroit mie
-    <lb/>cheoir / mais monter· Et pour ce diſt <persName>nr͞eß</persName> <handNote medium="red-ink"><foreign language="Latin">Ne timeas me qui ſuſp͡edi
+    <lb/>cheoir / mais monter· Et pour ce diſt <persName>nr͞eß</persName> <handNote medium="red-ink"><foreign xml:lang="la">Ne timeas me qui ſuſp͡edi
     <lb/>terrum in nichilo</foreign></handNote> ·  Et combien que ce ſeroit choſe poſſible que on
 <lb/>pourroit ainſi enuironner toute le monde / Neantmoins de Mil
 <lb/>li vus ne Radreceroit mie ſi droit pour Retourner vers ſon pais
@@ -705,7 +705,7 @@
     <lb/>ou de droitte grace de dieu / Car la terre eſt moult grande ⁊ m͞lt</pb>
 <pb n="f. 51r">
 <lb/>large Et tient de rondeure ⁊ de tour enuiron par deſeure ⁊par deſſoubz
-    <lb/>ſans lamer·<num>xx·<sup place="above previous">M</sup></num>milles· <num>iiij<sup place="above previous">c</sup>· xxv</num>· milles ſelon lopinion des anciens
+    <lb/>ſans lamer·<num>xx·<hi rend="sup" place="above previous">M</hi></num>milles· <num>iiij<hi rend="sup" place="above previous">c</hi>· xxv</num>· milles ſelon lopinion des anciens
     <lb/>ſaiges le dit deſquieulx <persPronouns value="P1">Je</persPronouns> ne Repreuue mie /mais ſelon la petitece
     <lb/>de mon ſens il <persPronouns value="P1 object">me</persPronouns> ſemble ſauue leur grace que il y a plus · Et
     <lb/>pour mieulx entendre ce que <persPronouns value="P1">Je</persPronouns> deuiſe ſoit ymaginee vne figure
@@ -719,12 +719,12 @@
 <lb/>compas qui eſt entour le centre repreſsente la terre / Et ſe ſceue͞t
     <lb/>tous aſtronomiens que li firmamens eſt diuiſez en <num>xij</num> parties
     <lb/>Ce ſont li <num>xij</num>· ſigne / Et chaſcun ſignes eſt deuiſez en ·<num>xxx</num>·
-    <lb/>degrez  Ce ſont · <num>iij·<sup place="above previous">C</sup>lx</num> degrez / eſquieulx le firmament eſt deuiſez
+    <lb/>degrez  Ce ſont · <num>iij·<hi rend="sup" place="above previous">C</hi>lx</num> degrez / eſquieulx le firmament eſt deuiſez
 <lb/>Or ſoit ainſi que la terre deuiſee en autant de parties/ Et Reſpondra
 <lb/>chaſcune partie avn degre du firmament / Et ſelon les acteurs /
-    <lb/>daſtronomie·<num>vij·<sup place="above previous">c</sup></num> ſcadres de terre Reſpondent  avn degre du firma
-    <lb/>ment · Ce ſont · <num>iiij<sup place="above previous">x</sup>·<sup place="above previous">x</sup> vij</num>·milles  ⁊ demie/ Or ſoit ce la multiple par
-    <lb/><num>iij·<sup place="above previous">C</sup> ⁊·lx</num>·fois· Ce ſeront <num>xxxi·<sup place="above previous">M</sup></num> milles ⁊ <num>v·<sup place="above previous">C</sup></num> milles chaſcune de <num>viij</num>
+    <lb/>daſtronomie·<num>vij·<hi rend="sup" place="above previous">c</hi></num> ſcadres de terre Reſpondent  avn degre du firma
+    <lb/>ment · Ce ſont · <num>iiij<hi rend="sup" place="above previous">x</hi>·<hi rend="sup" place="above previous">x</hi> vij</num>·milles  ⁊ demie/ Or ſoit ce la multiple par
+    <lb/><num>iij·<hi rend="sup" place="above previous">C</hi> ⁊·lx</num>·fois· Ce ſeront <num>xxxi·<hi rend="sup" place="above previous">M</hi></num> milles ⁊ <num>v·<hi rend="sup" place="above previous">C</hi></num> milles chaſcune de <num>viij</num>
 <lb/>ſcadres / tant a la terre de rondeur / et de tour enuiron ſelon ce que
     <lb/><persPronouns value="P1">Je</persPronouns> puis conceuoir par le dit des aſtronomiens ſi que <persPronouns value="P1">J</persPronouns>ay͠ dit / Et
     <lb/>ne deſplaiſe aux liſans ce que <persPronouns value="P1">Je</persPronouns> dy͠ car vne partie de <placeName type="region">Inde</placeName> eſt
@@ -737,22 +737,19 @@
 <lb/>autre partie des iſles · Et ſe il y͠ auoit ſignes ou eſtoilles eſtables vers
 <lb/>orient  ⁊ vers occident par les quelles on peuſt les parties meſurer
 <lb/>ſic͡ome on fait les parties de biſe ⁊ de midi· par les deux eſtoilles non
-    <lb/>mouuables <tag type="celestial body">lartique</tag> ⁊ <tag type="celestial body">lantartique</tag> ·De certain on prouueroit les</pb>
+    <lb/>mouuables <rs type="celestial body">lartique</rs> ⁊ <rs type="celestial body">lantartique</rs> ·De certain on prouueroit les</pb>
 <pb n="f. 51v">
     <lb/>iſles ⁊ <placeName type="region">la terre <persName>prebſtre Jehan</persName></placeName> bien loings des clmaz / Et plus enuir͞o
-    <lb/>nent <tag type="celestial body">la terre</tag> deſſoubz que la partie de bize ⁊ de midi ne ſoient/ dont
+    <lb/>nent <rs type="celestial body">la terre</rs> deſſoubz que la partie de bize ⁊ de midi ne ſoient/ dont
     <lb/><persPronouns value="P1">J</persPronouns>ay faitte mencion cy deuant / Et ſay͠ bien que <persPronouns value="P1">Je</persPronouns> ay͠ miſe mainte
 <lb/>Journee plus a aler vers biſe la droite vers le droit  ̆midi· Et puis
 <lb/>que la terre eſt ronde autant y͠ a de bize amidi c͡ome de droit / 
     <lb/>orient au droit occident / Pour quoy <persPronouns value="P1">Je</persPronouns> dy͠ que ce que on paſſe 
     <lb/>oultre celle meſure eſt deſſoubz <persPronouns value="P4 tonic">nous</persPronouns> en enuironnant la terre ~</pb>
-        </div>
     </rdg>
     </app>
     </p>
+ </div1>
     </body>
     </text>
-<listWit>
-    <wit xml:id="Br4">Br4</wit>
-    </listWit>
 </TEI>
