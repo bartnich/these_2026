@@ -1,104 +1,559 @@
-<pb n="fol. 47r"/><hi rend="blue"><hi rend="bold">E</hi></hi>t puis au departir de celle cité de <placeName type="city">Cornaa</placeName>, on treuve <placeName type="region">la terre de <persName>Job</persName></placeName>, ou il a bel paÿs et grande habondance de tous biens. Et appelle on la terre <placeName type="region">Siquese</placeName>. En celle terre est la cité de <placeName type="city">Cheman</placeName>.
-<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Le Livre des Merveilles - Édition critique</title>
+<respStmt>
+<resp>transcrit par</resp>
+<name>Nicholas Bartlett</name>
+</respStmt> 
+</titleStmt>
+<publicationStmt>
+<availability>
+<p>Working Versioning Machine display file.</p>
+<p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+</availability>
+<distributor></distributor>
+</publicationStmt>
+<sourceDesc>
+<msIdentifier>
+<country>France</country>
+<settlement>Paris</settlement>
+<repository>Bibliothèque nationale de France</repository>
+<idno>MS. Nouvelles acquisitions françaises 4515</idno>
+</msIdentifier>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<lb n="1"/><p><hi rend="italic">[fol. 47]</hi><hi rend="blue"><hi rend="bold">E</hi></hi>t puis au departir de celle cité de <placeName type="city">Cornaa</placeName>, on treuve <placeName type="region">la terre de <persName>Job</persName></placeName>, ou il a bel paÿs et 
+<lb n="2"/>grande habondance de tous biens. Et appelle on la terre <placeName type="region">Siquese</placeName>. En celle terre est la cité de 
+<lb n="3"/><placeName type="city">Cheman</placeName>.</p>
+<note type="editorial" place="foot"><hi rend="italic">L’édition de Deluz et les manuscrits P14, Br2, Br4 et P4 (de notre corpus) contiennent ici un paragraphe, absent dans P13, P et P15, qui décrit la vie de Job. Deluz note que le manuscrit P12 l’omet également. Nous avons choisi de transcrire ce paragraphe du manuscrit P14 – un choix dont le raisonnement est identique à celui de son inclusion, avec P13, dans le corpus de l’édition de Michèle Guéret-Laferté et Laurence Harf-Lancner (2023) : il y a évidemment des liens à tisser entre les versions insulaire et continentale du Livre, et ce paragraphe en fournit un lien intéressant à investiguer (voir le deuxième chapitre de la deuxième partie de cette thèse). Voici notre transcription (entre parenthèse, les variantes des autres manuscrits qui ont aussi le passage) :</hi>
 <app>
 <lem wit="#P13 #P #P15"></lem>
-<rdg wit="#P14 #Br2 #Br4 #P4">
-<p><persName>Job</persName> fu paiens et fu filz <persName>Are</persName> de <placeName type="city">Gosra</placeName> et tenoit celle terre comme prince du païs. Et estoit si riches quil ne savoit la centesme partie de ce quil avoit. Et combien que il fu paiens, il servoit bien <persName>nostre Seigneur</persName> selon la loy. Et nostre Seigneur prevoit en gre son service. Et quant il chei en poveté, il avoit daage <num>LCCVIII</num> ans. Et aprés quant nostre Seigneur, en sa pacience qui estoit si grand, il le remist ases richesces et a sa haultese de recheif, et puis fu roy de <placeName type="region">Ydumea</placeName> apres le roy <persName>Esau</persName>. Et quant <persName>Job</persName> fu roy, il fu appelles <persName>Jobab</persName>, et en ce royaulme il vesquie <num>CLXX</num> ans. Ainsi avoit il quant il mourust <num>II<hi rend="sup">C</hi>XLVIII</num> ans.</p>
+<rdg wit="#P14 #Br2 #Br4 #P4"><persName>Job</persName> fu paiens et fu filz <persName>Are</persName> de <placeName type="city">Gosra</placeName> et tenoit celle terre comme prince du païs. Et estoit si riches qu'il ne savoit la centesme partie de ce qu'il avoit. Et combien que il fu paiens, il servoit bien <persName>nostre Seigneur</persName> selon la loy. Et nostre Seigneur prevoit en gre son service. Et quant il chei en poveté, il avoit daage <num><hi rend="small-caps">lccviii</hi></num> ans. Et aprés quant nostre Seigneur, en sa pacience qui estoit si grand, il le remist ases richesces et a sa haultese de recheif, et puis fu roy de <placeName type="region">Ydumea</placeName> apres le roy <persName>Esau</persName>. Et quant <persName>Job</persName> fu roy, il fu appelles <persName>Jobab</persName>, et en ce royaulme il vesquie <num><hi rend="small-caps">clxx</hi></num> ans. Ainsi avoit il quant il mourust <num><hi rend="small-caps">ii<hi rend="sup">c</hi>xlviii</hi></num> ans.
 </rdg>
-</app> 
-<p>En celle terre, n'a desffaute nulle qui soit neccessaire a homme. La y a montaignes ou on treuve grant foison de manne, plus assez et meilleur que on face autre part. Celle manne est appelee pain de l'ange, et est une chose blanche moult douce et moult dilicieuse, et est assez plus doulce que miel et sucre ne soient, et vient de la rousee du ciel, et chiet sur les herbes de celuy paÿs, si devient blanc et douls, puis le met on en medicine pour les riches hommes pour laschier le ventre et espurgier mauvais sanc, car il espurge le sanc mauvais et oste melancolie.</p>
-<p>Ceste terre de <persName>Job</persName> marshist au royaume de <placeName type="region">Caldee</placeName> et est moult grant paÿs, et est le langaige qui est plus que en nul autre paÿs entour la mer. Qui veult la aller on passe par la tour de <placeName type="city">Babilone</placeName>, dont <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autresfois parlé, ou les langaiges furent premierement changiez, et est a <num>IIII</num> journees du royaume de <placeName type="region">Caldee</placeName> par deça.</p>
-<p>Ou royaume de <placeName type="region">Caldee</placeName> sont les hommes beaux, et vont moult noblement parez de chiefs dorés couvers de leurs draps, et sont aournés d'orfrois et de pelles et de pierres precieuses moult noblement. Et les femmes sont tres laides et mal vestues et vont a tous nus piez, et portent chaitis garnemenz larges et cours jusques au genoil, et sont les manches longues et larges en guise dun froc de moine, et vont les manches jusques aus piez pendanz. Et ont les cheveux noirs pendans au tour des espaules. Et sont femmes bien noires non pas brunes, et tres laides et malgracieuses et tres hidieuses a veoir. Elles <persPronouns value="P1 object">me</persPronouns> devroient donner bon loyer pour elles prisier, car encore y a en elles tant dordures que <persPronouns value="P1">je</persPronouns> ne le savroie descripre.</p>
-<p>En cel royaume de <placeName type="region">Caldee</placeName> est une cité qui a <pb n="fol. 47v"/>a nom <placeName type="city">Hur</placeName>. La demoura <persName>Charés</persName> le pere <persName>Abraham</persName> le patriarche, et la nasquit <persName>Abraham</persName>, et ce fut ou temps que le pere <persName>Ninus</persName> fut roy de <placeName type="city">Babilone</placeName>, d'<placeName type="region">Arrabe</placeName> et d'<placeName type="region">Egypte</placeName>. Cil <persName>Ninus</persName> fist la cité de <placeName type="city">Ninive</placeName>, la quelle <persName>Noé</persName> avoit commanciee afaire. Et pour ce que <persName>Ninus</persName> lavoit parfaite, il lappella par son nom <placeName type="city">Ninive</placeName>.</p>
-<p>La gist <persName>Thobie</persName> de qui la sainte escripture parle. De ceste cité se parti <persName>Abraham</persName> par le commandement de dieu apres la mort de son pere, et en mena <persName>Darran</persName> sa femme et <persName>Loth</persName> le filz de son frere avec luy pour ce quil navoient point denfant. Et demoura en la terre de <placeName type="region">Chanaam</placeName> en un lieu qui a a nom <placeName type="region">Sychem</placeName>.</p> 
-<p>Et ce fut <persName>Loth</persName> qui fut sauvez quant <placeName type="city">Sodome</placeName> et <placeName type="city">Gomorre</placeName> et les autres citez furent arses et fondues en labisme la ou la mer morte est, si comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autresfois dit.</p>
-    <p><hi rend="red"><hi rend="bold">P</hi></hi>uis oultre <placeName type="region">Caldee</placeName> est <placeName type="region">Amazonie</placeName>. Cest la terre de Femmenie. Cest un royaume ou il na que femmes, car les hommes ny pourroient vivre en ce paÿs si comme aucuns dient. Mais pour ce nest il mie ainsi, car elles ne veulent que les hommes aient nulle seigneurie sur elles. Car ou temps jadis il avoit un roy en ce paÿs, et ydemouroient les hommes ainsi que autre part. Si advint que cil roy eut guerre aceulz de <placeName type="region">Sithie</placeName>, et avoit a nom <persName>Colopiens</persName>. Le quel roy fut occis en la bataille avec tout le bon sanc de son royaume. Et quant la Royne et les autres dames nobles du paÿs regarderent quelles estoient toute veuves et que tous les nobles sans estoient perdus, elles se armerent comme desesperees et tuerent tous les autres hommes du paÿs qui y estoient demourés, car elles vouloient aussi que toutes les femmes fussent veves si qu'elles estoient. Et de puis en avant ne vouldrent que nulz demourast entre elles. Mais quant elles veulent compaignie domme, elles se traient vers les terres marchissans, et ont leurs amis qui les visitent et demeurent delez eulz <num>X</num> jours et puis se retraient arrieres. Et selles ont enfans et ilz soient masles, elles lenvoient au pere quant il scet aler et mangier par lui seul, ou elles loccient. Et se cest femelle, elles li ostent les mamelles a un fer chaut. <pb n="fol. 48r"/>Se elle est gracieuse femme, on li oste la senestre pour mieux porter lescu. Et se cest femme de pié, on li oste la destre afin qu'elle ne li empesche a traire de larc turquois, car elles traient moult bien de l'arc a main.</p>
-    <p><hi rend="blue"><hi rend="bold">E</hi></hi>n ceste terre a une Royne qui gouverne tout le paÿs et toutes sont obeïssans a luy. Et tousjours font royne par eleccion de celle qui est plus vaillant en armes. Elles sont bonnes guerroierresses et preus et sages et vaillans. Et vont bien en soudees et aidier les autres roys pour argent gaaignier, et se maintiennent moult viguereusement.</p> 
-<p>Celle terre de <placeName type="region">Amazone</placeName> est une ylle tout avironnee d'eaue fors que en deux lieux ou il a deux entrees. Et oultre celle eaue demeurent les hommes qui sont leurs amis, ou elles se vont soulacier quant elles veulent.</p>
-    <p>Delez <placeName type="region">Amazone</placeName> en la terre de <placeName type="region">Termigicte</placeName>, qui est un paÿs moult bel, moult bon et moult delitables, et pour le bon paÿs quil y a fist le roy <persName>Alixandre</persName> faire la premiere <persName>Alixandre</persName>, dont il fist <num>XII</num> citez que il appella <placeName type="city">Alixandre</placeName>. Et celle cité appelle on maintenant <placeName type="city">Cohite</placeName>.
-        <p><hi rend="red"><hi rend="bold">D</hi></hi>e l'autre costé de <placeName type="region">Caldee</placeName> est un grant paÿs qui s'estent jusques en la fin d'<placeName type="region">Egypte</placeName>.</p> 
-    <p><fw id="sectionHead"><hi rend="red"><hi rend="bold">Du paÿs d'<placeName type="region">Ethiope</placeName></hi></hi></fw></p>
-        <p><placeName type="region"><hi rend="red"><hi rend="bold">E</hi></hi>thiope</placeName> est devisee en deux parties principaux. Cest en la partie orientale et la partie occidentale, laquelle partie occidentale est appelee <placeName type="region">Morianne</placeName> et ysont les gens plus noirs que en nul autre paÿs. 
-<p>En celle partie y a une fontaine dont de jours l'eaue est si froide que nulz homs ne la pourroit boire. Et de nuit elle est si chaude que on ne pourroit souffrire sa main dedenz.</p>  
-<p>Et oultre celle partie devers midy au passer par la grant mer occeane y a une grant terre et deux grans paÿs, mais on ny pourroit habiter pour la grant chaleur du soleil qui est si chaude sur celle terre. 
-<p>En <placeName type="region">Ethiope</placeName> toutes les rivieres sont troubles, et les gens de ce paÿs sont tost legierement yvres et n'ont mie grant apetit de mangier et ont communement flun de ventre, et ne sont mie de longue vie.</p>  
-<p>En <placeName type="region">Ethiope</placeName> a moult de diverses genz, et est <placeName type="region">Ethiope</placeName> appellee <placeName type="region">Caussie</placeName>. Et y a <pb n="fol. 48v"/>de celle gent qui nont que un pié, et si vont si tost que cest merveilles, et si est ce pié si large que il en font umbre a tout le corps deuls encontre le soleil quant il se couche du travers.</p>
-<p>En ce paÿs, quant les enfans sont petis il sont tous chanus, et quant il deviennent grans, il ont les cheveux tous noirs.</p> 
-<p>En <placeName type="region">Ethiope</placeName> est la cité <placeName type="city">Sabba</placeName>, et la terre dont lun des trois roys fut sires qui vint requerre nostre Seigneur en <placeName type="city">Bethleem.</placeName></p>
-<p>De <placeName type="region">Ethiope</placeName> va on en <placeName type="region">Inde</placeName> par moult de divers paÿs. Et appelle on la haute Inde <placeName type="region">Fuiblach</placeName>. Et est <placeName type="region">Inde</placeName> devisee principalment en <num>III</num> parties. Cest assavoir <placeName type="region">Inde la meneur</placeName> qui est tres haut paÿs, et <placeName type="region">Inde mediane</placeName> qui est atemprés paÿs, et tiennent a la terre de <placeName type="region">Meddee</placeName>. Et la tierce partie qui est vers septentrion est <placeName type="region">Inde la majour</placeName>, laquelle partie est tres froide que par fine froideur et continuelle gelee l'yaue y devient cristaus.</p>  
-    <p>Et sur les roches de ce costé croissent les bons dyamans qui semblent de couleur troublé cristal. Dyamans ont tres haute couleur si comme d'oille, et cil sont si durs que on ne les peut polir. Et si y a autres dyamans que on treuve en <placeName type="region">Arrabe</placeName>, qui ne sont mie bonnes et sont plus brun et plus tenre, et autres que on treuve en l'ille de <placeName type="region">Copce</placeName> qui sont encore plus tenres. On en treuve aussi en la terre de <placeName type="region">Machidone</placeName>, mais les meilleurs et les plus vertueus sont en <placeName type="region">Inde</placeName>. Et aussi en treuve on moult de frois et moult de durs en la masse qui est la ou on affine lor, car quant on depiece de celle masse en menues pieces on treuve en la mine qui en ist des aussi gros comme <num>.I.</num> pois, et aucunes fois mendres. Et sont auques aussi dures comme celles d'<placeName type="region">Ynde</placeName>. Et taillent achier et voirres legierement.</p>  
-<p>Et combien que on treuve des bons dyamens en <placeName type="region">Ynde</placeName> plus communement sur les roches de cristal, neent moins on les treuve plus communement sur les roches de dyamans en la mer, et sur montaignes ou il a minieres dor. Et croissent pluseurs ensemble, l'un petite l'autre grant, et en y a bien de la grosseur d'une feve. Et la plus grosse qui y peut estre selon nature est aussi grosse comme une nois <pb n="fol. 49r"/>gaille. Et toutes sont aquariies et apointies de leur nature, senz nul affaitement de main domme, et les appelle on en <placeName type="region">Ynde</placeName> <foreign>hamezet</foreign>. Il croissent aussi es montaignes et es roches. Il y a voies et roches de minieres d'or ou il croissent ensemble masles et femelles, et se nourrissent de la rousee du ciel et concivent et engendrent et font des petis delez eulz qui monteplient et croissent tous les ans. <persPronouns value="P1">Je</persPronouns> l'ay maintes foiz essaié, car se on les garde avec un pou de la mine de la roche ou il croissent qui tiengne a la pointe desseure, et on les mouille souvent de la rousee de may, il croissent tous les ans et deviennent les petis bien grans et bien gros selon leur nature, car aussi comme la perle se fait et engrosse de la rousee du ciel, aussi le fait le vray dyamant. Et aussi comme la perle de sa nature prent rondesce, ainsi le dyamant par dyamane vertu prent quarreure. Et doit on tous dyamans porter au senestre costé, si est de plus grans vertus que a la destre partie, car la force de leur naissance vient devers septentrion. C'est la senestre partie du monde et est a la senestre de lomme quant il treuve sa face vers orient.</p>  
-    <p>Et se <persPronouns value="P5">vous</persPronouns> voulez savoir la vertu du dyamant, combien que aucuns le sachent par le lapidaire de ces parties, neent moins pour ce que chascun ne le scet mie, <persPronouns value="P1">je</persPronouns> le deviseray icy selon ce que ceulz doultre mer le dient et l'affient, des quelles toutes science et toute philosophie est venue.</p>  
-<p>Le dyamant donne a celui qui le porte hardiesce et proece, et garde les membres du corps entiers, et donne victoire sus ses ennemis en guerre et en plait se la cause est juste, et tient le portant en son bon senz, et le garde de tençons et de riotes de mauvais signes, de visions et de mauvais esperit. Et se aucuns homs mauvais ou femme vouloit le portant encerchier ou enchanter, par la vertu de la pierre la sorcerie ou enchantemenz retourneroient sus celui qui le vouldroit grever. Et aussi nulle beste sauvage n'oseroit assaillir la personne qui porteroit le dyamant.</p>  
-<p>Le dyamant doit estre donné senz couvortier et senz acheter et adont est de plus grant vertu, et fait l'omme plus fort et <pb n="fol. 49v"/>plus ferme contre ses ennemis. Et garist toutes lunatiques et des causes dont dyable poursuit et travaille. Et se venin ou male poison est portés en presense de dyamant, tantost devient moiste et commence a suer.</p>  
-<p>Il y a bien en <placeName type="region">Ynde</placeName> des dyamans qui sont violastres et plus bruns que violetes ne soient, et sont bien durs et bien precieus. Mais aucunes gens ne les aiment pas tant comme les autres. Mais en droit, moy, <persPronouns value="P1">je</persPronouns> les ameroie bien autant, car je les ay veus esprouver.</p>  
-<p>Il en y a aussi d'autre maniere qui sont aussi blans comme cristal, mais il sont un pou plus troublés et sont bons et de grant vertu, et tous sont quarrez et ont pointes de leur nature. Aucuns sont a <num>VI</num> costez, aucuns a <num>III</num> et aucuns a <num>IIII</num>, si comme nature les fourme.</p>
-<p>Et pour ce que les grans seigneurs et les bacheliers qui quierent honneur darmes les portent volentiers en leurs dois, <persPronouns value="P1">je</persPronouns> parleray un pou plus des dyamans, combien que <persPronouns value="P1">je</persPronouns> eslonge ma matere a la fin que il ne soient decheus par les portans qui vont par le paÿs pour les dyamans vendre. Car qui veult achater dyamans, il est mestier que il les sache cognoistre pour ce que on les contrefait de cristal gaune et saphir chitorin et de saphir bourisse, et dune pierre que on appelle yris, et de petites pierres que on treuve en nit de souris qui sont dignes. Mais toutesvoies les contrefais ne sont si durs, car la pointe brise moult legierement, et si la peut on bien pollir. Mais aucun ouvrier par malice ne les pollissent point affin que les genz cuident que on ne les puist pollir, mais on les essaie en ceste maniere : premierement, on les essaie au taillier en saphirs et en autres pierres precieuses sur cristal et sur acier ; aprés en prent une partie d'aymant, c'est la pierre des marionniers qui trait a lui l'aguille. Et se le dyamant est vray et vertueus, le aymant ne traira point l'aguille a lui tant que le dyamant soit present, se la aymant n'estoit trop gros.</p>
-<p>Et c'est l'espreuve que ceulz d'oultre mer font. Mais il avient aucunes <pb n="fol. 50r"/>fois que bien bons dyamans perdent leur vertu pour la contenance de ceuls qui les portent, et adont convient la pierre faire recouvrer leur vertu.</p> 
-<p><fw id="sectionHead"><hi rend="red">De la nature des gens de celle terre</hi></fw></p>
-    <p><hi rend="blue"><hi rend="bold">I</hi></hi>tem en <placeName type="region">Ynde</placeName> y a mains divers paÿs et maintes diverses entrees, et l'appelle on <placeName type="region">Ynde</placeName> pour <num>I</num> flueve qui queurt par my le paÿs qui a a nom <placeName type="region">Ynde</placeName>. En ce flueve sont anguilles de <num>XXX</num> piés de lonc et de plus. Les gens qui habitent entour celle riviere sont tous de verde couleur et jaune, sicomme il eussent la jaunisse.</p>
-<p>En <placeName type="region">Ynde</placeName> et environ <placeName type="region">Ynde</placeName> y a plus de <num>V</num> mile ylles bonnes et grandes senz celles qui sont inhabitables et senz autres petites, plusers dont on ne puet faire mention.</p>
-    <p>En chascun ylle y a grant foison de cités, et de villes et de genz senz nombre, car <persName type="adjective of nationality">Yndois</persName> sont de telle maniere qu'il n'yssent point de leur paÿs et pour ce y a grant multitude de gens, car il ne sont point mouvables pour ce qu'il sont au premier climat qui est de <placeName type="celestial body">Saturne</placeName>, et <placeName type="celestial body">Saturne</placeName> est tardif et pou mouvable car il demeure a faire son tour par les <num>XII</num> signes l'espace de <num>XXX</num> ans. Et la <placeName type="celestial body">lune</placeName> passe les <num>XII</num> signes en <num>I</num> mois.</p>  
-    <p>Et pour ce que <placeName type="celestial body">Saturnes</placeName> est de si tardif mouvement, pour ce ont les gens de son climat nature et volonté que il ne quierent point de mouvoir de paÿs en autre. Et en nostre paÿs est tout au contraire, car <persPronouns value="P4">nous</persPronouns> sommes en <num>I</num> climat qui est de la <placeName type="celestial body">lune</placeName>, et la <placeName type="celestial body">lune</placeName> est de legier mouvement, et si est planete de voie. Et pour ce elle <persPronouns value="P4 object">nous</persPronouns> donne matere et volenté de mouvoir legierement et de cheminer par diverses voies et de cerchier choses estranges et les diverses choses du monde, car elle environne la terre plus hastivement que nulle autre planecte.</p> 
-    <p><hi rend="red"><hi rend="bold">I</hi></hi>tem on va par my <placeName type="region">Ynde</placeName> par maintes diverses parties et contrees jusques a la mere occeane. Et puis treuve on un ylle qui a a nom <placeName type="region">Ariguez</placeName> ou les marchans de <placeName type="city">Venisse</placeName>, de <placeName type="city">Jeneves</placeName> et d'autres contrees vont souvent pour achater marchandises de pluseurs manieres. Mais il fait si grant chaut en celle ylle que pour la grant destrece de lachaleur, la perpendelle de lomme et trestout ce la que <persPronouns value="P5">vous</persPronouns> savez ist hors <pb n="fol. 50v"/>du corps pendant jusques environ la jambe pour la grant dissolucion du corps. Mais les gens du paÿs et ceuls qui en scevent la nature se font lyer bien et fermement, et se font oindre d'un oingnement reservatif et refrigeratif pour les retenir ou corps ou autrement il ne pourroient durer ne vivre.</p> 
-<p>En ce paÿs et en <placeName type="region">Ethiope</placeName> et en maint autre paÿs les gens gisent toute jour ens es rivage des eaues, hommes et femmes tous ensemble de l'eure de tierce jusques a basse nonne, et gisent tous dedenz leaue fors que la face pour le grant chaut qu'il y fait, si que a peine le peut nulz endurer. Et si n'ont les femmes point de honte de hommes, mais gisent tous priveement tant que la chaleur est abessiee. Si peut on veoir maintes laides figures assemblees especialment pres des bonnes villes.</p> 
-<p>Et si ont toutes leurs nefs faites de boys et de fust senz fer ne clou pour les roches des aymans dont il a en la mer la entour tant que cest merveille. Car se une nef passoit par my ces marches ou il eust clous ou bendes de fer, tantost seroit perie, car le aymant de sa nature trait le fer a luy, si trairoit la nef a ly pour la cause du fer, si que jamais ne pourroit departir.</p> 
-<p>De celle ylle va on aune autre ylle qui a a nom <placeName type="region">Chana</placeName>, ou il a grant planté de blé et vin et d'autres vivres, et y souloit avoir grant ylle et y avoit moult bon port, mais la mer l'a maintenant bien gastee et bien apeticiee.</p>  
-<p>Le roy de celle ylle souloit estre si poissant qu'il guerreoit au roy <persName>Alixandre</persName>. Et les gens de ceste terre ont moult diverse loy, car les aucuns aourent le soleil, les aucuns le feu, les aucuns arbres, les aucuns serpens ou la premiere choses qu'il encontrent au matin, les aucuns aourent simulacres et les aucuns ydoles.</p>  
-<p>Mais entre simulacres et ydoles y a difference, car simulacres sont ymages faictes a semblance de aucunes choses natureles, comme de semblance d'ommes et de femmes ou de soleil ou d'aucune beste ou d'autres choses natureles. Et ydole est ymage faite par folle volenté d'omme que on ne pourroit trouver entre les choses naturelles, ainsi que une ymage a <num>IIII</num> testes ou <num>I</num> homme a teste de cheval ou de buef ou d'autre beste que nulz homs ne vit <pb n="fol. 51r"/>onques selon nature ne disposicion certainne. 
-<p>Et sachiez que ceuls qui aourent simulacres les aourent pour aucuns vaillans hommes qui jadis furent, si comme le fors <persName>Hercules</persName> et pluseurs autres qui faisoient moult de merveilles en leur temps comment que bien scevent qu'il ne sont mie dieu, car il dient qu'il est le dieu de nature qui fist toutes choses, et est es cieulx. Mais il scevent bien que ceuls ne peussent avoir fait les merveilles que ils faisoient se ce ne fust de especiale grace de Dieu, et pour ce ilz les aourent. Aussi dient il du soleil pour ce qu'il change le temps et donne couleur et nourrissement a toutes choses sus terre. Et pour ce que il est de si grant vertueuseté, il scevent bien que ce ne peut estre que dieu ne l'aime plus qu'il ne fait les autres choses. Et pour ce li a il donné a ce qu'il dient si grant vertu pour quoy il est bien raison que on lonneure et face reverence.</p>  
-<p>Et aussi dient il en leurs raisons des autres planetes, et du feu aussi pour ce que il est si proffitable. Et dient que le buef estoit la plus sainte beste qui soit en terre et plus proffitable que nulle autre beste, car il fait des biens assez et ne fait nul mal. Et scevent bien a ce qu'il dient que ce ne peut estre senz especiale grace de Dieu. Et pour ce font il leur dieu de buef la moitié, et l'autre moitié de fourme de homme pour ce que l'omme est la plus noble creature qui soit en terre. Et pour ce qu'il a seigneurie sur toutes bestes, pour ce font il la moitié de leurs ydoles d'omme et l'autre moitié de buef.</p>
-<p>Et des serpens et autres choses que ilz encontrent premierement au matin ilz aourent toutes choses, especialement qui ait bon encontre et que bien leur advient la journee qu'il les encontrent, si que il y ont essayé par pluseurs fois par experience de lonc temps. Et pour ce dient il que bon encontre ne peut venir s'il ne vient de la grace de Dieu. Et pour ce font il faire les ymages semblables pour elles regarder et aourer premier le matin avant qu'il encontrent choses contraire.</p>  
-<p>Il y a bien des <persName type="religious affiliation">chrestiens</persName> qui dient que aucunes bestes ont bonne encontre et aucunes mauvaise encontre, si que on dist que on a esprouvé maintes foiz que le lievre a mauvaise encontre et pourceaulx <pb n="fol. 51v"/>et pluseurs autres bestes aussi, ou d'un autre oisel de proie quant il volle de premier aprés sa proie devant genz darmes. Et se il prent la proie, c'est bon signes, et s'il faut, c'est mauvais signe.</p>  
-<p>Et aussi sont aucunes gens qui dient que c'est mauvais encontre d'un corbeau. En telles choses et autres, il sont assés de gens qui y croient pour ce qu'il est souvent avenu, et assés de gens qui n'y croient mie si font tresbien. Et que les <persName type="religious affiliation">Crestiens</persName> telz y a ont celle creance qui en sont abeures, et scevent toute sainte doctrine. Ce nest mie merveilles se les paiens qui n'ont point de bonne doctrine fors que de leur nature s'il croient plus largement par leur simplesce.</p> 
-<p>Et vrayment <persPronouns value="P1">j</persPronouns>ay veu des paiens et de <persName type="religious affiliation">sarrasins</persName> moult viguereus que quant <persPronouns value="P4">nous</persPronouns> chevauchiemes en armes aucune part vers nos ennemis par le voller des oyseaulx, il <persPronouns value="P4 object">nous</persPronouns> promectoient ce que <persPronouns value="P4">nous</persPronouns> trouveriemes moult souvent aprés. Et ce faisoient il par pluseurs fois, et mectoient leurs testes en ostaige quil seroit ainsi. Mais pour ce ne doit on point mectre sa creance en telles choses, mais tousjours avoir ferme creance en <persName>nostre Seigneur</persName>, qui peut faire et deffaire quanqu'il ly plaist.</p>  
-<p>Ceste ylle de <placeName type="region">Chana</placeName>, les <persName type="religious affiliation">Sarassins</persName> l'ont gaigniee, et la tiennent tresgrant temps a. Il y a en celle ylle moult de lyons et de bestes sauvages, et si sont la les ras aussi grans comme un chien est en ce paÿs, et les prent on aus grans mastins, car les chas ne les pourroient prendre.</p>  
-<p>En celle ylle n'enterre ou nul homme mort, car la chaleur est si grande que en pou de temps est le corps tout consummez jusques as os.</p>  
-<p><fw id="sectionHead"><hi rend="red">Du lieu ou le poivre croist et en quel maniere</hi></fw></p>
-    <p><hi rend="blue"><hi rend="bold">D</hi></hi>e la va on vers <placeName type="region">Ynde la majour</placeName> a une cité qui a nom <placeName type="city">Garbe</placeName> qui est moult belle et moult bonne et y demeurent moult de bons <persName type="religious affiliation">Crestiens</persName>, et de bonne foy. Et si a moult de religieux, especialment de <persName type="religious affiliation">Mendians</persName>. 
-<p>Puis va on par mer en la terre de <placeName type="region">Lombe</placeName>. En celle terre croist le poivre en une forest qui a a nom <placeName type="region">Combar</placeName>, et ne croist aillieurs nulle part en tout le monde que <persPronouns value="P1">je</persPronouns> sache que en ceste forest qui dure bien <num>XVIII</num> journees de lonc.</p>  
-<p>En celle forest a <num>II</num> bonnes citez dont l'une a nom <placeName type="city">Flandrine</placeName> et lautre <placeName type="city">Singlans</placeName>, et y a des autres villes <pb n="fol. 52r"/>pluseurs. Et en chascune de ces villes demeurent <persName type="religious affiliation">Crestiens</persName> et <persName type="religious affiliation">Juys</persName> grant foison, car il y a bon paÿs, mais moult y fait grant chaut.</p> 
-<p>Et pouez savoir que le poivre croist a maniere d'une vigne sauvage qui soit plantee pres des arbres du bois pour le soustenir ainsi comme la vigne, et pent le fruit a maniere du roisin et si est si chargié l'arbre que il semble qu'il doie brisier. Et quant le fruit est meur, il est tout vert comme bayens et adont on le vendenge ainsi comme on fait les vignes, et puis le seche on au soleil tant qu'il est tout noir et tout crespis.</p> 
-<p>Et si a <num>III</num> manieres de poivre en .i. arbre cest assavoir : poivre lonc, poivre blanc et poivre noir. Le poivre lonc est appelle <foreign>sorbetim</foreign>, le noir <foreign>phusul</foreign> et le blanc <foreign>bauos</foreign>. Le poivre lonc vient premier, quant la fueille commence a venir, et semble auques de façon de la fleur de corre qui vient avant que la fueille et pent contreval. Et puis vient le noir avec la fueille, en maniere de grappes de roisin bien vert. Et quant on a celui cueilly, si vient le blanc qui est assés meilleur du noir. De celui n'aporte on point en ce paÿs, car ilz le retiennent pour euls pour ce que c'est le meilleur et de plus atrempee nature que le noir ne soit. Et si n'en y a une si grande habundance de blanc que de noir.</p> 
-<p>En ce paÿs y a moult de manieres de serpens de d'autres venins pour la grande chaleur du paÿs et du poivre.</p>  
-<p>Et dient aucunes gens que quant ilz veullent cueillir le poivre que il font feu au pié de larbre pour faire fuir les serpens et les culuevres. Mais sauve la grace des disans, car se ilz ardoient entour les arbres qui portent le poivre, il les ardroient et secheroient ainsi comme autres choses. Mais ilz le feroient moult a envis, ne jamais n'y mettroient feu. Mais ilz se oingnent les piés et les mains de jus de limon ou ilz portent herbes avec eulz dont les serpens doubtent l'odeur. Si s'en fuyent devant eulz pour la cause de l'odeur, et puis vont il vendengier le poivre tout seurement, car il nont garde que nul venin doit approcher vers eulx.</p> 
-<p><fw id="sectionHead"><hi rend="red">De la fontaine qui guarist de toutes maladies</hi></fw></p> 
-        <p><hi rend="red"><hi rend="bold">I</hi></hi>tem vers le chief de ceste forest est la cité <placeName type="city">Polumbus</placeName>, et par desseure celle cité y a une grande montaigne qui a a nom <geogName type="mountain">Polumbe</geogName>, <pb n="fol. 52v"/>et de celle montaigne prent la cité ce nom. Et au pié de celle montaigne y a une fontaine qui a oudeur et saveur detoutes manieres d'espices, et a chascune heure elle change oudeur et saveur. Et quiconques boit trois fois a jeun de celle fontaine, il est curé de quelconques maladie qu'il ait. Et ceuls qui la demeurent et qui souvent en boivent, il n'ont onques nulle maladie. <persPronouns value="P1">Je</persPronouns> en beu <num>III</num> fois ou <num>IIII</num>, et encore <persPronouns value="P1 object">me</persPronouns> semble que <persPronouns value="P1">j</persPronouns>'en vaille mieulx. Et dist on que celle fontaine vient de Paradis et pour ce est elle si vertueuse, et avec ce ceuls qui souvent en boivent semblent estre tousjours jeunes, dont les aucuns l'appellent et dient que c'est la fontaine de jouvent pour ce qu'ele fait ressembler a estre les gens jovenes.</p>  
-<p>Par tout ce paÿs croist moult bon gingembre, et la vont les marchans de pluseurs paÿs pour querre des espices.</p> 
-<p>En ce paÿs les gens aourent un buef pour sa simplece et pour sa debonnaireté, et dient que c'est la plus sainte beste qui soit en terre, car il leur semble qu'il soit simple et debonnaire, piteus et proffitable, et est moult souvent sacrefiés, car il leur semble qu'il est a toutes vertus bon. Il font le buef labourer <num>VI</num> ans ou <num>VII</num> et puis le manguent aus grans sollempnitez. Et a le Roy du paÿs tousjours <num>I</num> tel buef avec li, et ceuls qui le gardent tous les jours, ils reçoivent le fiens et l'orine en deux vaisseaux d'or et puis le baille on a leur prelat que ilz appellent <foreign><persName>Acthiprochopapato</persName></foreign>. Et cil prelat le porte devant le Roy et le roy par grant devocion moulle ses dois de l'orine que ilz appellent <foreign>ghaul</foreign>, et moulle son front et sa poitrine avecques grant reverence par entencion qu'il sont remplis des vertus dessus dites que le buef a en ly. Et leur semble qu'il soient saintefiés par la vertu de celle chose qui riens ne vault.</p> 
-<p>Et aprés le Roy le font les grans seigneurs, et aprés les seigneurs le font les autres maistres quant ilz en peuent avoir aucun remenant.</p> 
-<p>En ce paÿs il font ydoles moitié homme et moitié buef. Et en ces ydoles le mauvais esperit parle a eulx et leur respont de quanque ilz veulent demander.</p>  
-<p>Par devant ces ydoles occient il maintes fois leur enfans et espergent les ydoles de leur sanc, et ainsi font <pb n="fol. 53r"/>leurs sacrefices.</p> 
-<p>Et quant aucun homme meurt ou paÿs, ilz ardent le corps en nom de penance affin que il ne sueffre plus d'autre peine en l'autre siecle ne especiaulment en terre, car ilz dient que les vers le mangeroient. Et se sa femme n'a nuls enfans, ilz l'ardent avec luy, et dient que c'est raison qu'elle li face compaignie en l'autre siecle. Et se elle a enfans de luy, on la laisse vivre pour nourrir les enfans se elle veult. Et se elle aime mieulx a vivre avec ses enfans que a mourir et estre arse avec son mari, on la tient a fausse et a mauvaise, ne jamais ne sera riens prisiee ne nuls homs ne se fiera jamais en ly. Et se la femme meurt devant son mari, l'omme se fait ardoir avec elle se il veult. Et se il ne veult ce faire, on ne le constraindra mie, mais il se pourra marier autre fois senz blasme.</p> 
-<p>Item en ce paÿs croissent bons vins dont les hommes ne boivent point, mais les femmes boivent bien vin.</p>
-<p><fw id="sectionHead"><hi rend="red">Du bras Saint Thomas et des ydoles qui sont en son eglyse</hi></fw></p> 
-        <p><hi rend="blue"><hi rend="bold">D</hi></hi>e ce paÿs va on en passant par plusieurs marches vers un paÿs a <num>X</num> journees loing que on appelle <placeName type="region">Malbaron</placeName>, et y a un moult grand royaume et moult de belles cités et de belles villes.</p> 
-    <p>En ce royaume gist le corps <persName>Saint Thomas</persName> l'apostre en char et en os dessouz une belle tombe en la cité de <placeName type="city">Calamyon</placeName>, car la fut il martyrié et enseveli. Mais les <persName type="nationality">Assyriens</persName> firent jadis porter le corps de luy en <placeName type="region">Mesopotame</placeName> en la cité de <placeName type="city">Edisse</placeName>, et puis fut il la raporté arriere, et les bras et les mains quil bouta es plaies <persName>nostre Seigneur</persName> quant <persName>nostre Seigneur</persName> sapparut aly apres sa resurreccion et li dist <foreign xml:lang="la"><hi rend="italic">Noli esse incredulus sed fidelis</hi></foreign>. Et gist encore la main de luy au dehors du vaissel, et par celle main pour leur jugement ou paÿs essaient qui a tort ou droit. Car quant il a discencion entre deux parties et chascun tient qu'il ait droit, il mectent la cause de chascun en escript. Et puis il mectent les escrips en la main de <persName>saint Thomas</persName>, et tantost la main degicte le tort ou fauls en loing, et retient la main le droit et la verité. Et ainsi viennent de bien loing pour avoir jugement des causes doubtables.</p>  
-        <p><hi rend="red"><hi rend="bold">I</hi></hi>tem l'eglise ou <persName>saint Thomas</persName> gist est une moult grant eglyse et belle, et est toute pleine de grans simulacres. Ce sont grans ymages qu'il appellent leurs dieux, de quoy le mendre est <pb n="fol. 53v"/>aussi grant comme hommes sont. Et entre les autres, y a une autre grant ymage plus assez que nulle des autres qui est toute couverte d'or et de pierres precieuses. Et c'est l'ymage des faulz <persName type="religious affiliation">Crestiens</persName>, renoiez et siet en une grande chaiere moult noblement et a entour son col des larges ceintures ouvrees dor et de pierres precieuses, et est l'eglise toute doree par dedenz. Et a celle eglise vient on en pelerinage ainsi communement et par aussi grant devocion que <persName type="religious affiliation">Crestiens</persName> font a <persName>saint Jaques</persName> en <placeName type="region">Gallice</placeName>. Et pluseurs gens qui vont vers celle ydolle de lointaines terres, par la grant devocion qu'il y ont, il regardent tousjours en terre et n'osent lever leurs testes pour regarder entour euls pour paour qu'il ne voient aucune chose qui les oste de leur devocion. Et des autres y vont en pelerinage qui portent des coutiaux en leurs mains, et se fierent et plaient es bras et es jambes et es cuisses, et espandent leur sanc pour l'amour de celle ydole, et dient que cilz est bons eureux qui meurt pour l'amour de son dieu.</p>  
-<p>Et des autres y a qui mainnent leurs enfans pour occire et sacrefier devant celle ydole, et puis espargent l'ydole du sanc des enfans.</p> 
-    <p>Et des autres y vont que de l'eure qu'il se partent de leurs maisons a chascun <num>III</num> pas, ilz s'agenoillent tant quil sont venus a celle ydole. Et quant il sont la venuz, il ont encenz et autres choses bien odorans de quoy ilz encensent l'ydole, si comme se ce fust le corps <persName>Nostre Seigneur</persName>. Et ainsi vient on pour aourer a celle ydole de plus de cent lieues de loing.</p>  
-<p>Et si a dedenz le moustier de celle ydole ainsi comme un vivier ou lach plein d'yaue. Et en ce vivier gitent les pelerins or et argent, perles et pierres precieuses senz nombre. Et de ce quant les maistres des ydoles ont mestier d'aucune chose faire en l'eglise, tantost il vont au vivier et prennent ce que mestier leur est pour la reedificacion de l'eglyse, si que riens n'y faut qui ne soit tantost rappareillié.</p>  
-        <p><hi rend="blue"><hi rend="bold">I</hi></hi>tem, quant les grans festes de celle ydole viennent, si comme dedicacions de l'eglise, intronizacions de l'ydole, tous les paÿs la entour s'i assemblent et mectent celle ydole a grant reverence sur un char aourné de draps d'or et de tar<pb n="fol. 54r"/>taires, et le mainnent ainsi entour la cité. Et par devant le char vont premier aus processions toutes les pucelles du paÿs moult ordeneement, <num>II a II</num> ensemble. Aprés les pucelles vont les pelerins qui sont de lointaines marches, des quelz pelerins se laissent cheoir dessouz les roes du char et laissent passer le char dessus euls, si que aucuns y muerent et les aucuns y brisent leurs bras, leurs jambes et leurs costes. Et ce font il pour l'amour de leur dieu en grant devotion. Et pensent que de tant comme il font et sueffrent plus grans tribulacions pour l'amour de celle ydole, de tant seront il plus pres de dieu et plus grant joie auront en l'autre siecle. Et briefment a dire ilz font de sigrans penances et de si grans martyres souffrir au corps pour l'amour de dieu que a painnes nul <persName type="religious affiliation">Crestien</persName> n'oseroit emprendre a faire la <num>X<hi rend="sup">e</hi></num> partie pour l'amour de <persName>Jesus Christ</persName>.</p>  
-    <p>Et <persPronouns value="P5">vous</persPronouns> dy que devant le char au plus pres vont les menesterelx du paÿs, aussi comme senz nombre, avec divers instrumens, et font entre euls des grandes melodies. Et quant ilz ont toute la cité avironnee, ilz retournent a l'eglyse et remectent l'ydole en son lieu. Et adont pour l'amour de celle ydole et pour la reverence de celle feste, si occient bien <num>CC</num> ou <num>CCC</num> personnes, des quelz on prent les corps et les met on devant l'ydole et dient qu'il sont sains en l'autre siecle pour ce que ilz se sont occis de leur bonne volenté pour lamour de leur dieu.</p> 
-    <p>Et aussi comme un lignage se tenroit honnoré par deça d'un saint homme ou de <num>II</num> se ilz estoient de lignage et en metroient les biens fais et les mirales en escript qu'il avroit fais pour les faire canonisier, ainsi se tiennent il par dela pour honnorés de ceuls qui se tuent pour l'amour de leur dieu, et les mectent en escript en leurs letanies, et se vantent et dient l'un a l'autre : « J'ay plus de sains en mon lignage que <persPronouns value="P5">vous</persPronouns> n'ayés ou <persPronouns value="P5 possessive">vostre</persPronouns>. »</p>  
-    <p>Et est la coustume telle que quant ilz ont entencion d'eulz occirre pour leur dieu, ilz font mander tous leurs amis et ont grant foison de menestereux et vont devant l'ydole a grant feste menant. Et cil qui se doit occirre a un coutel bien trenchant en sa main et coppe une piece de sa char et la giete en la face de l'ydole en disant ses oroisons, et le recommandent a ce dieu. Et puis se fiert et plaie tant <pb n="fol. 54v"/>par deça et par dela qu'il chiet mort. Et a dont les amis presentent le corps a l'ydole et dient en chantant : « Regardés, Dieu, que vostre loial amy et sergent a fait pour <persPronouns value="P5 tonic">vous</persPronouns>. Il a relinqué femme et enfans, richesces et tous les biens de ce monde pour <persPronouns value="P5 tonic">vous</persPronouns> et sa propre vie pour <persPronouns value="P5 tonic">vous</persPronouns> et pour l'amour de <persPronouns value="P5 tonic">vous</persPronouns>, et <persPronouns value="P5 object">vous</persPronouns> a fait sacrefice de sa char et de son sanc. Si le vueilliez poser delez <persPronouns value="P5">vous</persPronouns> entre vos plus amis en la gloire de paradis, car il l'a bien deservy. » Et puis il font un grant feu ardant et ardent le corps et prennent des cendres et les gardent en lieu de reliques et dient que c'est moult sainte chose et qu'il n'ont garde de nul peril tant qu'il aient sur eulx de celle cendre.</p> 
-<p><fw id="sectionHead"><hi rend="red">Ci parle de la terre de Femenie et aprés des <num>II</num> estoilles partans le firmament</hi></fw></p> 
-        <p><hi rend="red"><hi rend="bold">D</hi></hi>e ce paÿs va on par Mer Occeane par maintes diverses ylles et par maint paÿs qui moult seroient lons a deviser.</p> 
-<p>Et a <num>LII</num> journees loing de celle terre dont <persPronouns value="P1">j'</persPronouns>ay parlé, y a une autre terre qui est moult grande qui a anom <placeName type="region">Lamory</placeName>. En celle terre il fait moult chaut, et si est la coustume telle que les hommes et les femmes y vont tous nus et se moquent quant ilz voient aucun estrange qui est vestus. Et dient que dieu qui fist <persName>Adam</persName> fust nus et <persName>Adam</persName> et <persName>Eve</persName> furent tous nus fais, et que l'omme ne doit point avoir honte de luy monstrer tel que dieux la fait, car riens n'est lait qui soit de nature fourmé et fait.</p>  
-        <p>Et dient que ceulz qui sont vestus sont gens d'un autre siecle ou ilz sont gens qui ne croient point en dieu. Et dient que ilz croient bien en dieu qui crea le monde et fist <persName>Adam</persName> et <persName>Eve</persName> et toutes choses qui sont en ciel et en terre. Et si n'ont nulles femmes espousees ains sont toutes les femmes du paÿs communes et ne refusent nulluy. Et dient qu'elles pecheroient se elles refusoient nul homme, et que dieu le comanda ainsi a <persName>Adam</persName> et a ceuls qui de lui descendroient la ou il dist <foreign xml:lang="la"><hi rend="italic">Crescite et multiplicamini et replete terram</hi></foreign>.  
-<p>En ce paÿs, nul ne peut dire : « C'est ma femme » ; ne nulle femme ne peut dire : « Cil est mon baron. »</p> 
-<p>Et quant elles enfantent, elles le donnent a qui qu'elles veulent qui ait eu compaignie a elles. Et aussi est la terre toute commune, car l'un la tient une annee et l'autre une autre. Et prent chascun <pb n="fol. 55r"/>de toutes choses de quel part que il veult. Et sont tous les biens du paÿs communs, blés, vitailles et toutes autres choses, car riens n'y est enclos ne enserré, ainçois prent chascun ce qu'il lui plaist senz contredit, et ainsi est aussi riches l'un comme l'autre.</p>  
-<p>Mais il ont une mauvaise coustume, car ilz manguent plus volentiers char d'omme que de nulle autre char. Et si est le paÿs moult habundant de tous biens si comme de blés, de char, de poisson, d'or et d'argent et de toutes autres choses.</p>  
-<p>La vont des marchans et mainent des enfans pour vendre a ceuls du paÿs, et ilz les achatent, et se ilz sont gras, il les manguent tantost. Et se il sont maigres, ilz les font engressier, et dient que c'est la meilleur char et la plus doulce du monde.</p>  
-    <p>En celle terre ne en ce paÿs ne en pluseurs autres par dela on n'y voit point d'estoille tremontaine. C'est l'estoille de mer qui ne se muet point, qui est vers bize. Mais on voit une autre qui est au contraire de celuy vers mydi que on appelle <placeName type="celestial body">Antartique</placeName>. Et tout aussi que les maronniers prennent advis yci et se gouvernent par ceste estoille vers bise, aussi font les maronniers de la par ceste estoille devers mydi, la quelle ne appartient point a <persPronouns value="P4 tonic">nous</persPronouns>.</p> 
-<p>Et ceste devers bise ne appartient point a eulz, pour quoy on puet appercevoir que la terre et la mer sont de ronde fourme, car la partie du firmament appartient a un paÿs qui ne appartient point a autre. Et ce peut on appercevoir par experience et subtille indicacion que se on trouvoit passage de nef et gens qui vousissent aler et cerchier le monde, on pourroit aler a navie tout entour le monde, et desseure et dessoubz, la quelle chose <persPronouns value="P1">je</persPronouns> preuve selon ce que <persPronouns value="P1">je</persPronouns> ay essaié, car <persPronouns value="P1">je</persPronouns> ai esté par les parties de <placeName type="region">Braibant</placeName> et par la signe de l'astrolabe, <persPronouns value="P1">je</persPronouns> treuve que la tresmontaine estoille est <num>LIII</num> degrés de haut. Et en <placeName type="region">Alemaigne</placeName> vers <placeName type="city">Rome</placeName> elle a <num>LVIII</num>. Et plus avant vers les parties de septentrion elle a <num>LXII</num> degrés de haut et aucuns minus avec, car <persPronouns value="P1">je</persPronouns> meismes l'ay mesuré a l'astrolabe.</p> 
-    <p>Or devez <persPronouns value="P5">vous</persPronouns> savoir que contre celle estoille, qui est appelee <placeName type="celestial body">Antartique</placeName>, et l'autre que <persPronouns value="P1">j'</persPronouns>ay par devant dite, que par ces <num>II</num> estoilles, qui ne sont point mouvables, tout le firmament tourne ainsi comme la roe se tourne par son moyeul, sique ces <num>II</num> estoilles partent le firmament <pb n="fol. 55v"/>en <num>II</num> parties si que autant y a par dessouz comme par desseure. Aprés <persPronouns value="P1">je</persPronouns> suy alé vers les parties meridionelles, c'est vers mydi, et ay trouvé vers <placeName type="region">la haute Libie</placeName> que on voit premierement <placeName type="celestial body">l'estoille antartique</placeName>. Et tant comme <persPronouns value="P1">je</persPronouns> alay plus avant en celles parties, tant trouvai <persPronouns value="P1">je</persPronouns> celle estoille plus haute, si que plus avant en <placeName type="region">la haute Libie</placeName> vers <placeName type="region">Ethiope</placeName> elle a <num>XVIII</num> degrés de haut et aucuns minus avec, dont les <num>LX</num> minus font un degré.</p>  
-<p>Et en alant vers ce paÿs dont <persPronouns value="P1">je</persPronouns> parle et en es autres ylles et paÿs oultre <persPronouns value="P1">je</persPronouns> trouvay <placeName type="celestial body">l'antartique</placeName> de <num>XXXIII</num> degrés de haut et <num>XVI</num> minus.</p>  
-    <p>Et se <persPronouns value="P1">je</persPronouns> eusse trouvé navie et compaignie pour aler plus avant, <persPronouns value="P1">je</persPronouns> cuide estre certain que <persPronouns value="P4">nous</persPronouns> eussions veu toute la rondesse du firmament tout entour, car si comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay dit devant, la moitié du firmament est entre <num>II</num> estoilles, laquelle moitié <persPronouns value="P1">j'</persPronouns>ay toute veue, et des autres moitiés ay <persPronouns value="P1">je</persPronouns> veu vers bise dessouz <placeName type="celestial body">la tresmontaigne</placeName> <num>LXII</num> degrés et <num>X</num> minus. Et devers les parties meridionnelles, <persPronouns value="P1">j'</persPronouns>ay veu dessouz <placeName type="celestial body">l'antartique</placeName> <num>XXXIII</num> degrés et <num>XVI</num> minus. Et la moitié du firmament ne tient que <num>IX vins</num> degrés dont <persPronouns value="P1">j'</persPronouns>en ay veu <num>LXII</num> d'une part et <num>XXXIII</num> d'autre, ce sont <num>IIII</num> vins et <num>XV</num> degrés et pres de la moitié d'un degré. Et ainsi ne faut il que <persPronouns value="P1">je</persPronouns> n'aye veu tout le firmament que <num>IIII vins</num> et <num>IIII</num> degrés et bien la moitié d'un degré. Et ce n'est mie la quarte partie du firmament, car la quarte partie tient <num>IIII vins</num> et <num>X</num> degrez, si en faut <num>V</num> degrez et demy de la quarte partie. Ainsi ai je veu de la rondesce du firmament les <num>III</num> parties et plus encore V degrez et pres de demy, pour quoy <persPronouns value="P1">je</persPronouns> di certainement que on pourroit environner toute la terre du monde aussi bien par dessouz comme par desseure et retourner arriere en son paÿs, qui avroit compaignie et conduit et navie et tousjours trouveroit on terres et paÿs et ylles tout aussi bien comme en ce paÿs, car <persPronouns value="P5">vous</persPronouns> savez que ceuls qui sont endroit de l'antartique sont droitement pié contre pié de ceulz qui demeurent dessouz la tresmontaine aussi bien comme <persPronouns value="P4 tonic">nous</persPronouns>. Et ceulz qui demeurent dessouz <persPronouns value="P4">nous</persPronouns> sommes<pb n="fol. 56r"/> pié contre pié, car toutes les parties de mer et de terre ont leurs opposites habitables et trespassables et de ça et dela.</p> 
-        <p><hi rend="blue"><hi rend="bold">E</hi></hi>t sachiés que selon ce que <persPronouns value="P1">je</persPronouns> puis apparcevoir ne comprendre, <placeName type="region">la terre de <persName>Prestre Jehan</persName></placeName>, empereur d'<placeName type="region">Inde</placeName>, est dessouz <persPronouns value="P4 tonic">nous</persPronouns>, car en alant d'<placeName type="region">Escoce</placeName> et d'<placeName type="region">Angleterre</placeName> vers <placeName type="city">Jherusalem</placeName> on monte tousjours, car nostre terre est en basse parties de la terre vers occident, et <placeName type="region">la terre <persName>Prestre Jehan</persName></placeName> est en la basse partie vers orient. Et ont la le jour quant <persPronouns value="P4">nous</persPronouns> avons la nuit, et aussi au contraire il ont la nuit quant <persPronouns value="P4">nous</persPronouns> avons le jour, car la terre et la mer sont de ronde fourme si comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vouz</persPronouns> ay devant dit. Et ce que on monte a un costé, on avale a l'autre.</p> 
-        <p>Or avez <persPronouns value="P5">vous</persPronouns> oÿ dire par devant que <placeName type="city">Jherusalem</placeName> est en milieu du monde, et ce y pert par une lance fichiee en terre sur l'eure de midy qui ne fait point d'ombre en nul costé. Et que ce soit en mylieu de la terre <persName>David</persName> le tesmoigne la ou il dist : « <foreign xml:lang="la">Et operatus est salutem in medio terre etc.</foreign> ». Donques ceulz qui partent de ces parties pour aler vers <placeName type="city">Jherusalem</placeName>, autant de journees que il mectent de monter jusques ala, en autant de journees peut il aler de <placeName type="city">Jherusalem</placeName> jusques en autres confines de la superfice de la terre dela. Et quant on va oultre celle journees vers <placeName type="region">Ynde</placeName> et les ylles foraines en oultre, ce est en avironnant ladrece de la terre et de la mer par dessouz nostre paÿs par deça. Et pour ce m'est il souvent souvenu d'une chose que <persPronouns value="P1">j'</persPronouns>ay oÿ conter quant <persPronouns value="P1">je</persPronouns> estoie petit, comme un vaillant homme de notre paÿs se parti jadis pour aler cerchier le monde. Si passa <placeName type="region">Ynde</placeName> et les ylles, ou il en a plus de <num>V mile</num>, et tant environna le monde par maintes saisons qu'il trouva une ylle ou il oÿ parler son langaige et chacier les buefz en disant telle parolles comme en faisoit en son paÿs, dont il se merveilla moult, car il ne savoit comment ce pouoit estre. Mais <persPronouns value="P1">je</persPronouns> dy qu'il avoit tant erré par terre et par mer qu'il avoit avironné toute la terre et qu'il estoit revenus en avironnant jusques a son paÿs, et qu'il ne fausist que avoir passé avant qu'il se fust trouvé en son droit paÿs et a sa cognoissance. Mais il retourna arriere par illeuc <pb n="fol. 56v"/>dont il estoit venuz, si perdy assez de ses painnes si comme il meismes le disoit <num>I</num> grant temps aprés, car il avint qu'il aloit une foiz vers <placeName type="region">Norwaide</placeName> et il li prist tempeste en mer et fut porté en une ylle ou il se recognut que c'estoit l'ylle ou il avoit oÿ parler son langaige a mener les buefs a la charrue. Et ce fut bien chose possible comment que il semble aus simples gens que on ne pourroit aler dessouz la terre et que on devroit cheoir vers le ciel quant on seroit dessouz la terre. Mais ce ne pourroit estre neent plus que <persPronouns value="P4">nous</persPronouns> pourrions cheoir vers le ciel de la terre ou <persPronouns value="P4">nous</persPronouns> sommes, car aussi qu'il <persPronouns value="P4 object">nous</persPronouns> semble qu'il sont dessouz <persPronouns value="P4 tonic">nous</persPronouns>, aussi leur semble il que <persPronouns value="P4">nous</persPronouns> sommes dessouz euls. Et se on pouoit cheoir de la terre jusques au ciel, par plus grande raison la terre et la mer qui sont si grandes et si pesans devroient cheoir jusques au firmament. Mais ce ne pourroit estre, car ce ne seroit mie cheoir, mais monter. Et pour ce dist <persName>nostre Seigneur</persName> : « <foreign xml:lang="la"><hi rend="italic">Ne timeas me cui respondi terram in nichilo</hi></foreign>. »</p> 
-    <p>Et combien que ce soit chose possible que on pourroit avironner ainsi tout le monde, neentmoins de mil fois l'une n'adreceroit droite voie de retourner vers son paÿs, car par lagrandeur de la terre et de lamer, on pourroit aler mil et mil autres voies que nulz n'en adreceroient parfaitement vers les parties dont on mouvroit, pour quoy combien que ce soit possible chose de la terre environner ainsi que <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> dy, neeantmoins nul ne pourroit adrecier a droite voie se ce n'estoit d'aventure ou de droite grace de dieu, car la terre est si grande que elle tient de rondeur entour et environ, par dessure et par dessoubz senz mer, <num>XX mile CCCC et XXV</num> milles selon l'oppinion des anciens sages, le dit des quelx <persPronouns value="P1">je</persPronouns> ne repreuve mie, mais selon la petitece de mon sens, il <persPronouns value="P1 object">me</persPronouns> semble, sauve leur grace, qu'il y a plus.</p>  
-<p>Et pour mieulx entendre ce que <persPronouns value="P1">je</persPronouns> vueil dire soit ymaginee une figure ou il y ait un grant compas, et entour le point de ce compas, qui est appellé centre, soit fait un autre compas, et puis soit le grand compas devisé par lignes en toutes parties et que toutes les lignes se assemblent au centre et poués savoir en quantes parties sera departi le grant compas, en autant de parties sera departi le petit compas qui est entour <pb n="fol. 57r"/>le centre combien que les espasses soient mendres. Or soit le grant compas representé pour le firmament, et le petit compas qui est entour le centre represente la terre.</p>
-    <p>Et se scevent touz astronomiens que le firmament est devisé en <num>XII</num> parties. Ce sont les <num>XII</num> signes. Et chascun signe est devisé en <num>XXX</num> degrés. Ce sont <num>CCC</num> et <num>LX</num> degrés, es quelx le firmament est devisé. Or soit la terre ainsi devisee en autant de parties, et chascune partie respondra a un degré du firmament. Et selon tous aucteurs d'astronomie, les <num>VII cens</num> stades respondent a un degré du firmament, ce sont <num>IIII<hi rend="sup">XX</hi> VII</num> milles et demie. Or soit ce monteplié par <num>CCC et LX</num> fois, ce seroit <num>XXXI mil mill et VC milles</num>, chascun tenant <num>V</num> stades tant a la terre de rondece et de tour environ selon ce que <persPronouns value="P1">je</persPronouns> puis concevoir par dit des astronomiens sicomme <persPronouns value="P1">j'</persPronouns>ay dit pardevant.</p> 
-    <p>Et ne desplaise aus lisans ce que <persPronouns value="P1">j'</persPronouns>ay dit, que une partie de <placeName type="region">Inde</placeName> est dessouz nostre paÿs, et que aussi nostre paÿs est dessouz euls a l'opposite ainsi que le droit orient est opposite au droit occident et ainsi que est la partie de bise a la partie de midy, des quelles parties <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay ci devant parlé, et verité est, car <persPronouns value="P1">je</persPronouns> l'ay mesuré a l'astrolabe que ceuls qui demeurent en la partie de bise sont pié contre pié aus autres de l'autre partie contre midy. Et aussi sommes <persPronouns value="P4">nous</persPronouns> a une partie des ylles d'<placeName type="region">Ynde</placeName>.</p>  
-    <p>Et s'il avoit signe ou estoilles estables vers orient et vers occident par les quelles ont peust les parties mesurer si comme on fait les parties de bise et de midy par les deux estoilles non mouvables, on trouveroit de certain les ylles et <placeName type="region">la terre <persName>Prestre Jehan</persName></placeName> bien loing hors des climas. Et en avironnant la terre dessouz <persPronouns value="P4 tonic">nous</persPronouns> plus assez que l'autre partie de bise et de midy ne soient dont <persPronouns value="P1">j'</persPronouns>ay fait mencion cy devant. Et si sçay bien que <persPronouns value="P1">j'</persPronouns>ay mise mainte journee pour aler vers les parties de <placeName type="region">Ynde</placeName>, plus que <persPronouns value="P1">je</persPronouns> ne feys a aler la droite voie de bise vers le droit mydi. Et puis que la terre est ronde, autant y a de bise a midy comme de droit orient au droit occident, pour quoy <persPronouns value="P1">je</persPronouns> dy que on passe celle mesure et dessouz <persPronouns value="P4 tonic">nous</persPronouns> en vironnant la terre.</p>
+</app>
+</note>  
+<lb n="4"/><p>En celle terre, n'a desffaute nulle qui soit neccessaire a homme. La y a montaignes ou 
+<lb n="5"/>on treuve grant foison de manne, plus assez et meilleur que on face autre part.</p> 
+<lb n="6"/><p>Celle manne est appelee pain de l'ange, et est une chose blanche moult douce et moult 
+<lb n="7"/>dilicieuse, et est assez plus doulce que miel et sucre ne soient, et vient de la rousee du ciel, et 
+<lb n="8"/>chiet sur les herbes de celuy paÿs, si devient blanc et douls, puis le met on en medicine pour les 
+<lb n="9"/>riches hommes pour laschier le ventre et espurgier mauvais sanc, car il espurge le sanc mauvais 
+<lb n="10"/>et oste melancolie. Ceste terre de <persName>Job</persName> marshist au royaume de <placeName type="region">Caldee</placeName> et est moult grant paÿs, et 
+<lb n="11"/>est le langaige qui est plus que en nul autre paÿs entour la mer. Qui veult la aller on passe par la 
+<lb n="12"/>tour de <placeName type="city">Babilone</placeName>, dont <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autresfois parlé, ou les langaiges furent premierement 
+<lb n="13"/>changiez, et est a <num><hi rend="small-caps">iiii</hi></num> journees du royaume de <placeName type="region">Caldee</placeName> par deça.</p>
+<lb n="14"/><p>Ou royaume de <placeName type="region">Caldee</placeName> sont les hommes beaux, et vont moult noblement parez de chiefs 
+<lb n="15"/>dorés couvers de leurs draps, et sont aournés d'orfrois et de pelles et de pierres precieuses moult 
+<lb n="16"/>noblement.</p>
+<lb n="17"/><p>Et les femmes sont tres laides et mal vestues et vont a tous nus piez, et portent chaitis 
+<lb n="18"/>garnemenz larges et cours jusques au genoil, et sont les manches longues et larges en guise d'un 
+<lb n="19"/>froc de moine, et vont les manches jusques aus piez pendanz. Et ont les cheveux noirs pendans 
+<lb n="20"/>autour des espaules. Et sont femmes bien noires non pas brunes, et tres laides et malgracieuses 
+<lb n="21"/>et tres hidieuses a veoir. Elles <persPronouns value="P1 object">me</persPronouns> devroient donner bon loyer pour elles prisier, car encore y a 
+<lb n="22"/>en elles tant d'ordures que <persPronouns value="P1">je</persPronouns> ne le savroie descripre.</p>
+<lb n="23"/><p>En cel royaume de <placeName type="region">Caldee</placeName> est une cité qui a <hi rend="italic">[fol. 47v]</hi>a nom <placeName type="city">Hur</placeName>. La demoura <persName>Charés</persName>, 
+<lb n="24"/>le pere <persName>Abraham</persName> le patriarche, et la nasquit <persName>Abraham</persName>, et ce fut ou temps que le pere <persName>Ninus</persName> fut roy 
+<lb n="25"/>de <placeName type="city">Babilone</placeName>, d'<placeName type="region">Arrabe</placeName> et d'<placeName type="region">Egypte</placeName>. Cil <persName>Ninus</persName> fist la cité de <placeName type="city">Ninive</placeName>, la quelle <persName>Noé</persName> avoit 
+<lb n="26"/>commanciee afaire.</p> 
+<lb n="27"/><p>Et pour ce que <persName>Ninus</persName> l'avoit parfaite, il l'appella par son nom <placeName type="city">Ninive</placeName>.</p>
+<lb n="28"/><p>La gist <persName>Thobie</persName> de qui la sainte escripture parle. De ceste cité se parti <persName>Abraham</persName> par le 
+<lb n="29"/>commandement de dieu apres la mort de son pere, et en mena <persName>Darran</persName> sa femme et <persName>Loth</persName> le filz 
+<lb n="30"/>de son frere avec luy pour ce qu'il n'avoient point d'enfant. Et demoura en la terre de <placeName type="region">Chanaam</placeName> 
+<lb n="31"/>en un lieu qui a a nom <placeName type="region">Sychem</placeName>.</p> 
+<lb n="32"/><p>Et ce fut <persName>Loth</persName> qui fut sauvez quant <placeName type="city">Sodome</placeName> et <placeName type="city">Gomorre</placeName> et les autres citez furent arses et 
+<lb n="33"/>fondues en l'abisme la ou la mer morte est, si comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay autresfois dit.</p>
+<lb n="34"/><p><hi rend="red"><hi rend="bold">P</hi></hi>uis oultre <placeName type="region">Caldee</placeName> est <placeName type="region">Amazonie</placeName>. C'est la terre de Femmenie. C'est un royaume ou il n'a 
+<lb n="35"/>que femmes, car les hommes n'y pourroient vivre en ce paÿs si comme aucuns dient. Mais pour 
+<lb n="36"/>ce n'est il mie ainsi, car elles ne veulent que les hommes aient nulle seigneurie sur elles. Car ou 
+<lb n="37"/>temps jadis il avoit un roy en ce paÿs, et y demouroient les hommes ainsi que autre part. Si advint 
+<lb n="38"/>que cil roy eut guerre aceulz de <placeName type="region">Sithie</placeName>, et avoit a nom <persName>Colopiens</persName>. Le quel roy fut occis en la 
+<lb n="39"/>bataille avec tout le bon sanc de son royaume. Et quant la Royne et les autres dames nobles du paÿs 
+<lb n="40"/>regarderent qu'elles estoient toute veuves et que tous les nobles sans estoient perdus, elles se 
+<lb n="41"/>armerent comme desesperees et tuerent tous les autres hommes du paÿs qui y estoient demourés, 
+<lb n="42"/>car elles vouloient aussi que toutes les femmes fussent veves si qu'elles estoient. Et de puis en 
+<lb n="43"/>avant ne vouldrent que nulz demourast entre elles. Mais quant elles veulent compaignie d'omme, 
+<lb n="44"/>elles se traient vers les terres marchissans, et ont leurs amis qui les visitent et demeurent delez 
+<lb n="45"/>eulz <num><hi rend="small-caps">x</hi></num> jours et puis se retraient arrieres. Et selles ont enfans et ilz soient masles, elles 
+<lb n="46"/>l'envoient au pere quant il scet aler et mangier par lui seul, ou elles l'occient. Et se c'est femelle, 
+<lb n="47"/>elles li ostent les mamelles a un fer chaut. <hi rend="italic">[fol. 48]</hi>Se elle est gracieuse femme, on li oste la 
+<lb n="48"/>senestre pour mieux porter l'escu. Et se c'est femme de pié, on li oste la destre afin qu'elle ne li 
+<lb n="49"/>empesche a traire de l'arc turquois, car elles traient moult bien de l'arc a main.</p>
+<lb n="50"/><p><hi rend="blue"><hi rend="bold">E</hi></hi>n ceste terre a une Royne qui gouverne tout le paÿs et toutes sont obeïssans a luy. Et 
+<lb n="51"/>tousjours font royne par eleccion de celle qui est plus vaillant en armes. Elles sont bonnes 
+<lb n="52"/>guerroierresses et preus et sages et vaillans. Et vont bien en soudees et aidier les autres roys pour 
+<lb n="53"/>argent gaaignier, et se maintiennent moult viguereusement.</p> 
+<lb n="54"/><p>Celle terre de <placeName type="region">Amazone</placeName> est une ylle tout avironnee d'eaue fors que en deux lieux ou il a 
+<lb n="55"/>deux entrees. Et oultre celle eaue demeurent les hommes qui sont leurs amis, ou elles se vont 
+<lb n="56"/>soulacier quant elles veulent.</p>
+<lb n="57"/><p>Delez <placeName type="region">Amazone</placeName> en la terre de <placeName type="region">Termigicte</placeName>, qui est un paÿs moult bel, moult bon et moult 
+<lb n="58"/>delitables, et pour le bon paÿs qu'il y a fist le roy <persName>Alixandre</persName> faire la premiere <persName>Alixandre</persName>, dont il 
+<lb n="59"/>fist <num><hi rend="small-caps">xii</hi></num> citez que il appella <placeName type="city">Alixandre</placeName>. Et celle cité appelle on maintenant <placeName type="city">Cohite</placeName>.</p>
+<lb n="60"/><p>De l'autre costé de <placeName type="region">Caldee</placeName> est un grant paÿs qui s'estent jusques en la fin d'<placeName type="region">Egypte</placeName>.</p> 
+<lb n="61"/><p><fw id="sectionHead"><hi rend="red"><hi rend="bold">Du paÿs d'<placeName type="region">Ethiope</placeName></hi></hi></fw></p>
+<lb n="62"/><p><placeName type="region"><hi rend="red"><hi rend="bold">E</hi></hi>thiope</placeName> est devisee en deux parties principaux. C'est en la partie orientale et la partie 
+<lb n="63"/>occidentale, laquelle partie occidentale est appelee <placeName type="region">Morianne</placeName> et ysont les gens plus noirs que 
+<lb n="64"/>en nul autre paÿs.</p> 
+<lb n="65"/><p>En celle partie y a une fontaine dont de jours l'eaue est si froide que nulz homs ne la 
+<lb n="66"/>pourroit boire. Et de nuit elle est si chaude que on ne pourroit souffrire sa main dedenz.</p>  
+<lb n="67"/><p>Et oultre celle partie devers midy au passer par la grant mer occeane y a une grant terre 
+<lb n="68"/>et deux grans paÿs, mais on n'y pourroit habiter pour la grant chaleur du soleil qui est si chaude 
+<lb n="69"/>sur celle terre.</p> 
+<lb n="70"/><p>En <placeName type="region">Ethiope</placeName> toutes les rivieres sont troubles, et les gens de ce paÿs sont tost legierement 
+<lb n="71"/>yvres et n'ont mie grant apetit de mangier et ont communement flun de ventre, et ne sont mie de 
+<lb n="72"/>longue vie.</p>  
+<lb n="73"/><p>En <placeName type="region">Ethiope</placeName> a moult de diverses genz, et est <placeName type="region">Ethiope</placeName> appellee <placeName type="region">Caussie</placeName>. Et y a <hi rend="italic">[fol. 48]</hi>de 
+<lb n="74"/>celle gent qui n'ont que un pié, et si vont si tost que c'est merveilles, et si est ce pié si large que il 
+<lb n="75"/>en font umbre a tout le corps d'euls encontre le soleil quant il se couche du travers.</p>
+<lb n="76"/><p>En ce paÿs, quant les enfans sont petis il sont tous chanus, et quant il deviennent grans, 
+<lb n="77"/>il ont les cheveux tous noirs.</p> 
+<lb n="78"/><p>En <placeName type="region">Ethiope</placeName> est la cité <placeName type="city">Sabba</placeName>, et la terre dont l'un des trois roys fut sires qui vint requerre 
+<lb n="79"/>nostre Seigneur en <placeName type="city">Bethleem.</placeName></p>
+<lb n="80"/><p>De <placeName type="region">Ethiope</placeName> va on en <placeName type="region">Inde</placeName> par moult de divers paÿs. Et appelle on la haute Inde <placeName type="region">Fuiblach</placeName>. 
+<lb n="81"/>Et est <placeName type="region">Inde</placeName> devisee principalment en <num><hi rend="small-caps">iii</hi></num> parties. C'est assavoir <placeName type="region">Inde la meneur</placeName> qui est tres haut 
+<lb n="82"/>paÿs, et <placeName type="region">Inde mediane</placeName> qui est atemprés paÿs, et tiennent a la terre de <placeName type="region">Meddee</placeName>. Et la tierce partie 
+<lb n="83"/>qui est vers septentrion est <placeName type="region">Inde la majour</placeName>, laquelle partie est tres froide que par fine froideur et 
+<lb n="83"/>qui est vers septentrion est <placeName type="region">Inde la majour</placeName>, laquelle partie est tres froide que par fine froideur et 
+<lb n="84"/>continuelle gelee l'yaue y devient cristaus. Et sur les roches de ce costé croissent les bons dyamans 
+<lb n="85"/>qui semblent de couleur trouble cristal.</p> 
+<lb n="86"/><p>Dyamans ont tres haute couleur si comme d'oille, et cil sont si durs que on ne les peut 
+<lb n="87"/>polir. Et si y a autres dyamans que on treuve en <placeName type="region">Arrabe</placeName>, qui ne sont mie bonnes et sont plus brun 
+<lb n="88"/>et plus tenre, et autres que on treuve en l'ille de <placeName type="region">Copce</placeName> qui sont encore plus tenres. On en treuve 
+<lb n="89"/>aussi en la terre de <placeName type="region">Machidone</placeName>, mais les meilleurs et les plus vertueus sont en <placeName type="region">Inde</placeName>. Et aussi en 
+<lb n="90"/>treuve on moult de frois et moult de durs en la masse qui est la ou on affine lor, car quant on 
+<lb n="91"/>depiece de celle masse en menues pieces on treuve en la mine qui en ist des aussi gros comme 
+<lb n="92"/>un pois, et aucunes fois mendres. Et sont auques aussi dures comme celles d'<placeName type="region">Ynde</placeName>. Et taillent 
+<lb n="93"/>achier et voirres legierement.</p>  
+<lb n="94"/><p>Et combien que on treuve des bons dyamens en <placeName type="region">Ynde</placeName> plus communement sur les roches de cristal, neent moins 
+<lb n="95"/>on les treuve plus communement sur les roches de dyamans en la mer, et sur montaignes ou il a 
+<lb n="96"/>minieres d'or. Et croissent pluseurs ensemble, l'un petite l'autre grant, et en y a bien de la 
+<lb n="97"/>grosseur d'une feve. Et la plus grosse qui y peut estre selon nature est aussi grosse comme une 
+<lb n="98"/>nois <hi rend="italic">[fol. 49]</hi>gaille. Et toutes sont aquariies et apointies de leur nature, senz nul <lb n="99"/>affaitement de main d'omme, et les appelle on en <placeName type="region">Ynde</placeName> <foreign>hamezet</foreign>. Il croissent aussi es montaignes et es roches. Il 
+<lb n="100"/>y a voies et roches de minieres d'or ou il croissent ensemble masles et femelles, et se nourrissent 
+<lb n="101"/>de la rousee du ciel et concivent et engendrent et font des petis delez eulz qui monteplient et 
+<lb n="102"/>croissent tous les ans. <persPronouns value="P1">Je</persPronouns> l'ay maintes foiz essaié, car se on les garde avec un pou de la mine de 
+<lb n="103"/>la roche ou il croissent qui tiengne a la pointe desseure, et on les mouille souvent de la rousee 
+<lb n="104"/>de may, il croissent tous les ans et deviennent les petis bien grans et bien gros selon leur nature, 
+<lb n="105"/>car aussi comme la perle se fait et engrosse de la rousee du ciel, aussi le fait le vray dyamant. Et 
+<lb n="106"/>aussi comme la perle de sa nature prent rondesce, ainsi le dyamant par dyamane vertu prent 
+<lb n="107"/>quarreure. Et doit on tous dyamans porter au senestre costé, si est de plus grans vertus que a la 
+<lb n="108"/>destre partie, car la force de leur naissance vient devers septentrion. C'est la senestre partie du 
+<lb n="109"/>monde et est a la senestre de lomme quant il treuve sa face vers orient.</p>  
+<lb n="110"/><p>Et se <persPronouns value="P5">vous</persPronouns> voulez savoir la vertu du dyamant, combien que aucuns le sachent par le 
+<lb n="111"/>lapidaire de ces parties, neent moins pour ce que chascun ne le scet mie, <persPronouns value="P1">je</persPronouns> le deviseray icy 
+<lb n="112"/>selon ce que ceulz d'oultre mer le dient et l'affient, des quelles toutes science et toute philosophie 
+<lb n="113"/>est venue.</p>  
+<lb n="114"/><p>Le dyamant donne a celui qui le porte hardiesce et proece, et garde les membres du corps 
+<lb n="115"/>entiers, et donne victoire sus ses ennemis en guerre et en plait se la cause est juste, et tient le 
+<lb n="116"/>portant en son bon senz, et le garde de tençons et de riotes de mauvais signes, de visions et de 
+<lb n="117"/>mauvais esperit. Et se aucuns homs mauvais ou femme vouloit le portant encerchier ou 
+<lb n="118"/>enchanter, par la vertu de la pierre la sorcerie ou enchantemenz retourneroient sus celui qui le 
+<lb n="119"/>vouldroit grever. Et aussi nulle beste sauvage n'oseroit assaillir la personne qui porteroit le 
+<lb n="120"/>dyamant.</p>  
+<lb n="121"/><p>Le dyamant doit estre donné senz couvortier et senz acheter et adont est de plus grant 
+<lb n="122"/>vertu, et fait l'omme plus fort et <hi rend="italic">[fol. 49]</hi>plus ferme contre ses ennemis. Et garist toutes 
+<lb n="123"/>lunatiques et des causes dont dyable poursuit et travaille. Et se venin ou male poison est portés 
+<lb n="124"/>en presense de dyamant, tantost devient moiste et commence a suer.</p>  
+<lb n="125"/><p>Il y a bien en <placeName type="region">Ynde</placeName> des dyamans qui sont violastres et plus bruns que violetes ne soient, 
+<lb n="126"/>et sont bien durs et bien precieus. Mais aucunes gens ne les aiment pas tant comme les autres. 
+<lb n="127"/>Mais en droit, moy, <persPronouns value="P1">je</persPronouns> les ameroie bien autant, car je les ay veus esprouver.</p>  
+<lb n="128"/><p>Il en y a aussi d'autre maniere qui sont aussi blans comme cristal, mais il sont un pou plus 
+<lb n="129"/>troubles et sont bons et de grant vertu, et tous sont quarrez et ont pointes de leur nature. Aucuns 
+<lb n="130"/>sont a <num><hi rend="small-caps">vi</hi></num> costez, aucuns a <num><hi rend="small-caps">iii</hi></num> et aucuns a <num><hi rend="small-caps">iiii</hi></num>, si comme nature les fourme.</p>
+<lb n="131"/><p>Et pour ce que les grans seigneurs et les bacheliers qui quierent honneur d'armes les 
+<lb n="132"/>portent volentiers en leurs dois, <persPronouns value="P1">je</persPronouns> parleray un pou plus des dyamans, combien que <persPronouns value="P1">je</persPronouns> eslonge ma 
+<lb n="133"/>matere a la fin que il ne soient decheus par les portans qui vont par le paÿs pour les dyamans 
+<lb n="134"/>vendre. Car qui veult achater dyamans, il est mestier que il les sache cognoistre pour ce que on 
+<lb n="135"/>les contrefait de cristal gaune et saphir chitorin et de saphir bourisse, et d'une pierre que on 
+<lb n="136"/>appelle yris, et de petites pierres que on treuve en nit de souris qui sont dignes. Mais toutesvoies 
+<lb n="137"/>les contrefais ne sont si durs, car la pointe brise moult legierement, et si la peut on bien pollir. Mais 
+<lb n="138"/>aucun ouvrier par malice ne les pollissent point affin que les genz cuident que on ne les puist 
+<lb n="139"/>pollir, mais on les essaie en ceste maniere : premierement, on les essaie au taillier en saphirs et 
+<lb n="140"/>en autres pierres precieuses sur cristal et sur acier ; aprés en prent une partie d'aymant, c'est la 
+<lb n="141"/>pierre des marionniers qui trait a lui l'aguille. Et se le dyamant est vray et vertueus, le aymant ne 
+<lb n="142"/>traira point l'aguille a lui tant que le dyamant soit present, se la aymant n'estoit trop gros.</p>
+<lb n="143"/><p>Et c'est l'espreuve que ceulz d'oultre mer font. Mais il avient aucunes <hi rend="italic">[fol. 50]</hi>fois que 
+<lb n="144"/>bien bons dyamans perdent leur vertu pour la contenance de ceuls qui les portent, et adont 
+<lb n="145"/>convient la pierre faire recouvrer leur vertu.</p> 
+<lb n="146"/><p><fw id="sectionHead"><hi rend="red">De la nature des gens de celle terre</hi></fw></p>
+<lb n="147"/><p><hi rend="blue"><hi rend="bold">I</hi></hi>tem en <placeName type="region">Ynde</placeName> y a mains divers paÿs et maintes diverses entrees, et l'appelle on <placeName type="region">Ynde</placeName> pour <lb n="148"/><num><hi rend="small-caps">i</hi></num> flueve qui queurt par my le paÿs qui a a nom <placeName type="region">Ynde</placeName>. En ce flueve sont anguilles de <num><hi rend="small-caps">xxx</hi></num> piés de 
+<lb n="149"/>lonc et de plus. Les gens qui habitent entour celle riviere sont tous de verde couleur et jaune, 
+<lb n="150"/>sicomme il eussent la jaunisse.</p>
+<lb n="151"/><p>En <placeName type="region">Ynde</placeName> et environ <placeName type="region">Ynde</placeName> y a plus de <num><hi rend="small-caps">v</hi></num> mile ylles bonnes et grandes senz celles qui sont 
+<lb n="152"/>inhabitables et senz autres petites, plusers dont on ne puet faire mention.</p>
+<lb n="153"/><p>En chascun ylle y a grant foison de cités, et de villes et de genz senz nombre, car <persName type="adjective of nationality">Yndois</persName> 
+<lb n="154"/>sont de telle maniere qu'il n'yssent point de leur paÿs et pour ce y a grant multitude de gens, car 
+<lb n="155"/>il ne sont point mouvables pour ce qu'il sont au premier climat qui est de <placeName type="celestial body">Saturne</placeName>, et <placeName type="celestial body">Saturne</placeName> est 
+<lb n="156"/>tardif et pou mouvable car il demeure a faire son tour par les <num><hi rend="small-caps">xii</hi></num> signes l'espace de <num><hi rend="small-caps">xxx</hi></num> ans. Et 
+<lb n="157"/>la <placeName type="celestial body">lune</placeName> passe les <num><hi rend="small-caps">xii</hi></num> signes en <num><hi rend="small-caps">i</hi></num> mois.</p>  
+<lb n="158"/><p>Et pour ce que <placeName type="celestial body">Saturnes</placeName> est de si tardif mouvement, pour ce ont les gens de son climat 
+<lb n="159"/>nature et volonté que il ne quierent point de mouvoir de paÿs en autre. Et en nostre paÿs est tout 
+<lb n="160"/>au contraire, car <persPronouns value="P4">nous</persPronouns> sommes en <num><hi rend="small-caps">i</hi></num> climat qui est de la <placeName type="celestial body">lune</placeName>, et la <placeName type="celestial body">lune</placeName> est de legier mouvement, et 
+<lb n="161"/>si est planete de voie. Et pour ce elle <persPronouns value="P4 object">nous</persPronouns> donne matere et volenté de mouvoir legierement et 
+<lb n="162"/>de cheminer par diverses voies et de cerchier choses estranges et les diverses choses du monde, 
+<lb n="163"/>car elle environne la terre plus hastivement que nulle autre planecte.</p> 
+<lb n="164"/><p><hi rend="red"><hi rend="bold">I</hi></hi>tem on va par my <placeName type="region">Ynde</placeName> par maintes diverses parties et contrees jusques a la Mer 
+<lb n="165"/>Occeane. Et puis treuve on un ylle qui a a nom <placeName type="region">Ariguez</placeName> ou les marchans de <placeName type="city">Venisse</placeName>, de <placeName type="city">Jeneves</placeName> 
+<lb n="166"/>et d'autres contrees vont souvent pour achater marchandises de pluseurs manieres. Mais il fait si 
+<lb n="167"/>grant chaut en celle ylle que pour la grant destrece de lachaleur, la perpendelle de lomme et 
+<lb n="168"/>trestout ce la que <persPronouns value="P5">vous</persPronouns> savez ist hors <hi rend="italic">[fol. 50]</hi>du corps pendant jusques environ la jambe pour 
+<lb n="169"/>la grant dissolucion du corps. Mais les gens du paÿs et ceuls qui en scevent la nature se font lyer 
+<lb n="170"/>bien et fermement, et se font oindre d'un oingnement reservatif et refrigeratif pour les retenir ou 
+<lb n="171"/>corps ou autrement il ne pourroient durer ne vivre.</p> 
+<lb n="172"/><p>En ce paÿs et en <placeName type="region">Ethiope</placeName> et en maint autre paÿs les gens gisent toute jour ens es rivage 
+<lb n="173"/>des eaues, hommes et femmes tous ensemble de l'eure de tierce jusques a basse nonne, et gisent 
+<lb n="174"/>tous dedenz l'eaue fors que la face pour le grant chaut qu'il y fait, si que a peine le peut nulz 
+<lb n="175"/>endurer. Et si n'ont les femmes point de honte de hommes, mais gisent tous priveement tant que 
+<lb n="176"/>la chaleur est abessiee. Si peut on veoir maintes laides figures assemblees especialment pres des 
+<lb n="177"/>bonnes villes.</p> 
+<lb n="178"/><p>Et si ont toutes leurs nefs faites de boys et de fust senz fer ne clou pour les roches des 
+<lb n="179"/>aymans dont il a en la mer la entour tant que c'est merveille. Car se une nef passoit par my ces 
+<lb n="180"/>marches ou il eust clous ou bendes de fer, tantost seroit perie, car le aymant de sa nature trait le 
+<lb n="181"/>fer a luy, si trairoit la nef a ly pour la cause du fer, si que jamais ne pourroit departir.</p> 
+<lb n="182"/><p>De celle ylle va on aune autre ylle qui a a nom <placeName type="region">Chana</placeName>, ou il a grant planté de blé et vin et 
+<lb n="183"/>d'autres vivres, et y souloit avoir grant ylle et y avoit moult bon port, mais la mer l'a maintenant 
+<lb n="184"/>bien gastee et bien apeticiee.</p> 
+<lb n="185"/><p>Le roy de celle ylle souloit estre si poissant qu'il guerreoit au roy <persName>Alixandre</persName>. Et les gens de 
+<lb n="186"/>ceste terre ont moult diverse loy, car les aucuns aourent le soleil, les aucuns le feu, les aucuns 
+<lb n="187"/>arbres, les aucuns serpens ou la premiere choses qu'il encontrent au matin.</p>
+<lb n="188"/><p>Les aucuns aourent simulacres et les aucuns ydoles. Mais entre simulacres et ydoles y a 
+<lb n="189"/>difference, car simulacres sont ymages faictes a semblance de aucunes choses natureles, comme 
+<lb n="190"/>de semblance d'ommes et de femmes ou de soleil ou d'aucune beste ou d'autres choses natureles.</p> 
+<lb n="191"/><p>Et ydole est ymage faite par folle volenté d'omme que on ne pourroit trouver entre les 
+<lb n="192"/>choses naturelles, ainsi que une ymage a <num><hi rend="small-caps">iiii</hi></num> testes ou <num><hi rend="small-caps">i</hi></num> homme a teste de cheval ou de buef ou 
+<lb n="193"/>d'autre beste que nulz homs ne vit <hi rend="italic">[fol. 51]</hi>onques selon nature ne disposicion certaine.</p> 
+<lb n="194"/><p>Et sachiez que ceuls qui aourent simulacres les aourent pour aucuns vaillans hommes qui 
+<lb n="195"/>jadis furent, si comme le fors <persName>Hercules</persName> et pluseurs autres qui faisoient moult de merveilles en 
+<lb n="196"/>leur temps comment que bien scevent qu'il ne sont mie dieu, car il dient qu'il est le dieu de 
+<lb n="197"/>nature qui fist toutes choses, et est es cieulx. Mais il scevent bien que ceuls ne peussent avoir fait 
+<lb n="198"/>les merveilles que ils faisoient se ce ne fust de especiale grace de Dieu, et pour ce ilz les aourent. 
+<lb n="199"/>Aussi dient il du soleil pour ce qu'il change le temps et donne couleur et nourrissement a toutes 
+<lb n="200"/>choses sus terre. Et pour ce que il est de si grant vertueuseté, il scevent bien que ce ne peut estre 
+<lb n="201"/>que dieu ne l'aime plus qu'il ne fait les autres choses. Et pour ce li a il donné a ce qu'il dient si 
+<lb n="202"/>grant vertu pour quoy il est bien raison que on lonneure et face reverence.</p>  
+<lb n="203"/><p>Et aussi dient il en leurs raisons des autres planetes, et du feu aussi pour ce que il est si 
+<lb n="204"/>proffitable. Et dient que le buef estoit la plus sainte beste qui soit en terre et plus proffitable que 
+<lb n="205"/>nulle autre beste, car il fait des biens assez et ne fait nul mal. Et scevent bien a ce qu'il dient que 
+<lb n="206"/>ce ne peut estre senz especiale grace de Dieu. Et pour ce font il leur dieu de buef la moitié, et 
+<lb n="207"/>l'autre moitié de fourme de homme pour ce que l'omme est la plus noble creature qui soit en terre. 
+<lb n="208"/>Et pour ce qu'il a seigneurie sur toutes bestes, pour ce font il la moitié de leurs ydoles d'omme et 
+<lb n="209"/>l'autre moitié de buef.</p>
+<lb n="210"/><p>Et des serpens et autres choses que ilz encontrent premierement au matin ilz aourent toutes 
+<lb n="211"/>choses, especialement qui ait bon encontre et que bien leur advient la journee qu'il les 
+<lb n="212"/>encontrent, si que il y ont essayé par pluseurs fois par experience de lonc temps. Et pour ce dient 
+<lb n="213"/>il que bon encontre ne peut venir s'il ne vient de la grace de Dieu. Et pour ce font il faire les 
+<lb n="214"/>ymages semblables pour elles regarder et aourer premier le matin avant qu'il encontrent choses 
+<lb n="215"/>contraire.</p>  
+<lb n="216"/><p>Il y a bien des <persName type="religious affiliation">chrestiens</persName> qui dient que aucunes bestes ont bonne encontre et aucunes 
+<lb n="217"/>mauvaise encontre, si que on dist que on a esprouvé maintes foiz que le lievre a mauvaise encontre 
+<lb n="218"/>et pourceaulx <hi rend="italic">[fol. 51]</hi>et pluseurs autres bestes aussi, ou d'un autre oisel de proie quant il volle 
+<lb n="219"/>de premier aprés sa proie devant genz darmes. Et se il prent la proie, c'est bon signes, et s'il faut, 
+<lb n="220"/>c'est mauvais signe.</p>  
+<lb n="221"/><p>Et aussi sont aucunes gens qui dient que c'est mauvais encontre d'un corbeau. En telles 
+<lb n="222"/>choses et autres il sont assés de gens qui y croient pour ce qu'il est souvent avenu, et assés de gens 
+<lb n="223"/>qui n'y croient mie si font tresbien. Et que les <persName type="religious affiliation">Crestiens</persName> telz y a ont celle creance qui en sont 
+<lb n="224"/>abevres, et scevent toute sainte doctrine. Ce n'est mie merveilles se les paiens qui n'ont point de 
+<lb n="225"/>bonne doctrine fors que de leur nature s'il croient plus largement par leur simplesce.</p> 
+<lb n="226"/><p>Et vrayment <persPronouns value="P1">j</persPronouns>ay veu des paiens et de <persName type="religious affiliation">sarrasins</persName> moult viguereus que quant <persPronouns value="P4">nous</persPronouns> 
+<lb n="227"/>chevauchiemes en armes aucune part vers nos ennemis par le voller des oyseaulx, il <persPronouns value="P4 object">nous</persPronouns> 
+<lb n="228"/>promectoient ce que <persPronouns value="P4">nous</persPronouns> trouveriemes moult souvent aprés. Et ce faisoient il par pluseurs fois, et 
+<lb n="229"/>mectoient leurs testes en ostaige qu'il seroit ainsi. Mais pour ce ne doit on point mectre sa 
+<lb n="230"/>creance en telles choses, mais tousjours avoir ferme creance en <persName>nostre Seigneur</persName>, qui peut faire et 
+<lb n="231"/>deffaire quanqu'il ly plaist.</p>  
+<lb n="232"/><p>Ceste ylle de <placeName type="region">Chana</placeName>, les <persName type="religious affiliation">Sarassins</persName> l'ont gaigniee, et la tiennent tresgrant temps a.</p>
+<lb n="233"/><p>Il y a en celle ylle moult de lyons et de bestes sauvages, et si sont la les ras aussi grans 
+<lb n="234"/>comme un chien est en ce paÿs, et les prent on aus grans mastins, car les chas ne les pourroient 
+<lb n="235"/>prendre.</p>  
+<lb n="236"/><p>En celle ylle n'enterre ou nul homme mort, car la chaleur est si grande que en pou de 
+<lb n="237"/>temps est le corps tout consummez jusques as os.</p>  
+<lb n="238"/><p><fw id="sectionHead"><hi rend="red">Du lieu ou le poivre croist et en quel maniere</hi></fw></p>
+<lb n="239"/><p><hi rend="blue"><hi rend="bold">D</hi></hi>e la va on vers <placeName type="region">Ynde la majour</placeName> a une cité qui a nom <placeName type="city">Garbe</placeName> qui est moult belle et moult 
+<lb n="240"/>bonne et y demeurent moult de bons <persName type="religious affiliation">Crestiens</persName>, et de bonne foy. Et si a moult de religieux, 
+<lb n="241"/>especialment de <persName type="religious affiliation">Mendians</persName>.</p> 
+<lb n="242"/><p>Puis va on par mer en la terre de <placeName type="region">Lombe</placeName>. En celle terre croist le poivre en une forest qui 
+<lb n="243"/>a a nom <placeName type="region">Combar</placeName>, et ne croist aillieurs nulle part en tout le monde que <persPronouns value="P1">je</persPronouns> sache que en ceste forest 
+<lb n="244"/>qui dure bien <num><hi rend="small-caps">xviii</hi></num> journees de lonc.</p>  
+<lb n="245"/><p>En celle forest a <num><hi rend="small-caps">ii</hi></num> bonnes citez dont l'une a nom <placeName type="city">Flandrine</placeName> et l'autre <placeName type="city">Singlans</placeName>, et y a des 
+<lb n="246"/>autres villes <hi rend="italic">[fol. 52]</hi>pluseurs. Et en chascune de ces villes demeurent <persName type="religious affiliation">Crestiens</persName> et <persName type="religious affiliation">Juys</persName> grant 
+<lb n="247"/>foison, car il y a bon paÿs, mais moult y fait grant chaut.</p> 
+<lb n="248"/><p>Et pouez savoir que le poivre croist a maniere d'une vigne sauvage qui soit plantee pres 
+<lb n="249"/>des arbres du bois pour le soustenir ainsi comme la vigne, et pent le fruit a maniere du roisin et 
+<lb n="250"/>si est si chargié l'arbre que il semble qu'il doie brisier. Et quant le fruit est meur, il est tout vert 
+<lb n="251"/>comme bayens et adont on le vendenge ainsi comme on fait les vignes, et puis le seche on au 
+<lb n="252"/>soleil tant qu'il est tout noir et tout crespis.</p> 
+<lb n="253"/><p>Et si a <num><hi rend="small-caps">iii</hi></num> manieres de poivre en un arbre c'est assavoir : poivre lonc, poivre blanc et poivre 
+<lb n="254"/>noir. Le poivre lonc est appelle <foreign>sorbetim</foreign>, le noir <foreign>phusul</foreign> et le blanc <foreign>bauos</foreign>. Le poivre lonc vient 
+<lb n="255"/>premier, quant la fueille commence a venir, et semble auques de façon de la fleur de corre qui 
+<lb n="256"/>vient avant que la fueille et pent contreval. Et puis vient le noir avec la fueille, en maniere de 
+<lb n="257"/>grappes de roisin bien vert. Et quant on a celui cueilly, si vient le blanc qui est assés meilleur du 
+<lb n="258"/>noir. De celui n'aporte on point en ce paÿs, car ilz le retiennent pour euls pour ce que c'est le 
+<lb n="259"/>meilleur et de plus atrempee nature que le noir ne soit. Et si n'en y a une si grande habundance 
+<lb n="260"/>de blanc que de noir.</p> 
+<lb n="261"/><p>En ce paÿs y a moult de manieres de serpens de d'autres venins pour la grande chaleur du 
+<lb n="262"/>paÿs et du poivre.</p>  
+<lb n="263"/><p>Et dient aucunes gens que quant ilz veullent cueillir le poivre que il font feu au pié de 
+<lb n="264"/>l'arbre pour faire fuir les serpens et les culuevres. Mais sauve la grace des disans, car se ilz 
+<lb n="265"/>ardoient entour les arbres qui portent le poivre, il les ardroient et secheroient ainsi comme autres 
+<lb n="266"/>choses, mais ilz le feroient moult a envis, ne jamais n'y mettroient feu. Mais ilz se oingnent les 
+<lb n="267"/>piés et les mains de jus de limon ou ilz portent herbes avec eulz dont les serpens doubtent l'odeur, 
+<lb n="268"/>si s'en fuyent devant eulz pour la cause de l'odeur, et puis vont il vendengier le poivre tout 
+<lb n="269"/>seurement, car il n'ont garde que nul venin doit approcher vers eulx.</p> 
+<lb n="270"/><p><fw id="sectionHead"><hi rend="red">De la fontaine qui guarist de toutes maladies</hi></fw></p> 
+<lb n="271"/><p><hi rend="red"><hi rend="bold">I</hi></hi>tem vers le chief de ceste forest est la cité <placeName type="city">Polumbus</placeName>, et par desseure celle cité y a une 
+<lb n="272"/>grande montaigne qui a a nom <geogName type="mountain">Polumbe</geogName>, <hi rend="italic">[fol. 52]</hi>et de celle montaigne prent la cité ce nom. 
+<lb n="273"/>Et au pié de celle montaigne y a une fontaine qui a oudeur et saveur detoutes manieres d'espices, 
+<lb n="274"/>et a chascune heure elle change oudeur et saveur. Et quiconques boit trois fois a jeun de celle 
+<lb n="275"/>fontaine, il est curé de quelconques maladie qu'il ait. Et ceuls qui la demeurent et qui souvent 
+<lb n="276"/>en boivent, il n'ont onques nulle maladie. <persPronouns value="P1">Je</persPronouns> en beu <num><hi rend="small-caps">iii</hi></num> fois ou <num><hi rend="small-caps">iiii</hi></num>, et encore <persPronouns value="P1 object">me</persPronouns> semble que <persPronouns value="P1">j</persPronouns>'en 
+<lb n="277"/>vaille mieulx. Et dist on que celle fontaine vient de Paradis et pour ce est elle si vertueuse, et 
+<lb n="278"/>avec ce ceuls qui souvent en boivent semblent estre tousjours jeunes, dont les aucuns l'appellent 
+<lb n="279"/>et dient que c'est la fontaine de jouvent pour ce qu'ele fait ressembler a estre les gens jovenes.</p> 
+<lb n="280"/><p>Par tout ce paÿs croist moult bon gingembre, et la vont les marchans de pluseurs paÿs 
+<lb n="281"/>pour querre des espices.</p> 
+<lb n="282"/><p>En ce paÿs les gens aourent un buef pour sa simplece et pour sa debonnaireté, et dient 
+<lb n="283"/>que c'est la plus sainte beste qui soit en terre, car il leur semble qu'il soit simple et debonnaire, 
+<lb n="284"/>piteus et proffitable, et est moult souvent sacrefiés, car il leur semble qu'il est a toutes vertus 
+<lb n="285"/>bon. Il font le buef labourer <num><hi rend="small-caps">vi</hi></num> ans ou <num><hi rend="small-caps">vii</hi></num> et puis le manguent aus grans sollempnitez. Et a le 
+<lb n="286"/>roy du paÿs tousjours <num><hi rend="small-caps">i</hi></num> tel buef avec li, et ceuls qui le gardent tous les jours, ils reçoivent le fiens 
+<lb n="287"/>et l'orine en deux vaisseaux d'or et puis le baille on a leur prelat que ilz appellent 
+<lb n="288"/><foreign><persName>Acthiprochopapato</persName></foreign>. Et cil prelat le porte devant le Roy et le roy par grant devocion moulle ses 
+<lb n="289"/>dois de l'orine que ilz appellent <foreign>ghaul</foreign>, et moulle son front et sa poitrine avecques grant 
+<lb n="290"/>reverence par entencion qu'il sont remplis des vertus dessus dites que le buef a en ly. Et leur 
+<lb n="291"/>semble qu'il soient saintefiés par la vertu de celle chose qui riens ne vault.</p> 
+<lb n="292"/><p>Et aprés le Roy le font les grans seigneurs, et aprés les seigneurs le font les autres maistres 
+<lb n="293"/>quant ilz en peuent avoir aucun remenant.</p> 
+<lb n="294"/><p>En ce paÿs il font ydoles moitié homme et moitié buef. Et en ces ydoles le mauvais 
+<lb n="295"/>esperit parle a eulx et leur respont de quanque ilz veulent demander.</p>  
+<lb n="296"/><p>Par devant ces ydoles occient il maintes fois leur enfans et espergent les ydoles de leur 
+<lb n="297"/>sanc, et ainsi font <hi rend="italic">[fol. 53]</hi>leurs sacrefices.</p> 
+<lb n="298"/><p>Et quant aucun homme meurt ou paÿs, ilz ardent le corps en nom de penance affin que il 
+<lb n="299"/>ne sueffre plus d'autre peine en l'autre siecle ne especiaulment en terre, car ilz dient que les vers 
+<lb n="300"/>le mangeroient. Et se sa femme n'a nuls enfans, ilz l'ardent avec luy, et dient que c'est raison 
+<lb n="301"/>qu'elle li face compaignie en l'autre siecle. Et se elle a enfans de luy, on la laisse vivre pour 
+<lb n="302"/>nourrir les enfans se elle veult. Et se elle aime mieulx a vivre avec ses enfans que a mourir et 
+<lb n="303"/>estre arse avec son mari, on la tient a fausse et a mauvaise, ne jamais ne sera riens prisiee ne nuls 
+<lb n="304"/>homs ne se fiera jamais en ly. Et se la femme meurt devant son mari, l'omme se fait ardoir avec 
+<lb n="305"/>elle se il veult. Et se il ne veult ce faire, on ne le constraindra mie, mais il se pourra marier autre 
+<lb n="306"/>fois senz blasme.</p> 
+<lb n="307"/><p>Item en ce paÿs croissent bons vins dont les hommes ne boivent point, mais les femmes 
+<lb n="308"/>boivent bien vin.</p>
+<lb n="309"/><p><fw id="sectionHead"><hi rend="red">Du bras Saint Thomas et des ydoles qui sont en son eglyse</hi></fw></p> 
+<lb n="310"/><p><hi rend="blue"><hi rend="bold">D</hi></hi>e ce paÿs va on en passant par plusieurs marches vers un paÿs a <num><hi rend="small-caps">x</hi></num> journees loing que 
+<lb n="311"/>on appelle <placeName type="region">Malbaron</placeName>, et y a un moult grand royaume et moult de belles cités et de belles villes.</p> 
+<lb n="312"/><p>En ce royaume gist le corps <persName>Saint Thomas</persName> l'apostre en char et en os dessouz une belle 
+<lb n="313"/>tombe en la cité de <placeName type="city">Calamyon</placeName>, car la fut il martyrié et enseveli. Mais les <persName type="nationality">Assyriens</persName> firent jadis 
+<lb n="314"/>porter le corps de luy en <placeName type="region">Mesopotame</placeName> en la cité de <placeName type="city">Edisse</placeName>, et puis fut il la raporté arriere, et les 
+<lb n="315"/>bras et les mains qu'il bouta es plaies <persName>nostre Seigneur</persName> quant <persName>nostre Seigneur</persName> s'apparut a ly apres 
+<lb n="316"/>sa resurreccion et li dist <hi rend="italic"><foreign xml:lang="la">Noli esse incredulus sed fidelis</foreign></hi>. Et gist encore la main de luy au 
+<lb n="317"/>dehors du vaissel, et par celle main pour leur jugement ou paÿs essaient qui a tort ou droit. Car 
+<lb n="318"/>quant il a discencion entre deux parties et chascun tient qu'il ait droit, il mectent la cause de 
+<lb n="319"/>chascun en escript. Et puis il mectent les escrips en la main de <persName>saint Thomas</persName>, et tantost la main 
+<lb n="320"/>degicte le tort ou fauls en loing, et retient la main le droit et la verité. Et ainsi viennent de bien 
+<lb n="321"/>loing pour avoir jugement des causes doubtables.</p>  
+<lb n="322"/><p><hi rend="red"><hi rend="bold">I</hi></hi>tem l'eglise ou <persName>saint Thomas</persName> gist est une moult grant eglyse et belle, et est toute pleine 
+<lb n="323"/>de grans simulacres. Ce sont grans ymages qu'il appellent leurs dieux, de quoy le mendre est <hi rend="italic"> [fol. 
+<lb n="324"/>53v"]</hi> aussi grant comme hommes sont. Et entre les autres, y a une autre grant ymage plus assez 
+<lb n="325"/>que nulle des autres qui est toute couverte d'or et de pierres precieuses. Et c'est l'ymage des 
+<lb n="326"/>faulz <persName type="religious affiliation">Crestiens</persName>, renoiez et siet en une grande chaiere moult noblement et a entour son col des 
+<lb n="327"/>larges ceintures ouvrees d'or et de pierres precieuses, et est l'eglise toute doree par dedenz. Et a 
+<lb n="328"/>celle eglise vient on en pelerinage ainsi communement et par aussi grant devocion que <persName type="religious affiliation">Crestiens</persName> 
+<lb n="329"/>font a <persName>saint Jaques</persName> en <placeName type="region">Gallice</placeName>. Et pluseurs gens qui vont vers celle ydolle de lointaines terres, 
+<lb n="330"/>par la grant devocion qu'il y ont, il regardent tousjours en terre et n'osent lever leurs testes pour 
+<lb n="331"/>regarder entour euls pour paour qu'il ne voient aucune chose qui les oste de leur devocion. Et des 
+<lb n="332"/>autres y vont en pelerinage qui portent des coutiaux en leurs mains, et se fierent et plaient es bras 
+<lb n="333"/>et es jambes et es cuisses, et espandent leur sanc pour l'amour de celle ydole, et dient que cilz est 
+<lb n="334"/>bons eureux qui meurt pour l'amour de son dieu.</p>  
+<lb n="335"/><p>Et des autres y a qui mainnent leurs enfans pour occire et sacrefier devant celle ydole, et 
+<lb n="336"/>puis espargent l'ydole du sanc des enfans.</p> 
+<lb n="337"/><p>Et des autres y vont que de l'eure qu'il se partent de leurs maisons a chascun <num><hi rend="small-caps">iii</hi></num> pas, ilz 
+<lb n="338"/>s'agenoillent tant qu'il sont venus a celle ydole. Et quant il sont la venuz, il ont encenz et autres 
+<lb n="339"/>choses bien odorans de quoy ilz encensent l'ydole, si comme se ce fust le corps <persName>nostre Seigneur</persName>. 
+<lb n="340"/>Et ainsi vient on pour aourer a celle ydole de plus de cent lieues de loing. Et si a dedenz le 
+<lb n="341"/>moustier de celle ydole ainsi comme un vivier ou lach plein d'yaue. Et en ce vivier gitent les 
+<lb n="342"/>pelerins or et argent, perles et pierres precieuses senz nombre. Et de ce quant les maistres des 
+<lb n="343"/>ydoles ont mestier d'aucune chose faire en l'eglise, tantost il vont au vivier et prennent ce que 
+<lb n="344"/>mestier leur est pour la reedificacion de l'eglyse, si que riens n'y faut qui ne soit tantost 
+<lb n="345"/>rappareillié.</p>  
+<lb n="346"/><p><hi rend="blue"><hi rend="bold">I</hi></hi>tem, quant les grans festes de celle ydole viennent, si comme dedicacions de l'eglise, 
+<lb n="347"/>intronizacions de l'ydole, tous les paÿs la entour s'i assemblent et mectent celle ydole a grant 
+<lb n="348"/>reverence sur un char aourné de draps d'or et de tar-<hi rend="italic">[fol. 54r]</hi>-taires, et le mainnent ainsi entour 
+<lb n="349"/>la cité. Et par devant le char vont premier aus processions toutes les pucelles du paÿs moult 
+<lb n="350"/>ordeneement, <num><hi rend="small-caps">ii</hi> a <hi rend="small-caps">ii</hi></num> ensemble. Aprés les pucelles vont les pelerins qui sont de lointaines marches, 
+<lb n="351"/>des quelz pelerins se laissent cheoir dessouz les roes du char et laissent passer le char dessus euls, 
+<lb n="352"/>si que aucuns y muerent et les aucuns y brisent leurs bras, leurs jambes et leurs costes. Et ce font 
+<lb n="353"/>il pour l'amour de leur dieu en grant devotion. Et pensent que de tant comme il font et sueffrent 
+<lb n="354"/>plus grans tribulacions pour l'amour de celle ydole, de tant seront il plus pres de dieu et plus grant 
+<lb n="355"/>joie auront en l'autre siecle. Et briefment a dire ilz font de sigrans penances et de si grans 
+<lb n="356"/>martyres souffrir au corps pour l'amour de dieu que a painnes nul <persName type="religious affiliation">Crestien</persName> n'oseroit emprendre 
+<lb n="357"/>a faire la <num><hi rend="small-caps">x<hi rend="sup">c</hi></hi></num> partie pour l'amour de <persName>Jhesuchrist</persName>.</p>  
+<lb n="358"/><p>Et <persPronouns value="P5">vous</persPronouns> dy que devant le char au plus pres vont les menesterelx du paÿs, aussi comme 
+<lb n="359"/>senz nombre, avec divers instrumens, et font entre euls des grandes melodies. Et quant ilz ont 
+<lb n="360"/>toute la cité avironnee, ilz retournent a l'eglyse et remectent l'ydole en son lieu. Et adont pour 
+<lb n="361"/>l'amour de celle ydole et pour la reverence de celle feste, si occient bien <num><hi rend="small-caps">cc</hi></num> ou <num><hi rend="small-caps">ccc</hi></num> personnes, 
+<lb n="362"/>des quelz on prent les corps et les met on devant l'ydole et dient qu'il sont sains en l'autre siecle 
+<lb n="363"/>pour ce que ilz se sont occis de leur bonne volenté pour l'amour de leur dieu.</p> 
+<lb n="364"/><p>Et aussi comme un lignage se tenroit honnoré par deça d'un saint homme ou de <num><hi rend="small-caps">ii</hi></num> se ilz 
+<lb n="365"/>estoient du lignage et en metroient les biens fais et les mirales en escript qu'il avroit fais pour 
+<lb n="366"/>les faire canonisier, ainsi se tiennent il par dela pour honnorés de ceuls qui se tuent pour l'amour 
+<lb n="367"/>de leur dieu. Et les mectent en escript en leurs letanies, et se vantent et dient l'un a l'autre : « J'ay 
+<lb n="368"/>plus de sains en mon lignage que <persPronouns value="P5">vous</persPronouns> n'ayés ou <persPronouns value="P5 possessive">votre</persPronouns>. »</p> 
+<lb n="3698"/><p>Et est la coustume telle que quant ilz ont entencion d'eulz occirre pour leur dieu, ilz font 
+<lb n="370"/>mander tous leurs amis et ont grant foison de menestereux et vont devant l'ydole a grant feste 
+<lb n="371"/>menant. Et cil qui se doit occirre a un coutel bien trenchant en sa main et coppe une piece de sa 
+<lb n="372"/>char et la giete en la face de l'ydole en disant ses oroisons, et le recommandent a ce dieu. Et puis 
+<lb n="373"/>se fiert et plaie tant <hi rend="italic">[fol. 54]</hi>par deça et par dela qu'il chiet mort. Et a dont les amis presentent le 
+<lb n="374"/>corps a l'ydole et dient en chantant : « Regardés, Dieu, que vostre loial amy et sergent a fait pour 
+<lb n="375"/><persPronouns value="P5 tonic">vous</persPronouns>. Il a relinqué femme et enfans, richesces et tous les biens de ce monde pour <persPronouns value="P5 tonic">vous</persPronouns> et sa 
+<lb n="376"/>propre vie pour <persPronouns value="P5 tonic">vous</persPronouns> et pour l'amour de <persPronouns value="P5 tonic">vous</persPronouns>, et <persPronouns value="P5 object">vous</persPronouns> a fait sacrefice de sa char et de son sanc. 
+<lb n="377"/>Si le vueilliez poser delez <persPronouns value="P5">vous</persPronouns> entre vos plus amis en la gloire de paradis, car il l'a bien 
+<lb n="378"/>deservy. » Et puis il font un grant feu ardant et ardent le corps et prennent des cendres et les 
+<lb n="379"/>gardent en lieu de reliques et dient que c'est moult sainte chose et qu'il n'ont garde de nul peril 
+<lb n="380"/>tant qu'il aient sur eulx de celle cendre.</p> 
+<lb n="381"/><p><fw id="sectionHead"><hi rend="red">Ci parle de la terre de Femenie et aprés des <num><hi rend="small-caps">ii</hi></num> estoilles partans le firmament</hi></fw></p> 
+<lb n="382"/><p><hi rend="red"><hi rend="bold">D</hi></hi>e ce paÿs va on par Mer Occeane par maintes diverses ylles et par maint paÿs qui moult 
+<lb n="383"/>seroient lons a deviser.</p> 
+<lb n="384"/><p>Et a <num><hi rend="small-caps">lii</hi></num> journees loing de celle terre dont <persPronouns value="P1">j'</persPronouns>ay parlé, y a une autre terre qui est moult 
+<lb n="385"/>grande qui a anom <placeName type="region">Lamory</placeName>. En celle terre il fait moult chaut, et si est la coustume telle que les 
+<lb n="386"/>hommes et les femmes y vont tous nus et se moquent quant ilz voient aucun estrange qui est vestus. 
+<lb n="387"/>Et dient que dieu qui fist <persName>Adam</persName> fust nus et <persName>Adam</persName> et <persName>Eve</persName> furent tous nus fais, et que l'omme 
+<lb n="388"/>ne doit point avoir honte de luy monstrer tel que dieux la fait, car riens n'est lait qui soit de nature 
+<lb n="389"/>fourmé et fait.</p>  
+<lb n="390"/><p>Et dient que ceulz qui sont vestus sont gens d'un autre siecle ou ilz sont gens qui ne croient 
+<lb n="391"/>point en Dieu. Et dient que ilz croient bien en Dieu qui crea le monde et fist <persName>Adam</persName> et <persName>Eve</persName> et 
+<lb n="392"/>toutes choses qui sont en ciel et en terre. Et si n'ont nulles femmes espousees ains sont toutes 
+<lb n="393"/>les femmes du paÿs communes et ne refusent nulluy. Et dient qu'elles pecheroient se elles 
+<lb n="394"/>refusoient nul homme, et que dieu le comanda ainsi a <persName>Adam</persName> et a ceuls qui de lui descendroient la 
+<lb n="395"/>ou il dist <hi rend="italic"><foreign xml:lang="la">Crescite et multiplicamini et replete terram</foreign></hi>.</p>  
+<lb n="396"/><p>En ce paÿs, nul ne peut dire : « C'est ma femme » ; ne nulle femme ne peut dire : « Cil est 
+<lb n="397"/>mon baron. »</p> 
+<lb n="398"/><p>Et quant elles enfantent, elles le donnent a qui qu'elles veulent qui ait eu compaignie a 
+<lb n="399"/>elles. Et aussi est la terre toute commune, car l'un la tient une annee et l'autre une autre. Et prent 
+<lb n="400"/>chascun <hi rend="italic"> [fol. 55r]</hi> de toutes choses de quel part que il veult. Et sont tous les biens du paÿs 
+<lb n="401"/>communs, blés, vitailles et toutes autres choses, car riens n'y est enclos ne enserré, ainçois prent 
+<lb n="402"/>chascun ce qu'il lui plaist senz contredit, et ainsi est aussi riches l'un comme l'autre. Mais il ont une 
+<lb n="403"/>mauvaise coustume, car ilz manguent plus volentiers char d'omme que de nulle autre char. Et 
+<lb n="404"/>si est le paÿs moult habundant de tous biens si comme de blés, de char, de poisson, d'or et 
+<lb n="405"/>d'argent et de toutes autres choses.</p>  
+<lb n="406"/><p>La vont des marchans et mainent des enfans pour vendre a ceuls du paÿs, et ilz les achatent, 
+<lb n="407"/>et se ilz sont gras, il les manguent tantost. Et se il sont maigres, ilz les font engressier, et dient 
+<lb n="408"/>que c'est la meilleur char et la plus doulce du monde.</p>  
+<lb n="409"/><p>En celle terre ne en ce paÿs ne en pluseurs autres par dela on n'y voit point d'estoille 
+<lb n="410"/>tremontaine, c'est l'estoille de mer qui ne se muet point, qui est vers bize. Mais on voit une autre 
+<lb n="411"/>qui est au contraire de celuy vers mydi que on appelle <placeName type="celestial body">Antartique</placeName>. Et tout aussi que les maronniers 
+<lb n="412"/>prennent advis yci et se gouvernent par ceste estoille vers bise, aussi font les maronniers de la par 
+<lb n="413"/>ceste estoille devers mydi, la quelle ne appartient point a <persPronouns value="P4 tonic">nous</persPronouns>.</p> 
+<lb n="414"/><p>Et ceste devers bise ne appartient point a eulz, pour quoy on puet appercevoir que la terre 
+<lb n="415"/>et la mer sont de ronde fourme, car la partie du firmament appartient a un paÿs qui ne appartient 
+<lb n="416"/>point a autre. Et ce peut on appercevoir par experience et subtille indicacion que se on trouvoit 
+<lb n="417"/>passage de nef et gens qui vousissent aler et cerchier le monde, on pourroit aler a navie tout entour 
+<lb n="418"/>le monde, et desseure et dessoubz, la quelle chose <persPronouns value="P1">je</persPronouns> preuve selon ce que <persPronouns value="P1">je</persPronouns> ay essaié, car <persPronouns value="P1">je</persPronouns> ai esté 
+<lb n="419"/>par les parties de <placeName type="region">Braibant</placeName> et par la signe de l'astrolabe, <persPronouns value="P1">je</persPronouns> treuve que la tresmontaine estoille est 
+<lb n="420"/><num><hi rend="small-caps">liii</hi></num> degrés de haut. Et en <placeName type="region">Alemaigne</placeName> vers <placeName type="city">Rome</placeName> elle a <num><hi rend="small-caps">lviii</hi></num>. Et plus avant vers les parties de 
+<lb n="421"/>septentrion elle a <num><hi rend="small-caps">lxii</hi></num> degrés de haut et aucuns minus avec, car <persPronouns value="P1">je</persPronouns> meismes l'ay mesuré a 
+<lb n="422"/>l'astrolabe.</p> 
+<lb n="423"/><p>Or devez <persPronouns value="P5">vous</persPronouns> savoir que contre celle estoille, qui est appelee <placeName type="celestial body">Antartique</placeName>, et l'autre que 
+<lb n="424"/><persPronouns value="P1">j'</persPronouns>ay par devant dite, que par ces <num><hi rend="small-caps">ii</hi></num> estoilles, qui ne sont point mouvables, tout le firmament tourne 
+<lb n="425"/>ainsi comme la roe se tourne par son moyeul, sique ces <num><hi rend="small-caps">ii</hi></num> estoilles partent le firmament <hi rend="italic">[fol. 55v]</hi> 
+<lb n="426"/>en <num><hi rend="small-caps">ii</hi></num> parties si que autant y a par dessouz comme par desseure. Aprés <persPronouns value="P1">je</persPronouns> suy alé vers les parties 
+<lb n="427"/>meridionelles, c'est vers mydi, et ay trouvé vers <placeName type="region">la haute Libie</placeName> que on voit premierement <placeName type="celestial body">l'estoille 
+<lb n="428"/>antartique</placeName>. Et tant comme <persPronouns value="P1">je</persPronouns> alay plus avant en celles parties, tant trouvai <persPronouns value="P1">je</persPronouns> celle estoille plus 
+<lb n="429"/>haute, si que plus avant en <placeName type="region">la haute Libie</placeName> vers <placeName type="region">Ethiope</placeName> elle a <num><hi rend="small-caps">xviii</hi></num> degrés de haut et aucuns 
+<lb n="430"/>minus avec, dont les <num><hi rend="small-caps">lx</hi></num> minus font un degré.</p>
+<lb n="431"/><p>Et en alant vers ce paÿs dont <persPronouns value="P1">je</persPronouns> parle et en es autres ylles et paÿs oultre <persPronouns value="P1">je</persPronouns> trouvay 
+<lb n="432"/><placeName type="celestial body">l'Antartique</placeName> de <num><hi rend="small-caps">xxxiii</hi></num> degrés de haut et <num><hi rend="small-caps">xvi</hi></num> minus.</p>  
+<lb n="433"/><p>Et se <persPronouns value="P1">je</persPronouns> eusse trouvé navie et compaignie pour aler plus avant, <persPronouns value="P1">je</persPronouns> cuide estre certain que 
+<lb n="434"/><persPronouns value="P4">nous</persPronouns> eussions veu toute la rondesse du firmament tout entour, car si comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay dit devant, 
+<lb n="435"/>la moitié du firmament est entre <num><hi rend="small-caps">ii</hi></num> estoilles, laquelle moitié <persPronouns value="P1">j'</persPronouns>ay toute veue, et des autres moitiés 
+<lb n="436"/>ay <persPronouns value="P1">je</persPronouns> veu vers bise dessouz <placeName type="celestial body">la tresmontaigne</placeName> <num><hi rend="small-caps">lxii</hi></num> degrés et <num><hi rend="small-caps">x</hi></num> minus. Et devers les parties 
+<lb n="437"/>meridionnelles <persPronouns value="P1">j'</persPronouns>ay veu dessouz <placeName type="celestial body">l'Antartique</placeName> <num><hi rend="small-caps">xxxiii</hi></num> degrés et <num><hi rend="small-caps">xvi</hi></num> minus. Et la moitié du 
+<lb n="438"/>firmament ne tient que <num><hi rend="small-caps">ix</hi> vins</num> degrés dont <persPronouns value="P1">j'</persPronouns>en ay veu <num><hi rend="small-caps">lxii</hi></num> d'une part et <num><hi rend="small-caps">xxxiii</hi></num> d'autre, ce sont 
+<lb n="439"/><num><hi rend="small-caps">iiii</hi> vins et <hi rend="small-caps">xv</hi></num> degrés et pres de la moitié d'un degré. Et ainsi ne faut il que <persPronouns value="P1">je</persPronouns> n'aye veu tout le 
+<lb n="440"/>firmament que <num><hi rend="small-caps">iiii</hi> vins</num> et <num><hi rend="small-caps">iiii</hi></num> degrés et bien la moitié d'un degré. Et ce n'est mie la quarte partie 
+<lb n="441"/>du firmament, car la quarte partie tient <num><hi rend="small-caps">iiii</hi> vins</num> et <num><hi rend="small-caps">x</hi></num> degrez, si en faut <num><hi rend="small-caps">v</hi></num> degrez et demy de la 
+<lb n="442"/>quarte partie. Ainsi ai je veu de la rondesce du firmament les <num><hi rend="small-caps">iii</hi></num> parties et plus encore <num><hi rend="small-caps">v</hi></num> degrez 
+<lb n="443"/>et pres de demy, pour quoy <persPronouns value="P1">je</persPronouns> di certainement que on pourroit environner toute la terre du monde 
+<lb n="444"/>aussi bien par dessouz comme par desseure et retourner arriere en son paÿs, qui avroit compaignie 
+<lb n="445"/>et conduit et navie et tousjours trouveroit on terres et paÿs et ylles tout aussi bien comme en 
+<lb n="446"/>ce paÿs, car <persPronouns value="P5">vous</persPronouns> savez que ceuls qui sont endroit de l'Antartique sont droitement pié contre pié 
+<lb n="447"/>de ceulz qui demeurent dessouz la tresmontaine aussi bien comme <persPronouns value="P4 tonic">nous</persPronouns>. Et ceulz qui demeurent 
+<lb n="448"/>dessouz <persPronouns value="P4">nous</persPronouns> sommes<hi rend="italic">[fol. 56]</hi> pié contre pié, car toutes les parties de mer et de terre ont leurs 
+<lb n="449"/>opposites habitables et trespassables et de ça et dela.</p> 
+<lb n="450"/><p><hi rend="blue"><hi rend="bold">E</hi></hi>t sachiés que selon ce que <persPronouns value="P1">je</persPronouns> puis apparcevoir ne comprendre, <placeName type="region">la terre de <persName>Prestre Jehan</persName></placeName>, 
+<lb n="451"/>empereur d'<placeName type="region">Inde</placeName>, est dessouz <persPronouns value="P4 tonic">nous</persPronouns>, car en alant d'<placeName type="region">Escoce</placeName> et d'<placeName type="region">Angleterre</placeName> vers <placeName type="city">Jherusalem</placeName> on 
+<lb n="452"/>monte tousjours, car nostre terre est en basse parties de la terre vers occident, et <placeName type="region">la terre <persName>Prestre 
+<lb n="453"/>Jehan</persName></placeName> est en la basse partie vers orient. Et ont la le jour quant <persPronouns value="P4">nous</persPronouns> avons la nuit, et aussi au 
+<lb n="454"/>contraire il ont la nuit quant <persPronouns value="P4">nous</persPronouns> avons le jour, car la terre et la mer sont de ronde fourme si 
+<lb n="455"/>comme <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vouz</persPronouns> ay devant dit. Et ce que on monte a un costé, on avale a l'autre.</p> 
+<lb n="456"/><p>Or avez <persPronouns value="P5">vous</persPronouns> oÿ dire par devant que <placeName type="city">Jherusalem</placeName> est en milieu du monde, et ce y pert par 
+<lb n="457"/>une lance fichiee en terre sur l'eure de midy qui ne fait point d'ombre en nul costé. Et que ce soit en 
+<lb n="458"/>mylieu de la terre <persName>David</persName> le tesmoigne la ou il dist : « <hi rend="italic"><foreign xml:lang="la">Et operatus est salutem in medio 
+<lb n="459"/>terre</foreign></hi> ». Donques ceulz qui partent de ces parties pour aler vers <placeName type="city">Jherusalem</placeName>, autant de journees 
+<lb n="460"/>que il mectent de monter jusques ala, en autant de journees peut il aler de <placeName type="city">Jherusalem</placeName> jusques 
+<lb n="461"/>en autres confines de la superfice de la terre dela. Et quant on va oultre celle journees vers 
+<lb n="462"/><placeName type="region">Ynde</placeName> et les ylles foraines en oultre, ce est en avironnant l'adrece de la terre et de la mer par 
+<lb n="463"/>dessouz nostre paÿs par deça. Et pour ce m'est il souvent souvenu d'une chose que <persPronouns value="P1">j'</persPronouns>ay oÿ conter 
+<lb n="464"/>quant <persPronouns value="P1">je</persPronouns> estoie petit, comme un vaillant homme de notre paÿs se parti jadis pour aler cerchier 
+<lb n="465"/>le monde. Si passa <placeName type="region">Ynde</placeName> et les ylles, ou il en a plus de <num><hi rend="small-caps">v</hi> mile</num>, et tant environna le monde par 
+<lb n="466"/>maintes saisons qu'il trouva une ylle ou il oÿ parler son langaige et chacier les buefz en disant 
+<lb n="467"/>telle parolles comme en faisoit en son paÿs, dont il se merveilla moult, car il ne savoit comment 
+<lb n="468"/>ce pouoit estre. Mais <persPronouns value="P1">je</persPronouns> dy qu'il avoit tant erré par terre et par mer qu'il avoit avironné toute la 
+<lb n="460"/>terre et qu'il estoit revenus en avironnant jusques a son paÿs, et qu'il ne fausist que avoir passé 
+<lb n="470"/>avant qu'il se fust trouvé en son droit paÿs et a sa cognoissance. Mais il retourna arriere par 
+<lb n="471"/>illeuc <hi rend="italic">[fol. 56v]</hi> dont il estoit venuz, si perdy assez de ses painnes si comme il meismes le disoit 
+<lb n="472"/><num><hi rend="small-caps">i</hi></num> grant temps aprés, car il avint qu'il aloit une foiz vers <placeName type="region">Norwaide</placeName> et il li prist tempeste en 
+<lb n="473"/>mer et fut porté en une ylle ou il se recognut que c'estoit l'ylle ou il avoit oÿ parler son langaige 
+<lb n="474"/>a mener les buefs a la charrue. Et ce fut bien chose possible comment que il semble aus simples 
+<lb n="475"/>gens que on ne pourroit aler dessouz la terre et que on devroit cheoir vers le ciel quant on seroit 
+<lb n="476"/>dessouz la terre. Mais ce ne pourroit estre neent plus que <persPronouns value="P4">nous</persPronouns> pourrions cheoir vers le ciel de la 
+<lb n="477"/>terre ou <persPronouns value="P4">nous</persPronouns> sommes, car aussi qu'il <persPronouns value="P4 object">nous</persPronouns> semble qu'il sont dessouz <persPronouns value="P4 tonic">nous</persPronouns>, aussi leur semble il 
+<lb n="478"/>que <persPronouns value="P4">nous</persPronouns> sommes dessouz euls. Et se on pouoit cheoir de la terre jusques au ciel, par plus 
+<lb n="479"/>grande raison la terre et la mer qui sont si grandes et si pesans devroient cheoir jusques au 
+<lb n="480"/>firmament. Mais ce ne pourroit estre, car ce ne seroit mie cheoir, mais monter. Et pour ce dist 
+<lb n="481"/><persName>nostre Seigneur</persName> : « <hi rend="italic"><foreign xml:lang="la">Ne timeas me cui respondi terram in nichilo</foreign></hi>. »</p> 
+<lb n="482"/><p>Et combien que ce soit chose possible que on pourroit avironner ainsi tout le monde, 
+<lb n="483"/>neentmoins de mil fois l'une n'adreceroit droite voie de retourner vers son paÿs, car par la 
+<lb n="484"/>grandeur de la terre et de lamer, on pourroit aler mil et mil autres voies que nulz n'en 
+<lb n="485"/>adreceroient parfaitement vers les parties dont on mouvroit, pour quoy combien que ce soit 
+<lb n="486"/>possible chose de la terre environner ainsi que <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> dy, neeantmoins nul ne pourroit adrecier a 
+<lb n="487"/>droite voie se ce n'estoit d'aventure ou de droite grace de dieu, car la terre est si grande que elle 
+<lb n="488"/>tient de rondeur entour et environ, par dessure et par dessoubz senz mer, <num><hi rend="small-caps">xx</hi> mile <hi rend="small-caps">cccc</hi> et <hi rend="small-caps">xxv</hi></num> 
+<lb n="489"/>milles selon l'oppinion des anciens sages, le dit des quelx <persPronouns value="P1">je</persPronouns> ne repreuve mie, mais selon la 
+<lb n="490"/>petitece de mon sens, il <persPronouns value="P1 object">me</persPronouns> semble, sauve leur grace, qu'il y a plus.</p>  
+<lb n="491"/><p>Et pour mieulx entendre ce que <persPronouns value="P1">je</persPronouns> vueil dire soit ymaginee une figure ou il y ait un grant 
+<lb n="492"/>compas, et entour le point de ce compas, qui est appellé centre, soit fait un autre compas, et puis 
+<lb n="493"/>soit le grand compas devisé par lignes en toutes parties et que toutes les lignes se assemblent au 
+<lb n="494"/>centre et poués savoir en quantes parties sera departi le grant compas, en autant de parties sera 
+<lb n="495"/>departi le petit compas qui est entour <hi rend="italic">[fol. 57r]</hi> le centre combien que les espasses soient 
+<lb n="496"/>mendres. Or soit le grant compas representé pour le firmament, et le petit compas qui est entour 
+<lb n="497"/>le centre represente la terre.</p>
+<lb n="498"/><p>Et se scevent touz astronomiens que le firmament est devisé en <num><hi rend="small-caps">xii</hi></num> parties. Ce sont les 
+<lb n="499"/><num><hi rend="small-caps">xii</hi></num> signes. Et chascun signe est devisé en <num><hi rend="small-caps">xxx</hi></num> degrés. Ce sont <num><hi rend="small-caps">ccc</hi></num> et <num><hi rend="small-caps">lx</hi></num> degrés, es quelx le 
+<lb n="500"/>firmament est devisé. Or soit la terre ainsi devisee en autant de parties, et chascune partie 
+<lb n="501"/>respondra a un degré du firmament. Et selon tous aucteurs d'astronomie, les <num><hi rend="small-caps">vii</hi> cens</num> stades 
+<lb n="502"/>respondent a un degré du firmament, ce sont <num><hi rend="small-caps">iiii<hi rend="sup">xx</hi> vii</hi></num> milles et demie. Or soit ce monteplié par 
+<lb n="503"/><num><hi rend="small-caps">ccc</hi> et <hi rend="small-caps">lx</hi></num> fois, ce seroit <num><hi rend="small-caps">xxxi</hi> mil mill et <hi rend="small-caps">vc milles</hi></num>, chascun tenant <num><hi rend="small-caps">v</hi></num> stades tant a la terre de 
+<lb n="504"/>rondece et de tour environ selon ce que <persPronouns value="P1">je</persPronouns> puis concevoir par dit des astronomiens sicomme <persPronouns value="P1">j'</persPronouns>ay 
+<lb n="505"/>dit pardevant.</p> 
+<lb n="506"/><p>Et ne desplaise aus lisans ce que <persPronouns value="P1">j'</persPronouns>ay dit, que une partie de <placeName type="region">Inde</placeName> est dessouz nostre paÿs, 
+<lb n="507"/>et que aussi nostre paÿs est dessouz euls a l'opposite ainsi que le droit orient est opposite au droit 
+<lb n="508"/>occident. Et ainsi que est la partie de bise a la partie de midy, des quelles parties <persPronouns value="P1">je</persPronouns> <persPronouns value="P5 object">vous</persPronouns> ay ci 
+<lb n="509"/>devant parlé, et verité est, car <persPronouns value="P1">je</persPronouns> l'ay mesuré a l'astrolabe que ceuls qui demeurent en la partie de 
+<lb n="510"/>bise sont pié contre pié aus autres de l'autre partie contre midy. Et aussi sommes <persPronouns value="P4">nous</persPronouns> a une partie 
+<lb n="511"/>des ylles d'<placeName type="region">Ynde</placeName>.</p>  
+<lb n="512"/><p>Et s'il avoit signe ou estoilles estables vers orient et vers occident par les quelles ont peust 
+<lb n="513"/>les parties mesurer si comme on fait les parties de bise et de midy par les deux estoilles non 
+<lb n="514"/>mouvables, on trouveroit de certain les ylles et <placeName type="region">la terre <persName>Prestre Jehan</persName></placeName> bien loing hors des climas 
+<lb n="515"/>et en avironnant la terre dessouz <persPronouns value="P4 tonic">nous</persPronouns> plus assez que l'autre partie de bise et de midy ne soient 
+<lb n="516"/>dont <persPronouns value="P1">j'</persPronouns>ay fait mencion cy devant. Et si sçay bien que <persPronouns value="P1">j'</persPronouns>ay mise mainte journee pour aler vers les 
+<lb n="517"/>parties de <placeName type="region">Ynde</placeName>, plus que <persPronouns value="P1">je</persPronouns> ne feys a aler la droite voie de bise vers le droit mydi. Et puis que la 
+<lb n="518"/>terre est ronde, autant y a de bise a midy comme de droit orient au droit occident, pour quoy <persPronouns value="P1">je</persPronouns> 
+<lb n="519"/>dy que on passe celle mesure et dessouz <persPronouns value="P4 tonic">nous</persPronouns> en vironnant la terre.</p>
+</body>
+</text>
+</TEI>
